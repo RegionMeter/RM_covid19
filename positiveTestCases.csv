@@ -1,7 +1,16 @@
 dateId,areaCode,country,areaName,positiveTestCases
+20210523,4102,ch,bern,65154
+20210523,4125,ch,geneve,58024
 20210522,4102,ch,bern,65062
 20210522,4105,ch,schwyz,11738
-20210522,4125,ch,geneve,57977
+20210522,4107,ch,nidwalden,2632
+20210522,4112,ch,basel_stadt,12697
+20210522,4113,ch,basel_landschaft,17763
+20210522,4118,ch,graubunden,13298
+20210522,4121,ch,ticino,32947
+20210522,4125,ch,geneve,58023
+20210522,4126,ch,jura_ch,6831
+20210522,423,li,liechtenstein,2998
 20210521,39,it,italy,291788
 20210521,3911,it,piemonte,8556
 20210521,391101,it,torino_provincia,192019
@@ -146,8 +155,9 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210521,4120,ch,thurgau,18485
 20210521,4121,ch,ticino,32930
 20210521,4123,ch,valais,37507
-20210521,4125,ch,geneve,57976
-20210521,423,li,liechtenstein,2997
+20210521,4125,ch,geneve,57980
+20210521,4126,ch,jura_ch,6821
+20210521,423,li,liechtenstein,2998
 20210521,43,at,austria,636861
 20210521,4301,at,wien,136314
 20210521,4302,at,niederosterreich,106410
@@ -319,7 +329,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210520,4122,ch,vaud,82659
 20210520,4123,ch,valais,37504
 20210520,4124,ch,neuchatel,17047
-20210520,4125,ch,geneve,57928
+20210520,4125,ch,geneve,57931
 20210520,4126,ch,jura_ch,6801
 20210520,423,li,liechtenstein,2997
 20210520,43,at,austria,636214
@@ -494,7 +504,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210519,4122,ch,vaud,82557
 20210519,4123,ch,valais,37468
 20210519,4124,ch,neuchatel,17024
-20210519,4125,ch,geneve,57858
+20210519,4125,ch,geneve,57861
 20210519,4126,ch,jura_ch,6779
 20210519,423,li,liechtenstein,2994
 20210519,43,at,austria,635529
@@ -669,7 +679,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210518,4122,ch,vaud,82429
 20210518,4123,ch,valais,37423
 20210518,4124,ch,neuchatel,16995
-20210518,4125,ch,geneve,57790
+20210518,4125,ch,geneve,57793
 20210518,4126,ch,jura_ch,6742
 20210518,423,li,liechtenstein,2993
 20210518,43,at,austria,634897
@@ -843,7 +853,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210517,4122,ch,vaud,82295
 20210517,4123,ch,valais,37378
 20210517,4124,ch,neuchatel,16949
-20210517,4125,ch,geneve,57685
+20210517,4125,ch,geneve,57688
 20210517,4126,ch,jura_ch,6717
 20210517,423,li,liechtenstein,2992
 20210517,43,at,austria,634044
@@ -1012,7 +1022,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210516,4122,ch,vaud,82138
 20210516,4123,ch,valais,37321
 20210516,4124,ch,neuchatel,16913
-20210516,4125,ch,geneve,57576
+20210516,4125,ch,geneve,57579
 20210516,4126,ch,jura_ch,6694
 20210516,423,li,liechtenstein,2990
 20210516,43,at,austria,633389
@@ -1181,7 +1191,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210515,4122,ch,vaud,82065
 20210515,4123,ch,valais,37287
 20210515,4124,ch,neuchatel,16909
-20210515,4125,ch,geneve,57521
+20210515,4125,ch,geneve,57524
 20210515,4126,ch,jura_ch,6681
 20210515,423,li,liechtenstein,2985
 20210515,43,at,austria,632862
@@ -1354,7 +1364,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210514,4122,ch,vaud,81981
 20210514,4123,ch,valais,37259
 20210514,4124,ch,neuchatel,16875
-20210514,4125,ch,geneve,57435
+20210514,4125,ch,geneve,57438
 20210514,4126,ch,jura_ch,6653
 20210514,423,li,liechtenstein,2984
 20210514,43,at,austria,632175
@@ -1523,7 +1533,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210513,4122,ch,vaud,81867
 20210513,4123,ch,valais,37222
 20210513,4124,ch,neuchatel,16836
-20210513,4125,ch,geneve,57347
+20210513,4125,ch,geneve,57350
 20210513,4126,ch,jura_ch,6629
 20210513,423,li,liechtenstein,2981
 20210513,43,at,austria,631533
@@ -1698,7 +1708,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210512,4122,ch,vaud,81803
 20210512,4123,ch,valais,37201
 20210512,4124,ch,neuchatel,16800
-20210512,4125,ch,geneve,57269
+20210512,4125,ch,geneve,57272
 20210512,4126,ch,jura_ch,6615
 20210512,423,li,liechtenstein,2980
 20210512,43,at,austria,630683
@@ -1873,7 +1883,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210511,4122,ch,vaud,81656
 20210511,4123,ch,valais,37152
 20210511,4124,ch,neuchatel,16770
-20210511,4125,ch,geneve,57178
+20210511,4125,ch,geneve,57181
 20210511,4126,ch,jura_ch,6596
 20210511,423,li,liechtenstein,2978
 20210511,43,at,austria,629676
@@ -2048,7 +2058,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210510,4122,ch,vaud,81540
 20210510,4123,ch,valais,37090
 20210510,4124,ch,neuchatel,16719
-20210510,4125,ch,geneve,57034
+20210510,4125,ch,geneve,57037
 20210510,4126,ch,jura_ch,6575
 20210510,423,li,liechtenstein,2975
 20210510,43,at,austria,628512
@@ -2217,7 +2227,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210509,4122,ch,vaud,81373
 20210509,4123,ch,valais,37007
 20210509,4124,ch,neuchatel,16653
-20210509,4125,ch,geneve,56906
+20210509,4125,ch,geneve,56909
 20210509,4126,ch,jura_ch,6557
 20210509,423,li,liechtenstein,2974
 20210509,43,at,austria,627577
@@ -2386,7 +2396,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210508,4122,ch,vaud,81283
 20210508,4123,ch,valais,36971
 20210508,4124,ch,neuchatel,16636
-20210508,4125,ch,geneve,56834
+20210508,4125,ch,geneve,56837
 20210508,4126,ch,jura_ch,6553
 20210508,423,li,liechtenstein,2970
 20210508,43,at,austria,626837
@@ -2561,7 +2571,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210507,4122,ch,vaud,81154
 20210507,4123,ch,valais,36934
 20210507,4124,ch,neuchatel,16606
-20210507,4125,ch,geneve,56749
+20210507,4125,ch,geneve,56752
 20210507,4126,ch,jura_ch,6522
 20210507,423,li,liechtenstein,2967
 20210507,43,at,austria,625769
@@ -2736,7 +2746,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210506,4122,ch,vaud,80996
 20210506,4123,ch,valais,36858
 20210506,4124,ch,neuchatel,16564
-20210506,4125,ch,geneve,56584
+20210506,4125,ch,geneve,56587
 20210506,4126,ch,jura_ch,6507
 20210506,423,li,liechtenstein,2963
 20210506,43,at,austria,624600
@@ -2911,7 +2921,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210505,4122,ch,vaud,80820
 20210505,4123,ch,valais,36798
 20210505,4124,ch,neuchatel,16514
-20210505,4125,ch,geneve,56433
+20210505,4125,ch,geneve,56436
 20210505,4126,ch,jura_ch,6492
 20210505,423,li,liechtenstein,2961
 20210505,43,at,austria,623206
@@ -3086,7 +3096,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210504,4122,ch,vaud,80642
 20210504,4123,ch,valais,36737
 20210504,4124,ch,neuchatel,16485
-20210504,4125,ch,geneve,56299
+20210504,4125,ch,geneve,56302
 20210504,4126,ch,jura_ch,6474
 20210504,423,li,liechtenstein,2956
 20210504,43,at,austria,621808
@@ -3261,7 +3271,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210503,4122,ch,vaud,80473
 20210503,4123,ch,valais,36651
 20210503,4124,ch,neuchatel,16437
-20210503,4125,ch,geneve,56136
+20210503,4125,ch,geneve,56139
 20210503,4126,ch,jura_ch,6460
 20210503,423,li,liechtenstein,2948
 20210503,43,at,austria,620073
@@ -3430,7 +3440,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210502,4122,ch,vaud,80283
 20210502,4123,ch,valais,36541
 20210502,4124,ch,neuchatel,16384
-20210502,4125,ch,geneve,56014
+20210502,4125,ch,geneve,56017
 20210502,4126,ch,jura_ch,6448
 20210502,423,li,liechtenstein,2946
 20210502,43,at,austria,618625
@@ -3599,7 +3609,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210501,4122,ch,vaud,80187
 20210501,4123,ch,valais,36512
 20210501,4124,ch,neuchatel,16375
-20210501,4125,ch,geneve,55925
+20210501,4125,ch,geneve,55928
 20210501,4126,ch,jura_ch,6437
 20210501,423,li,liechtenstein,2940
 20210501,43,at,austria,617512
@@ -3774,7 +3784,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210430,4122,ch,vaud,80056
 20210430,4123,ch,valais,36470
 20210430,4124,ch,neuchatel,16327
-20210430,4125,ch,geneve,55826
+20210430,4125,ch,geneve,55829
 20210430,4126,ch,jura_ch,6426
 20210430,423,li,liechtenstein,2936
 20210430,43,at,austria,615969
@@ -3949,7 +3959,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210429,4122,ch,vaud,79874
 20210429,4123,ch,valais,36384
 20210429,4124,ch,neuchatel,16295
-20210429,4125,ch,geneve,55672
+20210429,4125,ch,geneve,55675
 20210429,4126,ch,jura_ch,6409
 20210429,423,li,liechtenstein,2926
 20210429,43,at,austria,614299
@@ -4124,7 +4134,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210428,4122,ch,vaud,79690
 20210428,4123,ch,valais,36297
 20210428,4124,ch,neuchatel,16238
-20210428,4125,ch,geneve,55524
+20210428,4125,ch,geneve,55527
 20210428,4126,ch,jura_ch,6391
 20210428,423,li,liechtenstein,2921
 20210428,43,at,austria,612166
@@ -4299,7 +4309,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210427,4122,ch,vaud,79506
 20210427,4123,ch,valais,36205
 20210427,4124,ch,neuchatel,16206
-20210427,4125,ch,geneve,55348
+20210427,4125,ch,geneve,55351
 20210427,4126,ch,jura_ch,6364
 20210427,423,li,liechtenstein,2908
 20210427,43,at,austria,610007
@@ -4473,7 +4483,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210426,4122,ch,vaud,79311
 20210426,4123,ch,valais,36106
 20210426,4124,ch,neuchatel,16141
-20210426,4125,ch,geneve,55186
+20210426,4125,ch,geneve,55189
 20210426,4126,ch,jura_ch,6347
 20210426,423,li,liechtenstein,2903
 20210426,43,at,austria,607719
@@ -4642,7 +4652,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210425,4122,ch,vaud,79055
 20210425,4123,ch,valais,36004
 20210425,4124,ch,neuchatel,16079
-20210425,4125,ch,geneve,55015
+20210425,4125,ch,geneve,55018
 20210425,4126,ch,jura_ch,6335
 20210425,423,li,liechtenstein,2885
 20210425,43,at,austria,605800
@@ -4811,7 +4821,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210424,4122,ch,vaud,78922
 20210424,4123,ch,valais,35952
 20210424,4124,ch,neuchatel,16068
-20210424,4125,ch,geneve,54952
+20210424,4125,ch,geneve,54955
 20210424,4126,ch,jura_ch,6331
 20210424,423,li,liechtenstein,2884
 20210424,43,at,austria,604206
@@ -4986,7 +4996,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210423,4122,ch,vaud,78747
 20210423,4123,ch,valais,35890
 20210423,4124,ch,neuchatel,16024
-20210423,4125,ch,geneve,54820
+20210423,4125,ch,geneve,54823
 20210423,4126,ch,jura_ch,6301
 20210423,423,li,liechtenstein,2866
 20210423,43,at,austria,602299
@@ -5161,7 +5171,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210422,4122,ch,vaud,78517
 20210422,4123,ch,valais,35783
 20210422,4124,ch,neuchatel,15964
-20210422,4125,ch,geneve,54626
+20210422,4125,ch,geneve,54629
 20210422,4126,ch,jura_ch,6281
 20210422,423,li,liechtenstein,2855
 20210422,43,at,austria,600313
@@ -5336,7 +5346,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210421,4122,ch,vaud,78310
 20210421,4123,ch,valais,35673
 20210421,4124,ch,neuchatel,15935
-20210421,4125,ch,geneve,54497
+20210421,4125,ch,geneve,54500
 20210421,4126,ch,jura_ch,6264
 20210421,423,li,liechtenstein,2851
 20210421,43,at,austria,597823
@@ -5511,7 +5521,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210420,4122,ch,vaud,78060
 20210420,4123,ch,valais,35570
 20210420,4124,ch,neuchatel,15879
-20210420,4125,ch,geneve,54330
+20210420,4125,ch,geneve,54333
 20210420,4126,ch,jura_ch,6246
 20210420,423,li,liechtenstein,2849
 20210420,43,at,austria,595194
@@ -5686,7 +5696,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210419,4122,ch,vaud,77819
 20210419,4123,ch,valais,35457
 20210419,4124,ch,neuchatel,15815
-20210419,4125,ch,geneve,54135
+20210419,4125,ch,geneve,54138
 20210419,4126,ch,jura_ch,6222
 20210419,423,li,liechtenstein,2836
 20210419,43,at,austria,592653
@@ -5855,7 +5865,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210418,4122,ch,vaud,77525
 20210418,4123,ch,valais,35316
 20210418,4124,ch,neuchatel,15766
-20210418,4125,ch,geneve,53973
+20210418,4125,ch,geneve,53976
 20210418,4126,ch,jura_ch,6207
 20210418,423,li,liechtenstein,2823
 20210418,43,at,austria,590542
@@ -6024,7 +6034,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210417,4122,ch,vaud,77386
 20210417,4123,ch,valais,35279
 20210417,4124,ch,neuchatel,15753
-20210417,4125,ch,geneve,53874
+20210417,4125,ch,geneve,53877
 20210417,4126,ch,jura_ch,6202
 20210417,423,li,liechtenstein,2813
 20210417,43,at,austria,588524
@@ -6199,7 +6209,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210416,4122,ch,vaud,77239
 20210416,4123,ch,valais,35209
 20210416,4124,ch,neuchatel,15698
-20210416,4125,ch,geneve,53765
+20210416,4125,ch,geneve,53768
 20210416,4126,ch,jura_ch,6188
 20210416,423,li,liechtenstein,2804
 20210416,43,at,austria,586466
@@ -6374,7 +6384,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210415,4122,ch,vaud,77026
 20210415,4123,ch,valais,35087
 20210415,4124,ch,neuchatel,15666
-20210415,4125,ch,geneve,53598
+20210415,4125,ch,geneve,53601
 20210415,4126,ch,jura_ch,6169
 20210415,423,li,liechtenstein,2790
 20210415,43,at,austria,584090
@@ -6549,7 +6559,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210414,4122,ch,vaud,76814
 20210414,4123,ch,valais,34959
 20210414,4124,ch,neuchatel,15609
-20210414,4125,ch,geneve,53434
+20210414,4125,ch,geneve,53437
 20210414,4126,ch,jura_ch,6159
 20210414,423,li,liechtenstein,2780
 20210414,43,at,austria,581716
@@ -6724,7 +6734,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210413,4122,ch,vaud,76565
 20210413,4123,ch,valais,34815
 20210413,4124,ch,neuchatel,15558
-20210413,4125,ch,geneve,53255
+20210413,4125,ch,geneve,53258
 20210413,4126,ch,jura_ch,6135
 20210413,423,li,liechtenstein,2770
 20210413,43,at,austria,578977
@@ -6898,7 +6908,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210412,4122,ch,vaud,76316
 20210412,4123,ch,valais,34708
 20210412,4124,ch,neuchatel,15501
-20210412,4125,ch,geneve,53032
+20210412,4125,ch,geneve,53035
 20210412,4126,ch,jura_ch,6125
 20210412,423,li,liechtenstein,2768
 20210412,43,at,austria,575786
@@ -7067,7 +7077,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210411,4122,ch,vaud,76010
 20210411,4123,ch,valais,34548
 20210411,4124,ch,neuchatel,15457
-20210411,4125,ch,geneve,52832
+20210411,4125,ch,geneve,52835
 20210411,4126,ch,jura_ch,6108
 20210411,423,li,liechtenstein,2754
 20210411,43,at,austria,573542
@@ -7236,7 +7246,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210410,4122,ch,vaud,75884
 20210410,4123,ch,valais,34505
 20210410,4124,ch,neuchatel,15445
-20210410,4125,ch,geneve,52714
+20210410,4125,ch,geneve,52717
 20210410,4126,ch,jura_ch,6101
 20210410,423,li,liechtenstein,2753
 20210410,43,at,austria,571482
@@ -7411,7 +7421,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210409,4122,ch,vaud,75679
 20210409,4123,ch,valais,34423
 20210409,4124,ch,neuchatel,15391
-20210409,4125,ch,geneve,52558
+20210409,4125,ch,geneve,52561
 20210409,4126,ch,jura_ch,6086
 20210409,423,li,liechtenstein,2738
 20210409,43,at,austria,569510
@@ -7585,7 +7595,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210408,4122,ch,vaud,75409
 20210408,4123,ch,valais,34294
 20210408,4124,ch,neuchatel,15355
-20210408,4125,ch,geneve,52411
+20210408,4125,ch,geneve,52414
 20210408,4126,ch,jura_ch,6069
 20210408,423,li,liechtenstein,2722
 20210408,43,at,austria,566051
@@ -7760,7 +7770,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210407,4122,ch,vaud,75128
 20210407,4123,ch,valais,34179
 20210407,4124,ch,neuchatel,15297
-20210407,4125,ch,geneve,52210
+20210407,4125,ch,geneve,52213
 20210407,4126,ch,jura_ch,6050
 20210407,423,li,liechtenstein,2714
 20210407,43,at,austria,563530
@@ -7935,7 +7945,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210406,4122,ch,vaud,74870
 20210406,4123,ch,valais,34029
 20210406,4124,ch,neuchatel,15249
-20210406,4125,ch,geneve,52022
+20210406,4125,ch,geneve,52025
 20210406,4126,ch,jura_ch,6030
 20210406,423,li,liechtenstein,2702
 20210406,43,at,austria,560659
@@ -8105,7 +8115,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210405,4122,ch,vaud,74580
 20210405,4123,ch,valais,33924
 20210405,4124,ch,neuchatel,15206
-20210405,4125,ch,geneve,51853
+20210405,4125,ch,geneve,51856
 20210405,4126,ch,jura_ch,6022
 20210405,423,li,liechtenstein,2697
 20210405,43,at,austria,557804
@@ -8274,7 +8284,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210404,4122,ch,vaud,74438
 20210404,4123,ch,valais,33867
 20210404,4124,ch,neuchatel,15189
-20210404,4125,ch,geneve,51756
+20210404,4125,ch,geneve,51759
 20210404,4126,ch,jura_ch,6009
 20210404,423,li,liechtenstein,2697
 20210404,43,at,austria,555794
@@ -8443,7 +8453,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210403,4122,ch,vaud,74305
 20210403,4123,ch,valais,33822
 20210403,4124,ch,neuchatel,15179
-20210403,4125,ch,geneve,51640
+20210403,4125,ch,geneve,51643
 20210403,4126,ch,jura_ch,6002
 20210403,423,li,liechtenstein,2685
 20210403,43,at,austria,553461
@@ -8612,7 +8622,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210402,4122,ch,vaud,74132
 20210402,4123,ch,valais,33781
 20210402,4124,ch,neuchatel,15149
-20210402,4125,ch,geneve,51540
+20210402,4125,ch,geneve,51543
 20210402,4126,ch,jura_ch,5985
 20210402,423,li,liechtenstein,2679
 20210402,43,at,austria,550644
@@ -8787,7 +8797,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210401,4122,ch,vaud,73998
 20210401,4123,ch,valais,33693
 20210401,4124,ch,neuchatel,15126
-20210401,4125,ch,geneve,51432
+20210401,4125,ch,geneve,51435
 20210401,4126,ch,jura_ch,5976
 20210401,423,li,liechtenstein,2678
 20210401,43,at,austria,547330
@@ -8962,7 +8972,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210331,4122,ch,vaud,73759
 20210331,4123,ch,valais,33610
 20210331,4124,ch,neuchatel,15094
-20210331,4125,ch,geneve,51270
+20210331,4125,ch,geneve,51273
 20210331,4126,ch,jura_ch,5961
 20210331,423,li,liechtenstein,2675
 20210331,43,at,austria,544232
@@ -9137,7 +9147,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210330,4122,ch,vaud,73515
 20210330,4123,ch,valais,33527
 20210330,4124,ch,neuchatel,15059
-20210330,4125,ch,geneve,51115
+20210330,4125,ch,geneve,51118
 20210330,4126,ch,jura_ch,5948
 20210330,423,li,liechtenstein,2670
 20210330,43,at,austria,540826
@@ -9312,7 +9322,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210329,4122,ch,vaud,73267
 20210329,4123,ch,valais,33435
 20210329,4124,ch,neuchatel,15012
-20210329,4125,ch,geneve,50958
+20210329,4125,ch,geneve,50961
 20210329,4126,ch,jura_ch,5931
 20210329,423,li,liechtenstein,2664
 20210329,43,at,austria,537683
@@ -9481,7 +9491,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210328,4122,ch,vaud,72991
 20210328,4123,ch,valais,33302
 20210328,4124,ch,neuchatel,14982
-20210328,4125,ch,geneve,50773
+20210328,4125,ch,geneve,50776
 20210328,4126,ch,jura_ch,5916
 20210328,423,li,liechtenstein,2664
 20210328,43,at,austria,534882
@@ -9650,7 +9660,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210327,4122,ch,vaud,72855
 20210327,4123,ch,valais,33261
 20210327,4124,ch,neuchatel,14969
-20210327,4125,ch,geneve,50695
+20210327,4125,ch,geneve,50698
 20210327,4126,ch,jura_ch,5911
 20210327,423,li,liechtenstein,2658
 20210327,43,at,austria,531646
@@ -9825,7 +9835,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210326,4122,ch,vaud,72700
 20210326,4123,ch,valais,33217
 20210326,4124,ch,neuchatel,14944
-20210326,4125,ch,geneve,50561
+20210326,4125,ch,geneve,50564
 20210326,4126,ch,jura_ch,5909
 20210326,423,li,liechtenstein,2649
 20210326,43,at,austria,528999
@@ -10000,7 +10010,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210325,4122,ch,vaud,72466
 20210325,4123,ch,valais,33124
 20210325,4124,ch,neuchatel,14916
-20210325,4125,ch,geneve,50406
+20210325,4125,ch,geneve,50409
 20210325,4126,ch,jura_ch,5884
 20210325,423,li,liechtenstein,2645
 20210325,43,at,austria,525689
@@ -10175,7 +10185,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210324,4122,ch,vaud,72211
 20210324,4123,ch,valais,33017
 20210324,4124,ch,neuchatel,14882
-20210324,4125,ch,geneve,50224
+20210324,4125,ch,geneve,50227
 20210324,4126,ch,jura_ch,5871
 20210324,423,li,liechtenstein,2642
 20210324,43,at,austria,522467
@@ -10350,7 +10360,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210323,4122,ch,vaud,71990
 20210323,4123,ch,valais,32923
 20210323,4124,ch,neuchatel,14831
-20210323,4125,ch,geneve,50074
+20210323,4125,ch,geneve,50077
 20210323,4126,ch,jura_ch,5863
 20210323,423,li,liechtenstein,2636
 20210323,43,at,austria,519016
@@ -10524,7 +10534,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210322,4122,ch,vaud,71775
 20210322,4123,ch,valais,32834
 20210322,4124,ch,neuchatel,14769
-20210322,4125,ch,geneve,49911
+20210322,4125,ch,geneve,49914
 20210322,4126,ch,jura_ch,5845
 20210322,423,li,liechtenstein,2634
 20210322,43,at,austria,515469
@@ -10693,7 +10703,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210321,4122,ch,vaud,71529
 20210321,4123,ch,valais,32720
 20210321,4124,ch,neuchatel,14732
-20210321,4125,ch,geneve,49749
+20210321,4125,ch,geneve,49752
 20210321,4126,ch,jura_ch,5838
 20210321,423,li,liechtenstein,2632
 20210321,43,at,austria,512449
@@ -10862,7 +10872,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210320,4122,ch,vaud,71423
 20210320,4123,ch,valais,32682
 20210320,4124,ch,neuchatel,14708
-20210320,4125,ch,geneve,49676
+20210320,4125,ch,geneve,49679
 20210320,4126,ch,jura_ch,5830
 20210320,423,li,liechtenstein,2628
 20210320,43,at,austria,510004
@@ -11036,7 +11046,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210319,4122,ch,vaud,71292
 20210319,4123,ch,valais,32624
 20210319,4124,ch,neuchatel,14686
-20210319,4125,ch,geneve,49554
+20210319,4125,ch,geneve,49557
 20210319,4126,ch,jura_ch,5818
 20210319,423,li,liechtenstein,2627
 20210319,43,at,austria,507309
@@ -11211,7 +11221,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210318,4122,ch,vaud,71084
 20210318,4123,ch,valais,32566
 20210318,4124,ch,neuchatel,14647
-20210318,4125,ch,geneve,49400
+20210318,4125,ch,geneve,49403
 20210318,4126,ch,jura_ch,5807
 20210318,423,li,liechtenstein,2622
 20210318,43,at,austria,503655
@@ -11385,7 +11395,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210317,4122,ch,vaud,70887
 20210317,4123,ch,valais,32492
 20210317,4124,ch,neuchatel,14609
-20210317,4125,ch,geneve,49248
+20210317,4125,ch,geneve,49251
 20210317,4126,ch,jura_ch,5796
 20210317,423,li,liechtenstein,2620
 20210317,43,at,austria,500437
@@ -11560,7 +11570,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210316,4122,ch,vaud,70656
 20210316,4123,ch,valais,32388
 20210316,4124,ch,neuchatel,14571
-20210316,4125,ch,geneve,49100
+20210316,4125,ch,geneve,49103
 20210316,4126,ch,jura_ch,5788
 20210316,423,li,liechtenstein,2616
 20210316,43,at,austria,496913
@@ -11735,7 +11745,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210315,4122,ch,vaud,70438
 20210315,4123,ch,valais,32308
 20210315,4124,ch,neuchatel,14539
-20210315,4125,ch,geneve,48962
+20210315,4125,ch,geneve,48965
 20210315,4126,ch,jura_ch,5783
 20210315,423,li,liechtenstein,2615
 20210315,43,at,austria,494031
@@ -11904,7 +11914,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210314,4122,ch,vaud,70241
 20210314,4123,ch,valais,32228
 20210314,4124,ch,neuchatel,14513
-20210314,4125,ch,geneve,48820
+20210314,4125,ch,geneve,48823
 20210314,4126,ch,jura_ch,5777
 20210314,423,li,liechtenstein,2612
 20210314,43,at,austria,491269
@@ -12073,7 +12083,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210313,4122,ch,vaud,70133
 20210313,4123,ch,valais,32206
 20210313,4124,ch,neuchatel,14506
-20210313,4125,ch,geneve,48748
+20210313,4125,ch,geneve,48751
 20210313,4126,ch,jura_ch,5772
 20210313,423,li,liechtenstein,2612
 20210313,43,at,austria,489358
@@ -12248,7 +12258,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210312,4122,ch,vaud,70021
 20210312,4123,ch,valais,32164
 20210312,4124,ch,neuchatel,14483
-20210312,4125,ch,geneve,48674
+20210312,4125,ch,geneve,48677
 20210312,4126,ch,jura_ch,5758
 20210312,423,li,liechtenstein,2602
 20210312,43,at,austria,486829
@@ -12423,7 +12433,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210311,4122,ch,vaud,69842
 20210311,4123,ch,valais,32092
 20210311,4124,ch,neuchatel,14456
-20210311,4125,ch,geneve,48530
+20210311,4125,ch,geneve,48533
 20210311,4126,ch,jura_ch,5752
 20210311,423,li,liechtenstein,2601
 20210311,43,at,austria,483789
@@ -12598,7 +12608,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210310,4122,ch,vaud,69689
 20210310,4123,ch,valais,32014
 20210310,4124,ch,neuchatel,14412
-20210310,4125,ch,geneve,48411
+20210310,4125,ch,geneve,48414
 20210310,4126,ch,jura_ch,5749
 20210310,423,li,liechtenstein,2596
 20210310,43,at,austria,480729
@@ -12773,7 +12783,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210309,4122,ch,vaud,69521
 20210309,4123,ch,valais,31958
 20210309,4124,ch,neuchatel,14371
-20210309,4125,ch,geneve,48295
+20210309,4125,ch,geneve,48298
 20210309,4126,ch,jura_ch,5740
 20210309,423,li,liechtenstein,2594
 20210309,43,at,austria,477858
@@ -12948,7 +12958,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210308,4122,ch,vaud,69344
 20210308,4123,ch,valais,31892
 20210308,4124,ch,neuchatel,14332
-20210308,4125,ch,geneve,48193
+20210308,4125,ch,geneve,48196
 20210308,4126,ch,jura_ch,5731
 20210308,423,li,liechtenstein,2594
 20210308,43,at,austria,475428
@@ -13117,7 +13127,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210307,4122,ch,vaud,69134
 20210307,4123,ch,valais,31788
 20210307,4124,ch,neuchatel,14307
-20210307,4125,ch,geneve,48074
+20210307,4125,ch,geneve,48077
 20210307,4126,ch,jura_ch,5721
 20210307,423,li,liechtenstein,2592
 20210307,43,at,austria,472897
@@ -13286,7 +13296,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210306,4122,ch,vaud,69052
 20210306,4123,ch,valais,31759
 20210306,4124,ch,neuchatel,14298
-20210306,4125,ch,geneve,48019
+20210306,4125,ch,geneve,48022
 20210306,4126,ch,jura_ch,5717
 20210306,423,li,liechtenstein,2590
 20210306,43,at,austria,470944
@@ -13461,7 +13471,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210305,4122,ch,vaud,68934
 20210305,4123,ch,valais,31730
 20210305,4124,ch,neuchatel,14273
-20210305,4125,ch,geneve,47937
+20210305,4125,ch,geneve,47940
 20210305,4126,ch,jura_ch,5704
 20210305,423,li,liechtenstein,2589
 20210305,43,at,austria,468689
@@ -13636,7 +13646,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210304,4122,ch,vaud,68751
 20210304,4123,ch,valais,31639
 20210304,4124,ch,neuchatel,14237
-20210304,4125,ch,geneve,47831
+20210304,4125,ch,geneve,47834
 20210304,4126,ch,jura_ch,5699
 20210304,423,li,liechtenstein,2588
 20210304,43,at,austria,465924
@@ -13811,7 +13821,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210303,4122,ch,vaud,68602
 20210303,4123,ch,valais,31584
 20210303,4124,ch,neuchatel,14220
-20210303,4125,ch,geneve,47762
+20210303,4125,ch,geneve,47765
 20210303,4126,ch,jura_ch,5684
 20210303,423,li,liechtenstein,2582
 20210303,43,at,austria,463564
@@ -13986,7 +13996,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210302,4122,ch,vaud,68450
 20210302,4123,ch,valais,31524
 20210302,4124,ch,neuchatel,14181
-20210302,4125,ch,geneve,47662
+20210302,4125,ch,geneve,47665
 20210302,4126,ch,jura_ch,5669
 20210302,423,li,liechtenstein,2577
 20210302,43,at,austria,461166
@@ -14161,7 +14171,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210301,4122,ch,vaud,68262
 20210301,4123,ch,valais,31456
 20210301,4124,ch,neuchatel,14154
-20210301,4125,ch,geneve,47561
+20210301,4125,ch,geneve,47564
 20210301,4126,ch,jura_ch,5648
 20210301,423,li,liechtenstein,2576
 20210301,43,at,austria,458705
@@ -14329,7 +14339,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210228,4122,ch,vaud,68063
 20210228,4123,ch,valais,31367
 20210228,4124,ch,neuchatel,14126
-20210228,4125,ch,geneve,47433
+20210228,4125,ch,geneve,47436
 20210228,4126,ch,jura_ch,5637
 20210228,423,li,liechtenstein,2575
 20210228,43,at,austria,456509
@@ -14497,7 +14507,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210227,4122,ch,vaud,67939
 20210227,4123,ch,valais,31333
 20210227,4124,ch,neuchatel,14096
-20210227,4125,ch,geneve,47385
+20210227,4125,ch,geneve,47388
 20210227,4126,ch,jura_ch,5629
 20210227,423,li,liechtenstein,2567
 20210227,43,at,austria,455105
@@ -14672,7 +14682,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210226,4122,ch,vaud,67818
 20210226,4123,ch,valais,31302
 20210226,4124,ch,neuchatel,14071
-20210226,4125,ch,geneve,47322
+20210226,4125,ch,geneve,47325
 20210226,4126,ch,jura_ch,5610
 20210226,423,li,liechtenstein,2566
 20210226,43,at,austria,452878
@@ -14847,7 +14857,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210225,4122,ch,vaud,67665
 20210225,4123,ch,valais,31235
 20210225,4124,ch,neuchatel,14038
-20210225,4125,ch,geneve,47232
+20210225,4125,ch,geneve,47235
 20210225,4126,ch,jura_ch,5599
 20210225,423,li,liechtenstein,2564
 20210225,43,at,austria,450382
@@ -15022,7 +15032,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210224,4122,ch,vaud,67509
 20210224,4123,ch,valais,31163
 20210224,4124,ch,neuchatel,14000
-20210224,4125,ch,geneve,47140
+20210224,4125,ch,geneve,47143
 20210224,4126,ch,jura_ch,5590
 20210224,423,li,liechtenstein,2558
 20210224,43,at,austria,448478
@@ -15197,7 +15207,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210223,4122,ch,vaud,67366
 20210223,4123,ch,valais,31097
 20210223,4124,ch,neuchatel,13962
-20210223,4125,ch,geneve,47040
+20210223,4125,ch,geneve,47043
 20210223,4126,ch,jura_ch,5584
 20210223,423,li,liechtenstein,2553
 20210223,43,at,austria,446029
@@ -15372,7 +15382,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210222,4122,ch,vaud,67179
 20210222,4123,ch,valais,31020
 20210222,4124,ch,neuchatel,13927
-20210222,4125,ch,geneve,46914
+20210222,4125,ch,geneve,46917
 20210222,4126,ch,jura_ch,5574
 20210222,423,li,liechtenstein,2553
 20210222,43,at,austria,444058
@@ -15541,7 +15551,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210221,4122,ch,vaud,66943
 20210221,4123,ch,valais,30930
 20210221,4124,ch,neuchatel,13876
-20210221,4125,ch,geneve,46791
+20210221,4125,ch,geneve,46794
 20210221,4126,ch,jura_ch,5566
 20210221,423,li,liechtenstein,2550
 20210221,43,at,austria,442158
@@ -15710,7 +15720,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210220,4122,ch,vaud,66843
 20210220,4123,ch,valais,30894
 20210220,4124,ch,neuchatel,13854
-20210220,4125,ch,geneve,46732
+20210220,4125,ch,geneve,46735
 20210220,4126,ch,jura_ch,5559
 20210220,423,li,liechtenstein,2546
 20210220,43,at,austria,440930
@@ -15886,7 +15896,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210219,4122,ch,vaud,66725
 20210219,4123,ch,valais,30844
 20210219,4124,ch,neuchatel,13828
-20210219,4125,ch,geneve,46663
+20210219,4125,ch,geneve,46666
 20210219,4126,ch,jura_ch,5539
 20210219,423,li,liechtenstein,2545
 20210219,43,at,austria,439264
@@ -16062,7 +16072,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210218,4122,ch,vaud,66534
 20210218,4123,ch,valais,30795
 20210218,4124,ch,neuchatel,13769
-20210218,4125,ch,geneve,46567
+20210218,4125,ch,geneve,46570
 20210218,4126,ch,jura_ch,5529
 20210218,423,li,liechtenstein,2543
 20210218,43,at,austria,437168
@@ -16238,7 +16248,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210217,4122,ch,vaud,66377
 20210217,4123,ch,valais,30750
 20210217,4124,ch,neuchatel,13709
-20210217,4125,ch,geneve,46481
+20210217,4125,ch,geneve,46484
 20210217,4126,ch,jura_ch,5521
 20210217,423,li,liechtenstein,2542
 20210217,43,at,austria,435458
@@ -16414,7 +16424,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210216,4122,ch,vaud,66229
 20210216,4123,ch,valais,30693
 20210216,4124,ch,neuchatel,13653
-20210216,4125,ch,geneve,46364
+20210216,4125,ch,geneve,46367
 20210216,4126,ch,jura_ch,5505
 20210216,423,li,liechtenstein,2540
 20210216,43,at,austria,433556
@@ -16590,7 +16600,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210215,4122,ch,vaud,66065
 20210215,4123,ch,valais,30624
 20210215,4124,ch,neuchatel,13590
-20210215,4125,ch,geneve,46255
+20210215,4125,ch,geneve,46258
 20210215,4126,ch,jura_ch,5492
 20210215,423,li,liechtenstein,2540
 20210215,43,at,austria,431898
@@ -16760,7 +16770,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210214,4122,ch,vaud,65870
 20210214,4123,ch,valais,30562
 20210214,4124,ch,neuchatel,13555
-20210214,4125,ch,geneve,46164
+20210214,4125,ch,geneve,46167
 20210214,4126,ch,jura_ch,5483
 20210214,423,li,liechtenstein,2540
 20210214,43,at,austria,430397
@@ -16930,7 +16940,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210213,4122,ch,vaud,65779
 20210213,4123,ch,valais,30528
 20210213,4124,ch,neuchatel,13528
-20210213,4125,ch,geneve,46109
+20210213,4125,ch,geneve,46112
 20210213,4126,ch,jura_ch,5477
 20210213,423,li,liechtenstein,2539
 20210213,43,at,austria,429229
@@ -17106,7 +17116,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210212,4122,ch,vaud,65664
 20210212,4123,ch,valais,30494
 20210212,4124,ch,neuchatel,13496
-20210212,4125,ch,geneve,46036
+20210212,4125,ch,geneve,46039
 20210212,4126,ch,jura_ch,5464
 20210212,423,li,liechtenstein,2538
 20210212,43,at,austria,428056
@@ -17282,7 +17292,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210211,4122,ch,vaud,65497
 20210211,4123,ch,valais,30434
 20210211,4124,ch,neuchatel,13458
-20210211,4125,ch,geneve,45926
+20210211,4125,ch,geneve,45929
 20210211,4126,ch,jura_ch,5450
 20210211,423,li,liechtenstein,2537
 20210211,43,at,austria,426781
@@ -17458,7 +17468,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210210,4122,ch,vaud,65364
 20210210,4123,ch,valais,30361
 20210210,4124,ch,neuchatel,13397
-20210210,4125,ch,geneve,45794
+20210210,4125,ch,geneve,45797
 20210210,4126,ch,jura_ch,5437
 20210210,423,li,liechtenstein,2534
 20210210,43,at,austria,425208
@@ -17634,7 +17644,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210209,4122,ch,vaud,65194
 20210209,4123,ch,valais,30297
 20210209,4124,ch,neuchatel,13349
-20210209,4125,ch,geneve,45670
+20210209,4125,ch,geneve,45673
 20210209,4126,ch,jura_ch,5426
 20210209,423,li,liechtenstein,2532
 20210209,43,at,austria,423543
@@ -17810,7 +17820,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210208,4122,ch,vaud,65002
 20210208,4123,ch,valais,30241
 20210208,4124,ch,neuchatel,13303
-20210208,4125,ch,geneve,45555
+20210208,4125,ch,geneve,45558
 20210208,4126,ch,jura_ch,5417
 20210208,423,li,liechtenstein,2527
 20210208,43,at,austria,422067
@@ -17980,7 +17990,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210207,4122,ch,vaud,64802
 20210207,4123,ch,valais,30138
 20210207,4124,ch,neuchatel,13266
-20210207,4125,ch,geneve,45410
+20210207,4125,ch,geneve,45413
 20210207,4126,ch,jura_ch,5398
 20210207,423,li,liechtenstein,2526
 20210207,43,at,austria,420827
@@ -18150,7 +18160,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210206,4122,ch,vaud,64706
 20210206,4123,ch,valais,30092
 20210206,4124,ch,neuchatel,13247
-20210206,4125,ch,geneve,45363
+20210206,4125,ch,geneve,45366
 20210206,4126,ch,jura_ch,5396
 20210206,423,li,liechtenstein,2523
 20210206,43,at,austria,419829
@@ -18326,7 +18336,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210205,4122,ch,vaud,64582
 20210205,4123,ch,valais,30045
 20210205,4124,ch,neuchatel,13233
-20210205,4125,ch,geneve,45275
+20210205,4125,ch,geneve,45278
 20210205,4126,ch,jura_ch,5389
 20210205,423,li,liechtenstein,2518
 20210205,43,at,austria,418675
@@ -18502,7 +18512,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210204,4122,ch,vaud,64398
 20210204,4123,ch,valais,29944
 20210204,4124,ch,neuchatel,13202
-20210204,4125,ch,geneve,45131
+20210204,4125,ch,geneve,45134
 20210204,4126,ch,jura_ch,5382
 20210204,423,li,liechtenstein,2518
 20210204,43,at,austria,417304
@@ -18678,7 +18688,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210203,4122,ch,vaud,64216
 20210203,4123,ch,valais,29851
 20210203,4124,ch,neuchatel,13170
-20210203,4125,ch,geneve,44987
+20210203,4125,ch,geneve,44990
 20210203,4126,ch,jura_ch,5363
 20210203,423,li,liechtenstein,2513
 20210203,43,at,austria,416033
@@ -18854,7 +18864,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210202,4122,ch,vaud,63954
 20210202,4123,ch,valais,29707
 20210202,4124,ch,neuchatel,13131
-20210202,4125,ch,geneve,44858
+20210202,4125,ch,geneve,44861
 20210202,4126,ch,jura_ch,5345
 20210202,423,li,liechtenstein,2509
 20210202,43,at,austria,414508
@@ -19030,7 +19040,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210201,4122,ch,vaud,63737
 20210201,4123,ch,valais,29603
 20210201,4124,ch,neuchatel,13106
-20210201,4125,ch,geneve,44707
+20210201,4125,ch,geneve,44710
 20210201,4126,ch,jura_ch,5327
 20210201,423,li,liechtenstein,2497
 20210201,43,at,austria,412860
@@ -19200,7 +19210,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210131,4122,ch,vaud,63492
 20210131,4123,ch,valais,29479
 20210131,4124,ch,neuchatel,13061
-20210131,4125,ch,geneve,44587
+20210131,4125,ch,geneve,44590
 20210131,4126,ch,jura_ch,5308
 20210131,423,li,liechtenstein,2497
 20210131,43,at,austria,411636
@@ -19370,7 +19380,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210130,4122,ch,vaud,63375
 20210130,4123,ch,valais,29425
 20210130,4124,ch,neuchatel,13055
-20210130,4125,ch,geneve,44525
+20210130,4125,ch,geneve,44528
 20210130,4126,ch,jura_ch,5297
 20210130,423,li,liechtenstein,2493
 20210130,43,at,austria,410505
@@ -19546,7 +19556,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210129,4122,ch,vaud,63248
 20210129,4123,ch,valais,29350
 20210129,4124,ch,neuchatel,13019
-20210129,4125,ch,geneve,44423
+20210129,4125,ch,geneve,44426
 20210129,4126,ch,jura_ch,5279
 20210129,423,li,liechtenstein,2493
 20210129,43,at,austria,409406
@@ -19722,7 +19732,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210128,4122,ch,vaud,63048
 20210128,4123,ch,valais,29242
 20210128,4124,ch,neuchatel,12991
-20210128,4125,ch,geneve,44273
+20210128,4125,ch,geneve,44276
 20210128,4126,ch,jura_ch,5248
 20210128,423,li,liechtenstein,2484
 20210128,43,at,austria,407924
@@ -19898,7 +19908,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210127,4122,ch,vaud,62845
 20210127,4123,ch,valais,29118
 20210127,4124,ch,neuchatel,12956
-20210127,4125,ch,geneve,44114
+20210127,4125,ch,geneve,44117
 20210127,4126,ch,jura_ch,5217
 20210127,423,li,liechtenstein,2475
 20210127,43,at,austria,406501
@@ -20074,7 +20084,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210126,4122,ch,vaud,62634
 20210126,4123,ch,valais,29026
 20210126,4124,ch,neuchatel,12908
-20210126,4125,ch,geneve,43992
+20210126,4125,ch,geneve,43995
 20210126,4126,ch,jura_ch,5197
 20210126,423,li,liechtenstein,2458
 20210126,43,at,austria,405025
@@ -20250,7 +20260,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210125,4122,ch,vaud,62435
 20210125,4123,ch,valais,28938
 20210125,4124,ch,neuchatel,12872
-20210125,4125,ch,geneve,43849
+20210125,4125,ch,geneve,43852
 20210125,4126,ch,jura_ch,5177
 20210125,423,li,liechtenstein,2455
 20210125,43,at,austria,403439
@@ -20420,7 +20430,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210124,4122,ch,vaud,62176
 20210124,4123,ch,valais,28785
 20210124,4124,ch,neuchatel,12840
-20210124,4125,ch,geneve,43705
+20210124,4125,ch,geneve,43708
 20210124,4126,ch,jura_ch,5156
 20210124,423,li,liechtenstein,2454
 20210124,43,at,austria,402015
@@ -20590,7 +20600,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210123,4122,ch,vaud,62086
 20210123,4123,ch,valais,28714
 20210123,4124,ch,neuchatel,12830
-20210123,4125,ch,geneve,43646
+20210123,4125,ch,geneve,43649
 20210123,4126,ch,jura_ch,5150
 20210123,423,li,liechtenstein,2441
 20210123,43,at,austria,401069
@@ -20767,7 +20777,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210122,4122,ch,vaud,61960
 20210122,4123,ch,valais,28649
 20210122,4124,ch,neuchatel,12802
-20210122,4125,ch,geneve,43570
+20210122,4125,ch,geneve,43573
 20210122,4126,ch,jura_ch,5120
 20210122,423,li,liechtenstein,2437
 20210122,43,at,austria,399804
@@ -20944,7 +20954,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210121,4122,ch,vaud,61754
 20210121,4123,ch,valais,28522
 20210121,4124,ch,neuchatel,12770
-20210121,4125,ch,geneve,43452
+20210121,4125,ch,geneve,43455
 20210121,4126,ch,jura_ch,5104
 20210121,423,li,liechtenstein,2432
 20210121,43,at,austria,398347
@@ -21121,7 +21131,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210120,4122,ch,vaud,61529
 20210120,4123,ch,valais,28405
 20210120,4124,ch,neuchatel,12742
-20210120,4125,ch,geneve,43333
+20210120,4125,ch,geneve,43336
 20210120,4126,ch,jura_ch,5073
 20210120,423,li,liechtenstein,2415
 20210120,43,at,austria,396558
@@ -21298,7 +21308,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210119,4122,ch,vaud,61285
 20210119,4123,ch,valais,28234
 20210119,4124,ch,neuchatel,12689
-20210119,4125,ch,geneve,43201
+20210119,4125,ch,geneve,43204
 20210119,4126,ch,jura_ch,5055
 20210119,423,li,liechtenstein,2405
 20210119,43,at,austria,394816
@@ -21475,7 +21485,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210118,4122,ch,vaud,61070
 20210118,4123,ch,valais,28093
 20210118,4124,ch,neuchatel,12639
-20210118,4125,ch,geneve,43049
+20210118,4125,ch,geneve,43052
 20210118,4126,ch,jura_ch,5026
 20210118,423,li,liechtenstein,2398
 20210118,43,at,austria,393157
@@ -21646,7 +21656,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210117,4122,ch,vaud,60829
 20210117,4123,ch,valais,27930
 20210117,4124,ch,neuchatel,12577
-20210117,4125,ch,geneve,42856
+20210117,4125,ch,geneve,42859
 20210117,4126,ch,jura_ch,5007
 20210117,423,li,liechtenstein,2395
 20210117,43,at,austria,391529
@@ -21816,7 +21826,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210116,4122,ch,vaud,60702
 20210116,4123,ch,valais,27879
 20210116,4124,ch,neuchatel,12560
-20210116,4125,ch,geneve,42824
+20210116,4125,ch,geneve,42827
 20210116,4126,ch,jura_ch,5002
 20210116,423,li,liechtenstein,2389
 20210116,43,at,austria,390513
@@ -21992,7 +22002,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210115,4122,ch,vaud,60525
 20210115,4123,ch,valais,27820
 20210115,4124,ch,neuchatel,12523
-20210115,4125,ch,geneve,42720
+20210115,4125,ch,geneve,42723
 20210115,4126,ch,jura_ch,4957
 20210115,423,li,liechtenstein,2383
 20210115,43,at,austria,389186
@@ -22169,7 +22179,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210114,4122,ch,vaud,60310
 20210114,4123,ch,valais,27701
 20210114,4124,ch,neuchatel,12481
-20210114,4125,ch,geneve,42583
+20210114,4125,ch,geneve,42586
 20210114,4126,ch,jura_ch,4939
 20210114,423,li,liechtenstein,2378
 20210114,43,at,austria,387625
@@ -22346,7 +22356,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210113,4122,ch,vaud,60108
 20210113,4123,ch,valais,27583
 20210113,4124,ch,neuchatel,12419
-20210113,4125,ch,geneve,42442
+20210113,4125,ch,geneve,42445
 20210113,4126,ch,jura_ch,4908
 20210113,423,li,liechtenstein,2375
 20210113,43,at,austria,386095
@@ -22523,7 +22533,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210112,4122,ch,vaud,59876
 20210112,4123,ch,valais,27448
 20210112,4124,ch,neuchatel,12372
-20210112,4125,ch,geneve,42299
+20210112,4125,ch,geneve,42302
 20210112,4126,ch,jura_ch,4868
 20210112,423,li,liechtenstein,2370
 20210112,43,at,austria,384435
@@ -22700,7 +22710,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210111,4122,ch,vaud,59695
 20210111,4123,ch,valais,27299
 20210111,4124,ch,neuchatel,12293
-20210111,4125,ch,geneve,42148
+20210111,4125,ch,geneve,42151
 20210111,4126,ch,jura_ch,4837
 20210111,423,li,liechtenstein,2355
 20210111,43,at,austria,382265
@@ -22870,7 +22880,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210110,4122,ch,vaud,59384
 20210110,4123,ch,valais,27102
 20210110,4124,ch,neuchatel,12229
-20210110,4125,ch,geneve,41989
+20210110,4125,ch,geneve,41992
 20210110,4126,ch,jura_ch,4807
 20210110,423,li,liechtenstein,2346
 20210110,43,at,austria,380555
@@ -23040,7 +23050,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210109,4122,ch,vaud,59267
 20210109,4123,ch,valais,27030
 20210109,4124,ch,neuchatel,12206
-20210109,4125,ch,geneve,41923
+20210109,4125,ch,geneve,41926
 20210109,4126,ch,jura_ch,4793
 20210109,423,li,liechtenstein,2340
 20210109,43,at,austria,379166
@@ -23217,7 +23227,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210108,4122,ch,vaud,59103
 20210108,4123,ch,valais,26962
 20210108,4124,ch,neuchatel,12161
-20210108,4125,ch,geneve,41829
+20210108,4125,ch,geneve,41832
 20210108,4126,ch,jura_ch,4758
 20210108,423,li,liechtenstein,2329
 20210108,43,at,austria,377608
@@ -23394,7 +23404,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210107,4122,ch,vaud,58856
 20210107,4123,ch,valais,26813
 20210107,4124,ch,neuchatel,12100
-20210107,4125,ch,geneve,41708
+20210107,4125,ch,geneve,41711
 20210107,4126,ch,jura_ch,4734
 20210107,423,li,liechtenstein,2311
 20210107,43,at,austria,375312
@@ -23570,7 +23580,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210106,4122,ch,vaud,58543
 20210106,4123,ch,valais,26668
 20210106,4124,ch,neuchatel,12041
-20210106,4125,ch,geneve,41572
+20210106,4125,ch,geneve,41575
 20210106,4126,ch,jura_ch,4701
 20210106,423,li,liechtenstein,2295
 20210106,43,at,austria,373307
@@ -23747,7 +23757,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210105,4122,ch,vaud,58211
 20210105,4123,ch,valais,26523
 20210105,4124,ch,neuchatel,11943
-20210105,4125,ch,geneve,41439
+20210105,4125,ch,geneve,41442
 20210105,4126,ch,jura_ch,4658
 20210105,423,li,liechtenstein,2246
 20210105,43,at,austria,371220
@@ -23924,7 +23934,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210104,4122,ch,vaud,57855
 20210104,4123,ch,valais,26354
 20210104,4124,ch,neuchatel,11841
-20210104,4125,ch,geneve,41287
+20210104,4125,ch,geneve,41290
 20210104,4126,ch,jura_ch,4606
 20210104,423,li,liechtenstein,2224
 20210104,43,at,austria,368258
@@ -24094,7 +24104,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210103,4122,ch,vaud,57432
 20210103,4123,ch,valais,26116
 20210103,4124,ch,neuchatel,11760
-20210103,4125,ch,geneve,41144
+20210103,4125,ch,geneve,41147
 20210103,4126,ch,jura_ch,4560
 20210103,423,li,liechtenstein,2224
 20210103,43,at,austria,365965
@@ -24264,7 +24274,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210102,4122,ch,vaud,57191
 20210102,4123,ch,valais,26006
 20210102,4124,ch,neuchatel,11726
-20210102,4125,ch,geneve,41074
+20210102,4125,ch,geneve,41077
 20210102,4126,ch,jura_ch,4534
 20210102,423,li,liechtenstein,2222
 20210102,43,at,austria,364065
@@ -24436,7 +24446,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20210101,4122,ch,vaud,56964
 20210101,4123,ch,valais,25858
 20210101,4124,ch,neuchatel,11664
-20210101,4125,ch,geneve,40968
+20210101,4125,ch,geneve,40971
 20210101,4126,ch,jura_ch,4516
 20210101,423,li,liechtenstein,2202
 20210101,43,at,austria,362429
@@ -24613,7 +24623,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201231,4122,ch,vaud,56839
 20201231,4123,ch,valais,25785
 20201231,4124,ch,neuchatel,11644
-20201231,4125,ch,geneve,40921
+20201231,4125,ch,geneve,40924
 20201231,4126,ch,jura_ch,4487
 20201231,423,li,liechtenstein,2136
 20201231,43,at,austria,360837
@@ -24788,7 +24798,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201230,4122,ch,vaud,56603
 20201230,4123,ch,valais,25654
 20201230,4124,ch,neuchatel,11568
-20201230,4125,ch,geneve,40804
+20201230,4125,ch,geneve,40807
 20201230,4126,ch,jura_ch,4456
 20201230,423,li,liechtenstein,2104
 20201230,43,at,austria,358833
@@ -24964,7 +24974,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201229,4122,ch,vaud,56312
 20201229,4123,ch,valais,25509
 20201229,4124,ch,neuchatel,11472
-20201229,4125,ch,geneve,40626
+20201229,4125,ch,geneve,40629
 20201229,4126,ch,jura_ch,4412
 20201229,423,li,liechtenstein,2069
 20201229,43,at,austria,356115
@@ -25141,7 +25151,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201228,4122,ch,vaud,55994
 20201228,4123,ch,valais,25370
 20201228,4124,ch,neuchatel,11407
-20201228,4125,ch,geneve,40457
+20201228,4125,ch,geneve,40460
 20201228,4126,ch,jura_ch,4373
 20201228,423,li,liechtenstein,2038
 20201228,43,at,austria,353136
@@ -25312,7 +25322,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201227,4122,ch,vaud,55651
 20201227,4123,ch,valais,25236
 20201227,4124,ch,neuchatel,11324
-20201227,4125,ch,geneve,40277
+20201227,4125,ch,geneve,40280
 20201227,4126,ch,jura_ch,4350
 20201227,423,li,liechtenstein,2018
 20201227,43,at,austria,351010
@@ -25484,7 +25494,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201226,4122,ch,vaud,55445
 20201226,4123,ch,valais,25161
 20201226,4124,ch,neuchatel,11286
-20201226,4125,ch,geneve,40214
+20201226,4125,ch,geneve,40217
 20201226,4126,ch,jura_ch,4332
 20201226,423,li,liechtenstein,2000
 20201226,43,at,austria,349310
@@ -25657,7 +25667,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201225,4122,ch,vaud,55264
 20201225,4123,ch,valais,25083
 20201225,4124,ch,neuchatel,11239
-20201225,4125,ch,geneve,40127
+20201225,4125,ch,geneve,40130
 20201225,4126,ch,jura_ch,4314
 20201225,423,li,liechtenstein,2000
 20201225,43,at,austria,348146
@@ -25833,7 +25843,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201224,4122,ch,vaud,55155
 20201224,4123,ch,valais,25031
 20201224,4124,ch,neuchatel,11230
-20201224,4125,ch,geneve,40084
+20201224,4125,ch,geneve,40087
 20201224,4126,ch,jura_ch,4301
 20201224,423,li,liechtenstein,1920
 20201224,43,at,austria,346860
@@ -26010,7 +26020,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201223,4122,ch,vaud,54929
 20201223,4123,ch,valais,24949
 20201223,4124,ch,neuchatel,11169
-20201223,4125,ch,geneve,39955
+20201223,4125,ch,geneve,39958
 20201223,4126,ch,jura_ch,4281
 20201223,423,li,liechtenstein,1858
 20201223,43,at,austria,345050
@@ -26187,7 +26197,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201222,4122,ch,vaud,54666
 20201222,4123,ch,valais,24853
 20201222,4124,ch,neuchatel,11104
-20201222,4125,ch,geneve,39778
+20201222,4125,ch,geneve,39781
 20201222,4126,ch,jura_ch,4257
 20201222,423,li,liechtenstein,1826
 20201222,43,at,austria,342194
@@ -26364,7 +26374,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201221,4122,ch,vaud,54393
 20201221,4123,ch,valais,24757
 20201221,4124,ch,neuchatel,11041
-20201221,4125,ch,geneve,39620
+20201221,4125,ch,geneve,39623
 20201221,4126,ch,jura_ch,4236
 20201221,423,li,liechtenstein,1784
 20201221,43,at,austria,339637
@@ -26535,7 +26545,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201220,4122,ch,vaud,54097
 20201220,4123,ch,valais,24652
 20201220,4124,ch,neuchatel,10966
-20201220,4125,ch,geneve,39439
+20201220,4125,ch,geneve,39442
 20201220,4126,ch,jura_ch,4203
 20201220,423,li,liechtenstein,1758
 20201220,43,at,austria,337527
@@ -26706,7 +26716,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201219,4122,ch,vaud,53957
 20201219,4123,ch,valais,24606
 20201219,4124,ch,neuchatel,10946
-20201219,4125,ch,geneve,39350
+20201219,4125,ch,geneve,39353
 20201219,4126,ch,jura_ch,4180
 20201219,423,li,liechtenstein,1711
 20201219,43,at,austria,336175
@@ -26883,7 +26893,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201218,4122,ch,vaud,53782
 20201218,4123,ch,valais,24560
 20201218,4124,ch,neuchatel,10911
-20201218,4125,ch,geneve,39248
+20201218,4125,ch,geneve,39251
 20201218,4126,ch,jura_ch,4162
 20201218,423,li,liechtenstein,1711
 20201218,43,at,austria,334671
@@ -27060,7 +27070,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201217,4122,ch,vaud,53524
 20201217,4123,ch,valais,24466
 20201217,4124,ch,neuchatel,10847
-20201217,4125,ch,geneve,39075
+20201217,4125,ch,geneve,39078
 20201217,4126,ch,jura_ch,4131
 20201217,423,li,liechtenstein,1635
 20201217,43,at,austria,332515
@@ -27237,7 +27247,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201216,4122,ch,vaud,53294
 20201216,4123,ch,valais,24386
 20201216,4124,ch,neuchatel,10798
-20201216,4125,ch,geneve,38920
+20201216,4125,ch,geneve,38923
 20201216,4126,ch,jura_ch,4094
 20201216,423,li,liechtenstein,1600
 20201216,43,at,austria,330558
@@ -27414,7 +27424,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201215,4122,ch,vaud,53012
 20201215,4123,ch,valais,24288
 20201215,4124,ch,neuchatel,10745
-20201215,4125,ch,geneve,38797
+20201215,4125,ch,geneve,38800
 20201215,4126,ch,jura_ch,4056
 20201215,423,li,liechtenstein,1600
 20201215,43,at,austria,328166
@@ -27591,7 +27601,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201214,4122,ch,vaud,52717
 20201214,4123,ch,valais,24178
 20201214,4124,ch,neuchatel,10688
-20201214,4125,ch,geneve,38589
+20201214,4125,ch,geneve,38592
 20201214,4126,ch,jura_ch,4009
 20201214,423,li,liechtenstein,1579
 20201214,43,at,austria,325406
@@ -27762,7 +27772,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201213,4122,ch,vaud,52426
 20201213,4123,ch,valais,24057
 20201213,4124,ch,neuchatel,10602
-20201213,4125,ch,geneve,38414
+20201213,4125,ch,geneve,38417
 20201213,4126,ch,jura_ch,3983
 20201213,423,li,liechtenstein,1566
 20201213,43,at,austria,322663
@@ -27934,7 +27944,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201212,4122,ch,vaud,52283
 20201212,4123,ch,valais,23987
 20201212,4124,ch,neuchatel,10574
-20201212,4125,ch,geneve,38340
+20201212,4125,ch,geneve,38343
 20201212,4126,ch,jura_ch,3975
 20201212,423,li,liechtenstein,1514
 20201212,43,at,austria,320172
@@ -28111,7 +28121,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201211,4122,ch,vaud,52086
 20201211,4123,ch,valais,23915
 20201211,4124,ch,neuchatel,10527
-20201211,4125,ch,geneve,38241
+20201211,4125,ch,geneve,38244
 20201211,4126,ch,jura_ch,3951
 20201211,423,li,liechtenstein,1482
 20201211,43,at,austria,317544
@@ -28288,7 +28298,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201210,4122,ch,vaud,51841
 20201210,4123,ch,valais,23793
 20201210,4124,ch,neuchatel,10469
-20201210,4125,ch,geneve,38094
+20201210,4125,ch,geneve,38097
 20201210,4126,ch,jura_ch,3939
 20201210,423,li,liechtenstein,1466
 20201210,43,at,austria,314702
@@ -28465,7 +28475,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201209,4122,ch,vaud,51561
 20201209,4123,ch,valais,23677
 20201209,4124,ch,neuchatel,10422
-20201209,4125,ch,geneve,37966
+20201209,4125,ch,geneve,37969
 20201209,4126,ch,jura_ch,3919
 20201209,423,li,liechtenstein,1441
 20201209,43,at,austria,311613
@@ -28641,7 +28651,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201208,4122,ch,vaud,51237
 20201208,4123,ch,valais,23529
 20201208,4124,ch,neuchatel,10322
-20201208,4125,ch,geneve,37785
+20201208,4125,ch,geneve,37788
 20201208,4126,ch,jura_ch,3902
 20201208,423,li,liechtenstein,1432
 20201208,43,at,austria,309130
@@ -28818,7 +28828,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201207,4122,ch,vaud,50949
 20201207,4123,ch,valais,23451
 20201207,4124,ch,neuchatel,10256
-20201207,4125,ch,geneve,37608
+20201207,4125,ch,geneve,37610
 20201207,4126,ch,jura_ch,3880
 20201207,423,li,liechtenstein,1404
 20201207,43,at,austria,306494
@@ -28989,7 +28999,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201206,4122,ch,vaud,50581
 20201206,4123,ch,valais,23274
 20201206,4124,ch,neuchatel,10168
-20201206,4125,ch,geneve,37381
+20201206,4125,ch,geneve,37383
 20201206,4126,ch,jura_ch,3858
 20201206,423,li,liechtenstein,1397
 20201206,43,at,austria,303976
@@ -29160,7 +29170,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201205,4122,ch,vaud,50416
 20201205,4123,ch,valais,23211
 20201205,4124,ch,neuchatel,10138
-20201205,4125,ch,geneve,37328
+20201205,4125,ch,geneve,37330
 20201205,4126,ch,jura_ch,3843
 20201205,423,li,liechtenstein,1396
 20201205,43,at,austria,301910
@@ -29337,7 +29347,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201204,4122,ch,vaud,50166
 20201204,4123,ch,valais,23149
 20201204,4124,ch,neuchatel,10085
-20201204,4125,ch,geneve,37240
+20201204,4125,ch,geneve,37242
 20201204,4126,ch,jura_ch,3833
 20201204,423,li,liechtenstein,1351
 20201204,43,at,austria,299042
@@ -29513,7 +29523,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201203,4122,ch,vaud,49819
 20201203,4123,ch,valais,23012
 20201203,4124,ch,neuchatel,10013
-20201203,4125,ch,geneve,37092
+20201203,4125,ch,geneve,37094
 20201203,4126,ch,jura_ch,3808
 20201203,423,li,liechtenstein,1339
 20201203,43,at,austria,295451
@@ -29690,7 +29700,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201202,4122,ch,vaud,49458
 20201202,4123,ch,valais,22886
 20201202,4124,ch,neuchatel,9957
-20201202,4125,ch,geneve,36910
+20201202,4125,ch,geneve,36912
 20201202,4126,ch,jura_ch,3793
 20201202,423,li,liechtenstein,1318
 20201202,43,at,austria,291796
@@ -29867,7 +29877,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201201,4122,ch,vaud,49088
 20201201,4123,ch,valais,22766
 20201201,4124,ch,neuchatel,9862
-20201201,4125,ch,geneve,36748
+20201201,4125,ch,geneve,36750
 20201201,4126,ch,jura_ch,3777
 20201201,423,li,liechtenstein,1286
 20201201,43,at,austria,288220
@@ -30044,7 +30054,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201130,4122,ch,vaud,48780
 20201130,4123,ch,valais,22640
 20201130,4124,ch,neuchatel,9775
-20201130,4125,ch,geneve,36550
+20201130,4125,ch,geneve,36552
 20201130,4126,ch,jura_ch,3750
 20201130,423,li,liechtenstein,1270
 20201130,43,at,austria,284289
@@ -30215,7 +30225,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201129,4122,ch,vaud,48427
 20201129,4123,ch,valais,22477
 20201129,4124,ch,neuchatel,9656
-20201129,4125,ch,geneve,36347
+20201129,4125,ch,geneve,36349
 20201129,4126,ch,jura_ch,3738
 20201129,423,li,liechtenstein,1253
 20201129,43,at,austria,280912
@@ -30386,7 +30396,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201128,4122,ch,vaud,48238
 20201128,4123,ch,valais,22403
 20201128,4124,ch,neuchatel,9631
-20201128,4125,ch,geneve,36283
+20201128,4125,ch,geneve,36285
 20201128,4126,ch,jura_ch,3731
 20201128,423,li,liechtenstein,1253
 20201128,43,at,austria,278521
@@ -30563,7 +30573,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201127,4122,ch,vaud,48023
 20201127,4123,ch,valais,22326
 20201127,4124,ch,neuchatel,9580
-20201127,4125,ch,geneve,36154
+20201127,4125,ch,geneve,36156
 20201127,4126,ch,jura_ch,3704
 20201127,423,li,liechtenstein,1231
 20201127,43,at,austria,274780
@@ -30740,7 +30750,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201126,4122,ch,vaud,47705
 20201126,4123,ch,valais,22170
 20201126,4124,ch,neuchatel,9489
-20201126,4125,ch,geneve,35938
+20201126,4125,ch,geneve,35940
 20201126,4126,ch,jura_ch,3667
 20201126,423,li,liechtenstein,1208
 20201126,43,at,austria,270544
@@ -30917,7 +30927,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201125,4122,ch,vaud,47312
 20201125,4123,ch,valais,22028
 20201125,4124,ch,neuchatel,9401
-20201125,4125,ch,geneve,35745
+20201125,4125,ch,geneve,35747
 20201125,4126,ch,jura_ch,3627
 20201125,423,li,liechtenstein,1183
 20201125,43,at,austria,265524
@@ -31094,7 +31104,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201124,4122,ch,vaud,46891
 20201124,4123,ch,valais,21884
 20201124,4124,ch,neuchatel,9301
-20201124,4125,ch,geneve,35549
+20201124,4125,ch,geneve,35551
 20201124,4126,ch,jura_ch,3582
 20201124,423,li,liechtenstein,1183
 20201124,43,at,austria,260132
@@ -31271,7 +31281,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201123,4122,ch,vaud,46531
 20201123,4123,ch,valais,21719
 20201123,4124,ch,neuchatel,9206
-20201123,4125,ch,geneve,35226
+20201123,4125,ch,geneve,35228
 20201123,4126,ch,jura_ch,3543
 20201123,423,li,liechtenstein,1158
 20201123,43,at,austria,254383
@@ -31442,7 +31452,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201122,4122,ch,vaud,46001
 20201122,4123,ch,valais,21500
 20201122,4124,ch,neuchatel,9092
-20201122,4125,ch,geneve,34977
+20201122,4125,ch,geneve,34979
 20201122,4126,ch,jura_ch,3531
 20201122,423,li,liechtenstein,1156
 20201122,43,at,austria,249778
@@ -31613,7 +31623,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201121,4122,ch,vaud,45749
 20201121,4123,ch,valais,21405
 20201121,4124,ch,neuchatel,9047
-20201121,4125,ch,geneve,34854
+20201121,4125,ch,geneve,34856
 20201121,4126,ch,jura_ch,3512
 20201121,423,li,liechtenstein,1112
 20201121,43,at,austria,247334
@@ -31790,7 +31800,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201120,4122,ch,vaud,45381
 20201120,4123,ch,valais,21286
 20201120,4124,ch,neuchatel,8976
-20201120,4125,ch,geneve,34698
+20201120,4125,ch,geneve,34700
 20201120,4126,ch,jura_ch,3472
 20201120,423,li,liechtenstein,1109
 20201120,43,at,austria,242174
@@ -31967,7 +31977,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201119,4122,ch,vaud,44926
 20201119,4123,ch,valais,21135
 20201119,4124,ch,neuchatel,8874
-20201119,4125,ch,geneve,34457
+20201119,4125,ch,geneve,34459
 20201119,4126,ch,jura_ch,3440
 20201119,423,li,liechtenstein,1094
 20201119,43,at,austria,235710
@@ -32144,7 +32154,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201118,4122,ch,vaud,44390
 20201118,4123,ch,valais,20940
 20201118,4124,ch,neuchatel,8798
-20201118,4125,ch,geneve,34134
+20201118,4125,ch,geneve,34136
 20201118,4126,ch,jura_ch,3397
 20201118,423,li,liechtenstein,1072
 20201118,43,at,austria,229098
@@ -32321,7 +32331,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201117,4122,ch,vaud,43826
 20201117,4123,ch,valais,20727
 20201117,4124,ch,neuchatel,8642
-20201117,4125,ch,geneve,33794
+20201117,4125,ch,geneve,33796
 20201117,4126,ch,jura_ch,3370
 20201117,423,li,liechtenstein,1051
 20201117,43,at,austria,222663
@@ -32498,7 +32508,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201116,4122,ch,vaud,43161
 20201116,4123,ch,valais,20445
 20201116,4124,ch,neuchatel,8484
-20201116,4125,ch,geneve,33356
+20201116,4125,ch,geneve,33358
 20201116,4126,ch,jura_ch,3317
 20201116,423,li,liechtenstein,1002
 20201116,43,at,austria,215126
@@ -32670,7 +32680,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201115,4122,ch,vaud,42363
 20201115,4123,ch,valais,20122
 20201115,4124,ch,neuchatel,8302
-20201115,4125,ch,geneve,32915
+20201115,4125,ch,geneve,32917
 20201115,4126,ch,jura_ch,3290
 20201115,423,li,liechtenstein,989
 20201115,43,at,austria,209049
@@ -32841,7 +32851,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201114,4122,ch,vaud,41987
 20201114,4123,ch,valais,20003
 20201114,4124,ch,neuchatel,8251
-20201114,4125,ch,geneve,32739
+20201114,4125,ch,geneve,32741
 20201114,4126,ch,jura_ch,3258
 20201114,423,li,liechtenstein,985
 20201114,43,at,austria,204425
@@ -33018,7 +33028,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201113,4122,ch,vaud,41351
 20201113,4123,ch,valais,19823
 20201113,4124,ch,neuchatel,8108
-20201113,4125,ch,geneve,32385
+20201113,4125,ch,geneve,32387
 20201113,4126,ch,jura_ch,3221
 20201113,423,li,liechtenstein,970
 20201113,43,at,austria,199312
@@ -33195,7 +33205,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201112,4122,ch,vaud,40491
 20201112,4123,ch,valais,19520
 20201112,4124,ch,neuchatel,7939
-20201112,4125,ch,geneve,31842
+20201112,4125,ch,geneve,31844
 20201112,4126,ch,jura_ch,3161
 20201112,423,li,liechtenstein,928
 20201112,43,at,austria,192310
@@ -33372,7 +33382,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201111,4122,ch,vaud,39546
 20201111,4123,ch,valais,19202
 20201111,4124,ch,neuchatel,7768
-20201111,4125,ch,geneve,31180
+20201111,4125,ch,geneve,31182
 20201111,4126,ch,jura_ch,3073
 20201111,423,li,liechtenstein,905
 20201111,43,at,austria,184065
@@ -33549,7 +33559,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201110,4122,ch,vaud,38537
 20201110,4123,ch,valais,18859
 20201110,4124,ch,neuchatel,7560
-20201110,4125,ch,geneve,30380
+20201110,4125,ch,geneve,30382
 20201110,4126,ch,jura_ch,3024
 20201110,423,li,liechtenstein,877
 20201110,43,at,austria,174878
@@ -33726,7 +33736,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201109,4122,ch,vaud,37237
 20201109,4123,ch,valais,18433
 20201109,4124,ch,neuchatel,7334
-20201109,4125,ch,geneve,29500
+20201109,4125,ch,geneve,29502
 20201109,4126,ch,jura_ch,2968
 20201109,423,li,liechtenstein,846
 20201109,43,at,austria,167440
@@ -33897,7 +33907,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201108,4122,ch,vaud,35883
 20201108,4123,ch,valais,17879
 20201108,4124,ch,neuchatel,7090
-20201108,4125,ch,geneve,28545
+20201108,4125,ch,geneve,28547
 20201108,4126,ch,jura_ch,2899
 20201108,423,li,liechtenstein,801
 20201108,43,at,austria,161193
@@ -34068,7 +34078,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201107,4122,ch,vaud,35140
 20201107,4123,ch,valais,17688
 20201107,4124,ch,neuchatel,6986
-20201107,4125,ch,geneve,28209
+20201107,4125,ch,geneve,28211
 20201107,4126,ch,jura_ch,2810
 20201107,423,li,liechtenstein,788
 20201107,43,at,austria,155446
@@ -34245,7 +34255,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201106,4122,ch,vaud,34298
 20201106,4123,ch,valais,17423
 20201106,4124,ch,neuchatel,6786
-20201106,4125,ch,geneve,27557
+20201106,4125,ch,geneve,27559
 20201106,4126,ch,jura_ch,2777
 20201106,423,li,liechtenstein,765
 20201106,43,at,austria,150129
@@ -34422,7 +34432,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201105,4122,ch,vaud,33126
 20201105,4123,ch,valais,16965
 20201105,4124,ch,neuchatel,6510
-20201105,4125,ch,geneve,26627
+20201105,4125,ch,geneve,26629
 20201105,4126,ch,jura_ch,2667
 20201105,423,li,liechtenstein,741
 20201105,43,at,austria,142024
@@ -34599,7 +34609,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201104,4122,ch,vaud,31881
 20201104,4123,ch,valais,16421
 20201104,4124,ch,neuchatel,6195
-20201104,4125,ch,geneve,25447
+20201104,4125,ch,geneve,25449
 20201104,4126,ch,jura_ch,2604
 20201104,423,li,liechtenstein,692
 20201104,43,at,austria,135070
@@ -34776,7 +34786,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201103,4122,ch,vaud,30498
 20201103,4123,ch,valais,15882
 20201103,4124,ch,neuchatel,5844
-20201103,4125,ch,geneve,24121
+20201103,4125,ch,geneve,24123
 20201103,4126,ch,jura_ch,2396
 20201103,423,li,liechtenstein,659
 20201103,43,at,austria,127966
@@ -34952,7 +34962,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201102,4122,ch,vaud,29124
 20201102,4123,ch,valais,15199
 20201102,4124,ch,neuchatel,5562
-20201102,4125,ch,geneve,23031
+20201102,4125,ch,geneve,23033
 20201102,4126,ch,jura_ch,2221
 20201102,423,li,liechtenstein,631
 20201102,43,at,austria,121614
@@ -35123,7 +35133,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201101,4122,ch,vaud,27528
 20201101,4123,ch,valais,14348
 20201101,4124,ch,neuchatel,5231
-20201101,4125,ch,geneve,22325
+20201101,4125,ch,geneve,22327
 20201101,4126,ch,jura_ch,2130
 20201101,423,li,liechtenstein,598
 20201101,43,at,austria,116426
@@ -35294,7 +35304,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201031,4122,ch,vaud,26705
 20201031,4123,ch,valais,14030
 20201031,4124,ch,neuchatel,5106
-20201031,4125,ch,geneve,21963
+20201031,4125,ch,geneve,21965
 20201031,4126,ch,jura_ch,1986
 20201031,423,li,liechtenstein,551
 20201031,43,at,austria,111950
@@ -35471,7 +35481,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201030,4122,ch,vaud,25840
 20201030,4123,ch,valais,13561
 20201030,4124,ch,neuchatel,4889
-20201030,4125,ch,geneve,21197
+20201030,4125,ch,geneve,21198
 20201030,4126,ch,jura_ch,1863
 20201030,423,li,liechtenstein,533
 20201030,43,at,austria,107163
@@ -35647,7 +35657,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201029,4122,ch,vaud,24677
 20201029,4123,ch,valais,12757
 20201029,4124,ch,neuchatel,4611
-20201029,4125,ch,geneve,19830
+20201029,4125,ch,geneve,19831
 20201029,4126,ch,jura_ch,1747
 20201029,423,li,liechtenstein,513
 20201029,43,at,austria,101448
@@ -35824,7 +35834,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201028,4122,ch,vaud,23404
 20201028,4123,ch,valais,11971
 20201028,4124,ch,neuchatel,4240
-20201028,4125,ch,geneve,18809
+20201028,4125,ch,geneve,18810
 20201028,4126,ch,jura_ch,1614
 20201028,423,li,liechtenstein,476
 20201028,43,at,austria,96408
@@ -36000,7 +36010,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201027,4122,ch,vaud,22109
 20201027,4123,ch,valais,11203
 20201027,4124,ch,neuchatel,3960
-20201027,4125,ch,geneve,17612
+20201027,4125,ch,geneve,17613
 20201027,4126,ch,jura_ch,1530
 20201027,423,li,liechtenstein,450
 20201027,43,at,austria,91944
@@ -36177,7 +36187,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201026,4122,ch,vaud,20817
 20201026,4123,ch,valais,10319
 20201026,4124,ch,neuchatel,3545
-20201026,4125,ch,geneve,16402
+20201026,4125,ch,geneve,16403
 20201026,4126,ch,jura_ch,1477
 20201026,423,li,liechtenstein,428
 20201026,43,at,austria,87569
@@ -36348,7 +36358,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201025,4122,ch,vaud,19561
 20201025,4123,ch,valais,9436
 20201025,4124,ch,neuchatel,3261
-20201025,4125,ch,geneve,15634
+20201025,4125,ch,geneve,15635
 20201025,4126,ch,jura_ch,1381
 20201025,423,li,liechtenstein,402
 20201025,43,at,austria,84788
@@ -36520,7 +36530,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201024,4122,ch,vaud,19008
 20201024,4123,ch,valais,9060
 20201024,4124,ch,neuchatel,3174
-20201024,4125,ch,geneve,15236
+20201024,4125,ch,geneve,15237
 20201024,4126,ch,jura_ch,1247
 20201024,423,li,liechtenstein,365
 20201024,43,at,austria,82311
@@ -36697,7 +36707,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201023,4122,ch,vaud,18399
 20201023,4123,ch,valais,8539
 20201023,4124,ch,neuchatel,3052
-20201023,4125,ch,geneve,14634
+20201023,4125,ch,geneve,14635
 20201023,4126,ch,jura_ch,1148
 20201023,423,li,liechtenstein,340
 20201023,43,at,austria,79340
@@ -36873,7 +36883,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201022,4122,ch,vaud,17382
 20201022,4123,ch,valais,7784
 20201022,4124,ch,neuchatel,2833
-20201022,4125,ch,geneve,13778
+20201022,4125,ch,geneve,13779
 20201022,4126,ch,jura_ch,1077
 20201022,423,li,liechtenstein,324
 20201022,43,at,austria,75993
@@ -37050,7 +37060,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201021,4122,ch,vaud,16562
 20201021,4123,ch,valais,7104
 20201021,4124,ch,neuchatel,2643
-20201021,4125,ch,geneve,13001
+20201021,4125,ch,geneve,13002
 20201021,4126,ch,jura_ch,1012
 20201021,423,li,liechtenstein,282
 20201021,43,at,austria,72761
@@ -37227,7 +37237,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201020,4122,ch,vaud,15777
 20201020,4123,ch,valais,6431
 20201020,4124,ch,neuchatel,2433
-20201020,4125,ch,geneve,12450
+20201020,4125,ch,geneve,12451
 20201020,4126,ch,jura_ch,932
 20201020,423,li,liechtenstein,252
 20201020,43,at,austria,70104
@@ -37404,7 +37414,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201019,4122,ch,vaud,15092
 20201019,4123,ch,valais,5872
 20201019,4124,ch,neuchatel,2269
-20201019,4125,ch,geneve,11810
+20201019,4125,ch,geneve,11811
 20201019,4126,ch,jura_ch,864
 20201019,423,li,liechtenstein,235
 20201019,43,at,austria,68128
@@ -37575,7 +37585,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201018,4122,ch,vaud,14508
 20201018,4123,ch,valais,5305
 20201018,4124,ch,neuchatel,2077
-20201018,4125,ch,geneve,11449
+20201018,4125,ch,geneve,11450
 20201018,4126,ch,jura_ch,831
 20201018,423,li,liechtenstein,224
 20201018,43,at,austria,66482
@@ -37746,7 +37756,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201017,4122,ch,vaud,14153
 20201017,4123,ch,valais,5105
 20201017,4124,ch,neuchatel,2024
-20201017,4125,ch,geneve,11296
+20201017,4125,ch,geneve,11297
 20201017,4126,ch,jura_ch,796
 20201017,423,li,liechtenstein,217
 20201017,43,at,austria,65283
@@ -37922,7 +37932,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201016,4122,ch,vaud,13831
 20201016,4123,ch,valais,4822
 20201016,4124,ch,neuchatel,1961
-20201016,4125,ch,geneve,10999
+20201016,4125,ch,geneve,11000
 20201016,4126,ch,jura_ch,725
 20201016,423,li,liechtenstein,198
 20201016,43,at,austria,63799
@@ -38097,7 +38107,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201015,4122,ch,vaud,13452
 20201015,4123,ch,valais,4425
 20201015,4124,ch,neuchatel,1838
-20201015,4125,ch,geneve,10609
+20201015,4125,ch,geneve,10610
 20201015,4126,ch,jura_ch,678
 20201015,423,li,liechtenstein,192
 20201015,43,at,austria,62003
@@ -38273,7 +38283,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201014,4122,ch,vaud,12988
 20201014,4123,ch,valais,4113
 20201014,4124,ch,neuchatel,1740
-20201014,4125,ch,geneve,10344
+20201014,4125,ch,geneve,10345
 20201014,4126,ch,jura_ch,605
 20201014,423,li,liechtenstein,177
 20201014,43,at,austria,60479
@@ -38450,7 +38460,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201013,4122,ch,vaud,12668
 20201013,4123,ch,valais,3814
 20201013,4124,ch,neuchatel,1657
-20201013,4125,ch,geneve,10073
+20201013,4125,ch,geneve,10074
 20201013,4126,ch,jura_ch,549
 20201013,423,li,liechtenstein,170
 20201013,43,at,austria,59044
@@ -38626,7 +38636,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201012,4122,ch,vaud,12363
 20201012,4123,ch,valais,3592
 20201012,4124,ch,neuchatel,1594
-20201012,4125,ch,geneve,9767
+20201012,4125,ch,geneve,9768
 20201012,4126,ch,jura_ch,495
 20201012,423,li,liechtenstein,149
 20201012,43,at,austria,57725
@@ -38796,7 +38806,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201011,4122,ch,vaud,12108
 20201011,4123,ch,valais,3363
 20201011,4124,ch,neuchatel,1517
-20201011,4125,ch,geneve,9579
+20201011,4125,ch,geneve,9580
 20201011,4126,ch,jura_ch,478
 20201011,423,li,liechtenstein,148
 20201011,43,at,austria,56582
@@ -38966,7 +38976,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201010,4122,ch,vaud,11964
 20201010,4123,ch,valais,3287
 20201010,4124,ch,neuchatel,1480
-20201010,4125,ch,geneve,9497
+20201010,4125,ch,geneve,9498
 20201010,4126,ch,jura_ch,462
 20201010,423,li,liechtenstein,144
 20201010,43,at,austria,55751
@@ -39142,7 +39152,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201009,4122,ch,vaud,11769
 20201009,4123,ch,valais,3206
 20201009,4124,ch,neuchatel,1438
-20201009,4125,ch,geneve,9325
+20201009,4125,ch,geneve,9326
 20201009,4126,ch,jura_ch,434
 20201009,423,li,liechtenstein,139
 20201009,43,at,austria,54738
@@ -39318,7 +39328,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201008,4122,ch,vaud,11559
 20201008,4123,ch,valais,3067
 20201008,4124,ch,neuchatel,1376
-20201008,4125,ch,geneve,9160
+20201008,4125,ch,geneve,9161
 20201008,4126,ch,jura_ch,414
 20201008,423,li,liechtenstein,136
 20201008,43,at,austria,53481
@@ -39494,7 +39504,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201007,4122,ch,vaud,11362
 20201007,4123,ch,valais,2972
 20201007,4124,ch,neuchatel,1319
-20201007,4125,ch,geneve,9004
+20201007,4125,ch,geneve,9005
 20201007,4126,ch,jura_ch,382
 20201007,423,li,liechtenstein,131
 20201007,43,at,austria,52371
@@ -39670,7 +39680,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201006,4122,ch,vaud,11169
 20201006,4123,ch,valais,2869
 20201006,4124,ch,neuchatel,1269
-20201006,4125,ch,geneve,8892
+20201006,4125,ch,geneve,8893
 20201006,4126,ch,jura_ch,365
 20201006,423,li,liechtenstein,130
 20201006,43,at,austria,51099
@@ -39847,7 +39857,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201005,4122,ch,vaud,11015
 20201005,4123,ch,valais,2808
 20201005,4124,ch,neuchatel,1225
-20201005,4125,ch,geneve,8757
+20201005,4125,ch,geneve,8758
 20201005,4126,ch,jura_ch,344
 20201005,423,li,liechtenstein,127
 20201005,43,at,austria,50020
@@ -40017,7 +40027,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201004,4122,ch,vaud,10883
 20201004,4123,ch,valais,2773
 20201004,4124,ch,neuchatel,1182
-20201004,4125,ch,geneve,8667
+20201004,4125,ch,geneve,8668
 20201004,4126,ch,jura_ch,336
 20201004,423,li,liechtenstein,126
 20201004,43,at,austria,49093
@@ -40187,7 +40197,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201003,4122,ch,vaud,10795
 20201003,4123,ch,valais,2756
 20201003,4124,ch,neuchatel,1167
-20201003,4125,ch,geneve,8630
+20201003,4125,ch,geneve,8631
 20201003,4126,ch,jura_ch,334
 20201003,423,li,liechtenstein,123
 20201003,43,at,austria,48356
@@ -40364,7 +40374,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201002,4122,ch,vaud,10697
 20201002,4123,ch,valais,2739
 20201002,4124,ch,neuchatel,1162
-20201002,4125,ch,geneve,8563
+20201002,4125,ch,geneve,8564
 20201002,4126,ch,jura_ch,327
 20201002,423,li,liechtenstein,120
 20201002,43,at,austria,47638
@@ -40540,7 +40550,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20201001,4122,ch,vaud,10608
 20201001,4123,ch,valais,2708
 20201001,4124,ch,neuchatel,1149
-20201001,4125,ch,geneve,8501
+20201001,4125,ch,geneve,8502
 20201001,4126,ch,jura_ch,326
 20201001,423,li,liechtenstein,119
 20201001,43,at,austria,46625
@@ -40717,7 +40727,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20200930,4122,ch,vaud,10503
 20200930,4123,ch,valais,2692
 20200930,4124,ch,neuchatel,1122
-20200930,4125,ch,geneve,8425
+20200930,4125,ch,geneve,8426
 20200930,4126,ch,jura_ch,319
 20200930,423,li,liechtenstein,118
 20200930,43,at,austria,45835
@@ -40893,7 +40903,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20200929,4122,ch,vaud,10424
 20200929,4123,ch,valais,2666
 20200929,4124,ch,neuchatel,1109
-20200929,4125,ch,geneve,8365
+20200929,4125,ch,geneve,8366
 20200929,4126,ch,jura_ch,318
 20200929,423,li,liechtenstein,118
 20200929,43,at,austria,44983
@@ -41070,7 +41080,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20200928,4122,ch,vaud,10338
 20200928,4123,ch,valais,2652
 20200928,4124,ch,neuchatel,1101
-20200928,4125,ch,geneve,8309
+20200928,4125,ch,geneve,8310
 20200928,4126,ch,jura_ch,313
 20200928,423,li,liechtenstein,117
 20200928,43,at,austria,44223
@@ -41239,7 +41249,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20200927,4122,ch,vaud,10265
 20200927,4123,ch,valais,2637
 20200927,4124,ch,neuchatel,1091
-20200927,4125,ch,geneve,8274
+20200927,4125,ch,geneve,8275
 20200927,4126,ch,jura_ch,311
 20200927,423,li,liechtenstein,117
 20200927,43,at,austria,43486
@@ -41409,7 +41419,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20200926,4122,ch,vaud,10236
 20200926,4123,ch,valais,2633
 20200926,4124,ch,neuchatel,1090
-20200926,4125,ch,geneve,8259
+20200926,4125,ch,geneve,8260
 20200926,4126,ch,jura_ch,310
 20200926,423,li,liechtenstein,117
 20200926,43,at,austria,42939
@@ -41586,7 +41596,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20200925,4122,ch,vaud,10185
 20200925,4123,ch,valais,2628
 20200925,4124,ch,neuchatel,1079
-20200925,4125,ch,geneve,8227
+20200925,4125,ch,geneve,8228
 20200925,4126,ch,jura_ch,306
 20200925,423,li,liechtenstein,117
 20200925,43,at,austria,42350
@@ -41762,7 +41772,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20200924,4122,ch,vaud,10101
 20200924,4123,ch,valais,2622
 20200924,4124,ch,neuchatel,1069
-20200924,4125,ch,geneve,8188
+20200924,4125,ch,geneve,8189
 20200924,4126,ch,jura_ch,303
 20200924,423,li,liechtenstein,116
 20200924,43,at,austria,41590
@@ -41938,7 +41948,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20200923,4122,ch,vaud,10020
 20200923,4123,ch,valais,2607
 20200923,4124,ch,neuchatel,1061
-20200923,4125,ch,geneve,8148
+20200923,4125,ch,geneve,8149
 20200923,4126,ch,jura_ch,301
 20200923,423,li,liechtenstein,116
 20200923,43,at,austria,40933
@@ -42114,7 +42124,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20200922,4122,ch,vaud,9899
 20200922,4123,ch,valais,2589
 20200922,4124,ch,neuchatel,1050
-20200922,4125,ch,geneve,8100
+20200922,4125,ch,geneve,8101
 20200922,4126,ch,jura_ch,299
 20200922,423,li,liechtenstein,115
 20200922,43,at,austria,40128
@@ -42291,7 +42301,7 @@ dateId,areaCode,country,areaName,positiveTestCases
 20200921,4122,ch,vaud,9763
 20200921,4123,ch,valais,2575
 20200921,4124,ch,neuchatel,1043
-20200921,4125,ch,geneve,8032
+20200921,4125,ch,geneve,8033
 20200921,4126,ch,jura_ch,297
 20200921,423,li,liechtenstein,114
 20200921,43,at,austria,39411
