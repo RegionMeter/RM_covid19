@@ -1,4 +1,44 @@
 dateId,areaCode,country,areaName,hospitalizedCases
+20210601,4101,ch,zurich,81
+20210601,4103,ch,luzern,41
+20210601,4104,ch,uri,4
+20210601,4106,ch,obwalden,0
+20210601,4107,ch,nidwalden,2
+20210601,4108,ch,glarus,1
+20210601,4110,ch,fribourg,7
+20210601,4112,ch,basel_stadt,13
+20210601,4113,ch,basel_landschaft,7
+20210601,4114,ch,schaffhausen,6
+20210601,4116,ch,appenzell_innerrhoden,3
+20210601,4118,ch,graubunden,5
+20210601,4120,ch,thurgau,23
+20210601,4121,ch,ticino,10
+20210601,4123,ch,valais,19
+20210601,4125,ch,geneve,28
+20210531,4101,ch,zurich,93
+20210531,4102,ch,bern,61
+20210531,4103,ch,luzern,43
+20210531,4104,ch,uri,5
+20210531,4106,ch,obwalden,0
+20210531,4107,ch,nidwalden,2
+20210531,4108,ch,glarus,1
+20210531,4109,ch,zug,5
+20210531,4110,ch,fribourg,10
+20210531,4112,ch,basel_stadt,11
+20210531,4113,ch,basel_landschaft,8
+20210531,4114,ch,schaffhausen,7
+20210531,4116,ch,appenzell_innerrhoden,3
+20210531,4117,ch,st_gallen,40
+20210531,4118,ch,graubunden,6
+20210531,4119,ch,aargau,26
+20210531,4120,ch,thurgau,23
+20210531,4121,ch,ticino,11
+20210531,4122,ch,vaud,55
+20210531,4123,ch,valais,15
+20210531,4124,ch,neuchatel,13
+20210531,4125,ch,geneve,31
+20210531,4126,ch,jura_ch,3
+20210531,423,li,liechtenstein,3
 20210531,43,at,austria,258
 20210531,4301,at,wien,70
 20210531,4302,at,niederosterreich,55
@@ -9,6 +49,22 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210531,4307,at,salzburg,16
 20210531,4308,at,vorarlberg,9
 20210531,4309,at,burgenland,10
+20210530,4101,ch,zurich,91
+20210530,4107,ch,nidwalden,2
+20210530,4109,ch,zug,4
+20210530,4110,ch,fribourg,10
+20210530,4112,ch,basel_stadt,11
+20210530,4113,ch,basel_landschaft,8
+20210530,4117,ch,st_gallen,39
+20210530,4118,ch,graubunden,6
+20210530,4120,ch,thurgau,24
+20210530,4121,ch,ticino,11
+20210530,4122,ch,vaud,57
+20210530,4123,ch,valais,17
+20210530,4124,ch,neuchatel,12
+20210530,4125,ch,geneve,31
+20210530,4126,ch,jura_ch,4
+20210530,423,li,liechtenstein,3
 20210530,43,at,austria,264
 20210530,4301,at,wien,74
 20210530,4302,at,niederosterreich,52
@@ -19,6 +75,20 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210530,4307,at,salzburg,17
 20210530,4308,at,vorarlberg,9
 20210530,4309,at,burgenland,9
+20210529,4101,ch,zurich,93
+20210529,4107,ch,nidwalden,2
+20210529,4109,ch,zug,4
+20210529,4110,ch,fribourg,11
+20210529,4112,ch,basel_stadt,12
+20210529,4113,ch,basel_landschaft,8
+20210529,4118,ch,graubunden,5
+20210529,4120,ch,thurgau,22
+20210529,4121,ch,ticino,10
+20210529,4122,ch,vaud,56
+20210529,4123,ch,valais,16
+20210529,4124,ch,neuchatel,12
+20210529,4125,ch,geneve,28
+20210529,4126,ch,jura_ch,5
 20210529,43,at,austria,273
 20210529,4301,at,wien,82
 20210529,4302,at,niederosterreich,60
@@ -29,6 +99,27 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210529,4307,at,salzburg,16
 20210529,4308,at,vorarlberg,7
 20210529,4309,at,burgenland,10
+20210528,4101,ch,zurich,99
+20210528,4103,ch,luzern,42
+20210528,4104,ch,uri,5
+20210528,4106,ch,obwalden,3
+20210528,4107,ch,nidwalden,2
+20210528,4108,ch,glarus,0
+20210528,4109,ch,zug,4
+20210528,4110,ch,fribourg,11
+20210528,4112,ch,basel_stadt,11
+20210528,4113,ch,basel_landschaft,10
+20210528,4114,ch,schaffhausen,5
+20210528,4116,ch,appenzell_innerrhoden,3
+20210528,4118,ch,graubunden,5
+20210528,4119,ch,aargau,27
+20210528,4120,ch,thurgau,19
+20210528,4121,ch,ticino,15
+20210528,4122,ch,vaud,58
+20210528,4123,ch,valais,15
+20210528,4124,ch,neuchatel,14
+20210528,4125,ch,geneve,26
+20210528,4126,ch,jura_ch,5
 20210528,43,at,austria,285
 20210528,4301,at,wien,83
 20210528,4302,at,niederosterreich,62
@@ -39,6 +130,29 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210528,4307,at,salzburg,15
 20210528,4308,at,vorarlberg,6
 20210528,4309,at,burgenland,9
+20210527,4101,ch,zurich,104
+20210527,4103,ch,luzern,38
+20210527,4104,ch,uri,7
+20210527,4106,ch,obwalden,3
+20210527,4107,ch,nidwalden,2
+20210527,4108,ch,glarus,0
+20210527,4109,ch,zug,6
+20210527,4110,ch,fribourg,11
+20210527,4112,ch,basel_stadt,11
+20210527,4113,ch,basel_landschaft,8
+20210527,4114,ch,schaffhausen,6
+20210527,4116,ch,appenzell_innerrhoden,3
+20210527,4117,ch,st_gallen,43
+20210527,4118,ch,graubunden,5
+20210527,4119,ch,aargau,32
+20210527,4120,ch,thurgau,20
+20210527,4121,ch,ticino,18
+20210527,4122,ch,vaud,66
+20210527,4123,ch,valais,18
+20210527,4124,ch,neuchatel,14
+20210527,4125,ch,geneve,30
+20210527,4126,ch,jura_ch,6
+20210527,423,li,liechtenstein,3
 20210527,43,at,austria,318
 20210527,4301,at,wien,82
 20210527,4302,at,niederosterreich,67
@@ -49,6 +163,30 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210527,4307,at,salzburg,17
 20210527,4308,at,vorarlberg,9
 20210527,4309,at,burgenland,10
+20210526,4101,ch,zurich,105
+20210526,4102,ch,bern,61
+20210526,4103,ch,luzern,41
+20210526,4104,ch,uri,7
+20210526,4106,ch,obwalden,3
+20210526,4107,ch,nidwalden,2
+20210526,4108,ch,glarus,1
+20210526,4109,ch,zug,6
+20210526,4110,ch,fribourg,12
+20210526,4112,ch,basel_stadt,14
+20210526,4113,ch,basel_landschaft,12
+20210526,4114,ch,schaffhausen,7
+20210526,4116,ch,appenzell_innerrhoden,3
+20210526,4117,ch,st_gallen,46
+20210526,4118,ch,graubunden,5
+20210526,4119,ch,aargau,37
+20210526,4120,ch,thurgau,20
+20210526,4121,ch,ticino,19
+20210526,4122,ch,vaud,74
+20210526,4123,ch,valais,23
+20210526,4124,ch,neuchatel,13
+20210526,4125,ch,geneve,34
+20210526,4126,ch,jura_ch,5
+20210526,423,li,liechtenstein,3
 20210526,43,at,austria,349
 20210526,4301,at,wien,104
 20210526,4302,at,niederosterreich,69
@@ -59,6 +197,29 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210526,4307,at,salzburg,14
 20210526,4308,at,vorarlberg,13
 20210526,4309,at,burgenland,8
+20210525,4101,ch,zurich,111
+20210525,4103,ch,luzern,41
+20210525,4104,ch,uri,10
+20210525,4106,ch,obwalden,3
+20210525,4107,ch,nidwalden,3
+20210525,4108,ch,glarus,1
+20210525,4109,ch,zug,5
+20210525,4110,ch,fribourg,10
+20210525,4112,ch,basel_stadt,14
+20210525,4113,ch,basel_landschaft,14
+20210525,4114,ch,schaffhausen,7
+20210525,4116,ch,appenzell_innerrhoden,3
+20210525,4117,ch,st_gallen,50
+20210525,4118,ch,graubunden,5
+20210525,4119,ch,aargau,47
+20210525,4120,ch,thurgau,23
+20210525,4121,ch,ticino,19
+20210525,4122,ch,vaud,77
+20210525,4123,ch,valais,23
+20210525,4124,ch,neuchatel,14
+20210525,4125,ch,geneve,34
+20210525,4126,ch,jura_ch,4
+20210525,423,li,liechtenstein,4
 20210525,43,at,austria,383
 20210525,4301,at,wien,107
 20210525,4302,at,niederosterreich,66
@@ -69,6 +230,22 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210525,4307,at,salzburg,15
 20210525,4308,at,vorarlberg,9
 20210525,4309,at,burgenland,10
+20210524,4101,ch,zurich,111
+20210524,4107,ch,nidwalden,2
+20210524,4109,ch,zug,5
+20210524,4110,ch,fribourg,11
+20210524,4112,ch,basel_stadt,14
+20210524,4113,ch,basel_landschaft,14
+20210524,4117,ch,st_gallen,42
+20210524,4118,ch,graubunden,7
+20210524,4120,ch,thurgau,21
+20210524,4121,ch,ticino,21
+20210524,4122,ch,vaud,83
+20210524,4123,ch,valais,25
+20210524,4124,ch,neuchatel,14
+20210524,4125,ch,geneve,36
+20210524,4126,ch,jura_ch,5
+20210524,423,li,liechtenstein,4
 20210524,43,at,austria,368
 20210524,4301,at,wien,96
 20210524,4302,at,niederosterreich,65
@@ -87,6 +264,19 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210523,386021,si,osrednjeslovenska,109
 20210523,386022,si,gorenjska,21
 20210523,386023,si,goriska,18
+20210523,4101,ch,zurich,118
+20210523,4107,ch,nidwalden,2
+20210523,4109,ch,zug,6
+20210523,4110,ch,fribourg,11
+20210523,4112,ch,basel_stadt,16
+20210523,4113,ch,basel_landschaft,10
+20210523,4118,ch,graubunden,8
+20210523,4120,ch,thurgau,20
+20210523,4121,ch,ticino,23
+20210523,4122,ch,vaud,78
+20210523,4123,ch,valais,24
+20210523,4124,ch,neuchatel,13
+20210523,4126,ch,jura_ch,5
 20210523,43,at,austria,386
 20210523,4301,at,wien,108
 20210523,4302,at,niederosterreich,65
@@ -242,12 +432,19 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210522,3946,it,calabria,294
 20210522,3951,it,sicilia,662
 20210522,3952,it,sardegna,184
+20210522,4101,ch,zurich,126
 20210522,4107,ch,nidwalden,2
+20210522,4109,ch,zug,6
+20210522,4110,ch,fribourg,13
 20210522,4112,ch,basel_stadt,18
 20210522,4113,ch,basel_landschaft,10
 20210522,4118,ch,graubunden,7
+20210522,4120,ch,thurgau,19
 20210522,4121,ch,ticino,24
-20210522,4126,ch,jura_ch,4
+20210522,4122,ch,vaud,74
+20210522,4123,ch,valais,27
+20210522,4124,ch,neuchatel,7
+20210522,4126,ch,jura_ch,5
 20210522,43,at,austria,406
 20210522,4301,at,wien,119
 20210522,4302,at,niederosterreich,73
@@ -417,9 +614,12 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210521,4114,ch,schaffhausen,9
 20210521,4116,ch,appenzell_innerrhoden,3
 20210521,4118,ch,graubunden,9
+20210521,4119,ch,aargau,46
 20210521,4120,ch,thurgau,20
 20210521,4121,ch,ticino,25
-20210521,4123,ch,valais,0
+20210521,4122,ch,vaud,72
+20210521,4123,ch,valais,28
+20210521,4124,ch,neuchatel,14
 20210521,4125,ch,geneve,43
 20210521,4126,ch,jura_ch,4
 20210521,43,at,austria,463
@@ -592,9 +792,9 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210520,4117,ch,st_gallen,39
 20210520,4118,ch,graubunden,9
 20210520,4119,ch,aargau,40
-20210520,4120,ch,thurgau,20
+20210520,4120,ch,thurgau,22
 20210520,4121,ch,ticino,25
-20210520,4122,ch,vaud,90
+20210520,4122,ch,vaud,83
 20210520,4123,ch,valais,30
 20210520,4124,ch,neuchatel,15
 20210520,4125,ch,geneve,41
@@ -771,10 +971,10 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210519,4116,ch,appenzell_innerrhoden,3
 20210519,4117,ch,st_gallen,36
 20210519,4118,ch,graubunden,10
-20210519,4119,ch,aargau,44
-20210519,4120,ch,thurgau,19
+20210519,4119,ch,aargau,45
+20210519,4120,ch,thurgau,21
 20210519,4121,ch,ticino,27
-20210519,4122,ch,vaud,88
+20210519,4122,ch,vaud,83
 20210519,4123,ch,valais,29
 20210519,4124,ch,neuchatel,15
 20210519,4125,ch,geneve,43
@@ -937,6 +1137,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210518,3951,it,sicilia,786
 20210518,3952,it,sardegna,205
 20210518,4101,ch,zurich,128
+20210518,4102,ch,bern,79
 20210518,4103,ch,luzern,46
 20210518,4104,ch,uri,8
 20210518,4106,ch,obwalden,1
@@ -954,7 +1155,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210518,4119,ch,aargau,53
 20210518,4120,ch,thurgau,23
 20210518,4121,ch,ticino,28
-20210518,4122,ch,vaud,92
+20210518,4122,ch,vaud,88
 20210518,4123,ch,valais,25
 20210518,4124,ch,neuchatel,15
 20210518,4125,ch,geneve,37
@@ -1134,7 +1335,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210517,4119,ch,aargau,54
 20210517,4120,ch,thurgau,23
 20210517,4121,ch,ticino,29
-20210517,4122,ch,vaud,93
+20210517,4122,ch,vaud,88
 20210517,4123,ch,valais,25
 20210517,4124,ch,neuchatel,13
 20210517,4125,ch,geneve,40
@@ -1307,7 +1508,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210516,4118,ch,graubunden,17
 20210516,4120,ch,thurgau,22
 20210516,4121,ch,ticino,29
-20210516,4122,ch,vaud,106
+20210516,4122,ch,vaud,102
 20210516,4123,ch,valais,22
 20210516,4124,ch,neuchatel,13
 20210516,4125,ch,geneve,38
@@ -1479,7 +1680,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210515,4118,ch,graubunden,18
 20210515,4120,ch,thurgau,23
 20210515,4121,ch,ticino,30
-20210515,4122,ch,vaud,100
+20210515,4122,ch,vaud,97
 20210515,4123,ch,valais,20
 20210515,4124,ch,neuchatel,13
 20210515,4125,ch,geneve,39
@@ -1657,7 +1858,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210514,4119,ch,aargau,50
 20210514,4120,ch,thurgau,24
 20210514,4121,ch,ticino,34
-20210514,4122,ch,vaud,94
+20210514,4122,ch,vaud,91
 20210514,4123,ch,valais,21
 20210514,4124,ch,neuchatel,15
 20210514,4125,ch,geneve,45
@@ -1830,7 +2031,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210513,4118,ch,graubunden,15
 20210513,4120,ch,thurgau,24
 20210513,4121,ch,ticino,36
-20210513,4122,ch,vaud,95
+20210513,4122,ch,vaud,93
 20210513,4123,ch,valais,22
 20210513,4124,ch,neuchatel,15
 20210513,4125,ch,geneve,50
@@ -2012,7 +2213,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210512,4119,ch,aargau,69
 20210512,4120,ch,thurgau,21
 20210512,4121,ch,ticino,38
-20210512,4122,ch,vaud,98
+20210512,4122,ch,vaud,96
 20210512,4123,ch,valais,26
 20210512,4124,ch,neuchatel,14
 20210512,4125,ch,geneve,55
@@ -2176,6 +2377,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210511,3951,it,sicilia,959
 20210511,3952,it,sardegna,274
 20210511,4101,ch,zurich,166
+20210511,4102,ch,bern,76
 20210511,4103,ch,luzern,53
 20210511,4104,ch,uri,10
 20210511,4106,ch,obwalden,0
@@ -2193,7 +2395,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210511,4119,ch,aargau,74
 20210511,4120,ch,thurgau,22
 20210511,4121,ch,ticino,43
-20210511,4122,ch,vaud,104
+20210511,4122,ch,vaud,103
 20210511,4123,ch,valais,29
 20210511,4124,ch,neuchatel,13
 20210511,4125,ch,geneve,55
@@ -2375,7 +2577,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210510,4119,ch,aargau,83
 20210510,4120,ch,thurgau,21
 20210510,4121,ch,ticino,53
-20210510,4122,ch,vaud,108
+20210510,4122,ch,vaud,107
 20210510,4123,ch,valais,29
 20210510,4124,ch,neuchatel,14
 20210510,4125,ch,geneve,54
@@ -2549,7 +2751,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210509,4118,ch,graubunden,13
 20210509,4120,ch,thurgau,23
 20210509,4121,ch,ticino,54
-20210509,4122,ch,vaud,113
+20210509,4122,ch,vaud,111
 20210509,4123,ch,valais,27
 20210509,4124,ch,neuchatel,17
 20210509,4125,ch,geneve,58
@@ -2722,7 +2924,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210508,4118,ch,graubunden,11
 20210508,4120,ch,thurgau,22
 20210508,4121,ch,ticino,54
-20210508,4122,ch,vaud,106
+20210508,4122,ch,vaud,105
 20210508,4123,ch,valais,26
 20210508,4124,ch,neuchatel,17
 20210508,4125,ch,geneve,61
@@ -3266,7 +3468,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210505,4119,ch,aargau,71
 20210505,4120,ch,thurgau,24
 20210505,4121,ch,ticino,60
-20210505,4122,ch,vaud,111
+20210505,4122,ch,vaud,109
 20210505,4123,ch,valais,29
 20210505,4124,ch,neuchatel,18
 20210505,4125,ch,geneve,55
@@ -3431,6 +3633,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210504,3951,it,sicilia,1152
 20210504,3952,it,sardegna,354
 20210504,4101,ch,zurich,204
+20210504,4102,ch,bern,118
 20210504,4103,ch,luzern,56
 20210504,4104,ch,uri,5
 20210504,4106,ch,obwalden,2
@@ -3448,7 +3651,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210504,4119,ch,aargau,78
 20210504,4120,ch,thurgau,31
 20210504,4121,ch,ticino,60
-20210504,4122,ch,vaud,123
+20210504,4122,ch,vaud,121
 20210504,4123,ch,valais,33
 20210504,4124,ch,neuchatel,18
 20210504,4125,ch,geneve,70
@@ -3630,7 +3833,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210503,4119,ch,aargau,69
 20210503,4120,ch,thurgau,31
 20210503,4121,ch,ticino,62
-20210503,4122,ch,vaud,138
+20210503,4122,ch,vaud,136
 20210503,4123,ch,valais,40
 20210503,4124,ch,neuchatel,19
 20210503,4125,ch,geneve,76
@@ -3804,7 +4007,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210502,4118,ch,graubunden,24
 20210502,4120,ch,thurgau,36
 20210502,4121,ch,ticino,62
-20210502,4122,ch,vaud,139
+20210502,4122,ch,vaud,137
 20210502,4123,ch,valais,35
 20210502,4124,ch,neuchatel,24
 20210502,4125,ch,geneve,77
@@ -3977,7 +4180,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210501,4118,ch,graubunden,24
 20210501,4120,ch,thurgau,36
 20210501,4121,ch,ticino,63
-20210501,4122,ch,vaud,131
+20210501,4122,ch,vaud,129
 20210501,4123,ch,valais,34
 20210501,4124,ch,neuchatel,22
 20210501,4125,ch,geneve,80
@@ -4157,7 +4360,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210430,4119,ch,aargau,76
 20210430,4120,ch,thurgau,37
 20210430,4121,ch,ticino,68
-20210430,4122,ch,vaud,122
+20210430,4122,ch,vaud,120
 20210430,4123,ch,valais,31
 20210430,4124,ch,neuchatel,22
 20210430,4125,ch,geneve,74
@@ -4338,7 +4541,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210429,4119,ch,aargau,83
 20210429,4120,ch,thurgau,44
 20210429,4121,ch,ticino,66
-20210429,4122,ch,vaud,131
+20210429,4122,ch,vaud,129
 20210429,4123,ch,valais,29
 20210429,4124,ch,neuchatel,20
 20210429,4125,ch,geneve,81
@@ -4521,7 +4724,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210428,4119,ch,aargau,84
 20210428,4120,ch,thurgau,41
 20210428,4121,ch,ticino,74
-20210428,4122,ch,vaud,137
+20210428,4122,ch,vaud,135
 20210428,4123,ch,valais,34
 20210428,4124,ch,neuchatel,17
 20210428,4125,ch,geneve,91
@@ -4686,6 +4889,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210427,3951,it,sicilia,1254
 20210427,3952,it,sardegna,371
 20210427,4101,ch,zurich,235
+20210427,4102,ch,bern,122
 20210427,4103,ch,luzern,50
 20210427,4104,ch,uri,7
 20210427,4106,ch,obwalden,1
@@ -4703,7 +4907,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210427,4119,ch,aargau,87
 20210427,4120,ch,thurgau,42
 20210427,4121,ch,ticino,76
-20210427,4122,ch,vaud,132
+20210427,4122,ch,vaud,131
 20210427,4123,ch,valais,36
 20210427,4124,ch,neuchatel,20
 20210427,4125,ch,geneve,89
@@ -4884,7 +5088,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210426,4119,ch,aargau,91
 20210426,4120,ch,thurgau,44
 20210426,4121,ch,ticino,85
-20210426,4122,ch,vaud,139
+20210426,4122,ch,vaud,138
 20210426,4123,ch,valais,35
 20210426,4124,ch,neuchatel,24
 20210426,4125,ch,geneve,96
@@ -5940,6 +6144,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210420,3951,it,sicilia,1255
 20210420,3952,it,sardegna,377
 20210420,4101,ch,zurich,234
+20210420,4102,ch,bern,108
 20210420,4103,ch,luzern,43
 20210420,4104,ch,uri,6
 20210420,4106,ch,obwalden,3
@@ -7195,6 +7400,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210413,3951,it,sicilia,1214
 20210413,3952,it,sardegna,340
 20210413,4101,ch,zurich,215
+20210413,4102,ch,bern,96
 20210413,4103,ch,luzern,47
 20210413,4104,ch,uri,9
 20210413,4106,ch,obwalden,3
@@ -8448,6 +8654,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210406,3951,it,sicilia,1082
 20210406,3952,it,sardegna,297
 20210406,4101,ch,zurich,204
+20210406,4102,ch,bern,89
 20210406,4103,ch,luzern,43
 20210406,4104,ch,uri,10
 20210406,4106,ch,obwalden,2
@@ -9683,6 +9890,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210330,3951,it,sicilia,876
 20210330,3952,it,sardegna,210
 20210330,4101,ch,zurich,178
+20210330,4102,ch,bern,89
 20210330,4103,ch,luzern,44
 20210330,4104,ch,uri,5
 20210330,4106,ch,obwalden,2
@@ -10927,6 +11135,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210323,3951,it,sicilia,814
 20210323,3952,it,sardegna,172
 20210323,4101,ch,zurich,146
+20210323,4102,ch,bern,71
 20210323,4103,ch,luzern,41
 20210323,4104,ch,uri,5
 20210323,4106,ch,obwalden,3
@@ -12165,6 +12374,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210316,3951,it,sicilia,725
 20210316,3952,it,sardegna,172
 20210316,4101,ch,zurich,141
+20210316,4102,ch,bern,84
 20210316,4103,ch,luzern,45
 20210316,4104,ch,uri,6
 20210316,4106,ch,obwalden,1
@@ -13409,6 +13619,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210309,3951,it,sicilia,665
 20210309,3952,it,sardegna,185
 20210309,4101,ch,zurich,146
+20210309,4102,ch,bern,71
 20210309,4103,ch,luzern,32
 20210309,4104,ch,uri,5
 20210309,4106,ch,obwalden,3
@@ -13774,6 +13985,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210307,3951,it,sicilia,657
 20210307,3952,it,sardegna,188
 20210307,4101,ch,zurich,142
+20210307,4102,ch,bern,74
 20210307,4107,ch,nidwalden,1
 20210307,4109,ch,zug,7
 20210307,4110,ch,fribourg,37
@@ -14302,6 +14514,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210304,3951,it,sicilia,676
 20210304,3952,it,sardegna,193
 20210304,4101,ch,zurich,138
+20210304,4102,ch,bern,62
 20210304,4103,ch,luzern,37
 20210304,4104,ch,uri,2
 20210304,4106,ch,obwalden,4
@@ -14667,6 +14880,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210302,3951,it,sicilia,726
 20210302,3952,it,sardegna,206
 20210302,4101,ch,zurich,134
+20210302,4102,ch,bern,74
 20210302,4103,ch,luzern,29
 20210302,4104,ch,uri,2
 20210302,4106,ch,obwalden,3
@@ -15032,6 +15246,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210228,3951,it,sicilia,725
 20210228,3952,it,sardegna,215
 20210228,4101,ch,zurich,126
+20210228,4102,ch,bern,71
 20210228,4107,ch,nidwalden,2
 20210228,4109,ch,zug,8
 20210228,4110,ch,fribourg,30
@@ -15560,6 +15775,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210225,3951,it,sicilia,799
 20210225,3952,it,sardegna,229
 20210225,4101,ch,zurich,126
+20210225,4102,ch,bern,75
 20210225,4103,ch,luzern,29
 20210225,4104,ch,uri,1
 20210225,4106,ch,obwalden,2
@@ -15925,7 +16141,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210223,3951,it,sicilia,818
 20210223,3952,it,sardegna,247
 20210223,4101,ch,zurich,130
-20210223,4102,ch,bern,95
+20210223,4102,ch,bern,73
 20210223,4103,ch,luzern,32
 20210223,4104,ch,uri,1
 20210223,4106,ch,obwalden,3
@@ -16291,6 +16507,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210221,3951,it,sicilia,846
 20210221,3952,it,sardegna,275
 20210221,4101,ch,zurich,140
+20210221,4102,ch,bern,95
 20210221,4107,ch,nidwalden,4
 20210221,4109,ch,zug,7
 20210221,4110,ch,fribourg,22
@@ -16819,7 +17036,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210218,3951,it,sicilia,930
 20210218,3952,it,sardegna,295
 20210218,4101,ch,zurich,153
-20210218,4102,ch,bern,111
+20210218,4102,ch,bern,105
 20210218,4103,ch,luzern,31
 20210218,4104,ch,uri,3
 20210218,4106,ch,obwalden,3
@@ -17001,7 +17218,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210217,3951,it,sicilia,961
 20210217,3952,it,sardegna,302
 20210217,4101,ch,zurich,147
-20210217,4102,ch,bern,106
+20210217,4102,ch,bern,111
 20210217,4103,ch,luzern,33
 20210217,4104,ch,uri,3
 20210217,4106,ch,obwalden,3
@@ -17183,7 +17400,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210216,3951,it,sicilia,1005
 20210216,3952,it,sardegna,311
 20210216,4101,ch,zurich,151
-20210216,4102,ch,bern,109
+20210216,4102,ch,bern,106
 20210216,4103,ch,luzern,34
 20210216,4104,ch,uri,4
 20210216,4106,ch,obwalden,2
@@ -17365,7 +17582,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210215,3951,it,sicilia,1035
 20210215,3952,it,sardegna,320
 20210215,4101,ch,zurich,157
-20210215,4102,ch,bern,110
+20210215,4102,ch,bern,109
 20210215,4103,ch,luzern,34
 20210215,4104,ch,uri,4
 20210215,4106,ch,obwalden,2
@@ -17547,6 +17764,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210214,3951,it,sicilia,1030
 20210214,3952,it,sardegna,320
 20210214,4101,ch,zurich,157
+20210214,4102,ch,bern,110
 20210214,4107,ch,nidwalden,6
 20210214,4109,ch,zug,7
 20210214,4110,ch,fribourg,25
@@ -18074,7 +18292,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210211,3951,it,sicilia,1071
 20210211,3952,it,sardegna,358
 20210211,4101,ch,zurich,180
-20210211,4102,ch,bern,112
+20210211,4102,ch,bern,126
 20210211,4103,ch,luzern,49
 20210211,4104,ch,uri,6
 20210211,4106,ch,obwalden,4
@@ -18256,7 +18474,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210210,3951,it,sicilia,1108
 20210210,3952,it,sardegna,365
 20210210,4101,ch,zurich,203
-20210210,4102,ch,bern,123
+20210210,4102,ch,bern,112
 20210210,4103,ch,luzern,56
 20210210,4104,ch,uri,5
 20210210,4106,ch,obwalden,4
@@ -18439,7 +18657,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210209,3951,it,sicilia,1161
 20210209,3952,it,sardegna,371
 20210209,4101,ch,zurich,203
-20210209,4102,ch,bern,116
+20210209,4102,ch,bern,123
 20210209,4103,ch,luzern,63
 20210209,4104,ch,uri,4
 20210209,4106,ch,obwalden,5
@@ -18805,6 +19023,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210207,3951,it,sicilia,1198
 20210207,3952,it,sardegna,382
 20210207,4101,ch,zurich,215
+20210207,4102,ch,bern,116
 20210207,4107,ch,nidwalden,5
 20210207,4109,ch,zug,8
 20210207,4110,ch,fribourg,24
@@ -19334,7 +19553,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210204,3951,it,sicilia,1286
 20210204,3952,it,sardegna,398
 20210204,4101,ch,zurich,207
-20210204,4102,ch,bern,114
+20210204,4102,ch,bern,111
 20210204,4103,ch,luzern,55
 20210204,4104,ch,uri,3
 20210204,4106,ch,obwalden,4
@@ -19517,7 +19736,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210203,3951,it,sicilia,1317
 20210203,3952,it,sardegna,416
 20210203,4101,ch,zurich,221
-20210203,4102,ch,bern,117
+20210203,4102,ch,bern,114
 20210203,4103,ch,luzern,63
 20210203,4104,ch,uri,3
 20210203,4106,ch,obwalden,5
@@ -19700,7 +19919,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210202,3951,it,sicilia,1327
 20210202,3952,it,sardegna,430
 20210202,4101,ch,zurich,230
-20210202,4102,ch,bern,125
+20210202,4102,ch,bern,117
 20210202,4103,ch,luzern,62
 20210202,4104,ch,uri,3
 20210202,4106,ch,obwalden,3
@@ -19883,7 +20102,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210201,3951,it,sicilia,1336
 20210201,3952,it,sardegna,439
 20210201,4101,ch,zurich,235
-20210201,4102,ch,bern,132
+20210201,4102,ch,bern,125
 20210201,4103,ch,luzern,70
 20210201,4104,ch,uri,3
 20210201,4106,ch,obwalden,5
@@ -20066,6 +20285,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210131,3951,it,sicilia,1325
 20210131,3952,it,sardegna,446
 20210131,4101,ch,zurich,229
+20210131,4102,ch,bern,132
 20210131,4107,ch,nidwalden,9
 20210131,4109,ch,zug,7
 20210131,4110,ch,fribourg,38
@@ -20594,7 +20814,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210128,3951,it,sicilia,1405
 20210128,3952,it,sardegna,465
 20210128,4101,ch,zurich,241
-20210128,4102,ch,bern,135
+20210128,4102,ch,bern,118
 20210128,4103,ch,luzern,70
 20210128,4104,ch,uri,3
 20210128,4106,ch,obwalden,5
@@ -20777,7 +20997,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210127,3951,it,sicilia,1421
 20210127,3952,it,sardegna,471
 20210127,4101,ch,zurich,236
-20210127,4102,ch,bern,141
+20210127,4102,ch,bern,135
 20210127,4103,ch,luzern,84
 20210127,4104,ch,uri,3
 20210127,4106,ch,obwalden,7
@@ -20960,7 +21180,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210126,3951,it,sicilia,1435
 20210126,3952,it,sardegna,468
 20210126,4101,ch,zurich,239
-20210126,4102,ch,bern,150
+20210126,4102,ch,bern,141
 20210126,4103,ch,luzern,77
 20210126,4104,ch,uri,4
 20210126,4106,ch,obwalden,9
@@ -21143,7 +21363,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210125,3951,it,sicilia,1439
 20210125,3952,it,sardegna,472
 20210125,4101,ch,zurich,258
-20210125,4102,ch,bern,158
+20210125,4102,ch,bern,150
 20210125,4103,ch,luzern,89
 20210125,4104,ch,uri,5
 20210125,4106,ch,obwalden,11
@@ -21326,6 +21546,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210124,3951,it,sicilia,1431
 20210124,3952,it,sardegna,464
 20210124,4101,ch,zurich,252
+20210124,4102,ch,bern,158
 20210124,4107,ch,nidwalden,12
 20210124,4109,ch,zug,8
 20210124,4110,ch,fribourg,38
@@ -21855,7 +22076,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210121,3951,it,sicilia,1436
 20210121,3952,it,sardegna,466
 20210121,4101,ch,zurich,298
-20210121,4102,ch,bern,173
+20210121,4102,ch,bern,171
 20210121,4103,ch,luzern,82
 20210121,4104,ch,uri,6
 20210121,4106,ch,obwalden,6
@@ -22039,7 +22260,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210120,3951,it,sicilia,1459
 20210120,3952,it,sardegna,488
 20210120,4101,ch,zurich,309
-20210120,4102,ch,bern,191
+20210120,4102,ch,bern,173
 20210120,4103,ch,luzern,88
 20210120,4104,ch,uri,6
 20210120,4106,ch,obwalden,8
@@ -22223,7 +22444,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210119,3951,it,sicilia,1456
 20210119,3952,it,sardegna,506
 20210119,4101,ch,zurich,311
-20210119,4102,ch,bern,209
+20210119,4102,ch,bern,191
 20210119,4103,ch,luzern,94
 20210119,4104,ch,uri,10
 20210119,4106,ch,obwalden,12
@@ -22407,7 +22628,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210118,3951,it,sicilia,1444
 20210118,3952,it,sardegna,506
 20210118,4101,ch,zurich,311
-20210118,4102,ch,bern,208
+20210118,4102,ch,bern,209
 20210118,4103,ch,luzern,94
 20210118,4104,ch,uri,10
 20210118,4106,ch,obwalden,13
@@ -22591,6 +22812,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210117,3951,it,sicilia,1422
 20210117,3952,it,sardegna,507
 20210117,4101,ch,zurich,299
+20210117,4102,ch,bern,208
 20210117,4107,ch,nidwalden,9
 20210117,4109,ch,zug,16
 20210117,4110,ch,fribourg,44
@@ -23120,7 +23342,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210114,3951,it,sicilia,1397
 20210114,3952,it,sardegna,527
 20210114,4101,ch,zurich,349
-20210114,4102,ch,bern,230
+20210114,4102,ch,bern,212
 20210114,4103,ch,luzern,109
 20210114,4104,ch,uri,7
 20210114,4106,ch,obwalden,8
@@ -23304,7 +23526,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210113,3951,it,sicilia,1371
 20210113,3952,it,sardegna,532
 20210113,4101,ch,zurich,381
-20210113,4102,ch,bern,241
+20210113,4102,ch,bern,230
 20210113,4103,ch,luzern,117
 20210113,4104,ch,uri,8
 20210113,4106,ch,obwalden,9
@@ -23488,7 +23710,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210112,3951,it,sicilia,1342
 20210112,3952,it,sardegna,522
 20210112,4101,ch,zurich,393
-20210112,4102,ch,bern,257
+20210112,4102,ch,bern,241
 20210112,4103,ch,luzern,110
 20210112,4104,ch,uri,10
 20210112,4106,ch,obwalden,12
@@ -23672,7 +23894,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210111,3951,it,sicilia,1298
 20210111,3952,it,sardegna,517
 20210111,4101,ch,zurich,401
-20210111,4102,ch,bern,272
+20210111,4102,ch,bern,257
 20210111,4103,ch,luzern,109
 20210111,4104,ch,uri,9
 20210111,4106,ch,obwalden,12
@@ -23856,6 +24078,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210110,3951,it,sicilia,1265
 20210110,3952,it,sardegna,507
 20210110,4101,ch,zurich,376
+20210110,4102,ch,bern,272
 20210110,4107,ch,nidwalden,8
 20210110,4109,ch,zug,21
 20210110,4110,ch,fribourg,46
@@ -24385,7 +24608,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210107,3951,it,sicilia,1228
 20210107,3952,it,sardegna,492
 20210107,4101,ch,zurich,442
-20210107,4102,ch,bern,300
+20210107,4102,ch,bern,279
 20210107,4103,ch,luzern,110
 20210107,4104,ch,uri,11
 20210107,4106,ch,obwalden,7
@@ -24569,7 +24792,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210106,3951,it,sicilia,1190
 20210106,3952,it,sardegna,494
 20210106,4101,ch,zurich,480
-20210106,4102,ch,bern,309
+20210106,4102,ch,bern,300
 20210106,4103,ch,luzern,114
 20210106,4106,ch,obwalden,6
 20210106,4107,ch,nidwalden,10
@@ -24752,7 +24975,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210105,3951,it,sicilia,1198
 20210105,3952,it,sardegna,488
 20210105,4101,ch,zurich,491
-20210105,4102,ch,bern,307
+20210105,4102,ch,bern,309
 20210105,4103,ch,luzern,118
 20210105,4104,ch,uri,10
 20210105,4106,ch,obwalden,5
@@ -24936,7 +25159,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210104,3951,it,sicilia,1181
 20210104,3952,it,sardegna,489
 20210104,4101,ch,zurich,484
-20210104,4102,ch,bern,306
+20210104,4102,ch,bern,305
 20210104,4103,ch,luzern,126
 20210104,4104,ch,uri,10
 20210104,4106,ch,obwalden,9
@@ -25120,6 +25343,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210103,3951,it,sicilia,1137
 20210103,3952,it,sardegna,473
 20210103,4101,ch,zurich,479
+20210103,4102,ch,bern,304
 20210103,4107,ch,nidwalden,8
 20210103,4109,ch,zug,18
 20210103,4110,ch,fribourg,50
@@ -25294,6 +25518,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210102,3951,it,sicilia,1090
 20210102,3952,it,sardegna,479
 20210102,4101,ch,zurich,455
+20210102,4102,ch,bern,297
 20210102,4107,ch,nidwalden,7
 20210102,4109,ch,zug,19
 20210102,4110,ch,fribourg,49
@@ -25466,6 +25691,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210101,3951,it,sicilia,1073
 20210101,3952,it,sardegna,479
 20210101,4101,ch,zurich,445
+20210101,4102,ch,bern,297
 20210101,4107,ch,nidwalden,6
 20210101,4108,ch,glarus,19
 20210101,4109,ch,zug,17
@@ -25641,7 +25867,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201231,3951,it,sicilia,1069
 20201231,3952,it,sardegna,486
 20201231,4101,ch,zurich,465
-20201231,4102,ch,bern,299
+20201231,4102,ch,bern,300
 20201231,4104,ch,uri,8
 20201231,4106,ch,obwalden,7
 20201231,4107,ch,nidwalden,5
@@ -25822,7 +26048,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201230,3951,it,sicilia,1085
 20201230,3952,it,sardegna,496
 20201230,4101,ch,zurich,492
-20201230,4102,ch,bern,304
+20201230,4102,ch,bern,296
 20201230,4103,ch,luzern,119
 20201230,4106,ch,obwalden,5
 20201230,4107,ch,nidwalden,6
@@ -26004,7 +26230,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201229,3951,it,sicilia,1093
 20201229,3952,it,sardegna,498
 20201229,4101,ch,zurich,514
-20201229,4102,ch,bern,309
+20201229,4102,ch,bern,301
 20201229,4103,ch,luzern,129
 20201229,4104,ch,uri,9
 20201229,4106,ch,obwalden,5
@@ -26187,7 +26413,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201228,3951,it,sicilia,1064
 20201228,3952,it,sardegna,497
 20201228,4101,ch,zurich,498
-20201228,4102,ch,bern,288
+20201228,4102,ch,bern,309
 20201228,4103,ch,luzern,110
 20201228,4104,ch,uri,9
 20201228,4106,ch,obwalden,5
@@ -26371,6 +26597,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201227,3951,it,sicilia,1027
 20201227,3952,it,sardegna,483
 20201227,4101,ch,zurich,494
+20201227,4102,ch,bern,288
 20201227,4106,ch,obwalden,8
 20201227,4107,ch,nidwalden,7
 20201227,4109,ch,zug,15
@@ -26545,6 +26772,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201226,3951,it,sicilia,1014
 20201226,3952,it,sardegna,478
 20201226,4101,ch,zurich,480
+20201226,4102,ch,bern,270
 20201226,4104,ch,uri,7
 20201226,4106,ch,obwalden,8
 20201226,4107,ch,nidwalden,5
@@ -26719,6 +26947,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201225,3951,it,sicilia,995
 20201225,3952,it,sardegna,484
 20201225,4101,ch,zurich,499
+20201225,4102,ch,bern,260
 20201225,4106,ch,obwalden,8
 20201225,4107,ch,nidwalden,5
 20201225,4108,ch,glarus,13
@@ -26895,7 +27124,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201224,3951,it,sicilia,1008
 20201224,3952,it,sardegna,498
 20201224,4101,ch,zurich,499
-20201224,4102,ch,bern,302
+20201224,4102,ch,bern,264
 20201224,4103,ch,luzern,99
 20201224,4106,ch,obwalden,8
 20201224,4107,ch,nidwalden,4
@@ -27076,7 +27305,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201223,3951,it,sicilia,1028
 20201223,3952,it,sardegna,519
 20201223,4101,ch,zurich,498
-20201223,4102,ch,bern,327
+20201223,4102,ch,bern,302
 20201223,4103,ch,luzern,99
 20201223,4104,ch,uri,7
 20201223,4106,ch,obwalden,8
@@ -27260,7 +27489,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201222,3951,it,sicilia,1059
 20201222,3952,it,sardegna,526
 20201222,4101,ch,zurich,508
-20201222,4102,ch,bern,331
+20201222,4102,ch,bern,327
 20201222,4103,ch,luzern,107
 20201222,4104,ch,uri,10
 20201222,4106,ch,obwalden,5
@@ -27444,7 +27673,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201221,3951,it,sicilia,1086
 20201221,3952,it,sardegna,542
 20201221,4101,ch,zurich,538
-20201221,4102,ch,bern,347
+20201221,4102,ch,bern,331
 20201221,4103,ch,luzern,108
 20201221,4104,ch,uri,8
 20201221,4106,ch,obwalden,4
@@ -27628,6 +27857,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201220,3951,it,sicilia,1076
 20201220,3952,it,sardegna,548
 20201220,4101,ch,zurich,520
+20201220,4102,ch,bern,347
 20201220,4106,ch,obwalden,5
 20201220,4107,ch,nidwalden,8
 20201220,4109,ch,zug,25
@@ -28158,7 +28388,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201217,3951,it,sicilia,1131
 20201217,3952,it,sardegna,558
 20201217,4101,ch,zurich,521
-20201217,4102,ch,bern,326
+20201217,4102,ch,bern,333
 20201217,4103,ch,luzern,101
 20201217,4104,ch,uri,8
 20201217,4106,ch,obwalden,5
@@ -28342,7 +28572,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201216,3951,it,sicilia,1188
 20201216,3952,it,sardegna,550
 20201216,4101,ch,zurich,518
-20201216,4102,ch,bern,337
+20201216,4102,ch,bern,325
 20201216,4103,ch,luzern,100
 20201216,4104,ch,uri,12
 20201216,4106,ch,obwalden,7
@@ -28708,7 +28938,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201214,3951,it,sicilia,1237
 20201214,3952,it,sardegna,580
 20201214,4101,ch,zurich,535
-20201214,4102,ch,bern,339
+20201214,4102,ch,bern,334
 20201214,4103,ch,luzern,92
 20201214,4104,ch,uri,9
 20201214,4106,ch,obwalden,7
@@ -28891,6 +29121,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201213,3951,it,sicilia,1226
 20201213,3952,it,sardegna,589
 20201213,4101,ch,zurich,517
+20201213,4102,ch,bern,337
 20201213,4106,ch,obwalden,5
 20201213,4107,ch,nidwalden,3
 20201213,4109,ch,zug,23
@@ -29422,7 +29653,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201210,3951,it,sicilia,1342
 20201210,3952,it,sardegna,610
 20201210,4101,ch,zurich,475
-20201210,4102,ch,bern,318
+20201210,4102,ch,bern,307
 20201210,4103,ch,luzern,87
 20201210,4104,ch,uri,6
 20201210,4106,ch,obwalden,4
@@ -29605,7 +29836,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201209,3951,it,sicilia,1374
 20201209,3952,it,sardegna,621
 20201209,4101,ch,zurich,478
-20201209,4102,ch,bern,308
+20201209,4102,ch,bern,318
 20201209,4103,ch,luzern,84
 20201209,4104,ch,uri,6
 20201209,4106,ch,obwalden,4
@@ -29788,7 +30019,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201208,3951,it,sicilia,1374
 20201208,3952,it,sardegna,616
 20201208,4101,ch,zurich,491
-20201208,4102,ch,bern,313
+20201208,4102,ch,bern,307
 20201208,4104,ch,uri,8
 20201208,4106,ch,obwalden,6
 20201208,4107,ch,nidwalden,5
@@ -30153,6 +30384,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201206,3951,it,sicilia,1367
 20201206,3952,it,sardegna,616
 20201206,4101,ch,zurich,430
+20201206,4102,ch,bern,313
 20201206,4106,ch,obwalden,6
 20201206,4107,ch,nidwalden,7
 20201206,4109,ch,zug,25
@@ -30683,7 +30915,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201203,3951,it,sicilia,1465
 20201203,3952,it,sardegna,593
 20201203,4101,ch,zurich,397
-20201203,4102,ch,bern,304
+20201203,4102,ch,bern,280
 20201203,4103,ch,luzern,86
 20201203,4104,ch,uri,9
 20201203,4106,ch,obwalden,3
@@ -30865,7 +31097,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201202,3951,it,sicilia,1494
 20201202,3952,it,sardegna,577
 20201202,4101,ch,zurich,400
-20201202,4102,ch,bern,333
+20201202,4102,ch,bern,302
 20201202,4103,ch,luzern,87
 20201202,4104,ch,uri,10
 20201202,4106,ch,obwalden,8
@@ -31048,7 +31280,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201201,3951,it,sicilia,1517
 20201201,3952,it,sardegna,583
 20201201,4101,ch,zurich,393
-20201201,4102,ch,bern,333
+20201201,4102,ch,bern,320
 20201201,4103,ch,luzern,96
 20201201,4104,ch,uri,10
 20201201,4106,ch,obwalden,9
@@ -31231,7 +31463,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201130,3951,it,sicilia,1547
 20201130,3952,it,sardegna,580
 20201130,4101,ch,zurich,410
-20201130,4102,ch,bern,330
+20201130,4102,ch,bern,331
 20201130,4103,ch,luzern,108
 20201130,4104,ch,uri,10
 20201130,4106,ch,obwalden,9
@@ -31414,6 +31646,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201129,3951,it,sicilia,1522
 20201129,3952,it,sardegna,554
 20201129,4101,ch,zurich,397
+20201129,4102,ch,bern,328
 20201129,4106,ch,obwalden,9
 20201129,4107,ch,nidwalden,8
 20201129,4109,ch,zug,22
@@ -31943,7 +32176,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201126,3951,it,sicilia,1545
 20201126,3952,it,sardegna,535
 20201126,4101,ch,zurich,397
-20201126,4102,ch,bern,334
+20201126,4102,ch,bern,326
 20201126,4103,ch,luzern,104
 20201126,4104,ch,uri,8
 20201126,4106,ch,obwalden,11
@@ -32126,7 +32359,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201125,3951,it,sicilia,1574
 20201125,3952,it,sardegna,515
 20201125,4101,ch,zurich,389
-20201125,4102,ch,bern,355
+20201125,4102,ch,bern,334
 20201125,4103,ch,luzern,106
 20201125,4104,ch,uri,7
 20201125,4106,ch,obwalden,8
@@ -32309,7 +32542,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201124,3951,it,sicilia,1601
 20201124,3952,it,sardegna,527
 20201124,4101,ch,zurich,395
-20201124,4102,ch,bern,371
+20201124,4102,ch,bern,355
 20201124,4103,ch,luzern,104
 20201124,4104,ch,uri,8
 20201124,4106,ch,obwalden,10
@@ -32492,7 +32725,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201123,3951,it,sicilia,1604
 20201123,3952,it,sardegna,512
 20201123,4101,ch,zurich,400
-20201123,4102,ch,bern,377
+20201123,4102,ch,bern,370
 20201123,4103,ch,luzern,107
 20201123,4104,ch,uri,6
 20201123,4106,ch,obwalden,9
@@ -32674,6 +32907,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201122,3951,it,sicilia,1597
 20201122,3952,it,sardegna,503
 20201122,4101,ch,zurich,376
+20201122,4102,ch,bern,376
 20201122,4106,ch,obwalden,9
 20201122,4107,ch,nidwalden,7
 20201122,4109,ch,zug,23
@@ -33204,7 +33438,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201119,3951,it,sicilia,1532
 20201119,3952,it,sardegna,517
 20201119,4101,ch,zurich,372
-20201119,4102,ch,bern,385
+20201119,4102,ch,bern,387
 20201119,4103,ch,luzern,88
 20201119,4104,ch,uri,8
 20201119,4106,ch,obwalden,9
@@ -33386,7 +33620,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201118,3951,it,sicilia,1528
 20201118,3952,it,sardegna,505
 20201118,4101,ch,zurich,392
-20201118,4102,ch,bern,399
+20201118,4102,ch,bern,380
 20201118,4103,ch,luzern,81
 20201118,4104,ch,uri,4
 20201118,4106,ch,obwalden,12
@@ -33569,7 +33803,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201117,3951,it,sicilia,1505
 20201117,3952,it,sardegna,512
 20201117,4101,ch,zurich,379
-20201117,4102,ch,bern,407
+20201117,4102,ch,bern,398
 20201117,4103,ch,luzern,82
 20201117,4104,ch,uri,4
 20201117,4106,ch,obwalden,13
@@ -33752,7 +33986,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201116,3951,it,sicilia,1501
 20201116,3952,it,sardegna,510
 20201116,4101,ch,zurich,375
-20201116,4102,ch,bern,412
+20201116,4102,ch,bern,407
 20201116,4103,ch,luzern,69
 20201116,4104,ch,uri,4
 20201116,4106,ch,obwalden,15
@@ -33936,6 +34170,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201115,3951,it,sicilia,1476
 20201115,3952,it,sardegna,510
 20201115,4101,ch,zurich,347
+20201115,4102,ch,bern,412
 20201115,4104,ch,uri,5
 20201115,4106,ch,obwalden,14
 20201115,4107,ch,nidwalden,8
@@ -34467,7 +34702,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201112,3951,it,sicilia,1391
 20201112,3952,it,sardegna,424
 20201112,4101,ch,zurich,361
-20201112,4102,ch,bern,410
+20201112,4102,ch,bern,402
 20201112,4103,ch,luzern,86
 20201112,4104,ch,uri,5
 20201112,4106,ch,obwalden,14
@@ -34649,7 +34884,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201111,3951,it,sicilia,1376
 20201111,3952,it,sardegna,418
 20201111,4101,ch,zurich,374
-20201111,4102,ch,bern,403
+20201111,4102,ch,bern,410
 20201111,4103,ch,luzern,93
 20201111,4104,ch,uri,5
 20201111,4106,ch,obwalden,14
@@ -34832,7 +35067,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201110,3951,it,sicilia,1348
 20201110,3952,it,sardegna,403
 20201110,4101,ch,zurich,380
-20201110,4102,ch,bern,427
+20201110,4102,ch,bern,403
 20201110,4103,ch,luzern,91
 20201110,4104,ch,uri,6
 20201110,4106,ch,obwalden,13
@@ -35015,7 +35250,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201109,3951,it,sicilia,1303
 20201109,3952,it,sardegna,408
 20201109,4101,ch,zurich,359
-20201109,4102,ch,bern,398
+20201109,4102,ch,bern,427
 20201109,4103,ch,luzern,92
 20201109,4104,ch,uri,6
 20201109,4106,ch,obwalden,11
@@ -35199,7 +35434,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201108,3951,it,sicilia,1250
 20201108,3952,it,sardegna,400
 20201108,4101,ch,zurich,332
-20201108,4102,ch,bern,376
+20201108,4102,ch,bern,398
 20201108,4103,ch,luzern,98
 20201108,4106,ch,obwalden,11
 20201108,4107,ch,nidwalden,12
@@ -35732,7 +35967,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201105,3951,it,sicilia,1147
 20201105,3952,it,sardegna,340
 20201105,4101,ch,zurich,326
-20201105,4102,ch,bern,346
+20201105,4102,ch,bern,328
 20201105,4103,ch,luzern,99
 20201105,4104,ch,uri,7
 20201105,4106,ch,obwalden,11
@@ -35915,7 +36150,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201104,3951,it,sicilia,1105
 20201104,3952,it,sardegna,344
 20201104,4101,ch,zurich,336
-20201104,4102,ch,bern,343
+20201104,4102,ch,bern,346
 20201104,4103,ch,luzern,94
 20201104,4104,ch,uri,7
 20201104,4106,ch,obwalden,13
@@ -36098,6 +36333,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201103,3951,it,sicilia,1072
 20201103,3952,it,sardegna,337
 20201103,4101,ch,zurich,324
+20201103,4102,ch,bern,343
 20201103,4103,ch,luzern,100
 20201103,4104,ch,uri,4
 20201103,4106,ch,obwalden,12
@@ -36280,7 +36516,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201102,3951,it,sicilia,1025
 20201102,3952,it,sardegna,339
 20201102,4101,ch,zurich,286
-20201102,4102,ch,bern,307
+20201102,4102,ch,bern,339
 20201102,4103,ch,luzern,97
 20201102,4104,ch,uri,4
 20201102,4106,ch,obwalden,10
@@ -36463,6 +36699,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201101,3951,it,sicilia,999
 20201101,3952,it,sardegna,336
 20201101,4101,ch,zurich,258
+20201101,4102,ch,bern,307
 20201101,4106,ch,obwalden,8
 20201101,4107,ch,nidwalden,8
 20201101,4109,ch,zug,29
@@ -36993,6 +37230,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201029,3951,it,sicilia,839
 20201029,3952,it,sardegna,322
 20201029,4101,ch,zurich,221
+20201029,4102,ch,bern,253
 20201029,4103,ch,luzern,61
 20201029,4106,ch,obwalden,7
 20201029,4107,ch,nidwalden,6
@@ -37355,6 +37593,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201027,3951,it,sicilia,727
 20201027,3952,it,sardegna,306
 20201027,4101,ch,zurich,200
+20201027,4102,ch,bern,213
 20201027,4103,ch,luzern,59
 20201027,4104,ch,uri,4
 20201027,4106,ch,obwalden,3
@@ -37718,6 +37957,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201025,3951,it,sicilia,642
 20201025,3952,it,sardegna,299
 20201025,4101,ch,zurich,159
+20201025,4102,ch,bern,217
 20201025,4106,ch,obwalden,2
 20201025,4107,ch,nidwalden,6
 20201025,4109,ch,zug,16
@@ -38242,6 +38482,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201022,3951,it,sicilia,588
 20201022,3952,it,sardegna,264
 20201022,4101,ch,zurich,101
+20201022,4102,ch,bern,153
 20201022,4103,ch,luzern,31
 20201022,4105,ch,schwyz,21
 20201022,4106,ch,obwalden,1
@@ -38603,6 +38844,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201020,3951,it,sicilia,542
 20201020,3952,it,sardegna,226
 20201020,4101,ch,zurich,90
+20201020,4102,ch,bern,121
 20201020,4103,ch,luzern,25
 20201020,4104,ch,uri,1
 20201020,4105,ch,schwyz,22
@@ -38966,6 +39208,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201018,3951,it,sicilia,493
 20201018,3952,it,sardegna,208
 20201018,4101,ch,zurich,71
+20201018,4102,ch,bern,82
 20201018,4106,ch,obwalden,0
 20201018,4107,ch,nidwalden,0
 20201018,4109,ch,zug,10
@@ -39489,6 +39732,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201015,3951,it,sicilia,468
 20201015,3952,it,sardegna,180
 20201015,4101,ch,zurich,47
+20201015,4102,ch,bern,64
 20201015,4103,ch,luzern,15
 20201015,4105,ch,schwyz,25
 20201015,4106,ch,obwalden,0
@@ -39845,6 +40089,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201013,3951,it,sicilia,426
 20201013,3952,it,sardegna,164
 20201013,4101,ch,zurich,45
+20201013,4102,ch,bern,59
 20201013,4103,ch,luzern,11
 20201013,4104,ch,uri,2
 20201013,4105,ch,schwyz,12
@@ -40203,6 +40448,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201011,3951,it,sicilia,388
 20201011,3952,it,sardegna,140
 20201011,4101,ch,zurich,50
+20201011,4102,ch,bern,44
 20201011,4106,ch,obwalden,1
 20201011,4107,ch,nidwalden,0
 20201011,4109,ch,zug,6
@@ -40720,6 +40966,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201008,3951,it,sicilia,376
 20201008,3952,it,sardegna,129
 20201008,4101,ch,zurich,24
+20201008,4102,ch,bern,39
 20201008,4103,ch,luzern,6
 20201008,4104,ch,uri,0
 20201008,4105,ch,schwyz,10
@@ -41077,6 +41324,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201006,3951,it,sicilia,368
 20201006,3952,it,sardegna,125
 20201006,4101,ch,zurich,26
+20201006,4102,ch,bern,28
 20201006,4103,ch,luzern,6
 20201006,4104,ch,uri,0
 20201006,4106,ch,obwalden,0
@@ -41431,6 +41679,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201004,3951,it,sicilia,329
 20201004,3952,it,sardegna,114
 20201004,4101,ch,zurich,32
+20201004,4102,ch,bern,30
 20201004,4106,ch,obwalden,0
 20201004,4107,ch,nidwalden,1
 20201004,4109,ch,zug,0
@@ -41944,6 +42193,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201001,3951,it,sicilia,307
 20201001,3952,it,sardegna,110
 20201001,4101,ch,zurich,28
+20201001,4102,ch,bern,28
 20201001,4103,ch,luzern,6
 20201001,4104,ch,uri,0
 20201001,4106,ch,obwalden,0
@@ -42298,6 +42548,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200929,3951,it,sicilia,293
 20200929,3952,it,sardegna,102
 20200929,4101,ch,zurich,31
+20200929,4102,ch,bern,25
 20200929,4103,ch,luzern,6
 20200929,4104,ch,uri,1
 20200929,4106,ch,obwalden,0
@@ -42652,6 +42903,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200927,3951,it,sicilia,268
 20200927,3952,it,sardegna,110
 20200927,4101,ch,zurich,32
+20200927,4102,ch,bern,25
 20200927,4106,ch,obwalden,0
 20200927,4107,ch,nidwalden,1
 20200927,4109,ch,zug,3
@@ -43166,6 +43418,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200924,3951,it,sicilia,237
 20200924,3952,it,sardegna,112
 20200924,4101,ch,zurich,29
+20200924,4102,ch,bern,20
 20200924,4103,ch,luzern,8
 20200924,4104,ch,uri,1
 20200924,4106,ch,obwalden,0
@@ -43519,6 +43772,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200922,3951,it,sicilia,224
 20200922,3952,it,sardegna,96
 20200922,4101,ch,zurich,26
+20200922,4102,ch,bern,21
 20200922,4103,ch,luzern,7
 20200922,4104,ch,uri,0
 20200922,4106,ch,obwalden,0
@@ -43871,6 +44125,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200920,3951,it,sicilia,194
 20200920,3952,it,sardegna,96
 20200920,4101,ch,zurich,27
+20200920,4102,ch,bern,17
 20200920,4106,ch,obwalden,0
 20200920,4107,ch,nidwalden,1
 20200920,4109,ch,zug,0
@@ -44380,6 +44635,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200917,3951,it,sicilia,173
 20200917,3952,it,sardegna,84
 20200917,4101,ch,zurich,27
+20200917,4102,ch,bern,10
 20200917,4103,ch,luzern,6
 20200917,4106,ch,obwalden,0
 20200917,4107,ch,nidwalden,1
@@ -44729,6 +44985,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200915,3951,it,sicilia,141
 20200915,3952,it,sardegna,86
 20200915,4101,ch,zurich,28
+20200915,4102,ch,bern,12
 20200915,4103,ch,luzern,5
 20200915,4104,ch,uri,0
 20200915,4106,ch,obwalden,0
@@ -45079,6 +45336,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200913,3951,it,sicilia,120
 20200913,3952,it,sardegna,80
 20200913,4101,ch,zurich,23
+20200913,4102,ch,bern,7
 20200913,4106,ch,obwalden,0
 20200913,4107,ch,nidwalden,1
 20200913,4109,ch,zug,0
@@ -45585,6 +45843,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200910,3951,it,sicilia,108
 20200910,3952,it,sardegna,57
 20200910,4101,ch,zurich,26
+20200910,4102,ch,bern,8
 20200910,4103,ch,luzern,6
 20200910,4104,ch,uri,0
 20200910,4106,ch,obwalden,0
@@ -45935,6 +46194,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200908,3951,it,sicilia,104
 20200908,3952,it,sardegna,48
 20200908,4101,ch,zurich,31
+20200908,4102,ch,bern,6
 20200908,4103,ch,luzern,6
 20200908,4104,ch,uri,0
 20200908,4106,ch,obwalden,0
@@ -46285,6 +46545,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200906,3951,it,sicilia,86
 20200906,3952,it,sardegna,45
 20200906,4101,ch,zurich,31
+20200906,4102,ch,bern,3
 20200906,4104,ch,uri,0
 20200906,4106,ch,obwalden,0
 20200906,4107,ch,nidwalden,1
@@ -47143,6 +47404,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200901,3951,it,sicilia,71
 20200901,3952,it,sardegna,31
 20200901,4101,ch,zurich,26
+20200901,4102,ch,bern,5
 20200901,4103,ch,luzern,10
 20200901,4104,ch,uri,0
 20200901,4106,ch,obwalden,1
@@ -47493,6 +47755,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200830,3951,it,sicilia,68
 20200830,3952,it,sardegna,28
 20200830,4101,ch,zurich,21
+20200830,4102,ch,bern,7
 20200830,4106,ch,obwalden,3
 20200830,4107,ch,nidwalden,0
 20200830,4109,ch,zug,3
@@ -48002,6 +48265,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200827,3951,it,sicilia,62
 20200827,3952,it,sardegna,24
 20200827,4101,ch,zurich,18
+20200827,4102,ch,bern,4
 20200827,4103,ch,luzern,10
 20200827,4104,ch,uri,0
 20200827,4106,ch,obwalden,3
@@ -48352,6 +48616,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200825,3951,it,sicilia,53
 20200825,3952,it,sardegna,19
 20200825,4101,ch,zurich,16
+20200825,4102,ch,bern,4
 20200825,4103,ch,luzern,9
 20200825,4104,ch,uri,0
 20200825,4106,ch,obwalden,1
@@ -48702,6 +48967,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200823,3951,it,sicilia,50
 20200823,3952,it,sardegna,18
 20200823,4101,ch,zurich,25
+20200823,4102,ch,bern,4
 20200823,4106,ch,obwalden,1
 20200823,4107,ch,nidwalden,0
 20200823,4109,ch,zug,0
@@ -49211,6 +49477,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200820,3951,it,sicilia,41
 20200820,3952,it,sardegna,12
 20200820,4101,ch,zurich,30
+20200820,4102,ch,bern,5
 20200820,4103,ch,luzern,7
 20200820,4104,ch,uri,0
 20200820,4106,ch,obwalden,1
@@ -49560,6 +49827,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200818,3951,it,sicilia,54
 20200818,3952,it,sardegna,9
 20200818,4101,ch,zurich,33
+20200818,4102,ch,bern,7
 20200818,4103,ch,luzern,8
 20200818,4104,ch,uri,0
 20200818,4106,ch,obwalden,0
@@ -49911,6 +50179,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200816,3951,it,sicilia,51
 20200816,3952,it,sardegna,8
 20200816,4101,ch,zurich,29
+20200816,4102,ch,bern,7
 20200816,4106,ch,obwalden,0
 20200816,4107,ch,nidwalden,0
 20200816,4109,ch,zug,0
@@ -50418,6 +50687,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200813,3951,it,sicilia,42
 20200813,3952,it,sardegna,8
 20200813,4101,ch,zurich,27
+20200813,4102,ch,bern,7
 20200813,4103,ch,luzern,10
 20200813,4104,ch,uri,0
 20200813,4106,ch,obwalden,0
@@ -50768,6 +51038,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200811,3951,it,sicilia,44
 20200811,3952,it,sardegna,6
 20200811,4101,ch,zurich,27
+20200811,4102,ch,bern,10
 20200811,4103,ch,luzern,8
 20200811,4104,ch,uri,0
 20200811,4106,ch,obwalden,0
@@ -51117,6 +51388,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200809,3951,it,sicilia,39
 20200809,3952,it,sardegna,6
 20200809,4101,ch,zurich,28
+20200809,4102,ch,bern,10
 20200809,4106,ch,obwalden,0
 20200809,4107,ch,nidwalden,0
 20200809,4109,ch,zug,0
@@ -51625,6 +51897,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200806,3951,it,sicilia,37
 20200806,3952,it,sardegna,7
 20200806,4101,ch,zurich,25
+20200806,4102,ch,bern,11
 20200806,4103,ch,luzern,13
 20200806,4104,ch,uri,0
 20200806,4106,ch,obwalden,0
@@ -51974,6 +52247,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200804,3951,it,sicilia,34
 20200804,3952,it,sardegna,3
 20200804,4101,ch,zurich,35
+20200804,4102,ch,bern,12
 20200804,4103,ch,luzern,14
 20200804,4104,ch,uri,0
 20200804,4106,ch,obwalden,0
@@ -52323,6 +52597,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200802,3951,it,sicilia,36
 20200802,3952,it,sardegna,3
 20200802,4101,ch,zurich,36
+20200802,4102,ch,bern,10
 20200802,4107,ch,nidwalden,1
 20200802,4109,ch,zug,2
 20200802,4110,ch,fribourg,1
@@ -52830,6 +53105,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200730,3951,it,sicilia,33
 20200730,3952,it,sardegna,3
 20200730,4101,ch,zurich,27
+20200730,4102,ch,bern,12
 20200730,4103,ch,luzern,9
 20200730,4104,ch,uri,0
 20200730,4106,ch,obwalden,0
@@ -53179,6 +53455,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200728,3951,it,sicilia,29
 20200728,3952,it,sardegna,5
 20200728,4101,ch,zurich,25
+20200728,4102,ch,bern,12
 20200728,4103,ch,luzern,6
 20200728,4104,ch,uri,1
 20200728,4106,ch,obwalden,0
@@ -53527,6 +53804,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200726,3951,it,sicilia,20
 20200726,3952,it,sardegna,6
 20200726,4101,ch,zurich,24
+20200726,4102,ch,bern,10
 20200726,4103,ch,luzern,6
 20200726,4106,ch,obwalden,0
 20200726,4107,ch,nidwalden,0
@@ -54383,6 +54661,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200721,3951,it,sicilia,10
 20200721,3952,it,sardegna,7
 20200721,4101,ch,zurich,26
+20200721,4102,ch,bern,7
 20200721,4103,ch,luzern,7
 20200721,4106,ch,obwalden,0
 20200721,4107,ch,nidwalden,0
@@ -54731,6 +55010,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200719,3951,it,sicilia,11
 20200719,3952,it,sardegna,7
 20200719,4101,ch,zurich,24
+20200719,4102,ch,bern,7
 20200719,4103,ch,luzern,7
 20200719,4106,ch,obwalden,0
 20200719,4107,ch,nidwalden,0
@@ -55238,6 +55518,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200716,3951,it,sicilia,6
 20200716,3952,it,sardegna,4
 20200716,4101,ch,zurich,23
+20200716,4102,ch,bern,4
 20200716,4103,ch,luzern,6
 20200716,4104,ch,uri,0
 20200716,4106,ch,obwalden,0
@@ -55584,6 +55865,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200714,3951,it,sicilia,4
 20200714,3952,it,sardegna,4
 20200714,4101,ch,zurich,24
+20200714,4102,ch,bern,3
 20200714,4103,ch,luzern,4
 20200714,4106,ch,obwalden,0
 20200714,4107,ch,nidwalden,0
@@ -55930,6 +56212,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200712,3951,it,sicilia,5
 20200712,3952,it,sardegna,3
 20200712,4101,ch,zurich,20
+20200712,4102,ch,bern,4
 20200712,4106,ch,obwalden,0
 20200712,4107,ch,nidwalden,0
 20200712,4109,ch,zug,3
@@ -56437,6 +56720,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200709,3951,it,sicilia,6
 20200709,3952,it,sardegna,3
 20200709,4101,ch,zurich,12
+20200709,4102,ch,bern,5
 20200709,4103,ch,luzern,4
 20200709,4104,ch,uri,0
 20200709,4106,ch,obwalden,0
@@ -56782,7 +57066,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200707,3951,it,sicilia,12
 20200707,3952,it,sardegna,5
 20200707,4101,ch,zurich,13
-20200707,4102,ch,bern,3
+20200707,4102,ch,bern,2
 20200707,4103,ch,luzern,6
 20200707,4104,ch,uri,0
 20200707,4106,ch,obwalden,0
@@ -57127,7 +57411,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200705,3951,it,sicilia,13
 20200705,3952,it,sardegna,4
 20200705,4101,ch,zurich,11
-20200705,4102,ch,bern,4
+20200705,4102,ch,bern,3
 20200705,4104,ch,uri,0
 20200705,4106,ch,obwalden,0
 20200705,4107,ch,nidwalden,0
@@ -57633,7 +57917,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200702,3951,it,sicilia,17
 20200702,3952,it,sardegna,7
 20200702,4101,ch,zurich,10
-20200702,4102,ch,bern,7
+20200702,4102,ch,bern,4
 20200702,4103,ch,luzern,5
 20200702,4104,ch,uri,0
 20200702,4106,ch,obwalden,0
@@ -57979,7 +58263,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200630,3951,it,sicilia,19
 20200630,3952,it,sardegna,6
 20200630,4101,ch,zurich,12
-20200630,4102,ch,bern,2
+20200630,4102,ch,bern,7
 20200630,4103,ch,luzern,6
 20200630,4104,ch,uri,0
 20200630,4106,ch,obwalden,0
@@ -58324,7 +58608,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200628,3951,it,sicilia,21
 20200628,3952,it,sardegna,6
 20200628,4101,ch,zurich,8
-20200628,4102,ch,bern,1
+20200628,4102,ch,bern,2
 20200628,4106,ch,obwalden,0
 20200628,4107,ch,nidwalden,0
 20200628,4109,ch,zug,0
@@ -59175,7 +59459,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200623,3951,it,sicilia,17
 20200623,3952,it,sardegna,7
 20200623,4101,ch,zurich,10
-20200623,4102,ch,bern,2
+20200623,4102,ch,bern,1
 20200623,4103,ch,luzern,6
 20200623,4106,ch,obwalden,0
 20200623,4107,ch,nidwalden,0
@@ -59518,7 +59802,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200621,3951,it,sicilia,20
 20200621,3952,it,sardegna,9
 20200621,4101,ch,zurich,10
-20200621,4102,ch,bern,3
+20200621,4102,ch,bern,2
 20200621,4106,ch,obwalden,0
 20200621,4107,ch,nidwalden,0
 20200621,4109,ch,zug,0
@@ -60366,7 +60650,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200616,3951,it,sicilia,32
 20200616,3952,it,sardegna,13
 20200616,4101,ch,zurich,8
-20200616,4102,ch,bern,1
+20200616,4102,ch,bern,3
 20200616,4103,ch,luzern,6
 20200616,4106,ch,obwalden,0
 20200616,4107,ch,nidwalden,0
@@ -61217,7 +61501,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200611,3951,it,sicilia,37
 20200611,3952,it,sardegna,10
 20200611,4101,ch,zurich,8
-20200611,4102,ch,bern,4
+20200611,4102,ch,bern,1
 20200611,4106,ch,obwalden,0
 20200611,4107,ch,nidwalden,0
 20200611,4108,ch,glarus,0
@@ -61558,7 +61842,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200609,3951,it,sicilia,39
 20200609,3952,it,sardegna,9
 20200609,4101,ch,zurich,6
-20200609,4102,ch,bern,3
+20200609,4102,ch,bern,4
 20200609,4103,ch,luzern,6
 20200609,4106,ch,obwalden,0
 20200609,4107,ch,nidwalden,0
@@ -61902,7 +62186,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200607,3951,it,sicilia,42
 20200607,3952,it,sardegna,10
 20200607,4101,ch,zurich,7
-20200607,4102,ch,bern,5
+20200607,4102,ch,bern,3
 20200607,4106,ch,obwalden,0
 20200607,4107,ch,nidwalden,0
 20200607,4109,ch,zug,0
@@ -62069,7 +62353,6 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200606,3951,it,sicilia,47
 20200606,3952,it,sardegna,10
 20200606,4101,ch,zurich,7
-20200606,4102,ch,bern,5
 20200606,4106,ch,obwalden,0
 20200606,4107,ch,nidwalden,0
 20200606,4109,ch,zug,0
@@ -62236,7 +62519,6 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200605,3951,it,sicilia,54
 20200605,3952,it,sardegna,11
 20200605,4101,ch,zurich,8
-20200605,4102,ch,bern,5
 20200605,4103,ch,luzern,8
 20200605,4106,ch,obwalden,0
 20200605,4107,ch,nidwalden,0
@@ -62408,7 +62690,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200604,3951,it,sicilia,57
 20200604,3952,it,sardegna,12
 20200604,4101,ch,zurich,9
-20200604,4102,ch,bern,6
+20200604,4102,ch,bern,5
 20200604,4103,ch,luzern,8
 20200604,4106,ch,obwalden,0
 20200604,4107,ch,nidwalden,0
@@ -62925,7 +63207,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200601,3951,it,sicilia,65
 20200601,3952,it,sardegna,23
 20200601,4101,ch,zurich,11
-20200601,4102,ch,bern,9
+20200601,4102,ch,bern,6
 20200601,4104,ch,uri,0
 20200601,4106,ch,obwalden,0
 20200601,4107,ch,nidwalden,1
@@ -63602,7 +63884,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200528,3951,it,sicilia,72
 20200528,3952,it,sardegna,38
 20200528,4101,ch,zurich,20
-20200528,4102,ch,bern,11
+20200528,4102,ch,bern,9
 20200528,4104,ch,uri,0
 20200528,4106,ch,obwalden,0
 20200528,4107,ch,nidwalden,0
@@ -63947,7 +64229,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200526,3951,it,sicilia,83
 20200526,3952,it,sardegna,41
 20200526,4101,ch,zurich,19
-20200526,4102,ch,bern,18
+20200526,4102,ch,bern,11
 20200526,4104,ch,uri,0
 20200526,4106,ch,obwalden,0
 20200526,4107,ch,nidwalden,0
@@ -64291,7 +64573,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200524,3951,it,sicilia,91
 20200524,3952,it,sardegna,51
 20200524,4101,ch,zurich,28
-20200524,4102,ch,bern,20
+20200524,4102,ch,bern,18
 20200524,4104,ch,uri,1
 20200524,4106,ch,obwalden,0
 20200524,4107,ch,nidwalden,0
@@ -64800,7 +65082,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200521,3951,it,sicilia,107
 20200521,3952,it,sardegna,64
 20200521,4101,ch,zurich,25
-20200521,4102,ch,bern,24
+20200521,4102,ch,bern,20
 20200521,4104,ch,uri,0
 20200521,4106,ch,obwalden,0
 20200521,4107,ch,nidwalden,0
@@ -65143,7 +65425,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200519,3951,it,sicilia,125
 20200519,3952,it,sardegna,71
 20200519,4101,ch,zurich,30
-20200519,4102,ch,bern,25
+20200519,4102,ch,bern,24
 20200519,4103,ch,luzern,9
 20200519,4104,ch,uri,3
 20200519,4106,ch,obwalden,0
@@ -65315,7 +65597,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200518,3951,it,sicilia,137
 20200518,3952,it,sardegna,72
 20200518,4101,ch,zurich,33
-20200518,4102,ch,bern,29
+20200518,4102,ch,bern,25
 20200518,4103,ch,luzern,10
 20200518,4104,ch,uri,5
 20200518,4106,ch,obwalden,0
@@ -65489,7 +65771,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200517,3951,it,sicilia,145
 20200517,3952,it,sardegna,76
 20200517,4101,ch,zurich,33
-20200517,4102,ch,bern,27
+20200517,4102,ch,bern,29
 20200517,4103,ch,luzern,11
 20200517,4104,ch,uri,5
 20200517,4106,ch,obwalden,0
@@ -65658,7 +65940,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200516,3951,it,sicilia,159
 20200516,3952,it,sardegna,75
 20200516,4101,ch,zurich,32
-20200516,4102,ch,bern,27
+20200516,4102,ch,bern,34
 20200516,4103,ch,luzern,11
 20200516,4104,ch,uri,4
 20200516,4106,ch,obwalden,0
@@ -65827,7 +66109,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200515,3951,it,sicilia,198
 20200515,3952,it,sardegna,75
 20200515,4101,ch,zurich,33
-20200515,4102,ch,bern,27
+20200515,4102,ch,bern,34
 20200515,4103,ch,luzern,11
 20200515,4106,ch,obwalden,0
 20200515,4107,ch,nidwalden,0
@@ -66001,7 +66283,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200514,3951,it,sicilia,203
 20200514,3952,it,sardegna,76
 20200514,4101,ch,zurich,36
-20200514,4102,ch,bern,29
+20200514,4102,ch,bern,27
 20200514,4103,ch,luzern,11
 20200514,4104,ch,uri,3
 20200514,4106,ch,obwalden,0
@@ -66174,7 +66456,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200513,3951,it,sicilia,212
 20200513,3952,it,sardegna,78
 20200513,4101,ch,zurich,38
-20200513,4102,ch,bern,34
+20200513,4102,ch,bern,29
 20200513,4103,ch,luzern,12
 20200513,4104,ch,uri,3
 20200513,4106,ch,obwalden,0
@@ -66348,7 +66630,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200512,3951,it,sicilia,234
 20200512,3952,it,sardegna,77
 20200512,4101,ch,zurich,44
-20200512,4102,ch,bern,35
+20200512,4102,ch,bern,34
 20200512,4103,ch,luzern,12
 20200512,4104,ch,uri,3
 20200512,4106,ch,obwalden,0
@@ -66522,7 +66804,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200511,3951,it,sicilia,271
 20200511,3952,it,sardegna,84
 20200511,4101,ch,zurich,44
-20200511,4102,ch,bern,36
+20200511,4102,ch,bern,35
 20200511,4103,ch,luzern,12
 20200511,4104,ch,uri,1
 20200511,4106,ch,obwalden,0
@@ -67039,7 +67321,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200508,3951,it,sicilia,310
 20200508,3952,it,sardegna,90
 20200508,4101,ch,zurich,47
-20200508,4102,ch,bern,39
+20200508,4102,ch,bern,36
 20200508,4103,ch,luzern,14
 20200508,4104,ch,uri,3
 20200508,4106,ch,obwalden,0
@@ -67213,7 +67495,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200507,3951,it,sicilia,349
 20200507,3952,it,sardegna,90
 20200507,4101,ch,zurich,50
-20200507,4102,ch,bern,37
+20200507,4102,ch,bern,39
 20200507,4103,ch,luzern,16
 20200507,4104,ch,uri,2
 20200507,4106,ch,obwalden,0
@@ -67387,7 +67669,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200506,3951,it,sicilia,359
 20200506,3952,it,sardegna,91
 20200506,4101,ch,zurich,53
-20200506,4102,ch,bern,34
+20200506,4102,ch,bern,37
 20200506,4103,ch,luzern,16
 20200506,4104,ch,uri,3
 20200506,4106,ch,obwalden,0
@@ -67562,7 +67844,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200505,3951,it,sicilia,367
 20200505,3952,it,sardegna,94
 20200505,4101,ch,zurich,54
-20200505,4102,ch,bern,38
+20200505,4102,ch,bern,34
 20200505,4103,ch,luzern,16
 20200505,4104,ch,uri,2
 20200505,4106,ch,obwalden,0
@@ -67736,7 +68018,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200504,3951,it,sicilia,376
 20200504,3952,it,sardegna,91
 20200504,4101,ch,zurich,43
-20200504,4102,ch,bern,35
+20200504,4102,ch,bern,38
 20200504,4103,ch,luzern,15
 20200504,4104,ch,uri,2
 20200504,4106,ch,obwalden,0
@@ -67911,7 +68193,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200503,3951,it,sicilia,383
 20200503,3952,it,sardegna,92
 20200503,4101,ch,zurich,42
-20200503,4102,ch,bern,41
+20200503,4102,ch,bern,35
 20200503,4103,ch,luzern,19
 20200503,4104,ch,uri,0
 20200503,4106,ch,obwalden,0
@@ -68084,7 +68366,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200502,3951,it,sicilia,396
 20200502,3952,it,sardegna,86
 20200502,4101,ch,zurich,41
-20200502,4102,ch,bern,44
+20200502,4102,ch,bern,41
 20200502,4103,ch,luzern,19
 20200502,4104,ch,uri,0
 20200502,4106,ch,obwalden,0
@@ -68257,7 +68539,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200501,3951,it,sicilia,399
 20200501,3952,it,sardegna,84
 20200501,4101,ch,zurich,43
-20200501,4102,ch,bern,40
+20200501,4102,ch,bern,44
 20200501,4103,ch,luzern,17
 20200501,4104,ch,uri,3
 20200501,4106,ch,obwalden,0
@@ -68432,7 +68714,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200430,3951,it,sicilia,408
 20200430,3952,it,sardegna,87
 20200430,4101,ch,zurich,61
-20200430,4102,ch,bern,39
+20200430,4102,ch,bern,40
 20200430,4103,ch,luzern,16
 20200430,4104,ch,uri,4
 20200430,4106,ch,obwalden,0
@@ -68607,7 +68889,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200429,3951,it,sicilia,415
 20200429,3952,it,sardegna,87
 20200429,4101,ch,zurich,82
-20200429,4102,ch,bern,44
+20200429,4102,ch,bern,39
 20200429,4103,ch,luzern,16
 20200429,4104,ch,uri,5
 20200429,4106,ch,obwalden,2
@@ -68782,7 +69064,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200428,3951,it,sicilia,428
 20200428,3952,it,sardegna,96
 20200428,4101,ch,zurich,84
-20200428,4102,ch,bern,47
+20200428,4102,ch,bern,44
 20200428,4103,ch,luzern,17
 20200428,4104,ch,uri,5
 20200428,4106,ch,obwalden,1
@@ -68957,7 +69239,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200427,3951,it,sicilia,440
 20200427,3952,it,sardegna,97
 20200427,4101,ch,zurich,73
-20200427,4102,ch,bern,54
+20200427,4102,ch,bern,47
 20200427,4103,ch,luzern,21
 20200427,4104,ch,uri,4
 20200427,4106,ch,obwalden,0
@@ -69477,7 +69759,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200424,3951,it,sicilia,461
 20200424,3952,it,sardegna,95
 20200424,4101,ch,zurich,83
-20200424,4102,ch,bern,60
+20200424,4102,ch,bern,61
 20200424,4103,ch,luzern,22
 20200424,4104,ch,uri,3
 20200424,4106,ch,obwalden,0
@@ -69652,7 +69934,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200423,3951,it,sicilia,476
 20200423,3952,it,sardegna,90
 20200423,4101,ch,zurich,96
-20200423,4102,ch,bern,66
+20200423,4102,ch,bern,60
 20200423,4103,ch,luzern,18
 20200423,4104,ch,uri,4
 20200423,4106,ch,obwalden,0
@@ -69827,7 +70109,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200422,3951,it,sicilia,500
 20200422,3952,it,sardegna,97
 20200422,4101,ch,zurich,110
-20200422,4102,ch,bern,67
+20200422,4102,ch,bern,66
 20200422,4103,ch,luzern,19
 20200422,4104,ch,uri,3
 20200422,4106,ch,obwalden,0
@@ -70001,7 +70283,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200421,3951,it,sicilia,514
 20200421,3952,it,sardegna,112
 20200421,4101,ch,zurich,110
-20200421,4102,ch,bern,66
+20200421,4102,ch,bern,67
 20200421,4103,ch,luzern,20
 20200421,4104,ch,uri,2
 20200421,4106,ch,obwalden,0
@@ -70175,7 +70457,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200420,3951,it,sicilia,526
 20200420,3952,it,sardegna,115
 20200420,4101,ch,zurich,121
-20200420,4102,ch,bern,71
+20200420,4102,ch,bern,66
 20200420,4103,ch,luzern,19
 20200420,4104,ch,uri,2
 20200420,4106,ch,obwalden,0
@@ -70349,7 +70631,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200419,3951,it,sicilia,522
 20200419,3952,it,sardegna,117
 20200419,4101,ch,zurich,116
-20200419,4102,ch,bern,78
+20200419,4102,ch,bern,71
 20200419,4103,ch,luzern,21
 20200419,4104,ch,uri,2
 20200419,4106,ch,obwalden,0
@@ -70695,7 +70977,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200417,3951,it,sicilia,521
 20200417,3952,it,sardegna,113
 20200417,4101,ch,zurich,123
-20200417,4102,ch,bern,69
+20200417,4102,ch,bern,71
 20200417,4103,ch,luzern,23
 20200417,4104,ch,uri,2
 20200417,4106,ch,obwalden,0

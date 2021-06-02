@@ -1,4 +1,44 @@
 dateId,areaCode,country,areaName,deathCases
+20210601,4101,ch,zurich,1403
+20210601,4104,ch,uri,49
+20210601,4105,ch,schwyz,232
+20210601,4106,ch,obwalden,39
+20210601,4107,ch,nidwalden,23
+20210601,4108,ch,glarus,76
+20210601,4110,ch,fribourg,488
+20210601,4112,ch,basel_stadt,204
+20210601,4113,ch,basel_landschaft,220
+20210601,4114,ch,schaffhausen,77
+20210601,4116,ch,appenzell_innerrhoden,15
+20210601,4118,ch,graubunden,191
+20210601,4120,ch,thurgau,451
+20210601,4121,ch,ticino,995
+20210601,4123,ch,valais,784
+20210601,4125,ch,geneve,745
+20210601,423,li,liechtenstein,58
+20210531,4101,ch,zurich,1403
+20210531,4102,ch,bern,1079
+20210531,4104,ch,uri,49
+20210531,4105,ch,schwyz,232
+20210531,4106,ch,obwalden,39
+20210531,4107,ch,nidwalden,23
+20210531,4108,ch,glarus,76
+20210531,4109,ch,zug,121
+20210531,4110,ch,fribourg,488
+20210531,4112,ch,basel_stadt,204
+20210531,4113,ch,basel_landschaft,220
+20210531,4114,ch,schaffhausen,77
+20210531,4116,ch,appenzell_innerrhoden,15
+20210531,4117,ch,st_gallen,709
+20210531,4118,ch,graubunden,191
+20210531,4119,ch,aargau,699
+20210531,4120,ch,thurgau,451
+20210531,4121,ch,ticino,995
+20210531,4122,ch,vaud,1012
+20210531,4123,ch,valais,784
+20210531,4125,ch,geneve,745
+20210531,4126,ch,jura_ch,145
+20210531,423,li,liechtenstein,58
 20210531,43,at,austria,10355
 20210531,4301,at,wien,2332
 20210531,4302,at,niederosterreich,1638
@@ -9,6 +49,24 @@ dateId,areaCode,country,areaName,deathCases
 20210531,4307,at,salzburg,589
 20210531,4308,at,vorarlberg,302
 20210531,4309,at,burgenland,327
+20210530,4101,ch,zurich,1402
+20210530,4102,ch,bern,1079
+20210530,4105,ch,schwyz,232
+20210530,4107,ch,nidwalden,23
+20210530,4109,ch,zug,121
+20210530,4110,ch,fribourg,488
+20210530,4112,ch,basel_stadt,204
+20210530,4113,ch,basel_landschaft,220
+20210530,4117,ch,st_gallen,709
+20210530,4118,ch,graubunden,191
+20210530,4119,ch,aargau,699
+20210530,4120,ch,thurgau,451
+20210530,4121,ch,ticino,995
+20210530,4122,ch,vaud,1012
+20210530,4123,ch,valais,784
+20210530,4125,ch,geneve,745
+20210530,4126,ch,jura_ch,145
+20210530,423,li,liechtenstein,58
 20210530,43,at,austria,10354
 20210530,4301,at,wien,2331
 20210530,4302,at,niederosterreich,1638
@@ -19,6 +77,23 @@ dateId,areaCode,country,areaName,deathCases
 20210530,4307,at,salzburg,589
 20210530,4308,at,vorarlberg,302
 20210530,4309,at,burgenland,327
+20210529,4101,ch,zurich,1402
+20210529,4102,ch,bern,1079
+20210529,4103,ch,luzern,331
+20210529,4105,ch,schwyz,232
+20210529,4107,ch,nidwalden,23
+20210529,4109,ch,zug,121
+20210529,4110,ch,fribourg,488
+20210529,4112,ch,basel_stadt,204
+20210529,4113,ch,basel_landschaft,220
+20210529,4118,ch,graubunden,191
+20210529,4119,ch,aargau,699
+20210529,4120,ch,thurgau,451
+20210529,4121,ch,ticino,995
+20210529,4122,ch,vaud,1012
+20210529,4123,ch,valais,784
+20210529,4125,ch,geneve,745
+20210529,4126,ch,jura_ch,145
 20210529,43,at,austria,10349
 20210529,4301,at,wien,2330
 20210529,4302,at,niederosterreich,1636
@@ -29,6 +104,29 @@ dateId,areaCode,country,areaName,deathCases
 20210529,4307,at,salzburg,589
 20210529,4308,at,vorarlberg,302
 20210529,4309,at,burgenland,327
+20210528,4101,ch,zurich,1401
+20210528,4102,ch,bern,1078
+20210528,4104,ch,uri,49
+20210528,4105,ch,schwyz,232
+20210528,4106,ch,obwalden,39
+20210528,4107,ch,nidwalden,23
+20210528,4108,ch,glarus,76
+20210528,4109,ch,zug,121
+20210528,4110,ch,fribourg,488
+20210528,4112,ch,basel_stadt,203
+20210528,4113,ch,basel_landschaft,220
+20210528,4114,ch,schaffhausen,77
+20210528,4116,ch,appenzell_innerrhoden,15
+20210528,4118,ch,graubunden,191
+20210528,4119,ch,aargau,699
+20210528,4120,ch,thurgau,451
+20210528,4121,ch,ticino,995
+20210528,4122,ch,vaud,1012
+20210528,4123,ch,valais,783
+20210528,4124,ch,neuchatel,403
+20210528,4125,ch,geneve,745
+20210528,4126,ch,jura_ch,145
+20210528,423,li,liechtenstein,58
 20210528,43,at,austria,10344
 20210528,4301,at,wien,2328
 20210528,4302,at,niederosterreich,1635
@@ -39,6 +137,31 @@ dateId,areaCode,country,areaName,deathCases
 20210528,4307,at,salzburg,589
 20210528,4308,at,vorarlberg,302
 20210528,4309,at,burgenland,327
+20210527,4101,ch,zurich,1401
+20210527,4102,ch,bern,1077
+20210527,4104,ch,uri,49
+20210527,4105,ch,schwyz,232
+20210527,4106,ch,obwalden,39
+20210527,4107,ch,nidwalden,23
+20210527,4108,ch,glarus,76
+20210527,4109,ch,zug,121
+20210527,4110,ch,fribourg,488
+20210527,4111,ch,solothurn,271
+20210527,4112,ch,basel_stadt,203
+20210527,4113,ch,basel_landschaft,220
+20210527,4114,ch,schaffhausen,77
+20210527,4116,ch,appenzell_innerrhoden,15
+20210527,4117,ch,st_gallen,709
+20210527,4118,ch,graubunden,191
+20210527,4119,ch,aargau,699
+20210527,4120,ch,thurgau,451
+20210527,4121,ch,ticino,995
+20210527,4122,ch,vaud,1011
+20210527,4123,ch,valais,783
+20210527,4124,ch,neuchatel,402
+20210527,4125,ch,geneve,745
+20210527,4126,ch,jura_ch,145
+20210527,423,li,liechtenstein,58
 20210527,43,at,austria,10336
 20210527,4301,at,wien,2324
 20210527,4302,at,niederosterreich,1633
@@ -49,6 +172,31 @@ dateId,areaCode,country,areaName,deathCases
 20210527,4307,at,salzburg,589
 20210527,4308,at,vorarlberg,302
 20210527,4309,at,burgenland,327
+20210526,4101,ch,zurich,1401
+20210526,4102,ch,bern,1076
+20210526,4104,ch,uri,49
+20210526,4105,ch,schwyz,231
+20210526,4106,ch,obwalden,39
+20210526,4107,ch,nidwalden,23
+20210526,4108,ch,glarus,76
+20210526,4109,ch,zug,121
+20210526,4110,ch,fribourg,487
+20210526,4111,ch,solothurn,271
+20210526,4112,ch,basel_stadt,203
+20210526,4113,ch,basel_landschaft,220
+20210526,4114,ch,schaffhausen,77
+20210526,4116,ch,appenzell_innerrhoden,15
+20210526,4117,ch,st_gallen,709
+20210526,4118,ch,graubunden,190
+20210526,4119,ch,aargau,699
+20210526,4120,ch,thurgau,451
+20210526,4121,ch,ticino,994
+20210526,4122,ch,vaud,1010
+20210526,4123,ch,valais,782
+20210526,4124,ch,neuchatel,402
+20210526,4125,ch,geneve,745
+20210526,4126,ch,jura_ch,145
+20210526,423,li,liechtenstein,58
 20210526,43,at,austria,10330
 20210526,4301,at,wien,2323
 20210526,4302,at,niederosterreich,1631
@@ -59,6 +207,32 @@ dateId,areaCode,country,areaName,deathCases
 20210526,4307,at,salzburg,589
 20210526,4308,at,vorarlberg,302
 20210526,4309,at,burgenland,327
+20210525,4101,ch,zurich,1401
+20210525,4102,ch,bern,1076
+20210525,4103,ch,luzern,330
+20210525,4104,ch,uri,49
+20210525,4105,ch,schwyz,231
+20210525,4106,ch,obwalden,39
+20210525,4107,ch,nidwalden,23
+20210525,4108,ch,glarus,76
+20210525,4109,ch,zug,121
+20210525,4110,ch,fribourg,487
+20210525,4111,ch,solothurn,271
+20210525,4112,ch,basel_stadt,203
+20210525,4113,ch,basel_landschaft,220
+20210525,4114,ch,schaffhausen,77
+20210525,4116,ch,appenzell_innerrhoden,15
+20210525,4117,ch,st_gallen,709
+20210525,4118,ch,graubunden,190
+20210525,4119,ch,aargau,699
+20210525,4120,ch,thurgau,451
+20210525,4121,ch,ticino,994
+20210525,4122,ch,vaud,1010
+20210525,4123,ch,valais,782
+20210525,4124,ch,neuchatel,402
+20210525,4125,ch,geneve,745
+20210525,4126,ch,jura_ch,145
+20210525,423,li,liechtenstein,58
 20210525,43,at,austria,10322
 20210525,4301,at,wien,2318
 20210525,4302,at,niederosterreich,1629
@@ -69,6 +243,25 @@ dateId,areaCode,country,areaName,deathCases
 20210525,4307,at,salzburg,589
 20210525,4308,at,vorarlberg,302
 20210525,4309,at,burgenland,327
+20210524,4101,ch,zurich,1401
+20210524,4102,ch,bern,1076
+20210524,4105,ch,schwyz,231
+20210524,4107,ch,nidwalden,23
+20210524,4109,ch,zug,121
+20210524,4110,ch,fribourg,487
+20210524,4112,ch,basel_stadt,203
+20210524,4113,ch,basel_landschaft,220
+20210524,4117,ch,st_gallen,709
+20210524,4118,ch,graubunden,190
+20210524,4119,ch,aargau,699
+20210524,4120,ch,thurgau,451
+20210524,4121,ch,ticino,994
+20210524,4122,ch,vaud,1008
+20210524,4123,ch,valais,782
+20210524,4124,ch,neuchatel,402
+20210524,4125,ch,geneve,745
+20210524,4126,ch,jura_ch,145
+20210524,423,li,liechtenstein,58
 20210524,43,at,austria,10316
 20210524,4301,at,wien,2315
 20210524,4302,at,niederosterreich,1628
@@ -79,8 +272,23 @@ dateId,areaCode,country,areaName,deathCases
 20210524,4307,at,salzburg,589
 20210524,4308,at,vorarlberg,302
 20210524,4309,at,burgenland,327
-20210523,4102,ch,bern,1062
-20210523,4125,ch,geneve,744
+20210523,4101,ch,zurich,1398
+20210523,4102,ch,bern,1076
+20210523,4105,ch,schwyz,231
+20210523,4107,ch,nidwalden,23
+20210523,4109,ch,zug,121
+20210523,4110,ch,fribourg,487
+20210523,4112,ch,basel_stadt,203
+20210523,4113,ch,basel_landschaft,220
+20210523,4118,ch,graubunden,190
+20210523,4119,ch,aargau,699
+20210523,4120,ch,thurgau,450
+20210523,4121,ch,ticino,994
+20210523,4122,ch,vaud,1008
+20210523,4123,ch,valais,782
+20210523,4124,ch,neuchatel,402
+20210523,4125,ch,geneve,745
+20210523,4126,ch,jura_ch,145
 20210523,43,at,austria,10312
 20210523,4301,at,wien,2314
 20210523,4302,at,niederosterreich,1627
@@ -241,13 +449,21 @@ dateId,areaCode,country,areaName,deathCases
 20210522,3946,it,calabria,1136
 20210522,3951,it,sicilia,5737
 20210522,3952,it,sardegna,1446
-20210522,4102,ch,bern,1061
+20210522,4101,ch,zurich,1398
+20210522,4102,ch,bern,1076
 20210522,4105,ch,schwyz,231
 20210522,4107,ch,nidwalden,23
+20210522,4109,ch,zug,121
+20210522,4110,ch,fribourg,487
 20210522,4112,ch,basel_stadt,203
 20210522,4113,ch,basel_landschaft,220
 20210522,4118,ch,graubunden,190
+20210522,4119,ch,aargau,699
+20210522,4120,ch,thurgau,449
 20210522,4121,ch,ticino,994
+20210522,4122,ch,vaud,1008
+20210522,4123,ch,valais,782
+20210522,4124,ch,neuchatel,402
 20210522,4125,ch,geneve,744
 20210522,4126,ch,jura_ch,145
 20210522,43,at,austria,10303
@@ -411,7 +627,8 @@ dateId,areaCode,country,areaName,deathCases
 20210521,3951,it,sicilia,5720
 20210521,3952,it,sardegna,1445
 20210521,4101,ch,zurich,1397
-20210521,4102,ch,bern,1061
+20210521,4102,ch,bern,1073
+20210521,4103,ch,luzern,329
 20210521,4104,ch,uri,49
 20210521,4105,ch,schwyz,228
 20210521,4106,ch,obwalden,39
@@ -425,9 +642,12 @@ dateId,areaCode,country,areaName,deathCases
 20210521,4114,ch,schaffhausen,76
 20210521,4116,ch,appenzell_innerrhoden,15
 20210521,4118,ch,graubunden,190
+20210521,4119,ch,aargau,699
 20210521,4120,ch,thurgau,449
 20210521,4121,ch,ticino,993
-20210521,4123,ch,valais,780
+20210521,4122,ch,vaud,1008
+20210521,4123,ch,valais,781
+20210521,4124,ch,neuchatel,402
 20210521,4125,ch,geneve,744
 20210521,4126,ch,jura_ch,145
 20210521,423,li,liechtenstein,58
@@ -592,7 +812,7 @@ dateId,areaCode,country,areaName,deathCases
 20210520,3951,it,sicilia,5709
 20210520,3952,it,sardegna,1442
 20210520,4101,ch,zurich,1397
-20210520,4102,ch,bern,1059
+20210520,4102,ch,bern,1072
 20210520,4104,ch,uri,49
 20210520,4105,ch,schwyz,226
 20210520,4106,ch,obwalden,39
@@ -606,11 +826,12 @@ dateId,areaCode,country,areaName,deathCases
 20210520,4114,ch,schaffhausen,76
 20210520,4117,ch,st_gallen,709
 20210520,4118,ch,graubunden,190
-20210520,4119,ch,aargau,697
+20210520,4119,ch,aargau,698
 20210520,4120,ch,thurgau,449
 20210520,4121,ch,ticino,993
-20210520,4122,ch,vaud,1006
+20210520,4122,ch,vaud,1008
 20210520,4123,ch,valais,780
+20210520,4124,ch,neuchatel,402
 20210520,4125,ch,geneve,744
 20210520,4126,ch,jura_ch,145
 20210520,423,li,liechtenstein,58
@@ -775,8 +996,8 @@ dateId,areaCode,country,areaName,deathCases
 20210519,3951,it,sicilia,5699
 20210519,3952,it,sardegna,1442
 20210519,4101,ch,zurich,1396
-20210519,4102,ch,bern,1058
-20210519,4103,ch,luzern,327
+20210519,4102,ch,bern,1072
+20210519,4103,ch,luzern,328
 20210519,4104,ch,uri,49
 20210519,4105,ch,schwyz,226
 20210519,4106,ch,obwalden,39
@@ -791,11 +1012,12 @@ dateId,areaCode,country,areaName,deathCases
 20210519,4116,ch,appenzell_innerrhoden,15
 20210519,4117,ch,st_gallen,709
 20210519,4118,ch,graubunden,190
-20210519,4119,ch,aargau,697
+20210519,4119,ch,aargau,698
 20210519,4120,ch,thurgau,449
 20210519,4121,ch,ticino,993
-20210519,4122,ch,vaud,1005
+20210519,4122,ch,vaud,1007
 20210519,4123,ch,valais,780
+20210519,4124,ch,neuchatel,402
 20210519,4125,ch,geneve,744
 20210519,4126,ch,jura_ch,145
 20210519,423,li,liechtenstein,58
@@ -960,7 +1182,7 @@ dateId,areaCode,country,areaName,deathCases
 20210518,3951,it,sicilia,5689
 20210518,3952,it,sardegna,1438
 20210518,4101,ch,zurich,1396
-20210518,4102,ch,bern,1058
+20210518,4102,ch,bern,1071
 20210518,4104,ch,uri,48
 20210518,4105,ch,schwyz,226
 20210518,4106,ch,obwalden,39
@@ -975,11 +1197,12 @@ dateId,areaCode,country,areaName,deathCases
 20210518,4116,ch,appenzell_innerrhoden,15
 20210518,4117,ch,st_gallen,709
 20210518,4118,ch,graubunden,189
-20210518,4119,ch,aargau,697
+20210518,4119,ch,aargau,698
 20210518,4120,ch,thurgau,448
 20210518,4121,ch,ticino,992
-20210518,4122,ch,vaud,1005
+20210518,4122,ch,vaud,1007
 20210518,4123,ch,valais,780
+20210518,4124,ch,neuchatel,402
 20210518,4125,ch,geneve,744
 20210518,4126,ch,jura_ch,145
 20210518,423,li,liechtenstein,58
@@ -1144,7 +1367,7 @@ dateId,areaCode,country,areaName,deathCases
 20210517,3951,it,sicilia,5667
 20210517,3952,it,sardegna,1437
 20210517,4101,ch,zurich,1396
-20210517,4102,ch,bern,1057
+20210517,4102,ch,bern,1070
 20210517,4104,ch,uri,48
 20210517,4105,ch,schwyz,226
 20210517,4106,ch,obwalden,39
@@ -1158,11 +1381,12 @@ dateId,areaCode,country,areaName,deathCases
 20210517,4114,ch,schaffhausen,76
 20210517,4117,ch,st_gallen,709
 20210517,4118,ch,graubunden,188
-20210517,4119,ch,aargau,696
+20210517,4119,ch,aargau,697
 20210517,4120,ch,thurgau,448
 20210517,4121,ch,ticino,992
-20210517,4122,ch,vaud,1005
+20210517,4122,ch,vaud,1007
 20210517,4123,ch,valais,780
+20210517,4124,ch,neuchatel,402
 20210517,4125,ch,geneve,744
 20210517,4126,ch,jura_ch,145
 20210517,423,li,liechtenstein,58
@@ -1327,8 +1551,8 @@ dateId,areaCode,country,areaName,deathCases
 20210516,3951,it,sicilia,5663
 20210516,3952,it,sardegna,1433
 20210516,4101,ch,zurich,1396
-20210516,4102,ch,bern,1057
-20210516,4103,ch,luzern,326
+20210516,4102,ch,bern,1070
+20210516,4103,ch,luzern,327
 20210516,4105,ch,schwyz,226
 20210516,4107,ch,nidwalden,23
 20210516,4109,ch,zug,121
@@ -1337,11 +1561,12 @@ dateId,areaCode,country,areaName,deathCases
 20210516,4113,ch,basel_landschaft,220
 20210516,4117,ch,st_gallen,709
 20210516,4118,ch,graubunden,188
-20210516,4119,ch,aargau,696
+20210516,4119,ch,aargau,697
 20210516,4120,ch,thurgau,448
 20210516,4121,ch,ticino,991
-20210516,4122,ch,vaud,1005
+20210516,4122,ch,vaud,1007
 20210516,4123,ch,valais,780
+20210516,4124,ch,neuchatel,402
 20210516,4125,ch,geneve,744
 20210516,4126,ch,jura_ch,145
 20210516,423,li,liechtenstein,58
@@ -1506,7 +1731,7 @@ dateId,areaCode,country,areaName,deathCases
 20210515,3951,it,sicilia,5660
 20210515,3952,it,sardegna,1433
 20210515,4101,ch,zurich,1393
-20210515,4102,ch,bern,1057
+20210515,4102,ch,bern,1070
 20210515,4105,ch,schwyz,225
 20210515,4107,ch,nidwalden,23
 20210515,4109,ch,zug,121
@@ -1514,11 +1739,12 @@ dateId,areaCode,country,areaName,deathCases
 20210515,4112,ch,basel_stadt,201
 20210515,4113,ch,basel_landschaft,220
 20210515,4118,ch,graubunden,188
-20210515,4119,ch,aargau,694
+20210515,4119,ch,aargau,695
 20210515,4120,ch,thurgau,447
 20210515,4121,ch,ticino,991
-20210515,4122,ch,vaud,1005
+20210515,4122,ch,vaud,1007
 20210515,4123,ch,valais,780
+20210515,4124,ch,neuchatel,402
 20210515,4125,ch,geneve,744
 20210515,4126,ch,jura_ch,145
 20210515,43,at,austria,10250
@@ -1682,7 +1908,7 @@ dateId,areaCode,country,areaName,deathCases
 20210514,3951,it,sicilia,5650
 20210514,3952,it,sardegna,1430
 20210514,4101,ch,zurich,1392
-20210514,4102,ch,bern,1057
+20210514,4102,ch,bern,1070
 20210514,4104,ch,uri,48
 20210514,4105,ch,schwyz,225
 20210514,4107,ch,nidwalden,23
@@ -1694,10 +1920,10 @@ dateId,areaCode,country,areaName,deathCases
 20210514,4113,ch,basel_landschaft,220
 20210514,4114,ch,schaffhausen,76
 20210514,4118,ch,graubunden,188
-20210514,4119,ch,aargau,693
+20210514,4119,ch,aargau,694
 20210514,4120,ch,thurgau,447
 20210514,4121,ch,ticino,991
-20210514,4122,ch,vaud,1005
+20210514,4122,ch,vaud,1007
 20210514,4123,ch,valais,780
 20210514,4124,ch,neuchatel,402
 20210514,4125,ch,geneve,744
@@ -1863,7 +2089,7 @@ dateId,areaCode,country,areaName,deathCases
 20210513,3951,it,sicilia,5633
 20210513,3952,it,sardegna,1428
 20210513,4101,ch,zurich,1390
-20210513,4102,ch,bern,1057
+20210513,4102,ch,bern,1069
 20210513,4105,ch,schwyz,225
 20210513,4107,ch,nidwalden,23
 20210513,4109,ch,zug,120
@@ -1872,10 +2098,10 @@ dateId,areaCode,country,areaName,deathCases
 20210513,4113,ch,basel_landschaft,220
 20210513,4117,ch,st_gallen,709
 20210513,4118,ch,graubunden,188
-20210513,4119,ch,aargau,693
+20210513,4119,ch,aargau,694
 20210513,4120,ch,thurgau,447
 20210513,4121,ch,ticino,991
-20210513,4122,ch,vaud,1005
+20210513,4122,ch,vaud,1007
 20210513,4123,ch,valais,779
 20210513,4124,ch,neuchatel,402
 20210513,4125,ch,geneve,744
@@ -2042,7 +2268,7 @@ dateId,areaCode,country,areaName,deathCases
 20210512,3951,it,sicilia,5614
 20210512,3952,it,sardegna,1427
 20210512,4101,ch,zurich,1390
-20210512,4102,ch,bern,1055
+20210512,4102,ch,bern,1069
 20210512,4104,ch,uri,48
 20210512,4105,ch,schwyz,225
 20210512,4106,ch,obwalden,39
@@ -2056,10 +2282,10 @@ dateId,areaCode,country,areaName,deathCases
 20210512,4114,ch,schaffhausen,76
 20210512,4116,ch,appenzell_innerrhoden,15
 20210512,4118,ch,graubunden,188
-20210512,4119,ch,aargau,691
+20210512,4119,ch,aargau,692
 20210512,4120,ch,thurgau,447
 20210512,4121,ch,ticino,991
-20210512,4122,ch,vaud,1004
+20210512,4122,ch,vaud,1006
 20210512,4123,ch,valais,779
 20210512,4124,ch,neuchatel,402
 20210512,4125,ch,geneve,744
@@ -2226,7 +2452,7 @@ dateId,areaCode,country,areaName,deathCases
 20210511,3951,it,sicilia,5592
 20210511,3952,it,sardegna,1422
 20210511,4101,ch,zurich,1390
-20210511,4102,ch,bern,1055
+20210511,4102,ch,bern,1069
 20210511,4104,ch,uri,48
 20210511,4105,ch,schwyz,224
 20210511,4106,ch,obwalden,39
@@ -2241,10 +2467,10 @@ dateId,areaCode,country,areaName,deathCases
 20210511,4116,ch,appenzell_innerrhoden,15
 20210511,4117,ch,st_gallen,708
 20210511,4118,ch,graubunden,188
-20210511,4119,ch,aargau,691
+20210511,4119,ch,aargau,692
 20210511,4120,ch,thurgau,447
 20210511,4121,ch,ticino,991
-20210511,4122,ch,vaud,1004
+20210511,4122,ch,vaud,1006
 20210511,4123,ch,valais,779
 20210511,4124,ch,neuchatel,402
 20210511,4125,ch,geneve,744
@@ -2411,7 +2637,7 @@ dateId,areaCode,country,areaName,deathCases
 20210510,3951,it,sicilia,5566
 20210510,3952,it,sardegna,1418
 20210510,4101,ch,zurich,1390
-20210510,4102,ch,bern,1055
+20210510,4102,ch,bern,1068
 20210510,4104,ch,uri,47
 20210510,4105,ch,schwyz,224
 20210510,4106,ch,obwalden,39
@@ -2426,10 +2652,10 @@ dateId,areaCode,country,areaName,deathCases
 20210510,4116,ch,appenzell_innerrhoden,15
 20210510,4117,ch,st_gallen,708
 20210510,4118,ch,graubunden,188
-20210510,4119,ch,aargau,691
+20210510,4119,ch,aargau,692
 20210510,4120,ch,thurgau,447
 20210510,4121,ch,ticino,991
-20210510,4122,ch,vaud,1004
+20210510,4122,ch,vaud,1006
 20210510,4123,ch,valais,779
 20210510,4124,ch,neuchatel,402
 20210510,4125,ch,geneve,744
@@ -2596,8 +2822,8 @@ dateId,areaCode,country,areaName,deathCases
 20210509,3951,it,sicilia,5560
 20210509,3952,it,sardegna,1416
 20210509,4101,ch,zurich,1390
-20210509,4102,ch,bern,1054
-20210509,4103,ch,luzern,325
+20210509,4102,ch,bern,1068
+20210509,4103,ch,luzern,326
 20210509,4105,ch,schwyz,224
 20210509,4107,ch,nidwalden,23
 20210509,4109,ch,zug,119
@@ -2606,10 +2832,10 @@ dateId,areaCode,country,areaName,deathCases
 20210509,4113,ch,basel_landschaft,220
 20210509,4117,ch,st_gallen,708
 20210509,4118,ch,graubunden,187
-20210509,4119,ch,aargau,691
+20210509,4119,ch,aargau,692
 20210509,4120,ch,thurgau,447
 20210509,4121,ch,ticino,991
-20210509,4122,ch,vaud,1003
+20210509,4122,ch,vaud,1005
 20210509,4123,ch,valais,779
 20210509,4124,ch,neuchatel,402
 20210509,4125,ch,geneve,743
@@ -2776,8 +3002,8 @@ dateId,areaCode,country,areaName,deathCases
 20210508,3951,it,sicilia,5546
 20210508,3952,it,sardegna,1414
 20210508,4101,ch,zurich,1389
-20210508,4102,ch,bern,1054
-20210508,4103,ch,luzern,324
+20210508,4102,ch,bern,1067
+20210508,4103,ch,luzern,325
 20210508,4105,ch,schwyz,224
 20210508,4107,ch,nidwalden,23
 20210508,4109,ch,zug,119
@@ -2785,10 +3011,10 @@ dateId,areaCode,country,areaName,deathCases
 20210508,4112,ch,basel_stadt,199
 20210508,4113,ch,basel_landschaft,220
 20210508,4118,ch,graubunden,187
-20210508,4119,ch,aargau,691
+20210508,4119,ch,aargau,692
 20210508,4120,ch,thurgau,446
 20210508,4121,ch,ticino,991
-20210508,4122,ch,vaud,1003
+20210508,4122,ch,vaud,1005
 20210508,4123,ch,valais,779
 20210508,4124,ch,neuchatel,402
 20210508,4125,ch,geneve,743
@@ -2954,8 +3180,8 @@ dateId,areaCode,country,areaName,deathCases
 20210507,3951,it,sicilia,5527
 20210507,3952,it,sardegna,1409
 20210507,4101,ch,zurich,1387
-20210507,4102,ch,bern,1053
-20210507,4103,ch,luzern,323
+20210507,4102,ch,bern,1067
+20210507,4103,ch,luzern,324
 20210507,4104,ch,uri,47
 20210507,4105,ch,schwyz,224
 20210507,4106,ch,obwalden,39
@@ -2969,10 +3195,10 @@ dateId,areaCode,country,areaName,deathCases
 20210507,4114,ch,schaffhausen,76
 20210507,4116,ch,appenzell_innerrhoden,15
 20210507,4118,ch,graubunden,187
-20210507,4119,ch,aargau,691
+20210507,4119,ch,aargau,692
 20210507,4120,ch,thurgau,446
 20210507,4121,ch,ticino,991
-20210507,4122,ch,vaud,1003
+20210507,4122,ch,vaud,1005
 20210507,4123,ch,valais,779
 20210507,4124,ch,neuchatel,402
 20210507,4125,ch,geneve,742
@@ -3138,8 +3364,8 @@ dateId,areaCode,country,areaName,deathCases
 20210506,3951,it,sicilia,5516
 20210506,3952,it,sardegna,1405
 20210506,4101,ch,zurich,1385
-20210506,4102,ch,bern,1053
-20210506,4103,ch,luzern,322
+20210506,4102,ch,bern,1066
+20210506,4103,ch,luzern,323
 20210506,4104,ch,uri,47
 20210506,4105,ch,schwyz,224
 20210506,4106,ch,obwalden,39
@@ -3154,10 +3380,10 @@ dateId,areaCode,country,areaName,deathCases
 20210506,4116,ch,appenzell_innerrhoden,15
 20210506,4117,ch,st_gallen,707
 20210506,4118,ch,graubunden,187
-20210506,4119,ch,aargau,690
+20210506,4119,ch,aargau,691
 20210506,4120,ch,thurgau,446
 20210506,4121,ch,ticino,991
-20210506,4122,ch,vaud,1002
+20210506,4122,ch,vaud,1004
 20210506,4123,ch,valais,779
 20210506,4124,ch,neuchatel,402
 20210506,4125,ch,geneve,742
@@ -3324,8 +3550,8 @@ dateId,areaCode,country,areaName,deathCases
 20210505,3951,it,sicilia,5492
 20210505,3952,it,sardegna,1403
 20210505,4101,ch,zurich,1384
-20210505,4102,ch,bern,1053
-20210505,4103,ch,luzern,321
+20210505,4102,ch,bern,1066
+20210505,4103,ch,luzern,322
 20210505,4104,ch,uri,47
 20210505,4105,ch,schwyz,223
 20210505,4106,ch,obwalden,39
@@ -3340,10 +3566,10 @@ dateId,areaCode,country,areaName,deathCases
 20210505,4116,ch,appenzell_innerrhoden,15
 20210505,4117,ch,st_gallen,707
 20210505,4118,ch,graubunden,187
-20210505,4119,ch,aargau,690
+20210505,4119,ch,aargau,691
 20210505,4120,ch,thurgau,446
 20210505,4121,ch,ticino,991
-20210505,4122,ch,vaud,1002
+20210505,4122,ch,vaud,1004
 20210505,4123,ch,valais,779
 20210505,4124,ch,neuchatel,402
 20210505,4125,ch,geneve,742
@@ -3510,7 +3736,7 @@ dateId,areaCode,country,areaName,deathCases
 20210504,3951,it,sicilia,5468
 20210504,3952,it,sardegna,1398
 20210504,4101,ch,zurich,1384
-20210504,4102,ch,bern,1053
+20210504,4102,ch,bern,1066
 20210504,4104,ch,uri,47
 20210504,4105,ch,schwyz,223
 20210504,4106,ch,obwalden,39
@@ -3525,10 +3751,10 @@ dateId,areaCode,country,areaName,deathCases
 20210504,4116,ch,appenzell_innerrhoden,15
 20210504,4117,ch,st_gallen,707
 20210504,4118,ch,graubunden,185
-20210504,4119,ch,aargau,690
+20210504,4119,ch,aargau,691
 20210504,4120,ch,thurgau,444
 20210504,4121,ch,ticino,991
-20210504,4122,ch,vaud,1002
+20210504,4122,ch,vaud,1004
 20210504,4123,ch,valais,778
 20210504,4124,ch,neuchatel,402
 20210504,4125,ch,geneve,741
@@ -3695,7 +3921,7 @@ dateId,areaCode,country,areaName,deathCases
 20210503,3951,it,sicilia,5443
 20210503,3952,it,sardegna,1393
 20210503,4101,ch,zurich,1383
-20210503,4102,ch,bern,1053
+20210503,4102,ch,bern,1066
 20210503,4104,ch,uri,47
 20210503,4105,ch,schwyz,223
 20210503,4106,ch,obwalden,39
@@ -3710,10 +3936,10 @@ dateId,areaCode,country,areaName,deathCases
 20210503,4116,ch,appenzell_innerrhoden,15
 20210503,4117,ch,st_gallen,707
 20210503,4118,ch,graubunden,185
-20210503,4119,ch,aargau,690
+20210503,4119,ch,aargau,691
 20210503,4120,ch,thurgau,443
 20210503,4121,ch,ticino,991
-20210503,4122,ch,vaud,1001
+20210503,4122,ch,vaud,1003
 20210503,4123,ch,valais,778
 20210503,4124,ch,neuchatel,402
 20210503,4125,ch,geneve,741
@@ -3880,8 +4106,8 @@ dateId,areaCode,country,areaName,deathCases
 20210502,3951,it,sicilia,5423
 20210502,3952,it,sardegna,1389
 20210502,4101,ch,zurich,1382
-20210502,4102,ch,bern,1053
-20210502,4103,ch,luzern,320
+20210502,4102,ch,bern,1066
+20210502,4103,ch,luzern,321
 20210502,4105,ch,schwyz,223
 20210502,4107,ch,nidwalden,22
 20210502,4109,ch,zug,118
@@ -3890,10 +4116,10 @@ dateId,areaCode,country,areaName,deathCases
 20210502,4113,ch,basel_landschaft,218
 20210502,4117,ch,st_gallen,706
 20210502,4118,ch,graubunden,185
-20210502,4119,ch,aargau,690
+20210502,4119,ch,aargau,691
 20210502,4120,ch,thurgau,443
 20210502,4121,ch,ticino,989
-20210502,4122,ch,vaud,1001
+20210502,4122,ch,vaud,1003
 20210502,4123,ch,valais,777
 20210502,4124,ch,neuchatel,402
 20210502,4125,ch,geneve,741
@@ -4060,7 +4286,7 @@ dateId,areaCode,country,areaName,deathCases
 20210501,3951,it,sicilia,5420
 20210501,3952,it,sardegna,1387
 20210501,4101,ch,zurich,1381
-20210501,4102,ch,bern,1052
+20210501,4102,ch,bern,1066
 20210501,4105,ch,schwyz,223
 20210501,4107,ch,nidwalden,22
 20210501,4109,ch,zug,118
@@ -4068,10 +4294,10 @@ dateId,areaCode,country,areaName,deathCases
 20210501,4112,ch,basel_stadt,199
 20210501,4113,ch,basel_landschaft,218
 20210501,4118,ch,graubunden,185
-20210501,4119,ch,aargau,690
+20210501,4119,ch,aargau,691
 20210501,4120,ch,thurgau,442
 20210501,4121,ch,ticino,989
-20210501,4122,ch,vaud,1001
+20210501,4122,ch,vaud,1003
 20210501,4123,ch,valais,777
 20210501,4124,ch,neuchatel,402
 20210501,4125,ch,geneve,740
@@ -4237,7 +4463,7 @@ dateId,areaCode,country,areaName,deathCases
 20210430,3951,it,sicilia,5410
 20210430,3952,it,sardegna,1384
 20210430,4101,ch,zurich,1378
-20210430,4102,ch,bern,1051
+20210430,4102,ch,bern,1064
 20210430,4104,ch,uri,47
 20210430,4105,ch,schwyz,223
 20210430,4106,ch,obwalden,39
@@ -4251,10 +4477,10 @@ dateId,areaCode,country,areaName,deathCases
 20210430,4114,ch,schaffhausen,75
 20210430,4116,ch,appenzell_innerrhoden,15
 20210430,4118,ch,graubunden,185
-20210430,4119,ch,aargau,689
+20210430,4119,ch,aargau,690
 20210430,4120,ch,thurgau,441
 20210430,4121,ch,ticino,989
-20210430,4122,ch,vaud,1000
+20210430,4122,ch,vaud,1002
 20210430,4123,ch,valais,777
 20210430,4124,ch,neuchatel,402
 20210430,4125,ch,geneve,739
@@ -4421,7 +4647,7 @@ dateId,areaCode,country,areaName,deathCases
 20210429,3951,it,sicilia,5391
 20210429,3952,it,sardegna,1381
 20210429,4101,ch,zurich,1378
-20210429,4102,ch,bern,1049
+20210429,4102,ch,bern,1064
 20210429,4104,ch,uri,47
 20210429,4105,ch,schwyz,223
 20210429,4106,ch,obwalden,39
@@ -4436,10 +4662,10 @@ dateId,areaCode,country,areaName,deathCases
 20210429,4116,ch,appenzell_innerrhoden,15
 20210429,4117,ch,st_gallen,706
 20210429,4118,ch,graubunden,185
-20210429,4119,ch,aargau,684
+20210429,4119,ch,aargau,685
 20210429,4120,ch,thurgau,440
 20210429,4121,ch,ticino,988
-20210429,4122,ch,vaud,999
+20210429,4122,ch,vaud,1001
 20210429,4123,ch,valais,777
 20210429,4124,ch,neuchatel,401
 20210429,4125,ch,geneve,739
@@ -4606,7 +4832,7 @@ dateId,areaCode,country,areaName,deathCases
 20210428,3951,it,sicilia,5368
 20210428,3952,it,sardegna,1374
 20210428,4101,ch,zurich,1377
-20210428,4102,ch,bern,1048
+20210428,4102,ch,bern,1063
 20210428,4104,ch,uri,47
 20210428,4105,ch,schwyz,223
 20210428,4106,ch,obwalden,39
@@ -4621,10 +4847,10 @@ dateId,areaCode,country,areaName,deathCases
 20210428,4116,ch,appenzell_innerrhoden,15
 20210428,4117,ch,st_gallen,706
 20210428,4118,ch,graubunden,184
-20210428,4119,ch,aargau,683
+20210428,4119,ch,aargau,684
 20210428,4120,ch,thurgau,440
 20210428,4121,ch,ticino,986
-20210428,4122,ch,vaud,999
+20210428,4122,ch,vaud,1001
 20210428,4123,ch,valais,777
 20210428,4124,ch,neuchatel,401
 20210428,4125,ch,geneve,739
@@ -4791,7 +5017,7 @@ dateId,areaCode,country,areaName,deathCases
 20210427,3951,it,sicilia,5338
 20210427,3952,it,sardegna,1372
 20210427,4101,ch,zurich,1376
-20210427,4102,ch,bern,1047
+20210427,4102,ch,bern,1063
 20210427,4104,ch,uri,47
 20210427,4105,ch,schwyz,221
 20210427,4106,ch,obwalden,39
@@ -4809,7 +5035,7 @@ dateId,areaCode,country,areaName,deathCases
 20210427,4119,ch,aargau,683
 20210427,4120,ch,thurgau,440
 20210427,4121,ch,ticino,985
-20210427,4122,ch,vaud,999
+20210427,4122,ch,vaud,1001
 20210427,4123,ch,valais,776
 20210427,4124,ch,neuchatel,401
 20210427,4125,ch,geneve,739
@@ -4976,8 +5202,8 @@ dateId,areaCode,country,areaName,deathCases
 20210426,3951,it,sicilia,5305
 20210426,3952,it,sardegna,1363
 20210426,4101,ch,zurich,1375
-20210426,4102,ch,bern,1046
-20210426,4103,ch,luzern,317
+20210426,4102,ch,bern,1061
+20210426,4103,ch,luzern,318
 20210426,4104,ch,uri,47
 20210426,4105,ch,schwyz,221
 20210426,4106,ch,obwalden,39
@@ -4994,7 +5220,7 @@ dateId,areaCode,country,areaName,deathCases
 20210426,4119,ch,aargau,682
 20210426,4120,ch,thurgau,439
 20210426,4121,ch,ticino,984
-20210426,4122,ch,vaud,999
+20210426,4122,ch,vaud,1001
 20210426,4123,ch,valais,774
 20210426,4124,ch,neuchatel,401
 20210426,4125,ch,geneve,737
@@ -5161,7 +5387,7 @@ dateId,areaCode,country,areaName,deathCases
 20210425,3951,it,sicilia,5292
 20210425,3952,it,sardegna,1352
 20210425,4101,ch,zurich,1374
-20210425,4102,ch,bern,1046
+20210425,4102,ch,bern,1061
 20210425,4105,ch,schwyz,221
 20210425,4107,ch,nidwalden,22
 20210425,4109,ch,zug,116
@@ -5173,7 +5399,7 @@ dateId,areaCode,country,areaName,deathCases
 20210425,4119,ch,aargau,680
 20210425,4120,ch,thurgau,438
 20210425,4121,ch,ticino,984
-20210425,4122,ch,vaud,999
+20210425,4122,ch,vaud,1001
 20210425,4123,ch,valais,773
 20210425,4124,ch,neuchatel,401
 20210425,4125,ch,geneve,737
@@ -5340,7 +5566,7 @@ dateId,areaCode,country,areaName,deathCases
 20210424,3951,it,sicilia,5286
 20210424,3952,it,sardegna,1347
 20210424,4101,ch,zurich,1373
-20210424,4102,ch,bern,1045
+20210424,4102,ch,bern,1059
 20210424,4105,ch,schwyz,221
 20210424,4107,ch,nidwalden,22
 20210424,4109,ch,zug,116
@@ -5351,7 +5577,7 @@ dateId,areaCode,country,areaName,deathCases
 20210424,4119,ch,aargau,680
 20210424,4120,ch,thurgau,437
 20210424,4121,ch,ticino,984
-20210424,4122,ch,vaud,998
+20210424,4122,ch,vaud,1000
 20210424,4123,ch,valais,771
 20210424,4124,ch,neuchatel,401
 20210424,4125,ch,geneve,737
@@ -5517,8 +5743,8 @@ dateId,areaCode,country,areaName,deathCases
 20210423,3951,it,sicilia,5265
 20210423,3952,it,sardegna,1343
 20210423,4101,ch,zurich,1372
-20210423,4102,ch,bern,1045
-20210423,4103,ch,luzern,315
+20210423,4102,ch,bern,1058
+20210423,4103,ch,luzern,316
 20210423,4104,ch,uri,47
 20210423,4105,ch,schwyz,221
 20210423,4106,ch,obwalden,39
@@ -5535,7 +5761,7 @@ dateId,areaCode,country,areaName,deathCases
 20210423,4119,ch,aargau,680
 20210423,4120,ch,thurgau,437
 20210423,4121,ch,ticino,983
-20210423,4122,ch,vaud,998
+20210423,4122,ch,vaud,1000
 20210423,4123,ch,valais,771
 20210423,4124,ch,neuchatel,401
 20210423,4125,ch,geneve,736
@@ -5702,7 +5928,7 @@ dateId,areaCode,country,areaName,deathCases
 20210422,3951,it,sicilia,5241
 20210422,3952,it,sardegna,1337
 20210422,4101,ch,zurich,1369
-20210422,4102,ch,bern,1044
+20210422,4102,ch,bern,1058
 20210422,4104,ch,uri,46
 20210422,4105,ch,schwyz,221
 20210422,4106,ch,obwalden,39
@@ -5720,7 +5946,7 @@ dateId,areaCode,country,areaName,deathCases
 20210422,4119,ch,aargau,679
 20210422,4120,ch,thurgau,435
 20210422,4121,ch,ticino,982
-20210422,4122,ch,vaud,998
+20210422,4122,ch,vaud,1000
 20210422,4123,ch,valais,769
 20210422,4124,ch,neuchatel,401
 20210422,4125,ch,geneve,736
@@ -5887,7 +6113,7 @@ dateId,areaCode,country,areaName,deathCases
 20210421,3951,it,sicilia,5218
 20210421,3952,it,sardegna,1330
 20210421,4101,ch,zurich,1369
-20210421,4102,ch,bern,1043
+20210421,4102,ch,bern,1057
 20210421,4104,ch,uri,46
 20210421,4105,ch,schwyz,221
 20210421,4106,ch,obwalden,39
@@ -5905,7 +6131,7 @@ dateId,areaCode,country,areaName,deathCases
 20210421,4119,ch,aargau,676
 20210421,4120,ch,thurgau,435
 20210421,4121,ch,ticino,982
-20210421,4122,ch,vaud,998
+20210421,4122,ch,vaud,1000
 20210421,4123,ch,valais,769
 20210421,4124,ch,neuchatel,401
 20210421,4125,ch,geneve,736
@@ -6072,7 +6298,7 @@ dateId,areaCode,country,areaName,deathCases
 20210420,3951,it,sicilia,5208
 20210420,3952,it,sardegna,1321
 20210420,4101,ch,zurich,1367
-20210420,4102,ch,bern,1041
+20210420,4102,ch,bern,1056
 20210420,4104,ch,uri,46
 20210420,4105,ch,schwyz,221
 20210420,4106,ch,obwalden,39
@@ -6090,7 +6316,7 @@ dateId,areaCode,country,areaName,deathCases
 20210420,4119,ch,aargau,675
 20210420,4120,ch,thurgau,435
 20210420,4121,ch,ticino,982
-20210420,4122,ch,vaud,997
+20210420,4122,ch,vaud,999
 20210420,4123,ch,valais,769
 20210420,4124,ch,neuchatel,401
 20210420,4125,ch,geneve,736
@@ -6257,8 +6483,8 @@ dateId,areaCode,country,areaName,deathCases
 20210419,3951,it,sicilia,5172
 20210419,3952,it,sardegna,1318
 20210419,4101,ch,zurich,1365
-20210419,4102,ch,bern,1039
-20210419,4103,ch,luzern,314
+20210419,4102,ch,bern,1055
+20210419,4103,ch,luzern,315
 20210419,4104,ch,uri,46
 20210419,4105,ch,schwyz,221
 20210419,4106,ch,obwalden,39
@@ -6276,7 +6502,7 @@ dateId,areaCode,country,areaName,deathCases
 20210419,4119,ch,aargau,674
 20210419,4120,ch,thurgau,435
 20210419,4121,ch,ticino,982
-20210419,4122,ch,vaud,997
+20210419,4122,ch,vaud,999
 20210419,4123,ch,valais,768
 20210419,4124,ch,neuchatel,401
 20210419,4125,ch,geneve,735
@@ -6443,7 +6669,7 @@ dateId,areaCode,country,areaName,deathCases
 20210418,3951,it,sicilia,5162
 20210418,3952,it,sardegna,1315
 20210418,4101,ch,zurich,1364
-20210418,4102,ch,bern,1039
+20210418,4102,ch,bern,1055
 20210418,4105,ch,schwyz,219
 20210418,4107,ch,nidwalden,19
 20210418,4109,ch,zug,114
@@ -6455,7 +6681,7 @@ dateId,areaCode,country,areaName,deathCases
 20210418,4119,ch,aargau,674
 20210418,4120,ch,thurgau,433
 20210418,4121,ch,ticino,981
-20210418,4122,ch,vaud,994
+20210418,4122,ch,vaud,996
 20210418,4123,ch,valais,767
 20210418,4124,ch,neuchatel,401
 20210418,4125,ch,geneve,735
@@ -6622,8 +6848,8 @@ dateId,areaCode,country,areaName,deathCases
 20210417,3951,it,sicilia,5152
 20210417,3952,it,sardegna,1313
 20210417,4101,ch,zurich,1362
-20210417,4102,ch,bern,1038
-20210417,4103,ch,luzern,313
+20210417,4102,ch,bern,1055
+20210417,4103,ch,luzern,314
 20210417,4105,ch,schwyz,219
 20210417,4107,ch,nidwalden,19
 20210417,4109,ch,zug,114
@@ -6634,7 +6860,7 @@ dateId,areaCode,country,areaName,deathCases
 20210417,4119,ch,aargau,674
 20210417,4120,ch,thurgau,433
 20210417,4121,ch,ticino,980
-20210417,4122,ch,vaud,994
+20210417,4122,ch,vaud,996
 20210417,4123,ch,valais,767
 20210417,4124,ch,neuchatel,401
 20210417,4125,ch,geneve,734
@@ -6800,7 +7026,7 @@ dateId,areaCode,country,areaName,deathCases
 20210416,3951,it,sicilia,5128
 20210416,3952,it,sardegna,1307
 20210416,4101,ch,zurich,1361
-20210416,4102,ch,bern,1038
+20210416,4102,ch,bern,1053
 20210416,4104,ch,uri,46
 20210416,4105,ch,schwyz,217
 20210416,4106,ch,obwalden,39
@@ -6817,7 +7043,7 @@ dateId,areaCode,country,areaName,deathCases
 20210416,4119,ch,aargau,672
 20210416,4120,ch,thurgau,433
 20210416,4121,ch,ticino,980
-20210416,4122,ch,vaud,993
+20210416,4122,ch,vaud,995
 20210416,4123,ch,valais,766
 20210416,4124,ch,neuchatel,401
 20210416,4125,ch,geneve,734
@@ -6984,7 +7210,7 @@ dateId,areaCode,country,areaName,deathCases
 20210415,3951,it,sicilia,5107
 20210415,3952,it,sardegna,1302
 20210415,4101,ch,zurich,1359
-20210415,4102,ch,bern,1038
+20210415,4102,ch,bern,1052
 20210415,4104,ch,uri,45
 20210415,4105,ch,schwyz,217
 20210415,4106,ch,obwalden,39
@@ -7002,7 +7228,7 @@ dateId,areaCode,country,areaName,deathCases
 20210415,4119,ch,aargau,672
 20210415,4120,ch,thurgau,433
 20210415,4121,ch,ticino,980
-20210415,4122,ch,vaud,991
+20210415,4122,ch,vaud,993
 20210415,4123,ch,valais,766
 20210415,4124,ch,neuchatel,401
 20210415,4125,ch,geneve,734
@@ -7169,7 +7395,7 @@ dateId,areaCode,country,areaName,deathCases
 20210414,3951,it,sicilia,5101
 20210414,3952,it,sardegna,1293
 20210414,4101,ch,zurich,1359
-20210414,4102,ch,bern,1038
+20210414,4102,ch,bern,1051
 20210414,4104,ch,uri,45
 20210414,4105,ch,schwyz,217
 20210414,4106,ch,obwalden,39
@@ -7187,7 +7413,7 @@ dateId,areaCode,country,areaName,deathCases
 20210414,4119,ch,aargau,672
 20210414,4120,ch,thurgau,433
 20210414,4121,ch,ticino,980
-20210414,4122,ch,vaud,990
+20210414,4122,ch,vaud,992
 20210414,4123,ch,valais,766
 20210414,4124,ch,neuchatel,401
 20210414,4125,ch,geneve,734
@@ -7354,7 +7580,7 @@ dateId,areaCode,country,areaName,deathCases
 20210413,3951,it,sicilia,5068
 20210413,3952,it,sardegna,1285
 20210413,4101,ch,zurich,1359
-20210413,4102,ch,bern,1037
+20210413,4102,ch,bern,1051
 20210413,4104,ch,uri,42
 20210413,4105,ch,schwyz,217
 20210413,4106,ch,obwalden,39
@@ -7372,7 +7598,7 @@ dateId,areaCode,country,areaName,deathCases
 20210413,4119,ch,aargau,671
 20210413,4120,ch,thurgau,433
 20210413,4121,ch,ticino,979
-20210413,4122,ch,vaud,990
+20210413,4122,ch,vaud,992
 20210413,4123,ch,valais,765
 20210413,4124,ch,neuchatel,401
 20210413,4125,ch,geneve,734
@@ -7539,7 +7765,7 @@ dateId,areaCode,country,areaName,deathCases
 20210412,3951,it,sicilia,5058
 20210412,3952,it,sardegna,1277
 20210412,4101,ch,zurich,1356
-20210412,4102,ch,bern,1037
+20210412,4102,ch,bern,1051
 20210412,4104,ch,uri,41
 20210412,4105,ch,schwyz,217
 20210412,4106,ch,obwalden,39
@@ -7556,7 +7782,7 @@ dateId,areaCode,country,areaName,deathCases
 20210412,4119,ch,aargau,671
 20210412,4120,ch,thurgau,433
 20210412,4121,ch,ticino,979
-20210412,4122,ch,vaud,989
+20210412,4122,ch,vaud,991
 20210412,4123,ch,valais,764
 20210412,4124,ch,neuchatel,401
 20210412,4125,ch,geneve,734
@@ -7723,7 +7949,7 @@ dateId,areaCode,country,areaName,deathCases
 20210411,3951,it,sicilia,5038
 20210411,3952,it,sardegna,1265
 20210411,4101,ch,zurich,1354
-20210411,4102,ch,bern,1037
+20210411,4102,ch,bern,1050
 20210411,4105,ch,schwyz,217
 20210411,4107,ch,nidwalden,19
 20210411,4109,ch,zug,114
@@ -7735,7 +7961,7 @@ dateId,areaCode,country,areaName,deathCases
 20210411,4119,ch,aargau,671
 20210411,4120,ch,thurgau,433
 20210411,4121,ch,ticino,979
-20210411,4122,ch,vaud,989
+20210411,4122,ch,vaud,991
 20210411,4123,ch,valais,764
 20210411,4124,ch,neuchatel,400
 20210411,4125,ch,geneve,734
@@ -7902,8 +8128,8 @@ dateId,areaCode,country,areaName,deathCases
 20210410,3951,it,sicilia,5029
 20210410,3952,it,sardegna,1261
 20210410,4101,ch,zurich,1351
-20210410,4102,ch,bern,1037
-20210410,4103,ch,luzern,312
+20210410,4102,ch,bern,1050
+20210410,4103,ch,luzern,313
 20210410,4105,ch,schwyz,217
 20210410,4107,ch,nidwalden,19
 20210410,4109,ch,zug,114
@@ -7914,7 +8140,7 @@ dateId,areaCode,country,areaName,deathCases
 20210410,4119,ch,aargau,671
 20210410,4120,ch,thurgau,432
 20210410,4121,ch,ticino,978
-20210410,4122,ch,vaud,986
+20210410,4122,ch,vaud,988
 20210410,4123,ch,valais,763
 20210410,4124,ch,neuchatel,400
 20210410,4125,ch,geneve,734
@@ -8080,7 +8306,7 @@ dateId,areaCode,country,areaName,deathCases
 20210409,3951,it,sicilia,5015
 20210409,3952,it,sardegna,1259
 20210409,4101,ch,zurich,1351
-20210409,4102,ch,bern,1037
+20210409,4102,ch,bern,1050
 20210409,4104,ch,uri,41
 20210409,4105,ch,schwyz,217
 20210409,4106,ch,obwalden,39
@@ -8097,7 +8323,7 @@ dateId,areaCode,country,areaName,deathCases
 20210409,4119,ch,aargau,671
 20210409,4120,ch,thurgau,432
 20210409,4121,ch,ticino,978
-20210409,4122,ch,vaud,986
+20210409,4122,ch,vaud,988
 20210409,4123,ch,valais,762
 20210409,4124,ch,neuchatel,400
 20210409,4125,ch,geneve,734
@@ -8264,7 +8490,7 @@ dateId,areaCode,country,areaName,deathCases
 20210408,3951,it,sicilia,4757
 20210408,3952,it,sardegna,1255
 20210408,4101,ch,zurich,1351
-20210408,4102,ch,bern,1037
+20210408,4102,ch,bern,1050
 20210408,4104,ch,uri,41
 20210408,4105,ch,schwyz,217
 20210408,4106,ch,obwalden,39
@@ -8281,7 +8507,7 @@ dateId,areaCode,country,areaName,deathCases
 20210408,4119,ch,aargau,670
 20210408,4120,ch,thurgau,432
 20210408,4121,ch,ticino,978
-20210408,4122,ch,vaud,984
+20210408,4122,ch,vaud,986
 20210408,4123,ch,valais,762
 20210408,4124,ch,neuchatel,400
 20210408,4125,ch,geneve,734
@@ -8448,7 +8674,7 @@ dateId,areaCode,country,areaName,deathCases
 20210407,3951,it,sicilia,4746
 20210407,3952,it,sardegna,1250
 20210407,4101,ch,zurich,1350
-20210407,4102,ch,bern,1036
+20210407,4102,ch,bern,1050
 20210407,4104,ch,uri,41
 20210407,4105,ch,schwyz,217
 20210407,4106,ch,obwalden,39
@@ -8466,7 +8692,7 @@ dateId,areaCode,country,areaName,deathCases
 20210407,4119,ch,aargau,669
 20210407,4120,ch,thurgau,432
 20210407,4121,ch,ticino,977
-20210407,4122,ch,vaud,983
+20210407,4122,ch,vaud,985
 20210407,4123,ch,valais,762
 20210407,4124,ch,neuchatel,400
 20210407,4125,ch,geneve,733
@@ -8633,7 +8859,7 @@ dateId,areaCode,country,areaName,deathCases
 20210406,3951,it,sicilia,4730
 20210406,3952,it,sardegna,1245
 20210406,4101,ch,zurich,1350
-20210406,4102,ch,bern,1036
+20210406,4102,ch,bern,1049
 20210406,4103,ch,luzern,311
 20210406,4104,ch,uri,40
 20210406,4105,ch,schwyz,216
@@ -8652,7 +8878,7 @@ dateId,areaCode,country,areaName,deathCases
 20210406,4119,ch,aargau,669
 20210406,4120,ch,thurgau,430
 20210406,4121,ch,ticino,977
-20210406,4122,ch,vaud,981
+20210406,4122,ch,vaud,983
 20210406,4123,ch,valais,761
 20210406,4124,ch,neuchatel,399
 20210406,4125,ch,geneve,733
@@ -8819,7 +9045,7 @@ dateId,areaCode,country,areaName,deathCases
 20210405,3951,it,sicilia,4717
 20210405,3952,it,sardegna,1244
 20210405,4101,ch,zurich,1346
-20210405,4102,ch,bern,1035
+20210405,4102,ch,bern,1049
 20210405,4103,ch,luzern,310
 20210405,4105,ch,schwyz,216
 20210405,4107,ch,nidwalden,19
@@ -8833,7 +9059,7 @@ dateId,areaCode,country,areaName,deathCases
 20210405,4119,ch,aargau,669
 20210405,4120,ch,thurgau,430
 20210405,4121,ch,ticino,975
-20210405,4122,ch,vaud,981
+20210405,4122,ch,vaud,983
 20210405,4123,ch,valais,761
 20210405,4124,ch,neuchatel,399
 20210405,4125,ch,geneve,731
@@ -9000,7 +9226,7 @@ dateId,areaCode,country,areaName,deathCases
 20210404,3951,it,sicilia,4697
 20210404,3952,it,sardegna,1242
 20210404,4101,ch,zurich,1344
-20210404,4102,ch,bern,1035
+20210404,4102,ch,bern,1048
 20210404,4103,ch,luzern,309
 20210404,4105,ch,schwyz,216
 20210404,4107,ch,nidwalden,19
@@ -9012,7 +9238,7 @@ dateId,areaCode,country,areaName,deathCases
 20210404,4119,ch,aargau,666
 20210404,4120,ch,thurgau,430
 20210404,4121,ch,ticino,975
-20210404,4122,ch,vaud,980
+20210404,4122,ch,vaud,982
 20210404,4123,ch,valais,761
 20210404,4124,ch,neuchatel,399
 20210404,4125,ch,geneve,730
@@ -9178,7 +9404,7 @@ dateId,areaCode,country,areaName,deathCases
 20210403,3951,it,sicilia,4676
 20210403,3952,it,sardegna,1241
 20210403,4101,ch,zurich,1342
-20210403,4102,ch,bern,1035
+20210403,4102,ch,bern,1048
 20210403,4103,ch,luzern,308
 20210403,4105,ch,schwyz,216
 20210403,4107,ch,nidwalden,19
@@ -9190,7 +9416,7 @@ dateId,areaCode,country,areaName,deathCases
 20210403,4119,ch,aargau,665
 20210403,4120,ch,thurgau,430
 20210403,4121,ch,ticino,975
-20210403,4122,ch,vaud,979
+20210403,4122,ch,vaud,981
 20210403,4123,ch,valais,761
 20210403,4124,ch,neuchatel,399
 20210403,4125,ch,geneve,728
@@ -9356,7 +9582,7 @@ dateId,areaCode,country,areaName,deathCases
 20210402,3951,it,sicilia,4662
 20210402,3952,it,sardegna,1240
 20210402,4101,ch,zurich,1341
-20210402,4102,ch,bern,1034
+20210402,4102,ch,bern,1048
 20210402,4105,ch,schwyz,216
 20210402,4107,ch,nidwalden,19
 20210402,4109,ch,zug,114
@@ -9367,7 +9593,7 @@ dateId,areaCode,country,areaName,deathCases
 20210402,4119,ch,aargau,664
 20210402,4120,ch,thurgau,430
 20210402,4121,ch,ticino,975
-20210402,4122,ch,vaud,977
+20210402,4122,ch,vaud,979
 20210402,4123,ch,valais,760
 20210402,4124,ch,neuchatel,398
 20210402,4125,ch,geneve,728
@@ -9534,7 +9760,7 @@ dateId,areaCode,country,areaName,deathCases
 20210401,3951,it,sicilia,4647
 20210401,3952,it,sardegna,1238
 20210401,4101,ch,zurich,1339
-20210401,4102,ch,bern,1034
+20210401,4102,ch,bern,1048
 20210401,4103,ch,luzern,306
 20210401,4104,ch,uri,39
 20210401,4105,ch,schwyz,216
@@ -9552,7 +9778,7 @@ dateId,areaCode,country,areaName,deathCases
 20210401,4119,ch,aargau,663
 20210401,4120,ch,thurgau,430
 20210401,4121,ch,ticino,975
-20210401,4122,ch,vaud,976
+20210401,4122,ch,vaud,978
 20210401,4123,ch,valais,760
 20210401,4124,ch,neuchatel,398
 20210401,4125,ch,geneve,728
@@ -9719,7 +9945,7 @@ dateId,areaCode,country,areaName,deathCases
 20210331,3951,it,sicilia,4628
 20210331,3952,it,sardegna,1234
 20210331,4101,ch,zurich,1338
-20210331,4102,ch,bern,1031
+20210331,4102,ch,bern,1047
 20210331,4104,ch,uri,39
 20210331,4105,ch,schwyz,216
 20210331,4106,ch,obwalden,39
@@ -9737,7 +9963,7 @@ dateId,areaCode,country,areaName,deathCases
 20210331,4119,ch,aargau,660
 20210331,4120,ch,thurgau,429
 20210331,4121,ch,ticino,975
-20210331,4122,ch,vaud,975
+20210331,4122,ch,vaud,977
 20210331,4123,ch,valais,760
 20210331,4124,ch,neuchatel,398
 20210331,4125,ch,geneve,728
@@ -9904,7 +10130,7 @@ dateId,areaCode,country,areaName,deathCases
 20210330,3951,it,sicilia,4607
 20210330,3952,it,sardegna,1233
 20210330,4101,ch,zurich,1336
-20210330,4102,ch,bern,1029
+20210330,4102,ch,bern,1046
 20210330,4104,ch,uri,39
 20210330,4105,ch,schwyz,216
 20210330,4106,ch,obwalden,39
@@ -9922,7 +10148,7 @@ dateId,areaCode,country,areaName,deathCases
 20210330,4119,ch,aargau,657
 20210330,4120,ch,thurgau,427
 20210330,4121,ch,ticino,973
-20210330,4122,ch,vaud,974
+20210330,4122,ch,vaud,976
 20210330,4123,ch,valais,760
 20210330,4124,ch,neuchatel,398
 20210330,4125,ch,geneve,728
@@ -10089,7 +10315,7 @@ dateId,areaCode,country,areaName,deathCases
 20210329,3951,it,sicilia,4607
 20210329,3952,it,sardegna,1229
 20210329,4101,ch,zurich,1333
-20210329,4102,ch,bern,1027
+20210329,4102,ch,bern,1043
 20210329,4104,ch,uri,39
 20210329,4105,ch,schwyz,216
 20210329,4106,ch,obwalden,39
@@ -10107,7 +10333,7 @@ dateId,areaCode,country,areaName,deathCases
 20210329,4119,ch,aargau,657
 20210329,4120,ch,thurgau,427
 20210329,4121,ch,ticino,973
-20210329,4122,ch,vaud,972
+20210329,4122,ch,vaud,974
 20210329,4123,ch,valais,760
 20210329,4124,ch,neuchatel,398
 20210329,4125,ch,geneve,728
@@ -10274,7 +10500,7 @@ dateId,areaCode,country,areaName,deathCases
 20210328,3951,it,sicilia,4583
 20210328,3952,it,sardegna,1226
 20210328,4101,ch,zurich,1330
-20210328,4102,ch,bern,1026
+20210328,4102,ch,bern,1042
 20210328,4105,ch,schwyz,216
 20210328,4107,ch,nidwalden,19
 20210328,4109,ch,zug,114
@@ -10286,7 +10512,7 @@ dateId,areaCode,country,areaName,deathCases
 20210328,4119,ch,aargau,656
 20210328,4120,ch,thurgau,427
 20210328,4121,ch,ticino,973
-20210328,4122,ch,vaud,972
+20210328,4122,ch,vaud,974
 20210328,4123,ch,valais,760
 20210328,4124,ch,neuchatel,398
 20210328,4125,ch,geneve,728
@@ -10453,7 +10679,7 @@ dateId,areaCode,country,areaName,deathCases
 20210327,3951,it,sicilia,4558
 20210327,3952,it,sardegna,1223
 20210327,4101,ch,zurich,1330
-20210327,4102,ch,bern,1026
+20210327,4102,ch,bern,1041
 20210327,4103,ch,luzern,304
 20210327,4105,ch,schwyz,216
 20210327,4107,ch,nidwalden,19
@@ -10465,7 +10691,7 @@ dateId,areaCode,country,areaName,deathCases
 20210327,4119,ch,aargau,653
 20210327,4120,ch,thurgau,427
 20210327,4121,ch,ticino,972
-20210327,4122,ch,vaud,970
+20210327,4122,ch,vaud,972
 20210327,4123,ch,valais,760
 20210327,4124,ch,neuchatel,397
 20210327,4125,ch,geneve,727
@@ -10631,7 +10857,7 @@ dateId,areaCode,country,areaName,deathCases
 20210326,3951,it,sicilia,4535
 20210326,3952,it,sardegna,1221
 20210326,4101,ch,zurich,1327
-20210326,4102,ch,bern,1026
+20210326,4102,ch,bern,1040
 20210326,4104,ch,uri,39
 20210326,4105,ch,schwyz,216
 20210326,4106,ch,obwalden,39
@@ -10648,7 +10874,7 @@ dateId,areaCode,country,areaName,deathCases
 20210326,4119,ch,aargau,652
 20210326,4120,ch,thurgau,426
 20210326,4121,ch,ticino,972
-20210326,4122,ch,vaud,969
+20210326,4122,ch,vaud,971
 20210326,4123,ch,valais,760
 20210326,4124,ch,neuchatel,397
 20210326,4125,ch,geneve,727
@@ -10814,7 +11040,7 @@ dateId,areaCode,country,areaName,deathCases
 20210325,3951,it,sicilia,4513
 20210325,3952,it,sardegna,1219
 20210325,4101,ch,zurich,1326
-20210325,4102,ch,bern,1025
+20210325,4102,ch,bern,1040
 20210325,4103,ch,luzern,303
 20210325,4104,ch,uri,39
 20210325,4105,ch,schwyz,216
@@ -10833,7 +11059,7 @@ dateId,areaCode,country,areaName,deathCases
 20210325,4119,ch,aargau,651
 20210325,4120,ch,thurgau,426
 20210325,4121,ch,ticino,972
-20210325,4122,ch,vaud,969
+20210325,4122,ch,vaud,971
 20210325,4123,ch,valais,760
 20210325,4124,ch,neuchatel,397
 20210325,4125,ch,geneve,727
@@ -11000,7 +11226,7 @@ dateId,areaCode,country,areaName,deathCases
 20210324,3951,it,sicilia,4493
 20210324,3952,it,sardegna,1218
 20210324,4101,ch,zurich,1324
-20210324,4102,ch,bern,1024
+20210324,4102,ch,bern,1039
 20210324,4104,ch,uri,39
 20210324,4105,ch,schwyz,216
 20210324,4106,ch,obwalden,39
@@ -11018,7 +11244,7 @@ dateId,areaCode,country,areaName,deathCases
 20210324,4119,ch,aargau,649
 20210324,4120,ch,thurgau,425
 20210324,4121,ch,ticino,972
-20210324,4122,ch,vaud,966
+20210324,4122,ch,vaud,968
 20210324,4123,ch,valais,759
 20210324,4124,ch,neuchatel,396
 20210324,4125,ch,geneve,727
@@ -11185,7 +11411,7 @@ dateId,areaCode,country,areaName,deathCases
 20210323,3951,it,sicilia,4471
 20210323,3952,it,sardegna,1216
 20210323,4101,ch,zurich,1323
-20210323,4102,ch,bern,1020
+20210323,4102,ch,bern,1037
 20210323,4103,ch,luzern,302
 20210323,4104,ch,uri,39
 20210323,4105,ch,schwyz,216
@@ -11204,7 +11430,7 @@ dateId,areaCode,country,areaName,deathCases
 20210323,4119,ch,aargau,649
 20210323,4120,ch,thurgau,425
 20210323,4121,ch,ticino,971
-20210323,4122,ch,vaud,965
+20210323,4122,ch,vaud,967
 20210323,4123,ch,valais,758
 20210323,4124,ch,neuchatel,396
 20210323,4125,ch,geneve,727
@@ -11371,7 +11597,7 @@ dateId,areaCode,country,areaName,deathCases
 20210322,3951,it,sicilia,4451
 20210322,3952,it,sardegna,1214
 20210322,4101,ch,zurich,1320
-20210322,4102,ch,bern,1020
+20210322,4102,ch,bern,1036
 20210322,4105,ch,schwyz,216
 20210322,4106,ch,obwalden,39
 20210322,4107,ch,nidwalden,19
@@ -11388,7 +11614,7 @@ dateId,areaCode,country,areaName,deathCases
 20210322,4119,ch,aargau,649
 20210322,4120,ch,thurgau,425
 20210322,4121,ch,ticino,971
-20210322,4122,ch,vaud,961
+20210322,4122,ch,vaud,963
 20210322,4123,ch,valais,758
 20210322,4124,ch,neuchatel,396
 20210322,4125,ch,geneve,725
@@ -11555,7 +11781,7 @@ dateId,areaCode,country,areaName,deathCases
 20210321,3951,it,sicilia,4430
 20210321,3952,it,sardegna,1209
 20210321,4101,ch,zurich,1318
-20210321,4102,ch,bern,1020
+20210321,4102,ch,bern,1036
 20210321,4105,ch,schwyz,216
 20210321,4107,ch,nidwalden,19
 20210321,4109,ch,zug,114
@@ -11567,7 +11793,7 @@ dateId,areaCode,country,areaName,deathCases
 20210321,4119,ch,aargau,648
 20210321,4120,ch,thurgau,425
 20210321,4121,ch,ticino,971
-20210321,4122,ch,vaud,960
+20210321,4122,ch,vaud,962
 20210321,4123,ch,valais,758
 20210321,4124,ch,neuchatel,396
 20210321,4125,ch,geneve,725
@@ -11734,7 +11960,7 @@ dateId,areaCode,country,areaName,deathCases
 20210320,3951,it,sicilia,4422
 20210320,3952,it,sardegna,1205
 20210320,4101,ch,zurich,1316
-20210320,4102,ch,bern,1020
+20210320,4102,ch,bern,1036
 20210320,4105,ch,schwyz,216
 20210320,4107,ch,nidwalden,19
 20210320,4109,ch,zug,114
@@ -11745,7 +11971,7 @@ dateId,areaCode,country,areaName,deathCases
 20210320,4119,ch,aargau,646
 20210320,4120,ch,thurgau,425
 20210320,4121,ch,ticino,970
-20210320,4122,ch,vaud,960
+20210320,4122,ch,vaud,962
 20210320,4123,ch,valais,758
 20210320,4124,ch,neuchatel,396
 20210320,4125,ch,geneve,725
@@ -11911,7 +12137,7 @@ dateId,areaCode,country,areaName,deathCases
 20210319,3951,it,sicilia,4412
 20210319,3952,it,sardegna,1203
 20210319,4101,ch,zurich,1316
-20210319,4102,ch,bern,1020
+20210319,4102,ch,bern,1036
 20210319,4103,ch,luzern,301
 20210319,4105,ch,schwyz,216
 20210319,4106,ch,obwalden,39
@@ -11928,7 +12154,7 @@ dateId,areaCode,country,areaName,deathCases
 20210319,4119,ch,aargau,645
 20210319,4120,ch,thurgau,424
 20210319,4121,ch,ticino,968
-20210319,4122,ch,vaud,960
+20210319,4122,ch,vaud,962
 20210319,4123,ch,valais,757
 20210319,4124,ch,neuchatel,396
 20210319,4125,ch,geneve,725
@@ -12094,7 +12320,7 @@ dateId,areaCode,country,areaName,deathCases
 20210318,3951,it,sicilia,4397
 20210318,3952,it,sardegna,1201
 20210318,4101,ch,zurich,1314
-20210318,4102,ch,bern,1019
+20210318,4102,ch,bern,1036
 20210318,4104,ch,uri,39
 20210318,4105,ch,schwyz,216
 20210318,4106,ch,obwalden,39
@@ -12112,7 +12338,7 @@ dateId,areaCode,country,areaName,deathCases
 20210318,4119,ch,aargau,644
 20210318,4120,ch,thurgau,424
 20210318,4121,ch,ticino,967
-20210318,4122,ch,vaud,959
+20210318,4122,ch,vaud,961
 20210318,4123,ch,valais,757
 20210318,4124,ch,neuchatel,396
 20210318,4125,ch,geneve,725
@@ -12279,7 +12505,7 @@ dateId,areaCode,country,areaName,deathCases
 20210317,3951,it,sicilia,4383
 20210317,3952,it,sardegna,1200
 20210317,4101,ch,zurich,1312
-20210317,4102,ch,bern,1016
+20210317,4102,ch,bern,1035
 20210317,4104,ch,uri,39
 20210317,4105,ch,schwyz,216
 20210317,4106,ch,obwalden,39
@@ -12296,7 +12522,7 @@ dateId,areaCode,country,areaName,deathCases
 20210317,4119,ch,aargau,643
 20210317,4120,ch,thurgau,423
 20210317,4121,ch,ticino,967
-20210317,4122,ch,vaud,958
+20210317,4122,ch,vaud,960
 20210317,4123,ch,valais,757
 20210317,4124,ch,neuchatel,396
 20210317,4125,ch,geneve,725
@@ -12463,7 +12689,7 @@ dateId,areaCode,country,areaName,deathCases
 20210316,3951,it,sicilia,4371
 20210316,3952,it,sardegna,1198
 20210316,4101,ch,zurich,1309
-20210316,4102,ch,bern,1015
+20210316,4102,ch,bern,1034
 20210316,4104,ch,uri,39
 20210316,4105,ch,schwyz,216
 20210316,4106,ch,obwalden,39
@@ -12481,7 +12707,7 @@ dateId,areaCode,country,areaName,deathCases
 20210316,4119,ch,aargau,643
 20210316,4120,ch,thurgau,423
 20210316,4121,ch,ticino,967
-20210316,4122,ch,vaud,952
+20210316,4122,ch,vaud,954
 20210316,4123,ch,valais,756
 20210316,4124,ch,neuchatel,396
 20210316,4125,ch,geneve,725
@@ -12648,7 +12874,7 @@ dateId,areaCode,country,areaName,deathCases
 20210315,3951,it,sicilia,4358
 20210315,3952,it,sardegna,1197
 20210315,4101,ch,zurich,1305
-20210315,4102,ch,bern,1013
+20210315,4102,ch,bern,1032
 20210315,4104,ch,uri,39
 20210315,4105,ch,schwyz,216
 20210315,4106,ch,obwalden,39
@@ -12666,7 +12892,7 @@ dateId,areaCode,country,areaName,deathCases
 20210315,4119,ch,aargau,642
 20210315,4120,ch,thurgau,422
 20210315,4121,ch,ticino,967
-20210315,4122,ch,vaud,950
+20210315,4122,ch,vaud,952
 20210315,4123,ch,valais,755
 20210315,4124,ch,neuchatel,396
 20210315,4125,ch,geneve,725
@@ -12833,7 +13059,7 @@ dateId,areaCode,country,areaName,deathCases
 20210314,3951,it,sicilia,4344
 20210314,3952,it,sardegna,1195
 20210314,4101,ch,zurich,1300
-20210314,4102,ch,bern,1012
+20210314,4102,ch,bern,1032
 20210314,4105,ch,schwyz,216
 20210314,4107,ch,nidwalden,19
 20210314,4109,ch,zug,114
@@ -12845,7 +13071,7 @@ dateId,areaCode,country,areaName,deathCases
 20210314,4119,ch,aargau,641
 20210314,4120,ch,thurgau,422
 20210314,4121,ch,ticino,967
-20210314,4122,ch,vaud,947
+20210314,4122,ch,vaud,949
 20210314,4123,ch,valais,755
 20210314,4124,ch,neuchatel,396
 20210314,4125,ch,geneve,725
@@ -13012,7 +13238,7 @@ dateId,areaCode,country,areaName,deathCases
 20210313,3951,it,sicilia,4331
 20210313,3952,it,sardegna,1195
 20210313,4101,ch,zurich,1298
-20210313,4102,ch,bern,1012
+20210313,4102,ch,bern,1032
 20210313,4105,ch,schwyz,215
 20210313,4107,ch,nidwalden,19
 20210313,4109,ch,zug,114
@@ -13023,7 +13249,7 @@ dateId,areaCode,country,areaName,deathCases
 20210313,4119,ch,aargau,641
 20210313,4120,ch,thurgau,422
 20210313,4121,ch,ticino,965
-20210313,4122,ch,vaud,945
+20210313,4122,ch,vaud,947
 20210313,4123,ch,valais,755
 20210313,4124,ch,neuchatel,395
 20210313,4125,ch,geneve,725
@@ -13189,7 +13415,7 @@ dateId,areaCode,country,areaName,deathCases
 20210312,3951,it,sicilia,4318
 20210312,3952,it,sardegna,1192
 20210312,4101,ch,zurich,1294
-20210312,4102,ch,bern,1011
+20210312,4102,ch,bern,1032
 20210312,4104,ch,uri,39
 20210312,4105,ch,schwyz,214
 20210312,4106,ch,obwalden,39
@@ -13206,7 +13432,7 @@ dateId,areaCode,country,areaName,deathCases
 20210312,4119,ch,aargau,641
 20210312,4120,ch,thurgau,420
 20210312,4121,ch,ticino,963
-20210312,4122,ch,vaud,942
+20210312,4122,ch,vaud,944
 20210312,4123,ch,valais,755
 20210312,4124,ch,neuchatel,395
 20210312,4125,ch,geneve,725
@@ -13373,7 +13599,7 @@ dateId,areaCode,country,areaName,deathCases
 20210311,3951,it,sicilia,4305
 20210311,3952,it,sardegna,1189
 20210311,4101,ch,zurich,1294
-20210311,4102,ch,bern,1005
+20210311,4102,ch,bern,1032
 20210311,4104,ch,uri,39
 20210311,4105,ch,schwyz,214
 20210311,4106,ch,obwalden,39
@@ -13391,7 +13617,7 @@ dateId,areaCode,country,areaName,deathCases
 20210311,4119,ch,aargau,641
 20210311,4120,ch,thurgau,420
 20210311,4121,ch,ticino,963
-20210311,4122,ch,vaud,938
+20210311,4122,ch,vaud,940
 20210311,4123,ch,valais,755
 20210311,4124,ch,neuchatel,394
 20210311,4125,ch,geneve,725
@@ -13558,7 +13784,7 @@ dateId,areaCode,country,areaName,deathCases
 20210310,3951,it,sicilia,4287
 20210310,3952,it,sardegna,1189
 20210310,4101,ch,zurich,1291
-20210310,4102,ch,bern,1005
+20210310,4102,ch,bern,1032
 20210310,4103,ch,luzern,300
 20210310,4104,ch,uri,39
 20210310,4105,ch,schwyz,214
@@ -13577,7 +13803,7 @@ dateId,areaCode,country,areaName,deathCases
 20210310,4119,ch,aargau,641
 20210310,4120,ch,thurgau,420
 20210310,4121,ch,ticino,963
-20210310,4122,ch,vaud,937
+20210310,4122,ch,vaud,939
 20210310,4123,ch,valais,754
 20210310,4124,ch,neuchatel,393
 20210310,4125,ch,geneve,725
@@ -13744,7 +13970,7 @@ dateId,areaCode,country,areaName,deathCases
 20210309,3951,it,sicilia,4272
 20210309,3952,it,sardegna,1187
 20210309,4101,ch,zurich,1290
-20210309,4102,ch,bern,1001
+20210309,4102,ch,bern,1030
 20210309,4104,ch,uri,39
 20210309,4105,ch,schwyz,214
 20210309,4106,ch,obwalden,39
@@ -13762,7 +13988,7 @@ dateId,areaCode,country,areaName,deathCases
 20210309,4119,ch,aargau,640
 20210309,4120,ch,thurgau,420
 20210309,4121,ch,ticino,962
-20210309,4122,ch,vaud,937
+20210309,4122,ch,vaud,939
 20210309,4123,ch,valais,754
 20210309,4124,ch,neuchatel,391
 20210309,4125,ch,geneve,725
@@ -13929,7 +14155,7 @@ dateId,areaCode,country,areaName,deathCases
 20210308,3951,it,sicilia,4254
 20210308,3952,it,sardegna,1184
 20210308,4101,ch,zurich,1290
-20210308,4102,ch,bern,1000
+20210308,4102,ch,bern,1029
 20210308,4104,ch,uri,39
 20210308,4105,ch,schwyz,214
 20210308,4106,ch,obwalden,39
@@ -13947,7 +14173,7 @@ dateId,areaCode,country,areaName,deathCases
 20210308,4119,ch,aargau,640
 20210308,4120,ch,thurgau,420
 20210308,4121,ch,ticino,961
-20210308,4122,ch,vaud,933
+20210308,4122,ch,vaud,935
 20210308,4123,ch,valais,754
 20210308,4124,ch,neuchatel,391
 20210308,4125,ch,geneve,725
@@ -14114,7 +14340,7 @@ dateId,areaCode,country,areaName,deathCases
 20210307,3951,it,sicilia,4235
 20210307,3952,it,sardegna,1183
 20210307,4101,ch,zurich,1287
-20210307,4102,ch,bern,1000
+20210307,4102,ch,bern,1025
 20210307,4105,ch,schwyz,214
 20210307,4107,ch,nidwalden,19
 20210307,4109,ch,zug,113
@@ -14126,7 +14352,7 @@ dateId,areaCode,country,areaName,deathCases
 20210307,4119,ch,aargau,640
 20210307,4120,ch,thurgau,420
 20210307,4121,ch,ticino,961
-20210307,4122,ch,vaud,933
+20210307,4122,ch,vaud,935
 20210307,4123,ch,valais,754
 20210307,4124,ch,neuchatel,390
 20210307,4125,ch,geneve,725
@@ -14293,7 +14519,7 @@ dateId,areaCode,country,areaName,deathCases
 20210306,3951,it,sicilia,4223
 20210306,3952,it,sardegna,1183
 20210306,4101,ch,zurich,1287
-20210306,4102,ch,bern,999
+20210306,4102,ch,bern,1025
 20210306,4105,ch,schwyz,214
 20210306,4107,ch,nidwalden,19
 20210306,4109,ch,zug,113
@@ -14304,7 +14530,7 @@ dateId,areaCode,country,areaName,deathCases
 20210306,4119,ch,aargau,640
 20210306,4120,ch,thurgau,420
 20210306,4121,ch,ticino,961
-20210306,4122,ch,vaud,930
+20210306,4122,ch,vaud,932
 20210306,4123,ch,valais,754
 20210306,4124,ch,neuchatel,389
 20210306,4125,ch,geneve,725
@@ -14470,7 +14696,7 @@ dateId,areaCode,country,areaName,deathCases
 20210305,3951,it,sicilia,4213
 20210305,3952,it,sardegna,1179
 20210305,4101,ch,zurich,1286
-20210305,4102,ch,bern,999
+20210305,4102,ch,bern,1023
 20210305,4104,ch,uri,39
 20210305,4105,ch,schwyz,214
 20210305,4106,ch,obwalden,39
@@ -14487,7 +14713,7 @@ dateId,areaCode,country,areaName,deathCases
 20210305,4119,ch,aargau,640
 20210305,4120,ch,thurgau,420
 20210305,4121,ch,ticino,959
-20210305,4122,ch,vaud,929
+20210305,4122,ch,vaud,931
 20210305,4123,ch,valais,754
 20210305,4124,ch,neuchatel,388
 20210305,4125,ch,geneve,724
@@ -14654,7 +14880,7 @@ dateId,areaCode,country,areaName,deathCases
 20210304,3951,it,sicilia,4201
 20210304,3952,it,sardegna,1177
 20210304,4101,ch,zurich,1284
-20210304,4102,ch,bern,998
+20210304,4102,ch,bern,1023
 20210304,4104,ch,uri,39
 20210304,4105,ch,schwyz,214
 20210304,4106,ch,obwalden,39
@@ -14672,7 +14898,7 @@ dateId,areaCode,country,areaName,deathCases
 20210304,4119,ch,aargau,640
 20210304,4120,ch,thurgau,420
 20210304,4121,ch,ticino,958
-20210304,4122,ch,vaud,927
+20210304,4122,ch,vaud,929
 20210304,4123,ch,valais,753
 20210304,4124,ch,neuchatel,387
 20210304,4125,ch,geneve,724
@@ -14839,7 +15065,7 @@ dateId,areaCode,country,areaName,deathCases
 20210303,3951,it,sicilia,4187
 20210303,3952,it,sardegna,1173
 20210303,4101,ch,zurich,1283
-20210303,4102,ch,bern,998
+20210303,4102,ch,bern,1022
 20210303,4104,ch,uri,39
 20210303,4105,ch,schwyz,214
 20210303,4106,ch,obwalden,39
@@ -14857,7 +15083,7 @@ dateId,areaCode,country,areaName,deathCases
 20210303,4119,ch,aargau,640
 20210303,4120,ch,thurgau,420
 20210303,4121,ch,ticino,957
-20210303,4122,ch,vaud,927
+20210303,4122,ch,vaud,929
 20210303,4123,ch,valais,752
 20210303,4124,ch,neuchatel,387
 20210303,4125,ch,geneve,724
@@ -15024,7 +15250,7 @@ dateId,areaCode,country,areaName,deathCases
 20210302,3951,it,sicilia,4170
 20210302,3952,it,sardegna,1170
 20210302,4101,ch,zurich,1283
-20210302,4102,ch,bern,996
+20210302,4102,ch,bern,1022
 20210302,4104,ch,uri,39
 20210302,4105,ch,schwyz,214
 20210302,4106,ch,obwalden,39
@@ -15209,7 +15435,7 @@ dateId,areaCode,country,areaName,deathCases
 20210301,3951,it,sicilia,4156
 20210301,3952,it,sardegna,1166
 20210301,4101,ch,zurich,1281
-20210301,4102,ch,bern,993
+20210301,4102,ch,bern,1022
 20210301,4104,ch,uri,39
 20210301,4105,ch,schwyz,214
 20210301,4106,ch,obwalden,39
@@ -15394,7 +15620,7 @@ dateId,areaCode,country,areaName,deathCases
 20210228,3951,it,sicilia,4138
 20210228,3952,it,sardegna,1158
 20210228,4101,ch,zurich,1278
-20210228,4102,ch,bern,993
+20210228,4102,ch,bern,1019
 20210228,4105,ch,schwyz,214
 20210228,4107,ch,nidwalden,19
 20210228,4109,ch,zug,113
@@ -15573,7 +15799,7 @@ dateId,areaCode,country,areaName,deathCases
 20210227,3951,it,sicilia,4117
 20210227,3952,it,sardegna,1153
 20210227,4101,ch,zurich,1277
-20210227,4102,ch,bern,993
+20210227,4102,ch,bern,1018
 20210227,4105,ch,schwyz,214
 20210227,4107,ch,nidwalden,19
 20210227,4109,ch,zug,113
@@ -15750,7 +15976,7 @@ dateId,areaCode,country,areaName,deathCases
 20210226,3951,it,sicilia,4096
 20210226,3952,it,sardegna,1147
 20210226,4101,ch,zurich,1276
-20210226,4102,ch,bern,991
+20210226,4102,ch,bern,1018
 20210226,4104,ch,uri,39
 20210226,4105,ch,schwyz,214
 20210226,4106,ch,obwalden,39
@@ -15934,7 +16160,7 @@ dateId,areaCode,country,areaName,deathCases
 20210225,3951,it,sicilia,4075
 20210225,3952,it,sardegna,1142
 20210225,4101,ch,zurich,1275
-20210225,4102,ch,bern,989
+20210225,4102,ch,bern,1016
 20210225,4104,ch,uri,39
 20210225,4105,ch,schwyz,214
 20210225,4106,ch,obwalden,39
@@ -16119,7 +16345,7 @@ dateId,areaCode,country,areaName,deathCases
 20210224,3951,it,sicilia,4060
 20210224,3952,it,sardegna,1132
 20210224,4101,ch,zurich,1274
-20210224,4102,ch,bern,988
+20210224,4102,ch,bern,1015
 20210224,4104,ch,uri,39
 20210224,4105,ch,schwyz,214
 20210224,4106,ch,obwalden,37
@@ -16304,7 +16530,7 @@ dateId,areaCode,country,areaName,deathCases
 20210223,3951,it,sicilia,4039
 20210223,3952,it,sardegna,1125
 20210223,4101,ch,zurich,1274
-20210223,4102,ch,bern,986
+20210223,4102,ch,bern,1013
 20210223,4104,ch,uri,39
 20210223,4105,ch,schwyz,214
 20210223,4106,ch,obwalden,37
@@ -16489,7 +16715,7 @@ dateId,areaCode,country,areaName,deathCases
 20210222,3951,it,sicilia,4018
 20210222,3952,it,sardegna,1118
 20210222,4101,ch,zurich,1271
-20210222,4102,ch,bern,985
+20210222,4102,ch,bern,1013
 20210222,4104,ch,uri,39
 20210222,4105,ch,schwyz,214
 20210222,4106,ch,obwalden,37
@@ -16674,7 +16900,7 @@ dateId,areaCode,country,areaName,deathCases
 20210221,3951,it,sicilia,3999
 20210221,3952,it,sardegna,1113
 20210221,4101,ch,zurich,1270
-20210221,4102,ch,bern,984
+20210221,4102,ch,bern,1011
 20210221,4105,ch,schwyz,214
 20210221,4107,ch,nidwalden,19
 20210221,4109,ch,zug,112
@@ -16853,7 +17079,7 @@ dateId,areaCode,country,areaName,deathCases
 20210220,3951,it,sicilia,3981
 20210220,3952,it,sardegna,1109
 20210220,4101,ch,zurich,1265
-20210220,4102,ch,bern,984
+20210220,4102,ch,bern,1011
 20210220,4105,ch,schwyz,214
 20210220,4107,ch,nidwalden,19
 20210220,4109,ch,zug,112
@@ -17030,7 +17256,7 @@ dateId,areaCode,country,areaName,deathCases
 20210219,3951,it,sicilia,3963
 20210219,3952,it,sardegna,1102
 20210219,4101,ch,zurich,1264
-20210219,4102,ch,bern,984
+20210219,4102,ch,bern,1009
 20210219,4103,ch,luzern,299
 20210219,4104,ch,uri,39
 20210219,4105,ch,schwyz,214
@@ -17215,7 +17441,7 @@ dateId,areaCode,country,areaName,deathCases
 20210218,3951,it,sicilia,3941
 20210218,3952,it,sardegna,1096
 20210218,4101,ch,zurich,1261
-20210218,4102,ch,bern,983
+20210218,4102,ch,bern,1007
 20210218,4104,ch,uri,39
 20210218,4105,ch,schwyz,214
 20210218,4106,ch,obwalden,37
@@ -17400,7 +17626,7 @@ dateId,areaCode,country,areaName,deathCases
 20210217,3951,it,sicilia,3915
 20210217,3952,it,sardegna,1088
 20210217,4101,ch,zurich,1260
-20210217,4102,ch,bern,977
+20210217,4102,ch,bern,1007
 20210217,4104,ch,uri,39
 20210217,4105,ch,schwyz,214
 20210217,4106,ch,obwalden,37
@@ -17585,7 +17811,7 @@ dateId,areaCode,country,areaName,deathCases
 20210216,3951,it,sicilia,3891
 20210216,3952,it,sardegna,1079
 20210216,4101,ch,zurich,1259
-20210216,4102,ch,bern,974
+20210216,4102,ch,bern,1006
 20210216,4103,ch,luzern,298
 20210216,4104,ch,uri,37
 20210216,4105,ch,schwyz,213
@@ -17771,7 +17997,7 @@ dateId,areaCode,country,areaName,deathCases
 20210215,3951,it,sicilia,3869
 20210215,3952,it,sardegna,1072
 20210215,4101,ch,zurich,1258
-20210215,4102,ch,bern,968
+20210215,4102,ch,bern,1006
 20210215,4104,ch,uri,37
 20210215,4105,ch,schwyz,213
 20210215,4106,ch,obwalden,37
@@ -17956,7 +18182,7 @@ dateId,areaCode,country,areaName,deathCases
 20210214,3951,it,sicilia,3848
 20210214,3952,it,sardegna,1066
 20210214,4101,ch,zurich,1255
-20210214,4102,ch,bern,968
+20210214,4102,ch,bern,1003
 20210214,4105,ch,schwyz,211
 20210214,4107,ch,nidwalden,18
 20210214,4109,ch,zug,112
@@ -18135,7 +18361,7 @@ dateId,areaCode,country,areaName,deathCases
 20210213,3951,it,sicilia,3824
 20210213,3952,it,sardegna,1059
 20210213,4101,ch,zurich,1251
-20210213,4102,ch,bern,966
+20210213,4102,ch,bern,1001
 20210213,4103,ch,luzern,297
 20210213,4105,ch,schwyz,211
 20210213,4107,ch,nidwalden,18
@@ -18313,7 +18539,7 @@ dateId,areaCode,country,areaName,deathCases
 20210212,3951,it,sicilia,3804
 20210212,3952,it,sardegna,1054
 20210212,4101,ch,zurich,1247
-20210212,4102,ch,bern,963
+20210212,4102,ch,bern,996
 20210212,4104,ch,uri,37
 20210212,4105,ch,schwyz,211
 20210212,4106,ch,obwalden,37
@@ -18497,7 +18723,7 @@ dateId,areaCode,country,areaName,deathCases
 20210211,3951,it,sicilia,3783
 20210211,3952,it,sardegna,1046
 20210211,4101,ch,zurich,1244
-20210211,4102,ch,bern,960
+20210211,4102,ch,bern,994
 20210211,4104,ch,uri,37
 20210211,4105,ch,schwyz,211
 20210211,4106,ch,obwalden,37
@@ -18682,7 +18908,7 @@ dateId,areaCode,country,areaName,deathCases
 20210210,3951,it,sicilia,3757
 20210210,3952,it,sardegna,1036
 20210210,4101,ch,zurich,1244
-20210210,4102,ch,bern,956
+20210210,4102,ch,bern,992
 20210210,4103,ch,luzern,296
 20210210,4104,ch,uri,37
 20210210,4105,ch,schwyz,211
@@ -18868,7 +19094,7 @@ dateId,areaCode,country,areaName,deathCases
 20210209,3951,it,sicilia,3728
 20210209,3952,it,sardegna,1031
 20210209,4101,ch,zurich,1240
-20210209,4102,ch,bern,953
+20210209,4102,ch,bern,987
 20210209,4104,ch,uri,37
 20210209,4105,ch,schwyz,207
 20210209,4106,ch,obwalden,37
@@ -19053,7 +19279,7 @@ dateId,areaCode,country,areaName,deathCases
 20210208,3951,it,sicilia,3704
 20210208,3952,it,sardegna,1023
 20210208,4101,ch,zurich,1235
-20210208,4102,ch,bern,951
+20210208,4102,ch,bern,986
 20210208,4103,ch,luzern,294
 20210208,4104,ch,uri,37
 20210208,4105,ch,schwyz,205
@@ -19239,7 +19465,7 @@ dateId,areaCode,country,areaName,deathCases
 20210207,3951,it,sicilia,3682
 20210207,3952,it,sardegna,1019
 20210207,4101,ch,zurich,1230
-20210207,4102,ch,bern,950
+20210207,4102,ch,bern,983
 20210207,4103,ch,luzern,291
 20210207,4105,ch,schwyz,205
 20210207,4107,ch,nidwalden,16
@@ -19419,7 +19645,7 @@ dateId,areaCode,country,areaName,deathCases
 20210206,3951,it,sicilia,3657
 20210206,3952,it,sardegna,1016
 20210206,4101,ch,zurich,1225
-20210206,4102,ch,bern,948
+20210206,4102,ch,bern,979
 20210206,4105,ch,schwyz,205
 20210206,4107,ch,nidwalden,16
 20210206,4109,ch,zug,111
@@ -19597,7 +19823,7 @@ dateId,areaCode,country,areaName,deathCases
 20210205,3951,it,sicilia,3634
 20210205,3952,it,sardegna,1010
 20210205,4101,ch,zurich,1220
-20210205,4102,ch,bern,944
+20210205,4102,ch,bern,977
 20210205,4104,ch,uri,37
 20210205,4105,ch,schwyz,204
 20210205,4106,ch,obwalden,36
@@ -19781,7 +20007,7 @@ dateId,areaCode,country,areaName,deathCases
 20210204,3951,it,sicilia,3603
 20210204,3952,it,sardegna,1005
 20210204,4101,ch,zurich,1212
-20210204,4102,ch,bern,942
+20210204,4102,ch,bern,975
 20210204,4104,ch,uri,37
 20210204,4105,ch,schwyz,204
 20210204,4106,ch,obwalden,36
@@ -19966,7 +20192,7 @@ dateId,areaCode,country,areaName,deathCases
 20210203,3951,it,sicilia,3579
 20210203,3952,it,sardegna,1001
 20210203,4101,ch,zurich,1209
-20210203,4102,ch,bern,939
+20210203,4102,ch,bern,974
 20210203,4103,ch,luzern,290
 20210203,4104,ch,uri,37
 20210203,4105,ch,schwyz,202
@@ -20152,7 +20378,7 @@ dateId,areaCode,country,areaName,deathCases
 20210202,3951,it,sicilia,3545
 20210202,3952,it,sardegna,994
 20210202,4101,ch,zurich,1203
-20210202,4102,ch,bern,933
+20210202,4102,ch,bern,972
 20210202,4104,ch,uri,37
 20210202,4105,ch,schwyz,201
 20210202,4106,ch,obwalden,36
@@ -20337,7 +20563,7 @@ dateId,areaCode,country,areaName,deathCases
 20210201,3951,it,sicilia,3508
 20210201,3952,it,sardegna,986
 20210201,4101,ch,zurich,1198
-20210201,4102,ch,bern,930
+20210201,4102,ch,bern,971
 20210201,4103,ch,luzern,288
 20210201,4104,ch,uri,37
 20210201,4105,ch,schwyz,200
@@ -20523,7 +20749,7 @@ dateId,areaCode,country,areaName,deathCases
 20210131,3951,it,sicilia,3478
 20210131,3952,it,sardegna,982
 20210131,4101,ch,zurich,1195
-20210131,4102,ch,bern,923
+20210131,4102,ch,bern,965
 20210131,4103,ch,luzern,287
 20210131,4105,ch,schwyz,199
 20210131,4107,ch,nidwalden,16
@@ -20703,7 +20929,7 @@ dateId,areaCode,country,areaName,deathCases
 20210130,3951,it,sicilia,3443
 20210130,3952,it,sardegna,981
 20210130,4101,ch,zurich,1187
-20210130,4102,ch,bern,918
+20210130,4102,ch,bern,956
 20210130,4105,ch,schwyz,199
 20210130,4107,ch,nidwalden,16
 20210130,4109,ch,zug,108
@@ -20880,7 +21106,7 @@ dateId,areaCode,country,areaName,deathCases
 20210129,3951,it,sicilia,3408
 20210129,3952,it,sardegna,976
 20210129,4101,ch,zurich,1183
-20210129,4102,ch,bern,909
+20210129,4102,ch,bern,951
 20210129,4103,ch,luzern,286
 20210129,4104,ch,uri,37
 20210129,4105,ch,schwyz,198
@@ -21065,7 +21291,7 @@ dateId,areaCode,country,areaName,deathCases
 20210128,3951,it,sicilia,3371
 20210128,3952,it,sardegna,969
 20210128,4101,ch,zurich,1179
-20210128,4102,ch,bern,906
+20210128,4102,ch,bern,947
 20210128,4104,ch,uri,37
 20210128,4105,ch,schwyz,193
 20210128,4106,ch,obwalden,36
@@ -21250,7 +21476,7 @@ dateId,areaCode,country,areaName,deathCases
 20210127,3951,it,sicilia,3334
 20210127,3952,it,sardegna,962
 20210127,4101,ch,zurich,1173
-20210127,4102,ch,bern,898
+20210127,4102,ch,bern,942
 20210127,4104,ch,uri,37
 20210127,4105,ch,schwyz,191
 20210127,4106,ch,obwalden,35
@@ -21435,7 +21661,7 @@ dateId,areaCode,country,areaName,deathCases
 20210126,3951,it,sicilia,3296
 20210126,3952,it,sardegna,955
 20210126,4101,ch,zurich,1167
-20210126,4102,ch,bern,892
+20210126,4102,ch,bern,937
 20210126,4103,ch,luzern,283
 20210126,4104,ch,uri,37
 20210126,4105,ch,schwyz,190
@@ -21621,7 +21847,7 @@ dateId,areaCode,country,areaName,deathCases
 20210125,3951,it,sicilia,3260
 20210125,3952,it,sardegna,952
 20210125,4101,ch,zurich,1164
-20210125,4102,ch,bern,881
+20210125,4102,ch,bern,931
 20210125,4104,ch,uri,36
 20210125,4105,ch,schwyz,186
 20210125,4106,ch,obwalden,35
@@ -21806,7 +22032,7 @@ dateId,areaCode,country,areaName,deathCases
 20210124,3951,it,sicilia,3226
 20210124,3952,it,sardegna,949
 20210124,4101,ch,zurich,1158
-20210124,4102,ch,bern,874
+20210124,4102,ch,bern,922
 20210124,4103,ch,luzern,282
 20210124,4105,ch,schwyz,186
 20210124,4107,ch,nidwalden,16
@@ -21986,7 +22212,7 @@ dateId,areaCode,country,areaName,deathCases
 20210123,3951,it,sicilia,3194
 20210123,3952,it,sardegna,946
 20210123,4101,ch,zurich,1152
-20210123,4102,ch,bern,867
+20210123,4102,ch,bern,913
 20210123,4103,ch,luzern,278
 20210123,4105,ch,schwyz,185
 20210123,4107,ch,nidwalden,16
@@ -22164,7 +22390,7 @@ dateId,areaCode,country,areaName,deathCases
 20210122,3951,it,sicilia,3161
 20210122,3952,it,sardegna,936
 20210122,4101,ch,zurich,1144
-20210122,4102,ch,bern,864
+20210122,4102,ch,bern,905
 20210122,4103,ch,luzern,275
 20210122,4104,ch,uri,36
 20210122,4105,ch,schwyz,180
@@ -22350,7 +22576,7 @@ dateId,areaCode,country,areaName,deathCases
 20210121,3951,it,sicilia,3129
 20210121,3952,it,sardegna,927
 20210121,4101,ch,zurich,1137
-20210121,4102,ch,bern,847
+20210121,4102,ch,bern,896
 20210121,4103,ch,luzern,273
 20210121,4104,ch,uri,35
 20210121,4105,ch,schwyz,177
@@ -22537,7 +22763,7 @@ dateId,areaCode,country,areaName,deathCases
 20210120,3951,it,sicilia,3101
 20210120,3952,it,sardegna,920
 20210120,4101,ch,zurich,1130
-20210120,4102,ch,bern,840
+20210120,4102,ch,bern,892
 20210120,4103,ch,luzern,268
 20210120,4104,ch,uri,35
 20210120,4105,ch,schwyz,176
@@ -22724,7 +22950,7 @@ dateId,areaCode,country,areaName,deathCases
 20210119,3951,it,sicilia,3064
 20210119,3952,it,sardegna,915
 20210119,4101,ch,zurich,1122
-20210119,4102,ch,bern,828
+20210119,4102,ch,bern,884
 20210119,4103,ch,luzern,266
 20210119,4104,ch,uri,35
 20210119,4105,ch,schwyz,173
@@ -22911,7 +23137,7 @@ dateId,areaCode,country,areaName,deathCases
 20210118,3951,it,sicilia,3027
 20210118,3952,it,sardegna,907
 20210118,4101,ch,zurich,1107
-20210118,4102,ch,bern,812
+20210118,4102,ch,bern,879
 20210118,4104,ch,uri,35
 20210118,4105,ch,schwyz,173
 20210118,4106,ch,obwalden,32
@@ -23097,7 +23323,7 @@ dateId,areaCode,country,areaName,deathCases
 20210117,3951,it,sicilia,2989
 20210117,3952,it,sardegna,903
 20210117,4101,ch,zurich,1099
-20210117,4102,ch,bern,810
+20210117,4102,ch,bern,870
 20210117,4103,ch,luzern,263
 20210117,4105,ch,schwyz,173
 20210117,4107,ch,nidwalden,14
@@ -23278,7 +23504,7 @@ dateId,areaCode,country,areaName,deathCases
 20210116,3951,it,sicilia,2954
 20210116,3952,it,sardegna,898
 20210116,4101,ch,zurich,1092
-20210116,4102,ch,bern,809
+20210116,4102,ch,bern,867
 20210116,4105,ch,schwyz,173
 20210116,4107,ch,nidwalden,14
 20210116,4109,ch,zug,93
@@ -23455,7 +23681,7 @@ dateId,areaCode,country,areaName,deathCases
 20210115,3951,it,sicilia,2916
 20210115,3952,it,sardegna,888
 20210115,4101,ch,zurich,1086
-20210115,4102,ch,bern,800
+20210115,4102,ch,bern,864
 20210115,4103,ch,luzern,262
 20210115,4104,ch,uri,35
 20210115,4105,ch,schwyz,173
@@ -23640,7 +23866,7 @@ dateId,areaCode,country,areaName,deathCases
 20210114,3951,it,sicilia,2877
 20210114,3952,it,sardegna,875
 20210114,4101,ch,zurich,1075
-20210114,4102,ch,bern,791
+20210114,4102,ch,bern,855
 20210114,4103,ch,luzern,258
 20210114,4104,ch,uri,35
 20210114,4105,ch,schwyz,173
@@ -23827,7 +24053,7 @@ dateId,areaCode,country,areaName,deathCases
 20210113,3951,it,sicilia,2841
 20210113,3952,it,sardegna,865
 20210113,4101,ch,zurich,1067
-20210113,4102,ch,bern,789
+20210113,4102,ch,bern,852
 20210113,4103,ch,luzern,255
 20210113,4104,ch,uri,35
 20210113,4105,ch,schwyz,170
@@ -24014,7 +24240,7 @@ dateId,areaCode,country,areaName,deathCases
 20210112,3951,it,sicilia,2805
 20210112,3952,it,sardegna,850
 20210112,4101,ch,zurich,1057
-20210112,4102,ch,bern,780
+20210112,4102,ch,bern,842
 20210112,4103,ch,luzern,253
 20210112,4104,ch,uri,35
 20210112,4105,ch,schwyz,168
@@ -24201,7 +24427,7 @@ dateId,areaCode,country,areaName,deathCases
 20210111,3951,it,sicilia,2765
 20210111,3952,it,sardegna,836
 20210111,4101,ch,zurich,1048
-20210111,4102,ch,bern,761
+20210111,4102,ch,bern,838
 20210111,4103,ch,luzern,251
 20210111,4104,ch,uri,32
 20210111,4105,ch,schwyz,164
@@ -24388,7 +24614,7 @@ dateId,areaCode,country,areaName,deathCases
 20210110,3951,it,sicilia,2728
 20210110,3952,it,sardegna,828
 20210110,4101,ch,zurich,1038
-20210110,4102,ch,bern,756
+20210110,4102,ch,bern,829
 20210110,4103,ch,luzern,250
 20210110,4105,ch,schwyz,164
 20210110,4107,ch,nidwalden,13
@@ -24568,7 +24794,7 @@ dateId,areaCode,country,areaName,deathCases
 20210109,3951,it,sicilia,2695
 20210109,3952,it,sardegna,817
 20210109,4101,ch,zurich,1030
-20210109,4102,ch,bern,749
+20210109,4102,ch,bern,820
 20210109,4103,ch,luzern,247
 20210109,4105,ch,schwyz,163
 20210109,4107,ch,nidwalden,13
@@ -24747,7 +24973,7 @@ dateId,areaCode,country,areaName,deathCases
 20210108,3951,it,sicilia,2664
 20210108,3952,it,sardegna,810
 20210108,4101,ch,zurich,1019
-20210108,4102,ch,bern,741
+20210108,4102,ch,bern,808
 20210108,4104,ch,uri,32
 20210108,4105,ch,schwyz,159
 20210108,4106,ch,obwalden,30
@@ -24932,7 +25158,7 @@ dateId,areaCode,country,areaName,deathCases
 20210107,3951,it,sicilia,2629
 20210107,3952,it,sardegna,795
 20210107,4101,ch,zurich,1010
-20210107,4102,ch,bern,734
+20210107,4102,ch,bern,804
 20210107,4103,ch,luzern,245
 20210107,4104,ch,uri,32
 20210107,4105,ch,schwyz,156
@@ -25119,7 +25345,7 @@ dateId,areaCode,country,areaName,deathCases
 20210106,3951,it,sicilia,2593
 20210106,3952,it,sardegna,786
 20210106,4101,ch,zurich,1003
-20210106,4102,ch,bern,721
+20210106,4102,ch,bern,794
 20210106,4103,ch,luzern,243
 20210106,4105,ch,schwyz,156
 20210106,4106,ch,obwalden,30
@@ -25305,7 +25531,7 @@ dateId,areaCode,country,areaName,deathCases
 20210105,3951,it,sicilia,2564
 20210105,3952,it,sardegna,777
 20210105,4101,ch,zurich,995
-20210105,4102,ch,bern,713
+20210105,4102,ch,bern,782
 20210105,4103,ch,luzern,241
 20210105,4104,ch,uri,32
 20210105,4105,ch,schwyz,155
@@ -25492,7 +25718,7 @@ dateId,areaCode,country,areaName,deathCases
 20210104,3951,it,sicilia,2528
 20210104,3952,it,sardegna,768
 20210104,4101,ch,zurich,985
-20210104,4102,ch,bern,703
+20210104,4102,ch,bern,776
 20210104,4103,ch,luzern,239
 20210104,4104,ch,uri,32
 20210104,4105,ch,schwyz,152
@@ -25679,7 +25905,7 @@ dateId,areaCode,country,areaName,deathCases
 20210103,3951,it,sicilia,2494
 20210103,3952,it,sardegna,764
 20210103,4101,ch,zurich,977
-20210103,4102,ch,bern,696
+20210103,4102,ch,bern,769
 20210103,4103,ch,luzern,238
 20210103,4105,ch,schwyz,152
 20210103,4107,ch,nidwalden,12
@@ -25859,7 +26085,7 @@ dateId,areaCode,country,areaName,deathCases
 20210102,3951,it,sicilia,2468
 20210102,3952,it,sardegna,755
 20210102,4101,ch,zurich,968
-20210102,4102,ch,bern,690
+20210102,4102,ch,bern,764
 20210102,4103,ch,luzern,237
 20210102,4105,ch,schwyz,152
 20210102,4107,ch,nidwalden,12
@@ -26037,7 +26263,7 @@ dateId,areaCode,country,areaName,deathCases
 20210101,3951,it,sicilia,2440
 20210101,3952,it,sardegna,751
 20210101,4101,ch,zurich,957
-20210101,4102,ch,bern,684
+20210101,4102,ch,bern,761
 20210101,4103,ch,luzern,233
 20210101,4105,ch,schwyz,152
 20210101,4107,ch,nidwalden,12
@@ -26216,7 +26442,7 @@ dateId,areaCode,country,areaName,deathCases
 20201231,3951,it,sicilia,2412
 20201231,3952,it,sardegna,747
 20201231,4101,ch,zurich,941
-20201231,4102,ch,bern,671
+20201231,4102,ch,bern,748
 20201231,4103,ch,luzern,232
 20201231,4104,ch,uri,32
 20201231,4105,ch,schwyz,145
@@ -26401,7 +26627,7 @@ dateId,areaCode,country,areaName,deathCases
 20201230,3951,it,sicilia,2381
 20201230,3952,it,sardegna,743
 20201230,4101,ch,zurich,925
-20201230,4102,ch,bern,659
+20201230,4102,ch,bern,737
 20201230,4103,ch,luzern,231
 20201230,4105,ch,schwyz,142
 20201230,4106,ch,obwalden,30
@@ -26586,7 +26812,7 @@ dateId,areaCode,country,areaName,deathCases
 20201229,3951,it,sicilia,2352
 20201229,3952,it,sardegna,738
 20201229,4101,ch,zurich,913
-20201229,4102,ch,bern,640
+20201229,4102,ch,bern,722
 20201229,4103,ch,luzern,228
 20201229,4104,ch,uri,32
 20201229,4105,ch,schwyz,135
@@ -26772,7 +26998,7 @@ dateId,areaCode,country,areaName,deathCases
 20201228,3951,it,sicilia,2326
 20201228,3952,it,sardegna,731
 20201228,4101,ch,zurich,900
-20201228,4102,ch,bern,620
+20201228,4102,ch,bern,710
 20201228,4103,ch,luzern,226
 20201228,4104,ch,uri,32
 20201228,4105,ch,schwyz,133
@@ -26959,7 +27185,7 @@ dateId,areaCode,country,areaName,deathCases
 20201227,3951,it,sicilia,2298
 20201227,3952,it,sardegna,710
 20201227,4101,ch,zurich,882
-20201227,4102,ch,bern,611
+20201227,4102,ch,bern,694
 20201227,4103,ch,luzern,225
 20201227,4105,ch,schwyz,133
 20201227,4106,ch,obwalden,30
@@ -27139,7 +27365,7 @@ dateId,areaCode,country,areaName,deathCases
 20201226,3951,it,sicilia,2283
 20201226,3952,it,sardegna,704
 20201226,4101,ch,zurich,860
-20201226,4102,ch,bern,605
+20201226,4102,ch,bern,684
 20201226,4103,ch,luzern,222
 20201226,4104,ch,uri,32
 20201226,4105,ch,schwyz,133
@@ -27320,7 +27546,7 @@ dateId,areaCode,country,areaName,deathCases
 20201225,3951,it,sicilia,2256
 20201225,3952,it,sardegna,701
 20201225,4101,ch,zurich,844
-20201225,4102,ch,bern,602
+20201225,4102,ch,bern,674
 20201225,4103,ch,luzern,219
 20201225,4105,ch,schwyz,131
 20201225,4106,ch,obwalden,30
@@ -27501,7 +27727,7 @@ dateId,areaCode,country,areaName,deathCases
 20201224,3951,it,sicilia,2239
 20201224,3952,it,sardegna,698
 20201224,4101,ch,zurich,830
-20201224,4102,ch,bern,593
+20201224,4102,ch,bern,667
 20201224,4103,ch,luzern,217
 20201224,4105,ch,schwyz,130
 20201224,4106,ch,obwalden,30
@@ -27685,7 +27911,7 @@ dateId,areaCode,country,areaName,deathCases
 20201223,3951,it,sicilia,2213
 20201223,3952,it,sardegna,689
 20201223,4101,ch,zurich,816
-20201223,4102,ch,bern,586
+20201223,4102,ch,bern,653
 20201223,4103,ch,luzern,212
 20201223,4104,ch,uri,32
 20201223,4105,ch,schwyz,130
@@ -27872,7 +28098,7 @@ dateId,areaCode,country,areaName,deathCases
 20201222,3951,it,sicilia,2203
 20201222,3952,it,sardegna,681
 20201222,4101,ch,zurich,797
-20201222,4102,ch,bern,574
+20201222,4102,ch,bern,647
 20201222,4103,ch,luzern,207
 20201222,4104,ch,uri,32
 20201222,4105,ch,schwyz,128
@@ -28059,7 +28285,7 @@ dateId,areaCode,country,areaName,deathCases
 20201221,3951,it,sicilia,2181
 20201221,3952,it,sardegna,669
 20201221,4101,ch,zurich,777
-20201221,4102,ch,bern,567
+20201221,4102,ch,bern,641
 20201221,4103,ch,luzern,199
 20201221,4104,ch,uri,32
 20201221,4105,ch,schwyz,125
@@ -28246,7 +28472,7 @@ dateId,areaCode,country,areaName,deathCases
 20201220,3951,it,sicilia,2155
 20201220,3952,it,sardegna,660
 20201220,4101,ch,zurich,757
-20201220,4102,ch,bern,564
+20201220,4102,ch,bern,629
 20201220,4103,ch,luzern,195
 20201220,4105,ch,schwyz,124
 20201220,4106,ch,obwalden,26
@@ -28426,7 +28652,7 @@ dateId,areaCode,country,areaName,deathCases
 20201219,3951,it,sicilia,2131
 20201219,3952,it,sardegna,653
 20201219,4101,ch,zurich,732
-20201219,4102,ch,bern,554
+20201219,4102,ch,bern,626
 20201219,4103,ch,luzern,188
 20201219,4105,ch,schwyz,124
 20201219,4106,ch,obwalden,26
@@ -28606,7 +28832,7 @@ dateId,areaCode,country,areaName,deathCases
 20201218,3951,it,sicilia,2109
 20201218,3952,it,sardegna,644
 20201218,4101,ch,zurich,719
-20201218,4102,ch,bern,538
+20201218,4102,ch,bern,618
 20201218,4103,ch,luzern,181
 20201218,4104,ch,uri,32
 20201218,4105,ch,schwyz,124
@@ -28792,7 +29018,7 @@ dateId,areaCode,country,areaName,deathCases
 20201217,3951,it,sicilia,2087
 20201217,3952,it,sardegna,634
 20201217,4101,ch,zurich,706
-20201217,4102,ch,bern,531
+20201217,4102,ch,bern,605
 20201217,4103,ch,luzern,173
 20201217,4104,ch,uri,32
 20201217,4105,ch,schwyz,120
@@ -28979,7 +29205,7 @@ dateId,areaCode,country,areaName,deathCases
 20201216,3951,it,sicilia,2059
 20201216,3952,it,sardegna,623
 20201216,4101,ch,zurich,691
-20201216,4102,ch,bern,521
+20201216,4102,ch,bern,591
 20201216,4103,ch,luzern,170
 20201216,4104,ch,uri,30
 20201216,4105,ch,schwyz,117
@@ -29166,7 +29392,7 @@ dateId,areaCode,country,areaName,deathCases
 20201215,3951,it,sicilia,2030
 20201215,3952,it,sardegna,600
 20201215,4101,ch,zurich,674
-20201215,4102,ch,bern,518
+20201215,4102,ch,bern,583
 20201215,4103,ch,luzern,165
 20201215,4104,ch,uri,30
 20201215,4105,ch,schwyz,117
@@ -29353,7 +29579,7 @@ dateId,areaCode,country,areaName,deathCases
 20201214,3951,it,sicilia,1999
 20201214,3952,it,sardegna,588
 20201214,4101,ch,zurich,655
-20201214,4102,ch,bern,505
+20201214,4102,ch,bern,574
 20201214,4103,ch,luzern,162
 20201214,4104,ch,uri,30
 20201214,4105,ch,schwyz,116
@@ -29540,7 +29766,7 @@ dateId,areaCode,country,areaName,deathCases
 20201213,3951,it,sicilia,1967
 20201213,3952,it,sardegna,577
 20201213,4101,ch,zurich,641
-20201213,4102,ch,bern,498
+20201213,4102,ch,bern,559
 20201213,4103,ch,luzern,157
 20201213,4105,ch,schwyz,116
 20201213,4106,ch,obwalden,26
@@ -29721,7 +29947,7 @@ dateId,areaCode,country,areaName,deathCases
 20201212,3951,it,sicilia,1946
 20201212,3952,it,sardegna,570
 20201212,4101,ch,zurich,624
-20201212,4102,ch,bern,497
+20201212,4102,ch,bern,551
 20201212,4103,ch,luzern,151
 20201212,4104,ch,uri,30
 20201212,4105,ch,schwyz,116
@@ -29901,7 +30127,7 @@ dateId,areaCode,country,areaName,deathCases
 20201211,3951,it,sicilia,1923
 20201211,3952,it,sardegna,563
 20201211,4101,ch,zurich,606
-20201211,4102,ch,bern,494
+20201211,4102,ch,bern,546
 20201211,4103,ch,luzern,148
 20201211,4104,ch,uri,30
 20201211,4105,ch,schwyz,115
@@ -30087,7 +30313,7 @@ dateId,areaCode,country,areaName,deathCases
 20201210,3951,it,sicilia,1895
 20201210,3952,it,sardegna,556
 20201210,4101,ch,zurich,588
-20201210,4102,ch,bern,482
+20201210,4102,ch,bern,540
 20201210,4103,ch,luzern,144
 20201210,4104,ch,uri,30
 20201210,4105,ch,schwyz,110
@@ -30274,7 +30500,7 @@ dateId,areaCode,country,areaName,deathCases
 20201209,3951,it,sicilia,1863
 20201209,3952,it,sardegna,549
 20201209,4101,ch,zurich,567
-20201209,4102,ch,bern,469
+20201209,4102,ch,bern,533
 20201209,4103,ch,luzern,141
 20201209,4104,ch,uri,29
 20201209,4105,ch,schwyz,110
@@ -30461,7 +30687,7 @@ dateId,areaCode,country,areaName,deathCases
 20201208,3951,it,sicilia,1829
 20201208,3952,it,sardegna,543
 20201208,4101,ch,zurich,551
-20201208,4102,ch,bern,462
+20201208,4102,ch,bern,520
 20201208,4103,ch,luzern,140
 20201208,4104,ch,uri,29
 20201208,4105,ch,schwyz,110
@@ -30647,7 +30873,7 @@ dateId,areaCode,country,areaName,deathCases
 20201207,3951,it,sicilia,1793
 20201207,3952,it,sardegna,539
 20201207,4101,ch,zurich,531
-20201207,4102,ch,bern,449
+20201207,4102,ch,bern,512
 20201207,4103,ch,luzern,137
 20201207,4104,ch,uri,29
 20201207,4105,ch,schwyz,110
@@ -30834,7 +31060,7 @@ dateId,areaCode,country,areaName,deathCases
 20201206,3951,it,sicilia,1759
 20201206,3952,it,sardegna,531
 20201206,4101,ch,zurich,520
-20201206,4102,ch,bern,447
+20201206,4102,ch,bern,501
 20201206,4103,ch,luzern,129
 20201206,4105,ch,schwyz,105
 20201206,4106,ch,obwalden,26
@@ -31015,7 +31241,7 @@ dateId,areaCode,country,areaName,deathCases
 20201205,3951,it,sicilia,1723
 20201205,3952,it,sardegna,524
 20201205,4101,ch,zurich,505
-20201205,4102,ch,bern,440
+20201205,4102,ch,bern,495
 20201205,4103,ch,luzern,127
 20201205,4105,ch,schwyz,105
 20201205,4106,ch,obwalden,26
@@ -31194,7 +31420,7 @@ dateId,areaCode,country,areaName,deathCases
 20201204,3951,it,sicilia,1689
 20201204,3952,it,sardegna,511
 20201204,4101,ch,zurich,496
-20201204,4102,ch,bern,429
+20201204,4102,ch,bern,483
 20201204,4103,ch,luzern,119
 20201204,4104,ch,uri,24
 20201204,4105,ch,schwyz,104
@@ -31380,7 +31606,7 @@ dateId,areaCode,country,areaName,deathCases
 20201203,3951,it,sicilia,1650
 20201203,3952,it,sardegna,462
 20201203,4101,ch,zurich,484
-20201203,4102,ch,bern,418
+20201203,4102,ch,bern,470
 20201203,4103,ch,luzern,115
 20201203,4104,ch,uri,24
 20201203,4105,ch,schwyz,101
@@ -31566,7 +31792,7 @@ dateId,areaCode,country,areaName,deathCases
 20201202,3951,it,sicilia,1616
 20201202,3952,it,sardegna,453
 20201202,4101,ch,zurich,474
-20201202,4102,ch,bern,411
+20201202,4102,ch,bern,463
 20201202,4103,ch,luzern,114
 20201202,4104,ch,uri,21
 20201202,4105,ch,schwyz,99
@@ -31753,7 +31979,7 @@ dateId,areaCode,country,areaName,deathCases
 20201201,3951,it,sicilia,1589
 20201201,3952,it,sardegna,449
 20201201,4101,ch,zurich,461
-20201201,4102,ch,bern,405
+20201201,4102,ch,bern,454
 20201201,4103,ch,luzern,110
 20201201,4104,ch,uri,21
 20201201,4105,ch,schwyz,97
@@ -31940,7 +32166,7 @@ dateId,areaCode,country,areaName,deathCases
 20201130,3951,it,sicilia,1555
 20201130,3952,it,sardegna,444
 20201130,4101,ch,zurich,442
-20201130,4102,ch,bern,388
+20201130,4102,ch,bern,445
 20201130,4103,ch,luzern,109
 20201130,4104,ch,uri,16
 20201130,4105,ch,schwyz,94
@@ -32127,7 +32353,7 @@ dateId,areaCode,country,areaName,deathCases
 20201129,3951,it,sicilia,1506
 20201129,3952,it,sardegna,436
 20201129,4101,ch,zurich,434
-20201129,4102,ch,bern,379
+20201129,4102,ch,bern,433
 20201129,4103,ch,luzern,101
 20201129,4105,ch,schwyz,94
 20201129,4106,ch,obwalden,19
@@ -32307,7 +32533,7 @@ dateId,areaCode,country,areaName,deathCases
 20201128,3951,it,sicilia,1461
 20201128,3952,it,sardegna,432
 20201128,4101,ch,zurich,425
-20201128,4102,ch,bern,373
+20201128,4102,ch,bern,424
 20201128,4103,ch,luzern,97
 20201128,4105,ch,schwyz,94
 20201128,4106,ch,obwalden,19
@@ -32486,7 +32712,7 @@ dateId,areaCode,country,areaName,deathCases
 20201127,3951,it,sicilia,1418
 20201127,3952,it,sardegna,427
 20201127,4101,ch,zurich,415
-20201127,4102,ch,bern,361
+20201127,4102,ch,bern,417
 20201127,4103,ch,luzern,94
 20201127,4104,ch,uri,16
 20201127,4105,ch,schwyz,94
@@ -32672,7 +32898,7 @@ dateId,areaCode,country,areaName,deathCases
 20201126,3951,it,sicilia,1371
 20201126,3952,it,sardegna,418
 20201126,4101,ch,zurich,404
-20201126,4102,ch,bern,358
+20201126,4102,ch,bern,405
 20201126,4103,ch,luzern,92
 20201126,4104,ch,uri,15
 20201126,4105,ch,schwyz,94
@@ -32859,7 +33085,7 @@ dateId,areaCode,country,areaName,deathCases
 20201125,3951,it,sicilia,1322
 20201125,3952,it,sardegna,413
 20201125,4101,ch,zurich,394
-20201125,4102,ch,bern,347
+20201125,4102,ch,bern,391
 20201125,4103,ch,luzern,86
 20201125,4104,ch,uri,14
 20201125,4105,ch,schwyz,93
@@ -33046,7 +33272,7 @@ dateId,areaCode,country,areaName,deathCases
 20201124,3951,it,sicilia,1275
 20201124,3952,it,sardegna,407
 20201124,4101,ch,zurich,379
-20201124,4102,ch,bern,337
+20201124,4102,ch,bern,381
 20201124,4103,ch,luzern,84
 20201124,4104,ch,uri,13
 20201124,4105,ch,schwyz,91
@@ -33233,7 +33459,7 @@ dateId,areaCode,country,areaName,deathCases
 20201123,3951,it,sicilia,1227
 20201123,3952,it,sardegna,395
 20201123,4101,ch,zurich,371
-20201123,4102,ch,bern,324
+20201123,4102,ch,bern,370
 20201123,4103,ch,luzern,81
 20201123,4104,ch,uri,13
 20201123,4105,ch,schwyz,91
@@ -33420,7 +33646,7 @@ dateId,areaCode,country,areaName,deathCases
 20201122,3951,it,sicilia,1186
 20201122,3952,it,sardegna,389
 20201122,4101,ch,zurich,356
-20201122,4102,ch,bern,313
+20201122,4102,ch,bern,359
 20201122,4103,ch,luzern,79
 20201122,4105,ch,schwyz,91
 20201122,4106,ch,obwalden,15
@@ -33601,7 +33827,7 @@ dateId,areaCode,country,areaName,deathCases
 20201121,3951,it,sicilia,1141
 20201121,3952,it,sardegna,379
 20201121,4101,ch,zurich,347
-20201121,4102,ch,bern,306
+20201121,4102,ch,bern,347
 20201121,4103,ch,luzern,77
 20201121,4105,ch,schwyz,91
 20201121,4106,ch,obwalden,13
@@ -33780,7 +34006,7 @@ dateId,areaCode,country,areaName,deathCases
 20201120,3951,it,sicilia,1098
 20201120,3952,it,sardegna,367
 20201120,4101,ch,zurich,336
-20201120,4102,ch,bern,301
+20201120,4102,ch,bern,340
 20201120,4103,ch,luzern,75
 20201120,4104,ch,uri,9
 20201120,4105,ch,schwyz,90
@@ -33966,7 +34192,7 @@ dateId,areaCode,country,areaName,deathCases
 20201119,3951,it,sicilia,1055
 20201119,3952,it,sardegna,362
 20201119,4101,ch,zurich,326
-20201119,4102,ch,bern,292
+20201119,4102,ch,bern,332
 20201119,4103,ch,luzern,72
 20201119,4104,ch,uri,9
 20201119,4105,ch,schwyz,87
@@ -34153,7 +34379,7 @@ dateId,areaCode,country,areaName,deathCases
 20201118,3951,it,sicilia,1015
 20201118,3952,it,sardegna,350
 20201118,4101,ch,zurich,319
-20201118,4102,ch,bern,285
+20201118,4102,ch,bern,324
 20201118,4103,ch,luzern,69
 20201118,4104,ch,uri,9
 20201118,4105,ch,schwyz,87
@@ -34340,7 +34566,7 @@ dateId,areaCode,country,areaName,deathCases
 20201117,3951,it,sicilia,971
 20201117,3952,it,sardegna,340
 20201117,4101,ch,zurich,310
-20201117,4102,ch,bern,273
+20201117,4102,ch,bern,318
 20201117,4103,ch,luzern,68
 20201117,4104,ch,uri,9
 20201117,4105,ch,schwyz,84
@@ -34527,7 +34753,7 @@ dateId,areaCode,country,areaName,deathCases
 20201116,3951,it,sicilia,932
 20201116,3952,it,sardegna,328
 20201116,4101,ch,zurich,302
-20201116,4102,ch,bern,262
+20201116,4102,ch,bern,304
 20201116,4103,ch,luzern,65
 20201116,4104,ch,uri,9
 20201116,4105,ch,schwyz,82
@@ -34714,7 +34940,7 @@ dateId,areaCode,country,areaName,deathCases
 20201115,3951,it,sicilia,896
 20201115,3952,it,sardegna,322
 20201115,4101,ch,zurich,292
-20201115,4102,ch,bern,248
+20201115,4102,ch,bern,296
 20201115,4103,ch,luzern,63
 20201115,4104,ch,uri,9
 20201115,4105,ch,schwyz,80
@@ -34896,7 +35122,7 @@ dateId,areaCode,country,areaName,deathCases
 20201114,3951,it,sicilia,860
 20201114,3952,it,sardegna,318
 20201114,4101,ch,zurich,283
-20201114,4102,ch,bern,243
+20201114,4102,ch,bern,282
 20201114,4103,ch,luzern,61
 20201114,4105,ch,schwyz,80
 20201114,4106,ch,obwalden,10
@@ -35075,7 +35301,7 @@ dateId,areaCode,country,areaName,deathCases
 20201113,3951,it,sicilia,837
 20201113,3952,it,sardegna,313
 20201113,4101,ch,zurich,276
-20201113,4102,ch,bern,233
+20201113,4102,ch,bern,274
 20201113,4103,ch,luzern,59
 20201113,4104,ch,uri,9
 20201113,4105,ch,schwyz,76
@@ -35261,7 +35487,7 @@ dateId,areaCode,country,areaName,deathCases
 20201112,3951,it,sicilia,802
 20201112,3952,it,sardegna,298
 20201112,4101,ch,zurich,265
-20201112,4102,ch,bern,217
+20201112,4102,ch,bern,266
 20201112,4103,ch,luzern,58
 20201112,4104,ch,uri,9
 20201112,4105,ch,schwyz,69
@@ -35448,7 +35674,7 @@ dateId,areaCode,country,areaName,deathCases
 20201111,3951,it,sicilia,762
 20201111,3952,it,sardegna,293
 20201111,4101,ch,zurich,256
-20201111,4102,ch,bern,203
+20201111,4102,ch,bern,250
 20201111,4103,ch,luzern,53
 20201111,4104,ch,uri,9
 20201111,4105,ch,schwyz,69
@@ -35635,7 +35861,7 @@ dateId,areaCode,country,areaName,deathCases
 20201110,3951,it,sicilia,735
 20201110,3952,it,sardegna,279
 20201110,4101,ch,zurich,248
-20201110,4102,ch,bern,193
+20201110,4102,ch,bern,237
 20201110,4103,ch,luzern,52
 20201110,4104,ch,uri,9
 20201110,4105,ch,schwyz,68
@@ -35822,7 +36048,7 @@ dateId,areaCode,country,areaName,deathCases
 20201109,3951,it,sicilia,703
 20201109,3952,it,sardegna,268
 20201109,4101,ch,zurich,238
-20201109,4102,ch,bern,177
+20201109,4102,ch,bern,230
 20201109,4103,ch,luzern,52
 20201109,4104,ch,uri,9
 20201109,4105,ch,schwyz,66
@@ -36009,7 +36235,7 @@ dateId,areaCode,country,areaName,deathCases
 20201108,3951,it,sicilia,676
 20201108,3952,it,sardegna,255
 20201108,4101,ch,zurich,236
-20201108,4102,ch,bern,175
+20201108,4102,ch,bern,219
 20201108,4103,ch,luzern,52
 20201108,4105,ch,schwyz,66
 20201108,4106,ch,obwalden,6
@@ -36190,7 +36416,7 @@ dateId,areaCode,country,areaName,deathCases
 20201107,3951,it,sicilia,663
 20201107,3952,it,sardegna,253
 20201107,4101,ch,zurich,227
-20201107,4102,ch,bern,168
+20201107,4102,ch,bern,215
 20201107,4103,ch,luzern,49
 20201107,4105,ch,schwyz,66
 20201107,4106,ch,obwalden,6
@@ -36369,7 +36595,7 @@ dateId,areaCode,country,areaName,deathCases
 20201106,3951,it,sicilia,628
 20201106,3952,it,sardegna,249
 20201106,4101,ch,zurich,223
-20201106,4102,ch,bern,163
+20201106,4102,ch,bern,203
 20201106,4103,ch,luzern,47
 20201106,4104,ch,uri,9
 20201106,4105,ch,schwyz,62
@@ -36555,7 +36781,7 @@ dateId,areaCode,country,areaName,deathCases
 20201105,3951,it,sicilia,594
 20201105,3952,it,sardegna,247
 20201105,4101,ch,zurich,218
-20201105,4102,ch,bern,155
+20201105,4102,ch,bern,194
 20201105,4103,ch,luzern,47
 20201105,4104,ch,uri,9
 20201105,4105,ch,schwyz,58
@@ -36742,7 +36968,7 @@ dateId,areaCode,country,areaName,deathCases
 20201104,3951,it,sicilia,569
 20201104,3952,it,sardegna,241
 20201104,4101,ch,zurich,212
-20201104,4102,ch,bern,153
+20201104,4102,ch,bern,185
 20201104,4103,ch,luzern,45
 20201104,4104,ch,uri,8
 20201104,4105,ch,schwyz,55
@@ -36929,7 +37155,7 @@ dateId,areaCode,country,areaName,deathCases
 20201103,3951,it,sicilia,550
 20201103,3952,it,sardegna,239
 20201103,4101,ch,zurich,207
-20201103,4102,ch,bern,145
+20201103,4102,ch,bern,175
 20201103,4103,ch,luzern,43
 20201103,4104,ch,uri,8
 20201103,4105,ch,schwyz,54
@@ -37116,7 +37342,7 @@ dateId,areaCode,country,areaName,deathCases
 20201102,3951,it,sicilia,536
 20201102,3952,it,sardegna,235
 20201102,4101,ch,zurich,204
-20201102,4102,ch,bern,139
+20201102,4102,ch,bern,168
 20201102,4103,ch,luzern,40
 20201102,4104,ch,uri,8
 20201102,4105,ch,schwyz,54
@@ -37302,7 +37528,7 @@ dateId,areaCode,country,areaName,deathCases
 20201101,3951,it,sicilia,518
 20201101,3952,it,sardegna,234
 20201101,4101,ch,zurich,195
-20201101,4102,ch,bern,133
+20201101,4102,ch,bern,160
 20201101,4103,ch,luzern,39
 20201101,4105,ch,schwyz,53
 20201101,4106,ch,obwalden,5
@@ -37483,7 +37709,7 @@ dateId,areaCode,country,areaName,deathCases
 20201031,3951,it,sicilia,502
 20201031,3952,it,sardegna,227
 20201031,4101,ch,zurich,193
-20201031,4102,ch,bern,128
+20201031,4102,ch,bern,152
 20201031,4103,ch,luzern,37
 20201031,4105,ch,schwyz,53
 20201031,4106,ch,obwalden,5
@@ -37662,7 +37888,7 @@ dateId,areaCode,country,areaName,deathCases
 20201030,3951,it,sicilia,484
 20201030,3952,it,sardegna,214
 20201030,4101,ch,zurich,190
-20201030,4102,ch,bern,123
+20201030,4102,ch,bern,143
 20201030,4103,ch,luzern,35
 20201030,4104,ch,uri,8
 20201030,4105,ch,schwyz,50
@@ -37848,7 +38074,7 @@ dateId,areaCode,country,areaName,deathCases
 20201029,3951,it,sicilia,472
 20201029,3952,it,sardegna,207
 20201029,4101,ch,zurich,186
-20201029,4102,ch,bern,121
+20201029,4102,ch,bern,135
 20201029,4103,ch,luzern,34
 20201029,4105,ch,schwyz,46
 20201029,4106,ch,obwalden,5
@@ -38034,7 +38260,7 @@ dateId,areaCode,country,areaName,deathCases
 20201028,3951,it,sicilia,459
 20201028,3952,it,sardegna,205
 20201028,4101,ch,zurich,178
-20201028,4102,ch,bern,117
+20201028,4102,ch,bern,128
 20201028,4103,ch,luzern,33
 20201028,4104,ch,uri,7
 20201028,4105,ch,schwyz,46
@@ -38221,7 +38447,7 @@ dateId,areaCode,country,areaName,deathCases
 20201027,3951,it,sicilia,449
 20201027,3952,it,sardegna,199
 20201027,4101,ch,zurich,175
-20201027,4102,ch,bern,114
+20201027,4102,ch,bern,121
 20201027,4103,ch,luzern,31
 20201027,4104,ch,uri,7
 20201027,4105,ch,schwyz,45
@@ -38406,7 +38632,7 @@ dateId,areaCode,country,areaName,deathCases
 20201026,3951,it,sicilia,439
 20201026,3952,it,sardegna,192
 20201026,4101,ch,zurich,171
-20201026,4102,ch,bern,113
+20201026,4102,ch,bern,117
 20201026,4103,ch,luzern,29
 20201026,4104,ch,uri,7
 20201026,4105,ch,schwyz,45
@@ -38592,7 +38818,7 @@ dateId,areaCode,country,areaName,deathCases
 20201025,3951,it,sicilia,428
 20201025,3952,it,sardegna,191
 20201025,4101,ch,zurich,166
-20201025,4102,ch,bern,110
+20201025,4102,ch,bern,115
 20201025,4103,ch,luzern,29
 20201025,4105,ch,schwyz,45
 20201025,4106,ch,obwalden,5
@@ -38772,7 +38998,7 @@ dateId,areaCode,country,areaName,deathCases
 20201024,3951,it,sicilia,417
 20201024,3952,it,sardegna,184
 20201024,4101,ch,zurich,164
-20201024,4102,ch,bern,108
+20201024,4102,ch,bern,110
 20201024,4103,ch,luzern,29
 20201024,4105,ch,schwyz,45
 20201024,4106,ch,obwalden,5
@@ -38951,7 +39177,7 @@ dateId,areaCode,country,areaName,deathCases
 20201023,3951,it,sicilia,408
 20201023,3952,it,sardegna,181
 20201023,4101,ch,zurich,163
-20201023,4102,ch,bern,107
+20201023,4102,ch,bern,105
 20201023,4103,ch,luzern,28
 20201023,4104,ch,uri,7
 20201023,4105,ch,schwyz,41
@@ -39136,7 +39362,7 @@ dateId,areaCode,country,areaName,deathCases
 20201022,3951,it,sicilia,397
 20201022,3952,it,sardegna,181
 20201022,4101,ch,zurich,162
-20201022,4102,ch,bern,107
+20201022,4102,ch,bern,105
 20201022,4103,ch,luzern,27
 20201022,4105,ch,schwyz,38
 20201022,4106,ch,obwalden,5
@@ -39321,7 +39547,7 @@ dateId,areaCode,country,areaName,deathCases
 20201021,3951,it,sicilia,389
 20201021,3952,it,sardegna,180
 20201021,4101,ch,zurich,160
-20201021,4102,ch,bern,107
+20201021,4102,ch,bern,103
 20201021,4103,ch,luzern,26
 20201021,4104,ch,uri,7
 20201021,4105,ch,schwyz,36
@@ -39507,7 +39733,7 @@ dateId,areaCode,country,areaName,deathCases
 20201020,3951,it,sicilia,378
 20201020,3952,it,sardegna,177
 20201020,4101,ch,zurich,160
-20201020,4102,ch,bern,105
+20201020,4102,ch,bern,102
 20201020,4103,ch,luzern,26
 20201020,4104,ch,uri,7
 20201020,4105,ch,schwyz,35
@@ -39693,7 +39919,7 @@ dateId,areaCode,country,areaName,deathCases
 20201019,3951,it,sicilia,368
 20201019,3952,it,sardegna,174
 20201019,4101,ch,zurich,159
-20201019,4102,ch,bern,105
+20201019,4102,ch,bern,101
 20201019,4103,ch,luzern,25
 20201019,4104,ch,uri,7
 20201019,4105,ch,schwyz,32
@@ -39879,7 +40105,7 @@ dateId,areaCode,country,areaName,deathCases
 20201018,3951,it,sicilia,365
 20201018,3952,it,sardegna,174
 20201018,4101,ch,zurich,158
-20201018,4102,ch,bern,105
+20201018,4102,ch,bern,100
 20201018,4103,ch,luzern,24
 20201018,4105,ch,schwyz,32
 20201018,4106,ch,obwalden,3
@@ -40059,7 +40285,7 @@ dateId,areaCode,country,areaName,deathCases
 20201017,3951,it,sicilia,362
 20201017,3952,it,sardegna,172
 20201017,4101,ch,zurich,157
-20201017,4102,ch,bern,104
+20201017,4102,ch,bern,100
 20201017,4103,ch,luzern,24
 20201017,4105,ch,schwyz,32
 20201017,4106,ch,obwalden,3
@@ -40237,7 +40463,7 @@ dateId,areaCode,country,areaName,deathCases
 20201016,3951,it,sicilia,360
 20201016,3952,it,sardegna,171
 20201016,4101,ch,zurich,157
-20201016,4102,ch,bern,104
+20201016,4102,ch,bern,99
 20201016,4103,ch,luzern,24
 20201016,4104,ch,uri,7
 20201016,4105,ch,schwyz,30
@@ -40421,7 +40647,7 @@ dateId,areaCode,country,areaName,deathCases
 20201015,3951,it,sicilia,350
 20201015,3952,it,sardegna,169
 20201015,4101,ch,zurich,154
-20201015,4102,ch,bern,104
+20201015,4102,ch,bern,99
 20201015,4103,ch,luzern,24
 20201015,4105,ch,schwyz,28
 20201015,4106,ch,obwalden,2
@@ -40605,7 +40831,7 @@ dateId,areaCode,country,areaName,deathCases
 20201014,3951,it,sicilia,343
 20201014,3952,it,sardegna,168
 20201014,4101,ch,zurich,154
-20201014,4102,ch,bern,104
+20201014,4102,ch,bern,98
 20201014,4103,ch,luzern,24
 20201014,4104,ch,uri,7
 20201014,4105,ch,schwyz,28
@@ -40790,7 +41016,7 @@ dateId,areaCode,country,areaName,deathCases
 20201013,3951,it,sicilia,341
 20201013,3952,it,sardegna,168
 20201013,4101,ch,zurich,153
-20201013,4102,ch,bern,104
+20201013,4102,ch,bern,98
 20201013,4103,ch,luzern,24
 20201013,4104,ch,uri,7
 20201013,4105,ch,schwyz,27
@@ -40976,7 +41202,7 @@ dateId,areaCode,country,areaName,deathCases
 20201012,3951,it,sicilia,339
 20201012,3952,it,sardegna,166
 20201012,4101,ch,zurich,153
-20201012,4102,ch,bern,104
+20201012,4102,ch,bern,98
 20201012,4103,ch,luzern,24
 20201012,4104,ch,uri,7
 20201012,4105,ch,schwyz,26
@@ -41160,7 +41386,7 @@ dateId,areaCode,country,areaName,deathCases
 20201011,3951,it,sicilia,336
 20201011,3952,it,sardegna,165
 20201011,4101,ch,zurich,153
-20201011,4102,ch,bern,104
+20201011,4102,ch,bern,98
 20201011,4103,ch,luzern,24
 20201011,4105,ch,schwyz,25
 20201011,4106,ch,obwalden,0
@@ -41338,7 +41564,7 @@ dateId,areaCode,country,areaName,deathCases
 20201010,3951,it,sicilia,335
 20201010,3952,it,sardegna,161
 20201010,4101,ch,zurich,153
-20201010,4102,ch,bern,104
+20201010,4102,ch,bern,98
 20201010,4103,ch,luzern,24
 20201010,4105,ch,schwyz,25
 20201010,4106,ch,obwalden,0
@@ -41515,7 +41741,7 @@ dateId,areaCode,country,areaName,deathCases
 20201009,3951,it,sicilia,333
 20201009,3952,it,sardegna,161
 20201009,4101,ch,zurich,152
-20201009,4102,ch,bern,104
+20201009,4102,ch,bern,98
 20201009,4103,ch,luzern,24
 20201009,4104,ch,uri,7
 20201009,4105,ch,schwyz,25
@@ -41698,7 +41924,7 @@ dateId,areaCode,country,areaName,deathCases
 20201008,3951,it,sicilia,329
 20201008,3952,it,sardegna,161
 20201008,4101,ch,zurich,152
-20201008,4102,ch,bern,104
+20201008,4102,ch,bern,98
 20201008,4103,ch,luzern,24
 20201008,4104,ch,uri,7
 20201008,4105,ch,schwyz,25
@@ -41882,7 +42108,7 @@ dateId,areaCode,country,areaName,deathCases
 20201007,3951,it,sicilia,326
 20201007,3952,it,sardegna,160
 20201007,4101,ch,zurich,151
-20201007,4102,ch,bern,104
+20201007,4102,ch,bern,98
 20201007,4103,ch,luzern,24
 20201007,4104,ch,uri,7
 20201007,4105,ch,schwyz,25
@@ -42066,7 +42292,7 @@ dateId,areaCode,country,areaName,deathCases
 20201006,3951,it,sicilia,322
 20201006,3952,it,sardegna,157
 20201006,4101,ch,zurich,151
-20201006,4102,ch,bern,104
+20201006,4102,ch,bern,98
 20201006,4103,ch,luzern,24
 20201006,4104,ch,uri,7
 20201006,4105,ch,schwyz,25
@@ -42250,7 +42476,7 @@ dateId,areaCode,country,areaName,deathCases
 20201005,3951,it,sicilia,321
 20201005,3952,it,sardegna,156
 20201005,4101,ch,zurich,151
-20201005,4102,ch,bern,104
+20201005,4102,ch,bern,98
 20201005,4103,ch,luzern,24
 20201005,4104,ch,uri,7
 20201005,4105,ch,schwyz,25
@@ -42435,7 +42661,7 @@ dateId,areaCode,country,areaName,deathCases
 20201004,3951,it,sicilia,319
 20201004,3952,it,sardegna,156
 20201004,4101,ch,zurich,151
-20201004,4102,ch,bern,104
+20201004,4102,ch,bern,97
 20201004,4103,ch,luzern,24
 20201004,4105,ch,schwyz,25
 20201004,4106,ch,obwalden,0
@@ -42613,7 +42839,7 @@ dateId,areaCode,country,areaName,deathCases
 20201003,3951,it,sicilia,317
 20201003,3952,it,sardegna,155
 20201003,4101,ch,zurich,151
-20201003,4102,ch,bern,104
+20201003,4102,ch,bern,97
 20201003,4103,ch,luzern,24
 20201003,4105,ch,schwyz,25
 20201003,4106,ch,obwalden,0
@@ -42790,7 +43016,7 @@ dateId,areaCode,country,areaName,deathCases
 20201002,3951,it,sicilia,314
 20201002,3952,it,sardegna,155
 20201002,4101,ch,zurich,151
-20201002,4102,ch,bern,104
+20201002,4102,ch,bern,97
 20201002,4103,ch,luzern,24
 20201002,4104,ch,uri,7
 20201002,4105,ch,schwyz,25
@@ -42974,7 +43200,7 @@ dateId,areaCode,country,areaName,deathCases
 20201001,3951,it,sicilia,312
 20201001,3952,it,sardegna,155
 20201001,4101,ch,zurich,151
-20201001,4102,ch,bern,103
+20201001,4102,ch,bern,97
 20201001,4103,ch,luzern,24
 20201001,4104,ch,uri,7
 20201001,4105,ch,schwyz,25
@@ -43158,7 +43384,7 @@ dateId,areaCode,country,areaName,deathCases
 20200930,3951,it,sicilia,311
 20200930,3952,it,sardegna,154
 20200930,4101,ch,zurich,150
-20200930,4102,ch,bern,103
+20200930,4102,ch,bern,97
 20200930,4103,ch,luzern,24
 20200930,4104,ch,uri,7
 20200930,4105,ch,schwyz,25
@@ -43343,7 +43569,7 @@ dateId,areaCode,country,areaName,deathCases
 20200929,3951,it,sicilia,310
 20200929,3952,it,sardegna,151
 20200929,4101,ch,zurich,150
-20200929,4102,ch,bern,103
+20200929,4102,ch,bern,97
 20200929,4103,ch,luzern,24
 20200929,4104,ch,uri,7
 20200929,4105,ch,schwyz,25
@@ -43527,7 +43753,7 @@ dateId,areaCode,country,areaName,deathCases
 20200928,3951,it,sicilia,309
 20200928,3952,it,sardegna,150
 20200928,4101,ch,zurich,150
-20200928,4102,ch,bern,101
+20200928,4102,ch,bern,97
 20200928,4103,ch,luzern,24
 20200928,4104,ch,uri,7
 20200928,4105,ch,schwyz,25
@@ -43712,7 +43938,7 @@ dateId,areaCode,country,areaName,deathCases
 20200927,3951,it,sicilia,308
 20200927,3952,it,sardegna,149
 20200927,4101,ch,zurich,150
-20200927,4102,ch,bern,101
+20200927,4102,ch,bern,96
 20200927,4105,ch,schwyz,25
 20200927,4106,ch,obwalden,0
 20200927,4107,ch,nidwalden,3
@@ -43889,7 +44115,7 @@ dateId,areaCode,country,areaName,deathCases
 20200926,3951,it,sicilia,306
 20200926,3952,it,sardegna,148
 20200926,4101,ch,zurich,149
-20200926,4102,ch,bern,101
+20200926,4102,ch,bern,96
 20200926,4103,ch,luzern,24
 20200926,4105,ch,schwyz,25
 20200926,4106,ch,obwalden,0
@@ -44066,7 +44292,7 @@ dateId,areaCode,country,areaName,deathCases
 20200925,3951,it,sicilia,306
 20200925,3952,it,sardegna,148
 20200925,4101,ch,zurich,149
-20200925,4102,ch,bern,101
+20200925,4102,ch,bern,96
 20200925,4103,ch,luzern,23
 20200925,4104,ch,uri,7
 20200925,4105,ch,schwyz,25
@@ -44250,7 +44476,7 @@ dateId,areaCode,country,areaName,deathCases
 20200924,3951,it,sicilia,304
 20200924,3952,it,sardegna,148
 20200924,4101,ch,zurich,149
-20200924,4102,ch,bern,101
+20200924,4102,ch,bern,96
 20200924,4103,ch,luzern,23
 20200924,4104,ch,uri,7
 20200924,4105,ch,schwyz,25
@@ -44434,7 +44660,7 @@ dateId,areaCode,country,areaName,deathCases
 20200923,3951,it,sicilia,303
 20200923,3952,it,sardegna,145
 20200923,4101,ch,zurich,148
-20200923,4102,ch,bern,100
+20200923,4102,ch,bern,96
 20200923,4103,ch,luzern,23
 20200923,4104,ch,uri,7
 20200923,4105,ch,schwyz,25
@@ -44618,7 +44844,7 @@ dateId,areaCode,country,areaName,deathCases
 20200922,3951,it,sicilia,300
 20200922,3952,it,sardegna,143
 20200922,4101,ch,zurich,148
-20200922,4102,ch,bern,100
+20200922,4102,ch,bern,96
 20200922,4103,ch,luzern,23
 20200922,4104,ch,uri,7
 20200922,4105,ch,schwyz,25
@@ -44802,7 +45028,7 @@ dateId,areaCode,country,areaName,deathCases
 20200921,3951,it,sicilia,299
 20200921,3952,it,sardegna,143
 20200921,4101,ch,zurich,148
-20200921,4102,ch,bern,100
+20200921,4102,ch,bern,96
 20200921,4103,ch,luzern,23
 20200921,4104,ch,uri,7
 20200921,4105,ch,schwyz,25
@@ -44987,7 +45213,7 @@ dateId,areaCode,country,areaName,deathCases
 20200920,3951,it,sicilia,296
 20200920,3952,it,sardegna,141
 20200920,4101,ch,zurich,148
-20200920,4102,ch,bern,100
+20200920,4102,ch,bern,95
 20200920,4103,ch,luzern,23
 20200920,4105,ch,schwyz,25
 20200920,4106,ch,obwalden,0
@@ -45165,7 +45391,7 @@ dateId,areaCode,country,areaName,deathCases
 20200919,3951,it,sicilia,296
 20200919,3952,it,sardegna,141
 20200919,4101,ch,zurich,148
-20200919,4102,ch,bern,100
+20200919,4102,ch,bern,95
 20200919,4103,ch,luzern,23
 20200919,4105,ch,schwyz,25
 20200919,4106,ch,obwalden,0
@@ -45342,7 +45568,7 @@ dateId,areaCode,country,areaName,deathCases
 20200918,3951,it,sicilia,296
 20200918,3952,it,sardegna,141
 20200918,4101,ch,zurich,148
-20200918,4102,ch,bern,100
+20200918,4102,ch,bern,95
 20200918,4103,ch,luzern,23
 20200918,4104,ch,uri,7
 20200918,4105,ch,schwyz,25
@@ -45526,7 +45752,7 @@ dateId,areaCode,country,areaName,deathCases
 20200917,3951,it,sicilia,295
 20200917,3952,it,sardegna,140
 20200917,4101,ch,zurich,148
-20200917,4102,ch,bern,99
+20200917,4102,ch,bern,95
 20200917,4103,ch,luzern,23
 20200917,4105,ch,schwyz,25
 20200917,4106,ch,obwalden,0
@@ -45710,7 +45936,7 @@ dateId,areaCode,country,areaName,deathCases
 20200916,3951,it,sicilia,295
 20200916,3952,it,sardegna,140
 20200916,4101,ch,zurich,148
-20200916,4102,ch,bern,99
+20200916,4102,ch,bern,94
 20200916,4103,ch,luzern,23
 20200916,4104,ch,uri,7
 20200916,4105,ch,schwyz,25
@@ -45894,7 +46120,7 @@ dateId,areaCode,country,areaName,deathCases
 20200915,3951,it,sicilia,292
 20200915,3952,it,sardegna,140
 20200915,4101,ch,zurich,148
-20200915,4102,ch,bern,99
+20200915,4102,ch,bern,94
 20200915,4103,ch,luzern,23
 20200915,4104,ch,uri,7
 20200915,4105,ch,schwyz,25
@@ -46077,7 +46303,7 @@ dateId,areaCode,country,areaName,deathCases
 20200914,3951,it,sicilia,292
 20200914,3952,it,sardegna,140
 20200914,4101,ch,zurich,148
-20200914,4102,ch,bern,99
+20200914,4102,ch,bern,94
 20200914,4103,ch,luzern,23
 20200914,4104,ch,uri,7
 20200914,4105,ch,schwyz,25
@@ -46262,7 +46488,7 @@ dateId,areaCode,country,areaName,deathCases
 20200913,3951,it,sicilia,290
 20200913,3952,it,sardegna,140
 20200913,4101,ch,zurich,148
-20200913,4102,ch,bern,99
+20200913,4102,ch,bern,94
 20200913,4103,ch,luzern,23
 20200913,4105,ch,schwyz,25
 20200913,4106,ch,obwalden,0
@@ -46440,7 +46666,7 @@ dateId,areaCode,country,areaName,deathCases
 20200912,3951,it,sicilia,289
 20200912,3952,it,sardegna,140
 20200912,4101,ch,zurich,148
-20200912,4102,ch,bern,99
+20200912,4102,ch,bern,94
 20200912,4103,ch,luzern,23
 20200912,4105,ch,schwyz,25
 20200912,4106,ch,obwalden,0
@@ -46617,7 +46843,7 @@ dateId,areaCode,country,areaName,deathCases
 20200911,3951,it,sicilia,289
 20200911,3952,it,sardegna,139
 20200911,4101,ch,zurich,148
-20200911,4102,ch,bern,99
+20200911,4102,ch,bern,94
 20200911,4103,ch,luzern,22
 20200911,4104,ch,uri,7
 20200911,4105,ch,schwyz,25
@@ -46799,7 +47025,7 @@ dateId,areaCode,country,areaName,deathCases
 20200910,3951,it,sicilia,289
 20200910,3952,it,sardegna,139
 20200910,4101,ch,zurich,146
-20200910,4102,ch,bern,99
+20200910,4102,ch,bern,94
 20200910,4103,ch,luzern,21
 20200910,4104,ch,uri,7
 20200910,4105,ch,schwyz,25
@@ -46984,7 +47210,7 @@ dateId,areaCode,country,areaName,deathCases
 20200909,3951,it,sicilia,289
 20200909,3952,it,sardegna,138
 20200909,4101,ch,zurich,146
-20200909,4102,ch,bern,99
+20200909,4102,ch,bern,94
 20200909,4103,ch,luzern,21
 20200909,4104,ch,uri,7
 20200909,4105,ch,schwyz,25
@@ -47166,7 +47392,7 @@ dateId,areaCode,country,areaName,deathCases
 20200908,3951,it,sicilia,289
 20200908,3952,it,sardegna,136
 20200908,4101,ch,zurich,146
-20200908,4102,ch,bern,99
+20200908,4102,ch,bern,94
 20200908,4103,ch,luzern,21
 20200908,4104,ch,uri,7
 20200908,4105,ch,schwyz,25
@@ -47350,7 +47576,7 @@ dateId,areaCode,country,areaName,deathCases
 20200907,3951,it,sicilia,289
 20200907,3952,it,sardegna,136
 20200907,4101,ch,zurich,145
-20200907,4102,ch,bern,99
+20200907,4102,ch,bern,94
 20200907,4103,ch,luzern,21
 20200907,4104,ch,uri,7
 20200907,4105,ch,schwyz,25
@@ -47535,7 +47761,7 @@ dateId,areaCode,country,areaName,deathCases
 20200906,3951,it,sicilia,289
 20200906,3952,it,sardegna,136
 20200906,4101,ch,zurich,145
-20200906,4102,ch,bern,99
+20200906,4102,ch,bern,94
 20200906,4103,ch,luzern,21
 20200906,4104,ch,uri,7
 20200906,4105,ch,schwyz,25
@@ -47715,7 +47941,7 @@ dateId,areaCode,country,areaName,deathCases
 20200905,3951,it,sicilia,289
 20200905,3952,it,sardegna,136
 20200905,4101,ch,zurich,145
-20200905,4102,ch,bern,99
+20200905,4102,ch,bern,94
 20200905,4103,ch,luzern,21
 20200905,4105,ch,schwyz,25
 20200905,4106,ch,obwalden,0
@@ -47893,7 +48119,7 @@ dateId,areaCode,country,areaName,deathCases
 20200904,3951,it,sicilia,288
 20200904,3952,it,sardegna,135
 20200904,4101,ch,zurich,145
-20200904,4102,ch,bern,99
+20200904,4102,ch,bern,94
 20200904,4103,ch,luzern,21
 20200904,4104,ch,uri,7
 20200904,4105,ch,schwyz,25
@@ -48076,7 +48302,7 @@ dateId,areaCode,country,areaName,deathCases
 20200903,3951,it,sicilia,288
 20200903,3952,it,sardegna,135
 20200903,4101,ch,zurich,145
-20200903,4102,ch,bern,99
+20200903,4102,ch,bern,94
 20200903,4103,ch,luzern,21
 20200903,4104,ch,uri,7
 20200903,4105,ch,schwyz,25
@@ -48260,7 +48486,7 @@ dateId,areaCode,country,areaName,deathCases
 20200902,3951,it,sicilia,287
 20200902,3952,it,sardegna,135
 20200902,4101,ch,zurich,145
-20200902,4102,ch,bern,99
+20200902,4102,ch,bern,94
 20200902,4103,ch,luzern,21
 20200902,4104,ch,uri,7
 20200902,4105,ch,schwyz,25
@@ -48443,7 +48669,7 @@ dateId,areaCode,country,areaName,deathCases
 20200901,3951,it,sicilia,287
 20200901,3952,it,sardegna,134
 20200901,4101,ch,zurich,145
-20200901,4102,ch,bern,99
+20200901,4102,ch,bern,94
 20200901,4103,ch,luzern,21
 20200901,4104,ch,uri,7
 20200901,4105,ch,schwyz,25
@@ -48626,7 +48852,7 @@ dateId,areaCode,country,areaName,deathCases
 20200831,3951,it,sicilia,286
 20200831,3952,it,sardegna,134
 20200831,4101,ch,zurich,145
-20200831,4102,ch,bern,99
+20200831,4102,ch,bern,94
 20200831,4103,ch,luzern,21
 20200831,4104,ch,uri,7
 20200831,4105,ch,schwyz,25
@@ -48810,7 +49036,7 @@ dateId,areaCode,country,areaName,deathCases
 20200830,3951,it,sicilia,286
 20200830,3952,it,sardegna,134
 20200830,4101,ch,zurich,145
-20200830,4102,ch,bern,99
+20200830,4102,ch,bern,94
 20200830,4103,ch,luzern,21
 20200830,4105,ch,schwyz,25
 20200830,4106,ch,obwalden,0
@@ -48987,7 +49213,7 @@ dateId,areaCode,country,areaName,deathCases
 20200829,3951,it,sicilia,286
 20200829,3952,it,sardegna,134
 20200829,4101,ch,zurich,144
-20200829,4102,ch,bern,99
+20200829,4102,ch,bern,94
 20200829,4103,ch,luzern,21
 20200829,4105,ch,schwyz,25
 20200829,4106,ch,obwalden,0
@@ -49164,7 +49390,7 @@ dateId,areaCode,country,areaName,deathCases
 20200828,3951,it,sicilia,286
 20200828,3952,it,sardegna,134
 20200828,4101,ch,zurich,144
-20200828,4102,ch,bern,99
+20200828,4102,ch,bern,94
 20200828,4103,ch,luzern,21
 20200828,4104,ch,uri,7
 20200828,4105,ch,schwyz,25
@@ -49348,7 +49574,7 @@ dateId,areaCode,country,areaName,deathCases
 20200827,3951,it,sicilia,286
 20200827,3952,it,sardegna,134
 20200827,4101,ch,zurich,144
-20200827,4102,ch,bern,99
+20200827,4102,ch,bern,94
 20200827,4103,ch,luzern,21
 20200827,4104,ch,uri,7
 20200827,4105,ch,schwyz,25
@@ -49532,7 +49758,7 @@ dateId,areaCode,country,areaName,deathCases
 20200826,3951,it,sicilia,286
 20200826,3952,it,sardegna,134
 20200826,4101,ch,zurich,144
-20200826,4102,ch,bern,99
+20200826,4102,ch,bern,94
 20200826,4103,ch,luzern,21
 20200826,4104,ch,uri,7
 20200826,4105,ch,schwyz,25
@@ -49716,7 +49942,7 @@ dateId,areaCode,country,areaName,deathCases
 20200825,3951,it,sicilia,286
 20200825,3952,it,sardegna,134
 20200825,4101,ch,zurich,144
-20200825,4102,ch,bern,99
+20200825,4102,ch,bern,94
 20200825,4103,ch,luzern,21
 20200825,4104,ch,uri,7
 20200825,4105,ch,schwyz,25
@@ -49900,7 +50126,7 @@ dateId,areaCode,country,areaName,deathCases
 20200824,3951,it,sicilia,286
 20200824,3952,it,sardegna,134
 20200824,4101,ch,zurich,144
-20200824,4102,ch,bern,99
+20200824,4102,ch,bern,94
 20200824,4103,ch,luzern,21
 20200824,4104,ch,uri,7
 20200824,4105,ch,schwyz,25
@@ -50085,7 +50311,7 @@ dateId,areaCode,country,areaName,deathCases
 20200823,3951,it,sicilia,286
 20200823,3952,it,sardegna,134
 20200823,4101,ch,zurich,143
-20200823,4102,ch,bern,99
+20200823,4102,ch,bern,94
 20200823,4103,ch,luzern,21
 20200823,4105,ch,schwyz,25
 20200823,4106,ch,obwalden,0
@@ -50263,7 +50489,7 @@ dateId,areaCode,country,areaName,deathCases
 20200822,3951,it,sicilia,286
 20200822,3952,it,sardegna,134
 20200822,4101,ch,zurich,143
-20200822,4102,ch,bern,98
+20200822,4102,ch,bern,94
 20200822,4103,ch,luzern,21
 20200822,4105,ch,schwyz,25
 20200822,4106,ch,obwalden,0
@@ -50440,7 +50666,7 @@ dateId,areaCode,country,areaName,deathCases
 20200821,3951,it,sicilia,286
 20200821,3952,it,sardegna,134
 20200821,4101,ch,zurich,143
-20200821,4102,ch,bern,98
+20200821,4102,ch,bern,93
 20200821,4103,ch,luzern,21
 20200821,4104,ch,uri,7
 20200821,4105,ch,schwyz,25
@@ -50624,7 +50850,7 @@ dateId,areaCode,country,areaName,deathCases
 20200820,3951,it,sicilia,286
 20200820,3952,it,sardegna,134
 20200820,4101,ch,zurich,142
-20200820,4102,ch,bern,98
+20200820,4102,ch,bern,93
 20200820,4103,ch,luzern,21
 20200820,4104,ch,uri,7
 20200820,4105,ch,schwyz,25
@@ -50807,7 +51033,7 @@ dateId,areaCode,country,areaName,deathCases
 20200819,3951,it,sicilia,286
 20200819,3952,it,sardegna,134
 20200819,4101,ch,zurich,142
-20200819,4102,ch,bern,98
+20200819,4102,ch,bern,93
 20200819,4103,ch,luzern,21
 20200819,4104,ch,uri,7
 20200819,4105,ch,schwyz,25
@@ -50992,7 +51218,7 @@ dateId,areaCode,country,areaName,deathCases
 20200818,3951,it,sicilia,286
 20200818,3952,it,sardegna,134
 20200818,4101,ch,zurich,142
-20200818,4102,ch,bern,98
+20200818,4102,ch,bern,93
 20200818,4103,ch,luzern,21
 20200818,4104,ch,uri,7
 20200818,4105,ch,schwyz,25
@@ -51177,7 +51403,7 @@ dateId,areaCode,country,areaName,deathCases
 20200817,3951,it,sicilia,286
 20200817,3952,it,sardegna,134
 20200817,4101,ch,zurich,142
-20200817,4102,ch,bern,98
+20200817,4102,ch,bern,93
 20200817,4103,ch,luzern,21
 20200817,4104,ch,uri,7
 20200817,4105,ch,schwyz,25
@@ -51361,7 +51587,7 @@ dateId,areaCode,country,areaName,deathCases
 20200816,3951,it,sicilia,285
 20200816,3952,it,sardegna,134
 20200816,4101,ch,zurich,142
-20200816,4102,ch,bern,98
+20200816,4102,ch,bern,93
 20200816,4103,ch,luzern,21
 20200816,4105,ch,schwyz,25
 20200816,4106,ch,obwalden,0
@@ -51539,7 +51765,7 @@ dateId,areaCode,country,areaName,deathCases
 20200815,3951,it,sicilia,284
 20200815,3952,it,sardegna,134
 20200815,4101,ch,zurich,142
-20200815,4102,ch,bern,98
+20200815,4102,ch,bern,93
 20200815,4103,ch,luzern,21
 20200815,4105,ch,schwyz,25
 20200815,4106,ch,obwalden,0
@@ -51716,7 +51942,7 @@ dateId,areaCode,country,areaName,deathCases
 20200814,3951,it,sicilia,284
 20200814,3952,it,sardegna,134
 20200814,4101,ch,zurich,142
-20200814,4102,ch,bern,98
+20200814,4102,ch,bern,93
 20200814,4103,ch,luzern,21
 20200814,4104,ch,uri,7
 20200814,4105,ch,schwyz,25
@@ -51901,7 +52127,7 @@ dateId,areaCode,country,areaName,deathCases
 20200813,3951,it,sicilia,284
 20200813,3952,it,sardegna,134
 20200813,4101,ch,zurich,142
-20200813,4102,ch,bern,98
+20200813,4102,ch,bern,93
 20200813,4103,ch,luzern,21
 20200813,4104,ch,uri,7
 20200813,4105,ch,schwyz,25
@@ -52085,7 +52311,7 @@ dateId,areaCode,country,areaName,deathCases
 20200812,3951,it,sicilia,284
 20200812,3952,it,sardegna,134
 20200812,4101,ch,zurich,142
-20200812,4102,ch,bern,98
+20200812,4102,ch,bern,93
 20200812,4103,ch,luzern,21
 20200812,4104,ch,uri,7
 20200812,4105,ch,schwyz,25
@@ -52269,7 +52495,7 @@ dateId,areaCode,country,areaName,deathCases
 20200811,3951,it,sicilia,284
 20200811,3952,it,sardegna,134
 20200811,4101,ch,zurich,142
-20200811,4102,ch,bern,98
+20200811,4102,ch,bern,93
 20200811,4103,ch,luzern,21
 20200811,4104,ch,uri,7
 20200811,4105,ch,schwyz,25
@@ -52453,7 +52679,7 @@ dateId,areaCode,country,areaName,deathCases
 20200810,3951,it,sicilia,284
 20200810,3952,it,sardegna,134
 20200810,4101,ch,zurich,142
-20200810,4102,ch,bern,98
+20200810,4102,ch,bern,93
 20200810,4103,ch,luzern,21
 20200810,4104,ch,uri,7
 20200810,4105,ch,schwyz,25
@@ -52638,7 +52864,7 @@ dateId,areaCode,country,areaName,deathCases
 20200809,3951,it,sicilia,284
 20200809,3952,it,sardegna,134
 20200809,4101,ch,zurich,141
-20200809,4102,ch,bern,98
+20200809,4102,ch,bern,93
 20200809,4103,ch,luzern,21
 20200809,4105,ch,schwyz,25
 20200809,4106,ch,obwalden,0
@@ -52816,7 +53042,7 @@ dateId,areaCode,country,areaName,deathCases
 20200808,3951,it,sicilia,284
 20200808,3952,it,sardegna,134
 20200808,4101,ch,zurich,141
-20200808,4102,ch,bern,98
+20200808,4102,ch,bern,93
 20200808,4103,ch,luzern,21
 20200808,4105,ch,schwyz,25
 20200808,4106,ch,obwalden,0
@@ -52993,7 +53219,7 @@ dateId,areaCode,country,areaName,deathCases
 20200807,3951,it,sicilia,284
 20200807,3952,it,sardegna,134
 20200807,4101,ch,zurich,141
-20200807,4102,ch,bern,97
+20200807,4102,ch,bern,93
 20200807,4103,ch,luzern,21
 20200807,4104,ch,uri,7
 20200807,4105,ch,schwyz,25
@@ -53178,7 +53404,7 @@ dateId,areaCode,country,areaName,deathCases
 20200806,3951,it,sicilia,284
 20200806,3952,it,sardegna,134
 20200806,4101,ch,zurich,141
-20200806,4102,ch,bern,97
+20200806,4102,ch,bern,92
 20200806,4103,ch,luzern,21
 20200806,4104,ch,uri,7
 20200806,4105,ch,schwyz,25
@@ -53362,7 +53588,7 @@ dateId,areaCode,country,areaName,deathCases
 20200805,3951,it,sicilia,284
 20200805,3952,it,sardegna,134
 20200805,4101,ch,zurich,140
-20200805,4102,ch,bern,97
+20200805,4102,ch,bern,92
 20200805,4103,ch,luzern,21
 20200805,4104,ch,uri,7
 20200805,4105,ch,schwyz,25
@@ -53547,7 +53773,7 @@ dateId,areaCode,country,areaName,deathCases
 20200804,3951,it,sicilia,284
 20200804,3952,it,sardegna,134
 20200804,4101,ch,zurich,140
-20200804,4102,ch,bern,97
+20200804,4102,ch,bern,92
 20200804,4103,ch,luzern,20
 20200804,4104,ch,uri,7
 20200804,4105,ch,schwyz,25
@@ -53731,7 +53957,7 @@ dateId,areaCode,country,areaName,deathCases
 20200803,3951,it,sicilia,283
 20200803,3952,it,sardegna,134
 20200803,4101,ch,zurich,139
-20200803,4102,ch,bern,97
+20200803,4102,ch,bern,92
 20200803,4103,ch,luzern,20
 20200803,4104,ch,uri,7
 20200803,4105,ch,schwyz,25
@@ -53916,7 +54142,7 @@ dateId,areaCode,country,areaName,deathCases
 20200802,3951,it,sicilia,283
 20200802,3952,it,sardegna,134
 20200802,4101,ch,zurich,139
-20200802,4102,ch,bern,97
+20200802,4102,ch,bern,92
 20200802,4103,ch,luzern,20
 20200802,4105,ch,schwyz,25
 20200802,4106,ch,obwalden,0
@@ -54093,7 +54319,7 @@ dateId,areaCode,country,areaName,deathCases
 20200801,3951,it,sicilia,283
 20200801,3952,it,sardegna,134
 20200801,4101,ch,zurich,139
-20200801,4102,ch,bern,97
+20200801,4102,ch,bern,92
 20200801,4103,ch,luzern,20
 20200801,4105,ch,schwyz,25
 20200801,4106,ch,obwalden,0
@@ -54270,7 +54496,7 @@ dateId,areaCode,country,areaName,deathCases
 20200731,3951,it,sicilia,283
 20200731,3952,it,sardegna,134
 20200731,4101,ch,zurich,139
-20200731,4102,ch,bern,97
+20200731,4102,ch,bern,92
 20200731,4103,ch,luzern,20
 20200731,4104,ch,uri,7
 20200731,4105,ch,schwyz,25
@@ -54455,7 +54681,7 @@ dateId,areaCode,country,areaName,deathCases
 20200730,3951,it,sicilia,283
 20200730,3952,it,sardegna,134
 20200730,4101,ch,zurich,139
-20200730,4102,ch,bern,97
+20200730,4102,ch,bern,92
 20200730,4103,ch,luzern,20
 20200730,4104,ch,uri,7
 20200730,4105,ch,schwyz,25
@@ -54640,7 +54866,7 @@ dateId,areaCode,country,areaName,deathCases
 20200729,3951,it,sicilia,283
 20200729,3952,it,sardegna,134
 20200729,4101,ch,zurich,139
-20200729,4102,ch,bern,97
+20200729,4102,ch,bern,92
 20200729,4103,ch,luzern,20
 20200729,4104,ch,uri,7
 20200729,4105,ch,schwyz,25
@@ -54825,7 +55051,7 @@ dateId,areaCode,country,areaName,deathCases
 20200728,3951,it,sicilia,283
 20200728,3952,it,sardegna,134
 20200728,4101,ch,zurich,139
-20200728,4102,ch,bern,97
+20200728,4102,ch,bern,92
 20200728,4103,ch,luzern,20
 20200728,4104,ch,uri,7
 20200728,4105,ch,schwyz,25
@@ -55009,7 +55235,7 @@ dateId,areaCode,country,areaName,deathCases
 20200727,3951,it,sicilia,283
 20200727,3952,it,sardegna,135
 20200727,4101,ch,zurich,139
-20200727,4102,ch,bern,97
+20200727,4102,ch,bern,92
 20200727,4103,ch,luzern,20
 20200727,4105,ch,schwyz,25
 20200727,4106,ch,obwalden,0
@@ -55193,7 +55419,7 @@ dateId,areaCode,country,areaName,deathCases
 20200726,3951,it,sicilia,283
 20200726,3952,it,sardegna,134
 20200726,4101,ch,zurich,139
-20200726,4102,ch,bern,97
+20200726,4102,ch,bern,92
 20200726,4103,ch,luzern,20
 20200726,4105,ch,schwyz,25
 20200726,4106,ch,obwalden,0
@@ -55370,6 +55596,7 @@ dateId,areaCode,country,areaName,deathCases
 20200725,3951,it,sicilia,283
 20200725,3952,it,sardegna,134
 20200725,4101,ch,zurich,139
+20200725,4102,ch,bern,92
 20200725,4103,ch,luzern,20
 20200725,4105,ch,schwyz,25
 20200725,4106,ch,obwalden,0
@@ -55546,7 +55773,7 @@ dateId,areaCode,country,areaName,deathCases
 20200724,3951,it,sicilia,283
 20200724,3952,it,sardegna,134
 20200724,4101,ch,zurich,139
-20200724,4102,ch,bern,97
+20200724,4102,ch,bern,92
 20200724,4103,ch,luzern,20
 20200724,4104,ch,uri,7
 20200724,4105,ch,schwyz,25
@@ -55731,7 +55958,7 @@ dateId,areaCode,country,areaName,deathCases
 20200723,3951,it,sicilia,283
 20200723,3952,it,sardegna,134
 20200723,4101,ch,zurich,138
-20200723,4102,ch,bern,97
+20200723,4102,ch,bern,92
 20200723,4103,ch,luzern,20
 20200723,4104,ch,uri,7
 20200723,4105,ch,schwyz,25
@@ -55915,7 +56142,7 @@ dateId,areaCode,country,areaName,deathCases
 20200722,3951,it,sicilia,283
 20200722,3952,it,sardegna,134
 20200722,4101,ch,zurich,138
-20200722,4102,ch,bern,97
+20200722,4102,ch,bern,92
 20200722,4103,ch,luzern,20
 20200722,4104,ch,uri,7
 20200722,4105,ch,schwyz,25
@@ -56099,7 +56326,7 @@ dateId,areaCode,country,areaName,deathCases
 20200721,3951,it,sicilia,283
 20200721,3952,it,sardegna,134
 20200721,4101,ch,zurich,138
-20200721,4102,ch,bern,97
+20200721,4102,ch,bern,92
 20200721,4103,ch,luzern,20
 20200721,4105,ch,schwyz,25
 20200721,4106,ch,obwalden,0
@@ -56282,7 +56509,7 @@ dateId,areaCode,country,areaName,deathCases
 20200720,3951,it,sicilia,283
 20200720,3952,it,sardegna,134
 20200720,4101,ch,zurich,138
-20200720,4102,ch,bern,97
+20200720,4102,ch,bern,92
 20200720,4103,ch,luzern,20
 20200720,4104,ch,uri,7
 20200720,4105,ch,schwyz,24
@@ -56466,7 +56693,7 @@ dateId,areaCode,country,areaName,deathCases
 20200719,3951,it,sicilia,283
 20200719,3952,it,sardegna,134
 20200719,4101,ch,zurich,137
-20200719,4102,ch,bern,97
+20200719,4102,ch,bern,92
 20200719,4103,ch,luzern,20
 20200719,4105,ch,schwyz,24
 20200719,4106,ch,obwalden,0
@@ -56641,7 +56868,7 @@ dateId,areaCode,country,areaName,deathCases
 20200718,3951,it,sicilia,283
 20200718,3952,it,sardegna,134
 20200718,4101,ch,zurich,137
-20200718,4102,ch,bern,97
+20200718,4102,ch,bern,92
 20200718,4103,ch,luzern,20
 20200718,4105,ch,schwyz,24
 20200718,4106,ch,obwalden,0
@@ -56816,7 +57043,7 @@ dateId,areaCode,country,areaName,deathCases
 20200717,3951,it,sicilia,283
 20200717,3952,it,sardegna,134
 20200717,4101,ch,zurich,137
-20200717,4102,ch,bern,97
+20200717,4102,ch,bern,92
 20200717,4103,ch,luzern,20
 20200717,4105,ch,schwyz,24
 20200717,4106,ch,obwalden,0
@@ -56997,7 +57224,7 @@ dateId,areaCode,country,areaName,deathCases
 20200716,3951,it,sicilia,283
 20200716,3952,it,sardegna,134
 20200716,4101,ch,zurich,137
-20200716,4102,ch,bern,97
+20200716,4102,ch,bern,92
 20200716,4103,ch,luzern,20
 20200716,4104,ch,uri,7
 20200716,4105,ch,schwyz,24
@@ -57179,7 +57406,7 @@ dateId,areaCode,country,areaName,deathCases
 20200715,3951,it,sicilia,283
 20200715,3952,it,sardegna,134
 20200715,4101,ch,zurich,137
-20200715,4102,ch,bern,97
+20200715,4102,ch,bern,92
 20200715,4103,ch,luzern,20
 20200715,4104,ch,uri,7
 20200715,4105,ch,schwyz,23
@@ -57361,7 +57588,7 @@ dateId,areaCode,country,areaName,deathCases
 20200714,3951,it,sicilia,283
 20200714,3952,it,sardegna,134
 20200714,4101,ch,zurich,136
-20200714,4102,ch,bern,97
+20200714,4102,ch,bern,92
 20200714,4103,ch,luzern,20
 20200714,4105,ch,schwyz,23
 20200714,4106,ch,obwalden,0
@@ -57543,7 +57770,7 @@ dateId,areaCode,country,areaName,deathCases
 20200713,3951,it,sicilia,283
 20200713,3952,it,sardegna,134
 20200713,4101,ch,zurich,136
-20200713,4102,ch,bern,97
+20200713,4102,ch,bern,92
 20200713,4103,ch,luzern,20
 20200713,4104,ch,uri,7
 20200713,4105,ch,schwyz,23
@@ -57726,7 +57953,7 @@ dateId,areaCode,country,areaName,deathCases
 20200712,3951,it,sicilia,283
 20200712,3952,it,sardegna,134
 20200712,4101,ch,zurich,136
-20200712,4102,ch,bern,97
+20200712,4102,ch,bern,92
 20200712,4103,ch,luzern,20
 20200712,4105,ch,schwyz,23
 20200712,4106,ch,obwalden,0
@@ -57902,7 +58129,7 @@ dateId,areaCode,country,areaName,deathCases
 20200711,3951,it,sicilia,283
 20200711,3952,it,sardegna,134
 20200711,4101,ch,zurich,136
-20200711,4102,ch,bern,97
+20200711,4102,ch,bern,92
 20200711,4103,ch,luzern,20
 20200711,4105,ch,schwyz,23
 20200711,4106,ch,obwalden,0
@@ -58078,7 +58305,7 @@ dateId,areaCode,country,areaName,deathCases
 20200710,3951,it,sicilia,283
 20200710,3952,it,sardegna,134
 20200710,4101,ch,zurich,136
-20200710,4102,ch,bern,97
+20200710,4102,ch,bern,92
 20200710,4103,ch,luzern,20
 20200710,4105,ch,schwyz,23
 20200710,4106,ch,obwalden,0
@@ -58259,7 +58486,7 @@ dateId,areaCode,country,areaName,deathCases
 20200709,3951,it,sicilia,283
 20200709,3952,it,sardegna,134
 20200709,4101,ch,zurich,136
-20200709,4102,ch,bern,97
+20200709,4102,ch,bern,92
 20200709,4103,ch,luzern,20
 20200709,4104,ch,uri,7
 20200709,4105,ch,schwyz,23
@@ -58441,7 +58668,7 @@ dateId,areaCode,country,areaName,deathCases
 20200708,3951,it,sicilia,283
 20200708,3952,it,sardegna,134
 20200708,4101,ch,zurich,136
-20200708,4102,ch,bern,97
+20200708,4102,ch,bern,92
 20200708,4103,ch,luzern,20
 20200708,4105,ch,schwyz,23
 20200708,4106,ch,obwalden,0
@@ -58622,7 +58849,7 @@ dateId,areaCode,country,areaName,deathCases
 20200707,3951,it,sicilia,282
 20200707,3952,it,sardegna,134
 20200707,4101,ch,zurich,134
-20200707,4102,ch,bern,97
+20200707,4102,ch,bern,92
 20200707,4103,ch,luzern,20
 20200707,4104,ch,uri,7
 20200707,4105,ch,schwyz,23
@@ -58804,7 +59031,7 @@ dateId,areaCode,country,areaName,deathCases
 20200706,3951,it,sicilia,282
 20200706,3952,it,sardegna,134
 20200706,4101,ch,zurich,134
-20200706,4102,ch,bern,97
+20200706,4102,ch,bern,92
 20200706,4103,ch,luzern,20
 20200706,4105,ch,schwyz,23
 20200706,4106,ch,obwalden,0
@@ -58986,7 +59213,7 @@ dateId,areaCode,country,areaName,deathCases
 20200705,3951,it,sicilia,282
 20200705,3952,it,sardegna,133
 20200705,4101,ch,zurich,134
-20200705,4102,ch,bern,97
+20200705,4102,ch,bern,92
 20200705,4104,ch,uri,7
 20200705,4105,ch,schwyz,23
 20200705,4106,ch,obwalden,0
@@ -59163,7 +59390,7 @@ dateId,areaCode,country,areaName,deathCases
 20200704,3951,it,sicilia,282
 20200704,3952,it,sardegna,133
 20200704,4101,ch,zurich,134
-20200704,4102,ch,bern,97
+20200704,4102,ch,bern,92
 20200704,4103,ch,luzern,20
 20200704,4105,ch,schwyz,23
 20200704,4106,ch,obwalden,0
@@ -59339,7 +59566,7 @@ dateId,areaCode,country,areaName,deathCases
 20200703,3951,it,sicilia,282
 20200703,3952,it,sardegna,133
 20200703,4101,ch,zurich,134
-20200703,4102,ch,bern,97
+20200703,4102,ch,bern,92
 20200703,4103,ch,luzern,20
 20200703,4105,ch,schwyz,23
 20200703,4106,ch,obwalden,0
@@ -59520,7 +59747,7 @@ dateId,areaCode,country,areaName,deathCases
 20200702,3951,it,sicilia,282
 20200702,3952,it,sardegna,133
 20200702,4101,ch,zurich,134
-20200702,4102,ch,bern,97
+20200702,4102,ch,bern,92
 20200702,4103,ch,luzern,20
 20200702,4104,ch,uri,7
 20200702,4105,ch,schwyz,23
@@ -59702,7 +59929,7 @@ dateId,areaCode,country,areaName,deathCases
 20200701,3951,it,sicilia,282
 20200701,3952,it,sardegna,133
 20200701,4101,ch,zurich,134
-20200701,4102,ch,bern,97
+20200701,4102,ch,bern,92
 20200701,4103,ch,luzern,20
 20200701,4104,ch,uri,7
 20200701,4105,ch,schwyz,23
@@ -59885,7 +60112,7 @@ dateId,areaCode,country,areaName,deathCases
 20200630,3951,it,sicilia,282
 20200630,3952,it,sardegna,133
 20200630,4101,ch,zurich,134
-20200630,4102,ch,bern,97
+20200630,4102,ch,bern,92
 20200630,4103,ch,luzern,20
 20200630,4104,ch,uri,7
 20200630,4105,ch,schwyz,23
@@ -60067,7 +60294,7 @@ dateId,areaCode,country,areaName,deathCases
 20200629,3951,it,sicilia,281
 20200629,3952,it,sardegna,132
 20200629,4101,ch,zurich,134
-20200629,4102,ch,bern,97
+20200629,4102,ch,bern,92
 20200629,4103,ch,luzern,20
 20200629,4104,ch,uri,7
 20200629,4105,ch,schwyz,23
@@ -60249,7 +60476,7 @@ dateId,areaCode,country,areaName,deathCases
 20200628,3951,it,sicilia,281
 20200628,3952,it,sardegna,132
 20200628,4101,ch,zurich,133
-20200628,4102,ch,bern,97
+20200628,4102,ch,bern,92
 20200628,4103,ch,luzern,20
 20200628,4105,ch,schwyz,23
 20200628,4106,ch,obwalden,0
@@ -60425,7 +60652,7 @@ dateId,areaCode,country,areaName,deathCases
 20200627,3951,it,sicilia,281
 20200627,3952,it,sardegna,132
 20200627,4101,ch,zurich,133
-20200627,4102,ch,bern,97
+20200627,4102,ch,bern,92
 20200627,4103,ch,luzern,20
 20200627,4105,ch,schwyz,23
 20200627,4106,ch,obwalden,0
@@ -60601,7 +60828,7 @@ dateId,areaCode,country,areaName,deathCases
 20200626,3951,it,sicilia,281
 20200626,3952,it,sardegna,132
 20200626,4101,ch,zurich,133
-20200626,4102,ch,bern,97
+20200626,4102,ch,bern,92
 20200626,4103,ch,luzern,20
 20200626,4104,ch,uri,7
 20200626,4105,ch,schwyz,23
@@ -60784,7 +61011,6 @@ dateId,areaCode,country,areaName,deathCases
 20200625,3951,it,sicilia,280
 20200625,3952,it,sardegna,132
 20200625,4101,ch,zurich,133
-20200625,4102,ch,bern,97
 20200625,4103,ch,luzern,20
 20200625,4105,ch,schwyz,23
 20200625,4106,ch,obwalden,0
@@ -60965,7 +61191,6 @@ dateId,areaCode,country,areaName,deathCases
 20200624,3951,it,sicilia,280
 20200624,3952,it,sardegna,132
 20200624,4101,ch,zurich,133
-20200624,4102,ch,bern,97
 20200624,4103,ch,luzern,20
 20200624,4105,ch,schwyz,23
 20200624,4106,ch,obwalden,0
@@ -61146,7 +61371,7 @@ dateId,areaCode,country,areaName,deathCases
 20200623,3951,it,sicilia,280
 20200623,3952,it,sardegna,132
 20200623,4101,ch,zurich,133
-20200623,4102,ch,bern,97
+20200623,4102,ch,bern,92
 20200623,4103,ch,luzern,20
 20200623,4105,ch,schwyz,23
 20200623,4106,ch,obwalden,0
@@ -61327,7 +61552,7 @@ dateId,areaCode,country,areaName,deathCases
 20200622,3951,it,sicilia,280
 20200622,3952,it,sardegna,132
 20200622,4101,ch,zurich,133
-20200622,4102,ch,bern,97
+20200622,4102,ch,bern,92
 20200622,4103,ch,luzern,20
 20200622,4105,ch,schwyz,23
 20200622,4106,ch,obwalden,0
@@ -61508,7 +61733,7 @@ dateId,areaCode,country,areaName,deathCases
 20200621,3951,it,sicilia,280
 20200621,3952,it,sardegna,132
 20200621,4101,ch,zurich,133
-20200621,4102,ch,bern,97
+20200621,4102,ch,bern,92
 20200621,4103,ch,luzern,20
 20200621,4105,ch,schwyz,23
 20200621,4106,ch,obwalden,0
@@ -61684,7 +61909,7 @@ dateId,areaCode,country,areaName,deathCases
 20200620,3951,it,sicilia,280
 20200620,3952,it,sardegna,132
 20200620,4101,ch,zurich,133
-20200620,4102,ch,bern,97
+20200620,4102,ch,bern,92
 20200620,4103,ch,luzern,20
 20200620,4105,ch,schwyz,23
 20200620,4106,ch,obwalden,0
@@ -61860,7 +62085,7 @@ dateId,areaCode,country,areaName,deathCases
 20200619,3951,it,sicilia,280
 20200619,3952,it,sardegna,132
 20200619,4101,ch,zurich,133
-20200619,4102,ch,bern,97
+20200619,4102,ch,bern,92
 20200619,4103,ch,luzern,20
 20200619,4105,ch,schwyz,23
 20200619,4106,ch,obwalden,0
@@ -62041,7 +62266,6 @@ dateId,areaCode,country,areaName,deathCases
 20200618,3951,it,sicilia,280
 20200618,3952,it,sardegna,132
 20200618,4101,ch,zurich,133
-20200618,4102,ch,bern,97
 20200618,4103,ch,luzern,20
 20200618,4105,ch,schwyz,23
 20200618,4106,ch,obwalden,0
@@ -62220,7 +62444,6 @@ dateId,areaCode,country,areaName,deathCases
 20200617,3951,it,sicilia,280
 20200617,3952,it,sardegna,132
 20200617,4101,ch,zurich,133
-20200617,4102,ch,bern,97
 20200617,4103,ch,luzern,20
 20200617,4105,ch,schwyz,23
 20200617,4106,ch,obwalden,0
@@ -62401,7 +62624,6 @@ dateId,areaCode,country,areaName,deathCases
 20200616,3951,it,sicilia,280
 20200616,3952,it,sardegna,132
 20200616,4101,ch,zurich,133
-20200616,4102,ch,bern,97
 20200616,4103,ch,luzern,20
 20200616,4105,ch,schwyz,23
 20200616,4106,ch,obwalden,0
@@ -62581,7 +62803,7 @@ dateId,areaCode,country,areaName,deathCases
 20200615,3951,it,sicilia,280
 20200615,3952,it,sardegna,132
 20200615,4101,ch,zurich,133
-20200615,4102,ch,bern,97
+20200615,4102,ch,bern,92
 20200615,4103,ch,luzern,20
 20200615,4105,ch,schwyz,23
 20200615,4106,ch,obwalden,0
@@ -62761,7 +62983,6 @@ dateId,areaCode,country,areaName,deathCases
 20200614,3951,it,sicilia,279
 20200614,3952,it,sardegna,132
 20200614,4101,ch,zurich,133
-20200614,4102,ch,bern,97
 20200614,4103,ch,luzern,20
 20200614,4105,ch,schwyz,23
 20200614,4106,ch,obwalden,0
@@ -62938,7 +63159,7 @@ dateId,areaCode,country,areaName,deathCases
 20200613,3951,it,sicilia,279
 20200613,3952,it,sardegna,132
 20200613,4101,ch,zurich,133
-20200613,4102,ch,bern,97
+20200613,4102,ch,bern,92
 20200613,4103,ch,luzern,20
 20200613,4105,ch,schwyz,23
 20200613,4106,ch,obwalden,0
@@ -63114,7 +63335,7 @@ dateId,areaCode,country,areaName,deathCases
 20200612,3951,it,sicilia,279
 20200612,3952,it,sardegna,131
 20200612,4101,ch,zurich,133
-20200612,4102,ch,bern,97
+20200612,4102,ch,bern,92
 20200612,4103,ch,luzern,20
 20200612,4105,ch,schwyz,23
 20200612,4106,ch,obwalden,0
@@ -63294,7 +63515,7 @@ dateId,areaCode,country,areaName,deathCases
 20200611,3951,it,sicilia,279
 20200611,3952,it,sardegna,131
 20200611,4101,ch,zurich,133
-20200611,4102,ch,bern,97
+20200611,4102,ch,bern,92
 20200611,4105,ch,schwyz,23
 20200611,4106,ch,obwalden,0
 20200611,4107,ch,nidwalden,3
@@ -63471,7 +63692,7 @@ dateId,areaCode,country,areaName,deathCases
 20200610,3951,it,sicilia,278
 20200610,3952,it,sardegna,131
 20200610,4101,ch,zurich,133
-20200610,4102,ch,bern,97
+20200610,4102,ch,bern,92
 20200610,4103,ch,luzern,20
 20200610,4105,ch,schwyz,23
 20200610,4106,ch,obwalden,0
@@ -63651,7 +63872,6 @@ dateId,areaCode,country,areaName,deathCases
 20200609,3951,it,sicilia,278
 20200609,3952,it,sardegna,131
 20200609,4101,ch,zurich,133
-20200609,4102,ch,bern,97
 20200609,4103,ch,luzern,20
 20200609,4105,ch,schwyz,23
 20200609,4106,ch,obwalden,0
@@ -63831,7 +64051,7 @@ dateId,areaCode,country,areaName,deathCases
 20200608,3951,it,sicilia,278
 20200608,3952,it,sardegna,131
 20200608,4101,ch,zurich,133
-20200608,4102,ch,bern,97
+20200608,4102,ch,bern,92
 20200608,4103,ch,luzern,20
 20200608,4105,ch,schwyz,23
 20200608,4106,ch,obwalden,0
@@ -64011,7 +64231,7 @@ dateId,areaCode,country,areaName,deathCases
 20200607,3951,it,sicilia,277
 20200607,3952,it,sardegna,131
 20200607,4101,ch,zurich,133
-20200607,4102,ch,bern,97
+20200607,4102,ch,bern,92
 20200607,4105,ch,schwyz,23
 20200607,4106,ch,obwalden,0
 20200607,4107,ch,nidwalden,3
@@ -64186,7 +64406,6 @@ dateId,areaCode,country,areaName,deathCases
 20200606,3951,it,sicilia,276
 20200606,3952,it,sardegna,131
 20200606,4101,ch,zurich,133
-20200606,4102,ch,bern,97
 20200606,4103,ch,luzern,20
 20200606,4105,ch,schwyz,23
 20200606,4106,ch,obwalden,0
@@ -64362,7 +64581,6 @@ dateId,areaCode,country,areaName,deathCases
 20200605,3951,it,sicilia,276
 20200605,3952,it,sardegna,131
 20200605,4101,ch,zurich,133
-20200605,4102,ch,bern,97
 20200605,4103,ch,luzern,20
 20200605,4105,ch,schwyz,23
 20200605,4106,ch,obwalden,0
@@ -64543,7 +64761,7 @@ dateId,areaCode,country,areaName,deathCases
 20200604,3951,it,sicilia,276
 20200604,3952,it,sardegna,131
 20200604,4101,ch,zurich,133
-20200604,4102,ch,bern,97
+20200604,4102,ch,bern,92
 20200604,4103,ch,luzern,20
 20200604,4105,ch,schwyz,23
 20200604,4106,ch,obwalden,0
@@ -64723,7 +64941,7 @@ dateId,areaCode,country,areaName,deathCases
 20200603,3951,it,sicilia,275
 20200603,3952,it,sardegna,131
 20200603,4101,ch,zurich,133
-20200603,4102,ch,bern,97
+20200603,4102,ch,bern,92
 20200603,4103,ch,luzern,20
 20200603,4105,ch,schwyz,23
 20200603,4106,ch,obwalden,0
@@ -64905,7 +65123,7 @@ dateId,areaCode,country,areaName,deathCases
 20200602,3951,it,sicilia,275
 20200602,3952,it,sardegna,131
 20200602,4101,ch,zurich,133
-20200602,4102,ch,bern,97
+20200602,4102,ch,bern,92
 20200602,4104,ch,uri,7
 20200602,4105,ch,schwyz,23
 20200602,4106,ch,obwalden,0
@@ -65085,7 +65303,6 @@ dateId,areaCode,country,areaName,deathCases
 20200601,3951,it,sicilia,274
 20200601,3952,it,sardegna,131
 20200601,4101,ch,zurich,133
-20200601,4102,ch,bern,97
 20200601,4104,ch,uri,7
 20200601,4105,ch,schwyz,23
 20200601,4106,ch,obwalden,0
@@ -65261,7 +65478,7 @@ dateId,areaCode,country,areaName,deathCases
 20200531,3951,it,sicilia,274
 20200531,3952,it,sardegna,130
 20200531,4101,ch,zurich,133
-20200531,4102,ch,bern,97
+20200531,4102,ch,bern,92
 20200531,4104,ch,uri,7
 20200531,4105,ch,schwyz,23
 20200531,4106,ch,obwalden,0
@@ -65437,7 +65654,6 @@ dateId,areaCode,country,areaName,deathCases
 20200530,3951,it,sicilia,273
 20200530,3952,it,sardegna,130
 20200530,4101,ch,zurich,133
-20200530,4102,ch,bern,97
 20200530,4104,ch,uri,7
 20200530,4105,ch,schwyz,23
 20200530,4106,ch,obwalden,0
@@ -65613,7 +65829,7 @@ dateId,areaCode,country,areaName,deathCases
 20200529,3951,it,sicilia,272
 20200529,3952,it,sardegna,130
 20200529,4101,ch,zurich,133
-20200529,4102,ch,bern,96
+20200529,4102,ch,bern,92
 20200529,4103,ch,luzern,20
 20200529,4104,ch,uri,7
 20200529,4105,ch,schwyz,23
@@ -65796,7 +66012,7 @@ dateId,areaCode,country,areaName,deathCases
 20200528,3951,it,sicilia,272
 20200528,3952,it,sardegna,130
 20200528,4101,ch,zurich,133
-20200528,4102,ch,bern,96
+20200528,4102,ch,bern,92
 20200528,4103,ch,luzern,20
 20200528,4104,ch,uri,7
 20200528,4105,ch,schwyz,23
@@ -65978,7 +66194,7 @@ dateId,areaCode,country,areaName,deathCases
 20200527,3951,it,sicilia,272
 20200527,3952,it,sardegna,130
 20200527,4101,ch,zurich,133
-20200527,4102,ch,bern,96
+20200527,4102,ch,bern,92
 20200527,4103,ch,luzern,20
 20200527,4104,ch,uri,7
 20200527,4105,ch,schwyz,23
@@ -66161,7 +66377,7 @@ dateId,areaCode,country,areaName,deathCases
 20200526,3951,it,sicilia,271
 20200526,3952,it,sardegna,130
 20200526,4101,ch,zurich,133
-20200526,4102,ch,bern,96
+20200526,4102,ch,bern,92
 20200526,4104,ch,uri,7
 20200526,4105,ch,schwyz,23
 20200526,4106,ch,obwalden,0
@@ -66341,7 +66557,7 @@ dateId,areaCode,country,areaName,deathCases
 20200525,3951,it,sicilia,270
 20200525,3952,it,sardegna,129
 20200525,4101,ch,zurich,133
-20200525,4102,ch,bern,96
+20200525,4102,ch,bern,91
 20200525,4103,ch,luzern,20
 20200525,4104,ch,uri,7
 20200525,4105,ch,schwyz,23
@@ -66524,7 +66740,7 @@ dateId,areaCode,country,areaName,deathCases
 20200524,3951,it,sicilia,269
 20200524,3952,it,sardegna,129
 20200524,4101,ch,zurich,133
-20200524,4102,ch,bern,96
+20200524,4102,ch,bern,91
 20200524,4104,ch,uri,7
 20200524,4105,ch,schwyz,23
 20200524,4106,ch,obwalden,0
@@ -66701,7 +66917,6 @@ dateId,areaCode,country,areaName,deathCases
 20200523,3951,it,sicilia,269
 20200523,3952,it,sardegna,129
 20200523,4101,ch,zurich,133
-20200523,4102,ch,bern,96
 20200523,4104,ch,uri,7
 20200523,4105,ch,schwyz,23
 20200523,4106,ch,obwalden,0
@@ -66877,7 +67092,7 @@ dateId,areaCode,country,areaName,deathCases
 20200522,3951,it,sicilia,268
 20200522,3952,it,sardegna,128
 20200522,4101,ch,zurich,133
-20200522,4102,ch,bern,96
+20200522,4102,ch,bern,91
 20200522,4103,ch,luzern,20
 20200522,4104,ch,uri,7
 20200522,4105,ch,schwyz,23
@@ -67057,7 +67272,7 @@ dateId,areaCode,country,areaName,deathCases
 20200521,3951,it,sicilia,268
 20200521,3952,it,sardegna,127
 20200521,4101,ch,zurich,132
-20200521,4102,ch,bern,96
+20200521,4102,ch,bern,91
 20200521,4104,ch,uri,7
 20200521,4105,ch,schwyz,23
 20200521,4106,ch,obwalden,0
@@ -67235,7 +67450,7 @@ dateId,areaCode,country,areaName,deathCases
 20200520,3951,it,sicilia,268
 20200520,3952,it,sardegna,126
 20200520,4101,ch,zurich,131
-20200520,4102,ch,bern,96
+20200520,4102,ch,bern,91
 20200520,4103,ch,luzern,20
 20200520,4104,ch,uri,7
 20200520,4105,ch,schwyz,23
@@ -67417,7 +67632,7 @@ dateId,areaCode,country,areaName,deathCases
 20200519,3951,it,sicilia,268
 20200519,3952,it,sardegna,126
 20200519,4101,ch,zurich,131
-20200519,4102,ch,bern,96
+20200519,4102,ch,bern,91
 20200519,4103,ch,luzern,20
 20200519,4104,ch,uri,7
 20200519,4105,ch,schwyz,23
@@ -67597,7 +67812,7 @@ dateId,areaCode,country,areaName,deathCases
 20200518,3951,it,sicilia,267
 20200518,3952,it,sardegna,126
 20200518,4101,ch,zurich,130
-20200518,4102,ch,bern,96
+20200518,4102,ch,bern,90
 20200518,4103,ch,luzern,20
 20200518,4104,ch,uri,7
 20200518,4105,ch,schwyz,23
@@ -67778,7 +67993,6 @@ dateId,areaCode,country,areaName,deathCases
 20200517,3951,it,sicilia,267
 20200517,3952,it,sardegna,125
 20200517,4101,ch,zurich,130
-20200517,4102,ch,bern,96
 20200517,4103,ch,luzern,20
 20200517,4104,ch,uri,7
 20200517,4105,ch,schwyz,23
@@ -67954,7 +68168,6 @@ dateId,areaCode,country,areaName,deathCases
 20200516,3951,it,sicilia,265
 20200516,3952,it,sardegna,125
 20200516,4101,ch,zurich,130
-20200516,4102,ch,bern,96
 20200516,4103,ch,luzern,20
 20200516,4104,ch,uri,7
 20200516,4105,ch,schwyz,23
@@ -68131,7 +68344,7 @@ dateId,areaCode,country,areaName,deathCases
 20200515,3951,it,sicilia,263
 20200515,3952,it,sardegna,125
 20200515,4101,ch,zurich,130
-20200515,4102,ch,bern,96
+20200515,4102,ch,bern,90
 20200515,4103,ch,luzern,20
 20200515,4105,ch,schwyz,23
 20200515,4106,ch,obwalden,0
@@ -68311,7 +68524,7 @@ dateId,areaCode,country,areaName,deathCases
 20200514,3951,it,sicilia,263
 20200514,3952,it,sardegna,125
 20200514,4101,ch,zurich,129
-20200514,4102,ch,bern,94
+20200514,4102,ch,bern,90
 20200514,4103,ch,luzern,20
 20200514,4104,ch,uri,7
 20200514,4105,ch,schwyz,23
@@ -68492,7 +68705,7 @@ dateId,areaCode,country,areaName,deathCases
 20200513,3951,it,sicilia,262
 20200513,3952,it,sardegna,120
 20200513,4101,ch,zurich,129
-20200513,4102,ch,bern,94
+20200513,4102,ch,bern,90
 20200513,4103,ch,luzern,20
 20200513,4104,ch,uri,7
 20200513,4105,ch,schwyz,23
@@ -68672,7 +68885,7 @@ dateId,areaCode,country,areaName,deathCases
 20200512,3951,it,sicilia,261
 20200512,3952,it,sardegna,120
 20200512,4101,ch,zurich,129
-20200512,4102,ch,bern,93
+20200512,4102,ch,bern,90
 20200512,4103,ch,luzern,20
 20200512,4104,ch,uri,7
 20200512,4105,ch,schwyz,23
@@ -68854,7 +69067,7 @@ dateId,areaCode,country,areaName,deathCases
 20200511,3951,it,sicilia,257
 20200511,3952,it,sardegna,120
 20200511,4101,ch,zurich,129
-20200511,4102,ch,bern,92
+20200511,4102,ch,bern,90
 20200511,4103,ch,luzern,20
 20200511,4104,ch,uri,7
 20200511,4105,ch,schwyz,23
@@ -69036,7 +69249,7 @@ dateId,areaCode,country,areaName,deathCases
 20200510,3951,it,sicilia,256
 20200510,3952,it,sardegna,120
 20200510,4101,ch,zurich,129
-20200510,4102,ch,bern,92
+20200510,4102,ch,bern,90
 20200510,4103,ch,luzern,20
 20200510,4104,ch,uri,7
 20200510,4106,ch,obwalden,0
@@ -69213,7 +69426,7 @@ dateId,areaCode,country,areaName,deathCases
 20200509,3951,it,sicilia,256
 20200509,3952,it,sardegna,119
 20200509,4101,ch,zurich,129
-20200509,4102,ch,bern,92
+20200509,4102,ch,bern,89
 20200509,4103,ch,luzern,20
 20200509,4104,ch,uri,7
 20200509,4105,ch,schwyz,23
@@ -69392,7 +69605,7 @@ dateId,areaCode,country,areaName,deathCases
 20200508,3951,it,sicilia,253
 20200508,3952,it,sardegna,119
 20200508,4101,ch,zurich,128
-20200508,4102,ch,bern,90
+20200508,4102,ch,bern,89
 20200508,4103,ch,luzern,20
 20200508,4104,ch,uri,7
 20200508,4105,ch,schwyz,23
@@ -69573,7 +69786,7 @@ dateId,areaCode,country,areaName,deathCases
 20200507,3951,it,sicilia,251
 20200507,3952,it,sardegna,119
 20200507,4101,ch,zurich,128
-20200507,4102,ch,bern,90
+20200507,4102,ch,bern,89
 20200507,4103,ch,luzern,20
 20200507,4104,ch,uri,7
 20200507,4105,ch,schwyz,23
@@ -69754,7 +69967,7 @@ dateId,areaCode,country,areaName,deathCases
 20200506,3951,it,sicilia,250
 20200506,3952,it,sardegna,119
 20200506,4101,ch,zurich,128
-20200506,4102,ch,bern,90
+20200506,4102,ch,bern,88
 20200506,4103,ch,luzern,20
 20200506,4104,ch,uri,7
 20200506,4105,ch,schwyz,23
@@ -69936,7 +70149,7 @@ dateId,areaCode,country,areaName,deathCases
 20200505,3951,it,sicilia,247
 20200505,3952,it,sardegna,119
 20200505,4101,ch,zurich,127
-20200505,4102,ch,bern,90
+20200505,4102,ch,bern,88
 20200505,4103,ch,luzern,20
 20200505,4104,ch,uri,7
 20200505,4105,ch,schwyz,22
@@ -70118,7 +70331,7 @@ dateId,areaCode,country,areaName,deathCases
 20200504,3951,it,sicilia,244
 20200504,3952,it,sardegna,119
 20200504,4101,ch,zurich,126
-20200504,4102,ch,bern,90
+20200504,4102,ch,bern,88
 20200504,4103,ch,luzern,20
 20200504,4104,ch,uri,6
 20200504,4105,ch,schwyz,21
@@ -70300,7 +70513,7 @@ dateId,areaCode,country,areaName,deathCases
 20200503,3951,it,sicilia,242
 20200503,3952,it,sardegna,119
 20200503,4101,ch,zurich,126
-20200503,4102,ch,bern,90
+20200503,4102,ch,bern,88
 20200503,4103,ch,luzern,20
 20200503,4104,ch,uri,6
 20200503,4105,ch,schwyz,21
@@ -70480,7 +70693,7 @@ dateId,areaCode,country,areaName,deathCases
 20200502,3951,it,sicilia,240
 20200502,3952,it,sardegna,119
 20200502,4101,ch,zurich,126
-20200502,4102,ch,bern,90
+20200502,4102,ch,bern,88
 20200502,4103,ch,luzern,19
 20200502,4104,ch,uri,6
 20200502,4105,ch,schwyz,21
@@ -70660,7 +70873,7 @@ dateId,areaCode,country,areaName,deathCases
 20200501,3951,it,sicilia,237
 20200501,3952,it,sardegna,117
 20200501,4101,ch,zurich,126
-20200501,4102,ch,bern,86
+20200501,4102,ch,bern,88
 20200501,4103,ch,luzern,19
 20200501,4104,ch,uri,6
 20200501,4105,ch,schwyz,21
@@ -70842,7 +71055,7 @@ dateId,areaCode,country,areaName,deathCases
 20200430,3951,it,sicilia,235
 20200430,3952,it,sardegna,116
 20200430,4101,ch,zurich,126
-20200430,4102,ch,bern,85
+20200430,4102,ch,bern,88
 20200430,4103,ch,luzern,18
 20200430,4104,ch,uri,5
 20200430,4105,ch,schwyz,20
@@ -71024,7 +71237,7 @@ dateId,areaCode,country,areaName,deathCases
 20200429,3951,it,sicilia,232
 20200429,3952,it,sardegna,116
 20200429,4101,ch,zurich,124
-20200429,4102,ch,bern,83
+20200429,4102,ch,bern,87
 20200429,4103,ch,luzern,18
 20200429,4104,ch,uri,5
 20200429,4105,ch,schwyz,20
@@ -71205,7 +71418,7 @@ dateId,areaCode,country,areaName,deathCases
 20200428,3951,it,sicilia,232
 20200428,3952,it,sardegna,109
 20200428,4101,ch,zurich,121
-20200428,4102,ch,bern,83
+20200428,4102,ch,bern,87
 20200428,4103,ch,luzern,18
 20200428,4104,ch,uri,5
 20200428,4105,ch,schwyz,20
@@ -71386,7 +71599,7 @@ dateId,areaCode,country,areaName,deathCases
 20200427,3951,it,sicilia,231
 20200427,3952,it,sardegna,109
 20200427,4101,ch,zurich,121
-20200427,4102,ch,bern,83
+20200427,4102,ch,bern,85
 20200427,4103,ch,luzern,18
 20200427,4104,ch,uri,5
 20200427,4105,ch,schwyz,18
@@ -71567,7 +71780,7 @@ dateId,areaCode,country,areaName,deathCases
 20200426,3951,it,sicilia,228
 20200426,3952,it,sardegna,109
 20200426,4101,ch,zurich,117
-20200426,4102,ch,bern,83
+20200426,4102,ch,bern,85
 20200426,4103,ch,luzern,18
 20200426,4104,ch,uri,5
 20200426,4105,ch,schwyz,18
@@ -71746,7 +71959,7 @@ dateId,areaCode,country,areaName,deathCases
 20200425,3951,it,sicilia,224
 20200425,3952,it,sardegna,103
 20200425,4101,ch,zurich,117
-20200425,4102,ch,bern,83
+20200425,4102,ch,bern,85
 20200425,4103,ch,luzern,17
 20200425,4104,ch,uri,5
 20200425,4105,ch,schwyz,17
@@ -71926,7 +72139,7 @@ dateId,areaCode,country,areaName,deathCases
 20200424,3951,it,sicilia,218
 20200424,3952,it,sardegna,102
 20200424,4101,ch,zurich,115
-20200424,4102,ch,bern,82
+20200424,4102,ch,bern,84
 20200424,4103,ch,luzern,17
 20200424,4104,ch,uri,5
 20200424,4105,ch,schwyz,16
@@ -72107,7 +72320,7 @@ dateId,areaCode,country,areaName,deathCases
 20200423,3951,it,sicilia,213
 20200423,3952,it,sardegna,98
 20200423,4101,ch,zurich,114
-20200423,4102,ch,bern,79
+20200423,4102,ch,bern,83
 20200423,4103,ch,luzern,17
 20200423,4104,ch,uri,5
 20200423,4105,ch,schwyz,16
@@ -72288,7 +72501,7 @@ dateId,areaCode,country,areaName,deathCases
 20200422,3951,it,sicilia,208
 20200422,3952,it,sardegna,96
 20200422,4101,ch,zurich,111
-20200422,4102,ch,bern,77
+20200422,4102,ch,bern,81
 20200422,4103,ch,luzern,16
 20200422,4104,ch,uri,5
 20200422,4105,ch,schwyz,16
@@ -72469,7 +72682,7 @@ dateId,areaCode,country,areaName,deathCases
 20200421,3951,it,sicilia,206
 20200421,3952,it,sardegna,93
 20200421,4101,ch,zurich,110
-20200421,4102,ch,bern,77
+20200421,4102,ch,bern,79
 20200421,4103,ch,luzern,16
 20200421,4104,ch,uri,5
 20200421,4105,ch,schwyz,16
@@ -72648,7 +72861,7 @@ dateId,areaCode,country,areaName,deathCases
 20200420,3951,it,sicilia,203
 20200420,3952,it,sardegna,86
 20200420,4101,ch,zurich,108
-20200420,4102,ch,bern,73
+20200420,4102,ch,bern,77
 20200420,4103,ch,luzern,16
 20200420,4104,ch,uri,5
 20200420,4105,ch,schwyz,15
@@ -72827,7 +73040,7 @@ dateId,areaCode,country,areaName,deathCases
 20200419,3951,it,sicilia,200
 20200419,3952,it,sardegna,86
 20200419,4101,ch,zurich,106
-20200419,4102,ch,bern,69
+20200419,4102,ch,bern,73
 20200419,4103,ch,luzern,16
 20200419,4104,ch,uri,5
 20200419,4105,ch,schwyz,15
@@ -73005,7 +73218,7 @@ dateId,areaCode,country,areaName,deathCases
 20200418,3951,it,sicilia,196
 20200418,3952,it,sardegna,86
 20200418,4101,ch,zurich,105
-20200418,4102,ch,bern,69
+20200418,4102,ch,bern,73
 20200418,4103,ch,luzern,16
 20200418,4104,ch,uri,5
 20200418,4105,ch,schwyz,14
@@ -73182,7 +73395,7 @@ dateId,areaCode,country,areaName,deathCases
 20200417,3951,it,sicilia,190
 20200417,3952,it,sardegna,86
 20200417,4101,ch,zurich,100
-20200417,4102,ch,bern,67
+20200417,4102,ch,bern,69
 20200417,4103,ch,luzern,16
 20200417,4104,ch,uri,5
 20200417,4105,ch,schwyz,14
@@ -73361,7 +73574,7 @@ dateId,areaCode,country,areaName,deathCases
 20200416,3951,it,sicilia,187
 20200416,3952,it,sardegna,85
 20200416,4101,ch,zurich,95
-20200416,4102,ch,bern,55
+20200416,4102,ch,bern,68
 20200416,4103,ch,luzern,15
 20200416,4104,ch,uri,5
 20200416,4105,ch,schwyz,14
@@ -73539,7 +73752,7 @@ dateId,areaCode,country,areaName,deathCases
 20200415,3951,it,sicilia,181
 20200415,3952,it,sardegna,83
 20200415,4101,ch,zurich,91
-20200415,4102,ch,bern,53
+20200415,4102,ch,bern,67
 20200415,4103,ch,luzern,14
 20200415,4104,ch,uri,4
 20200415,4105,ch,schwyz,13
@@ -73717,7 +73930,7 @@ dateId,areaCode,country,areaName,deathCases
 20200414,3951,it,sicilia,175
 20200414,3952,it,sardegna,80
 20200414,4101,ch,zurich,87
-20200414,4102,ch,bern,49
+20200414,4102,ch,bern,65
 20200414,4103,ch,luzern,14
 20200414,4104,ch,uri,4
 20200414,4105,ch,schwyz,13
@@ -73895,7 +74108,7 @@ dateId,areaCode,country,areaName,deathCases
 20200413,3951,it,sicilia,171
 20200413,3952,it,sardegna,75
 20200413,4101,ch,zurich,83
-20200413,4102,ch,bern,49
+20200413,4102,ch,bern,63
 20200413,4103,ch,luzern,13
 20200413,4104,ch,uri,4
 20200413,4105,ch,schwyz,12
@@ -74073,7 +74286,7 @@ dateId,areaCode,country,areaName,deathCases
 20200412,3951,it,sicilia,163
 20200412,3952,it,sardegna,73
 20200412,4101,ch,zurich,79
-20200412,4102,ch,bern,49
+20200412,4102,ch,bern,57
 20200412,4103,ch,luzern,12
 20200412,4104,ch,uri,4
 20200412,4105,ch,schwyz,11
@@ -74249,7 +74462,7 @@ dateId,areaCode,country,areaName,deathCases
 20200411,3951,it,sicilia,154
 20200411,3952,it,sardegna,73
 20200411,4101,ch,zurich,77
-20200411,4102,ch,bern,44
+20200411,4102,ch,bern,54
 20200411,4103,ch,luzern,12
 20200411,4104,ch,uri,4
 20200411,4105,ch,schwyz,10
@@ -74427,7 +74640,7 @@ dateId,areaCode,country,areaName,deathCases
 20200410,3951,it,sicilia,148
 20200410,3952,it,sardegna,69
 20200410,4101,ch,zurich,71
-20200410,4102,ch,bern,42
+20200410,4102,ch,bern,51
 20200410,4103,ch,luzern,11
 20200410,4104,ch,uri,4
 20200410,4105,ch,schwyz,10
@@ -74603,7 +74816,7 @@ dateId,areaCode,country,areaName,deathCases
 20200409,3951,it,sicilia,138
 20200409,3952,it,sardegna,64
 20200409,4101,ch,zurich,66
-20200409,4102,ch,bern,38
+20200409,4102,ch,bern,45
 20200409,4103,ch,luzern,9
 20200409,4104,ch,uri,4
 20200409,4105,ch,schwyz,9
@@ -74780,7 +74993,7 @@ dateId,areaCode,country,areaName,deathCases
 20200408,3951,it,sicilia,133
 20200408,3952,it,sardegna,59
 20200408,4101,ch,zurich,64
-20200408,4102,ch,bern,37
+20200408,4102,ch,bern,41
 20200408,4103,ch,luzern,9
 20200408,4104,ch,uri,4
 20200408,4105,ch,schwyz,7
@@ -74955,7 +75168,7 @@ dateId,areaCode,country,areaName,deathCases
 20200407,3951,it,sicilia,125
 20200407,3952,it,sardegna,52
 20200407,4101,ch,zurich,56
-20200407,4102,ch,bern,33
+20200407,4102,ch,bern,36
 20200407,4103,ch,luzern,9
 20200407,4104,ch,uri,2
 20200407,4105,ch,schwyz,7
@@ -75130,7 +75343,7 @@ dateId,areaCode,country,areaName,deathCases
 20200406,3951,it,sicilia,123
 20200406,3952,it,sardegna,47
 20200406,4101,ch,zurich,54
-20200406,4102,ch,bern,31
+20200406,4102,ch,bern,32
 20200406,4103,ch,luzern,9
 20200406,4104,ch,uri,2
 20200406,4105,ch,schwyz,6
@@ -75305,7 +75518,7 @@ dateId,areaCode,country,areaName,deathCases
 20200405,3951,it,sicilia,116
 20200405,3952,it,sardegna,43
 20200405,4101,ch,zurich,52
-20200405,4102,ch,bern,28
+20200405,4102,ch,bern,32
 20200405,4103,ch,luzern,9
 20200405,4104,ch,uri,2
 20200405,4105,ch,schwyz,5
@@ -75479,7 +75692,7 @@ dateId,areaCode,country,areaName,deathCases
 20200404,3951,it,sicilia,111
 20200404,3952,it,sardegna,41
 20200404,4101,ch,zurich,48
-20200404,4102,ch,bern,28
+20200404,4102,ch,bern,29
 20200404,4103,ch,luzern,9
 20200404,4104,ch,uri,1
 20200404,4105,ch,schwyz,5
@@ -75826,7 +76039,7 @@ dateId,areaCode,country,areaName,deathCases
 20200402,3951,it,sicilia,93
 20200402,3952,it,sardegna,40
 20200402,4101,ch,zurich,39
-20200402,4102,ch,bern,23
+20200402,4102,ch,bern,26
 20200402,4103,ch,luzern,7
 20200402,4104,ch,uri,1
 20200402,4105,ch,schwyz,4
@@ -75996,7 +76209,7 @@ dateId,areaCode,country,areaName,deathCases
 20200401,3951,it,sicilia,88
 20200401,3952,it,sardegna,34
 20200401,4101,ch,zurich,36
-20200401,4102,ch,bern,20
+20200401,4102,ch,bern,24
 20200401,4103,ch,luzern,7
 20200401,4104,ch,uri,1
 20200401,4105,ch,schwyz,4
@@ -76164,7 +76377,7 @@ dateId,areaCode,country,areaName,deathCases
 20200331,3951,it,sicilia,81
 20200331,3952,it,sardegna,31
 20200331,4101,ch,zurich,27
-20200331,4102,ch,bern,16
+20200331,4102,ch,bern,21
 20200331,4103,ch,luzern,7
 20200331,4105,ch,schwyz,4
 20200331,4106,ch,obwalden,0
@@ -76330,7 +76543,7 @@ dateId,areaCode,country,areaName,deathCases
 20200330,3951,it,sicilia,76
 20200330,3952,it,sardegna,28
 20200330,4101,ch,zurich,24
-20200330,4102,ch,bern,13
+20200330,4102,ch,bern,20
 20200330,4103,ch,luzern,7
 20200330,4105,ch,schwyz,2
 20200330,4106,ch,obwalden,0
@@ -76491,7 +76704,7 @@ dateId,areaCode,country,areaName,deathCases
 20200329,3951,it,sicilia,65
 20200329,3952,it,sardegna,27
 20200329,4101,ch,zurich,22
-20200329,4102,ch,bern,10
+20200329,4102,ch,bern,15
 20200329,4103,ch,luzern,6
 20200329,4105,ch,schwyz,2
 20200329,4106,ch,obwalden,0
@@ -76652,7 +76865,7 @@ dateId,areaCode,country,areaName,deathCases
 20200328,3951,it,sicilia,57
 20200328,3952,it,sardegna,26
 20200328,4101,ch,zurich,19
-20200328,4102,ch,bern,9
+20200328,4102,ch,bern,13
 20200328,4103,ch,luzern,5
 20200328,4105,ch,schwyz,1
 20200328,4106,ch,obwalden,0
@@ -76811,7 +77024,7 @@ dateId,areaCode,country,areaName,deathCases
 20200327,3951,it,sicilia,39
 20200327,3952,it,sardegna,21
 20200327,4101,ch,zurich,15
-20200327,4102,ch,bern,8
+20200327,4102,ch,bern,9
 20200327,4103,ch,luzern,3
 20200327,4105,ch,schwyz,1
 20200327,4106,ch,obwalden,0
@@ -76968,7 +77181,7 @@ dateId,areaCode,country,areaName,deathCases
 20200326,3951,it,sicilia,33
 20200326,3952,it,sardegna,19
 20200326,4101,ch,zurich,13
-20200326,4102,ch,bern,7
+20200326,4102,ch,bern,9
 20200326,4103,ch,luzern,3
 20200326,4105,ch,schwyz,0
 20200326,4106,ch,obwalden,0
@@ -77123,7 +77336,7 @@ dateId,areaCode,country,areaName,deathCases
 20200325,3951,it,sicilia,25
 20200325,3952,it,sardegna,18
 20200325,4101,ch,zurich,10
-20200325,4102,ch,bern,6
+20200325,4102,ch,bern,7
 20200325,4103,ch,luzern,3
 20200325,4105,ch,schwyz,0
 20200325,4106,ch,obwalden,0
@@ -77424,7 +77637,7 @@ dateId,areaCode,country,areaName,deathCases
 20200323,3951,it,sicilia,13
 20200323,3952,it,sardegna,11
 20200323,4101,ch,zurich,6
-20200323,4102,ch,bern,5
+20200323,4102,ch,bern,6
 20200323,4103,ch,luzern,1
 20200323,4106,ch,obwalden,0
 20200323,4108,ch,glarus,0
@@ -77564,6 +77777,7 @@ dateId,areaCode,country,areaName,deathCases
 20200322,3951,it,sicilia,8
 20200322,3952,it,sardegna,7
 20200322,4101,ch,zurich,6
+20200322,4102,ch,bern,6
 20200322,4103,ch,luzern,1
 20200322,4108,ch,glarus,0
 20200322,4109,ch,zug,0
@@ -77695,7 +77909,7 @@ dateId,areaCode,country,areaName,deathCases
 20200321,3951,it,sicilia,6
 20200321,3952,it,sardegna,4
 20200321,4101,ch,zurich,5
-20200321,4102,ch,bern,3
+20200321,4102,ch,bern,5
 20200321,4103,ch,luzern,1
 20200321,4108,ch,glarus,0
 20200321,4109,ch,zug,0
@@ -77824,7 +78038,7 @@ dateId,areaCode,country,areaName,deathCases
 20200320,3951,it,sicilia,4
 20200320,3952,it,sardegna,2
 20200320,4101,ch,zurich,4
-20200320,4102,ch,bern,2
+20200320,4102,ch,bern,3
 20200320,4108,ch,glarus,0
 20200320,4109,ch,zug,0
 20200320,4110,ch,fribourg,1
@@ -77943,7 +78157,7 @@ dateId,areaCode,country,areaName,deathCases
 20200319,3951,it,sicilia,4
 20200319,3952,it,sardegna,2
 20200319,4101,ch,zurich,3
-20200319,4102,ch,bern,1
+20200319,4102,ch,bern,2
 20200319,4108,ch,glarus,0
 20200319,4109,ch,zug,0
 20200319,4110,ch,fribourg,1
@@ -78056,7 +78270,7 @@ dateId,areaCode,country,areaName,deathCases
 20200318,3951,it,sicilia,3
 20200318,3952,it,sardegna,2
 20200318,4101,ch,zurich,2
-20200318,4102,ch,bern,1
+20200318,4102,ch,bern,2
 20200318,4108,ch,glarus,0
 20200318,4109,ch,zug,0
 20200318,4110,ch,fribourg,0
@@ -78134,6 +78348,7 @@ dateId,areaCode,country,areaName,deathCases
 20200317,3951,it,sicilia,3
 20200317,3952,it,sardegna,2
 20200317,4101,ch,zurich,1
+20200317,4102,ch,bern,2
 20200317,4108,ch,glarus,0
 20200317,4109,ch,zug,0
 20200317,4110,ch,fribourg,0
@@ -78293,6 +78508,7 @@ dateId,areaCode,country,areaName,deathCases
 20200315,3951,it,sicilia,2
 20200315,3952,it,sardegna,2
 20200315,4101,ch,zurich,1
+20200315,4102,ch,bern,0
 20200315,4108,ch,glarus,0
 20200315,4109,ch,zug,0
 20200315,4110,ch,fribourg,0
@@ -78367,6 +78583,7 @@ dateId,areaCode,country,areaName,deathCases
 20200314,3946,it,calabria,0
 20200314,3951,it,sicilia,2
 20200314,3952,it,sardegna,0
+20200314,4102,ch,bern,0
 20200314,4108,ch,glarus,0
 20200314,4109,ch,zug,0
 20200314,4110,ch,fribourg,0
@@ -78434,6 +78651,7 @@ dateId,areaCode,country,areaName,deathCases
 20200313,3946,it,calabria,0
 20200313,3951,it,sicilia,2
 20200313,3952,it,sardegna,0
+20200313,4102,ch,bern,0
 20200313,4108,ch,glarus,0
 20200313,4109,ch,zug,0
 20200313,4110,ch,fribourg,0
@@ -78505,6 +78723,7 @@ dateId,areaCode,country,areaName,deathCases
 20200312,3946,it,calabria,0
 20200312,3951,it,sicilia,2
 20200312,3952,it,sardegna,0
+20200312,4102,ch,bern,0
 20200312,4108,ch,glarus,0
 20200312,4109,ch,zug,0
 20200312,4110,ch,fribourg,0
@@ -78577,6 +78796,7 @@ dateId,areaCode,country,areaName,deathCases
 20200311,3946,it,calabria,0
 20200311,3951,it,sicilia,0
 20200311,3952,it,sardegna,0
+20200311,4102,ch,bern,0
 20200311,4108,ch,glarus,0
 20200311,4109,ch,zug,0
 20200311,4110,ch,fribourg,0
@@ -78646,6 +78866,7 @@ dateId,areaCode,country,areaName,deathCases
 20200310,3946,it,calabria,0
 20200310,3951,it,sicilia,0
 20200310,3952,it,sardegna,0
+20200310,4102,ch,bern,0
 20200310,4108,ch,glarus,0
 20200310,4109,ch,zug,0
 20200310,4110,ch,fribourg,0
@@ -78711,6 +78932,7 @@ dateId,areaCode,country,areaName,deathCases
 20200309,3946,it,calabria,0
 20200309,3951,it,sicilia,0
 20200309,3952,it,sardegna,0
+20200309,4102,ch,bern,0
 20200309,4109,ch,zug,0
 20200309,4110,ch,fribourg,0
 20200309,4113,ch,basel_landschaft,1
@@ -78765,6 +78987,7 @@ dateId,areaCode,country,areaName,deathCases
 20200308,3946,it,calabria,0
 20200308,3951,it,sicilia,0
 20200308,3952,it,sardegna,0
+20200308,4102,ch,bern,0
 20200308,4109,ch,zug,0
 20200308,4110,ch,fribourg,0
 20200308,4113,ch,basel_landschaft,1
@@ -78863,6 +79086,7 @@ dateId,areaCode,country,areaName,deathCases
 20200306,3946,it,calabria,0
 20200306,3951,it,sicilia,0
 20200306,3952,it,sardegna,0
+20200306,4102,ch,bern,0
 20200306,4109,ch,zug,0
 20200306,4110,ch,fribourg,0
 20200306,4118,ch,graubunden,0
@@ -78910,6 +79134,7 @@ dateId,areaCode,country,areaName,deathCases
 20200305,3946,it,calabria,0
 20200305,3951,it,sicilia,0
 20200305,3952,it,sardegna,0
+20200305,4102,ch,bern,0
 20200305,4109,ch,zug,0
 20200305,4110,ch,fribourg,0
 20200305,4118,ch,graubunden,0
@@ -78954,6 +79179,7 @@ dateId,areaCode,country,areaName,deathCases
 20200304,3946,it,calabria,0
 20200304,3951,it,sicilia,0
 20200304,3952,it,sardegna,0
+20200304,4102,ch,bern,0
 20200304,4109,ch,zug,0
 20200304,4110,ch,fribourg,0
 20200304,4118,ch,graubunden,0
@@ -78996,6 +79222,7 @@ dateId,areaCode,country,areaName,deathCases
 20200303,3946,it,calabria,0
 20200303,3951,it,sicilia,0
 20200303,3952,it,sardegna,0
+20200303,4102,ch,bern,0
 20200303,4109,ch,zug,0
 20200303,4110,ch,fribourg,0
 20200303,4118,ch,graubunden,0
@@ -79038,6 +79265,7 @@ dateId,areaCode,country,areaName,deathCases
 20200302,3946,it,calabria,0
 20200302,3951,it,sicilia,0
 20200302,3952,it,sardegna,0
+20200302,4102,ch,bern,0
 20200302,4109,ch,zug,0
 20200302,4110,ch,fribourg,0
 20200302,4118,ch,graubunden,0
@@ -79122,6 +79350,7 @@ dateId,areaCode,country,areaName,deathCases
 20200229,3946,it,calabria,0
 20200229,3951,it,sicilia,0
 20200229,3952,it,sardegna,0
+20200229,4102,ch,bern,0
 20200229,4109,ch,zug,0
 20200229,4110,ch,fribourg,0
 20200229,4118,ch,graubunden,0
@@ -79202,6 +79431,7 @@ dateId,areaCode,country,areaName,deathCases
 20200227,3946,it,calabria,0
 20200227,3951,it,sicilia,0
 20200227,3952,it,sardegna,0
+20200227,4102,ch,bern,0
 20200227,4118,ch,graubunden,0
 20200227,4119,ch,aargau,0
 20200227,4121,ch,ticino,0

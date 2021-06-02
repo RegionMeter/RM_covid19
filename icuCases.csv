@@ -1,4 +1,35 @@
 dateId,areaCode,country,areaName,icuCases
+20210601,4101,ch,zurich,37
+20210601,4107,ch,nidwalden,0
+20210601,4110,ch,fribourg,3
+20210601,4111,ch,solothurn,1
+20210601,4112,ch,basel_stadt,2
+20210601,4113,ch,basel_landschaft,0
+20210601,4114,ch,schaffhausen,3
+20210601,4118,ch,graubunden,2
+20210601,4120,ch,thurgau,7
+20210601,4121,ch,ticino,0
+20210601,4123,ch,valais,4
+20210601,4125,ch,geneve,6
+20210531,4101,ch,zurich,39
+20210531,4102,ch,bern,21
+20210531,4107,ch,nidwalden,0
+20210531,4109,ch,zug,1
+20210531,4110,ch,fribourg,4
+20210531,4111,ch,solothurn,2
+20210531,4112,ch,basel_stadt,1
+20210531,4113,ch,basel_landschaft,0
+20210531,4114,ch,schaffhausen,4
+20210531,4117,ch,st_gallen,8
+20210531,4118,ch,graubunden,3
+20210531,4119,ch,aargau,7
+20210531,4120,ch,thurgau,7
+20210531,4121,ch,ticino,0
+20210531,4122,ch,vaud,14
+20210531,4123,ch,valais,4
+20210531,4124,ch,neuchatel,1
+20210531,4125,ch,geneve,6
+20210531,4126,ch,jura_ch,1
 20210531,43,at,austria,152
 20210531,4301,at,wien,36
 20210531,4302,at,niederosterreich,41
@@ -9,6 +40,22 @@ dateId,areaCode,country,areaName,icuCases
 20210531,4307,at,salzburg,7
 20210531,4308,at,vorarlberg,5
 20210531,4309,at,burgenland,10
+20210530,4101,ch,zurich,37
+20210530,4107,ch,nidwalden,0
+20210530,4108,ch,glarus,1
+20210530,4109,ch,zug,1
+20210530,4110,ch,fribourg,5
+20210530,4112,ch,basel_stadt,2
+20210530,4113,ch,basel_landschaft,0
+20210530,4117,ch,st_gallen,7
+20210530,4118,ch,graubunden,3
+20210530,4120,ch,thurgau,7
+20210530,4121,ch,ticino,1
+20210530,4122,ch,vaud,16
+20210530,4123,ch,valais,4
+20210530,4124,ch,neuchatel,2
+20210530,4125,ch,geneve,6
+20210530,4126,ch,jura_ch,1
 20210530,43,at,austria,149
 20210530,4301,at,wien,34
 20210530,4302,at,niederosterreich,41
@@ -19,6 +66,21 @@ dateId,areaCode,country,areaName,icuCases
 20210530,4307,at,salzburg,7
 20210530,4308,at,vorarlberg,4
 20210530,4309,at,burgenland,11
+20210529,4101,ch,zurich,40
+20210529,4107,ch,nidwalden,0
+20210529,4108,ch,glarus,1
+20210529,4109,ch,zug,1
+20210529,4110,ch,fribourg,6
+20210529,4112,ch,basel_stadt,2
+20210529,4113,ch,basel_landschaft,0
+20210529,4118,ch,graubunden,3
+20210529,4120,ch,thurgau,8
+20210529,4121,ch,ticino,1
+20210529,4122,ch,vaud,17
+20210529,4123,ch,valais,4
+20210529,4124,ch,neuchatel,2
+20210529,4125,ch,geneve,5
+20210529,4126,ch,jura_ch,1
 20210529,43,at,austria,163
 20210529,4301,at,wien,41
 20210529,4302,at,niederosterreich,44
@@ -29,6 +91,24 @@ dateId,areaCode,country,areaName,icuCases
 20210529,4307,at,salzburg,7
 20210529,4308,at,vorarlberg,5
 20210529,4309,at,burgenland,12
+20210528,4101,ch,zurich,42
+20210528,4107,ch,nidwalden,0
+20210528,4108,ch,glarus,1
+20210528,4109,ch,zug,1
+20210528,4110,ch,fribourg,6
+20210528,4111,ch,solothurn,2
+20210528,4112,ch,basel_stadt,1
+20210528,4113,ch,basel_landschaft,0
+20210528,4114,ch,schaffhausen,4
+20210528,4118,ch,graubunden,3
+20210528,4119,ch,aargau,6
+20210528,4120,ch,thurgau,8
+20210528,4121,ch,ticino,1
+20210528,4122,ch,vaud,18
+20210528,4123,ch,valais,3
+20210528,4124,ch,neuchatel,2
+20210528,4125,ch,geneve,6
+20210528,4126,ch,jura_ch,1
 20210528,43,at,austria,171
 20210528,4301,at,wien,44
 20210528,4302,at,niederosterreich,44
@@ -39,6 +119,25 @@ dateId,areaCode,country,areaName,icuCases
 20210528,4307,at,salzburg,8
 20210528,4308,at,vorarlberg,6
 20210528,4309,at,burgenland,12
+20210527,4101,ch,zurich,44
+20210527,4107,ch,nidwalden,1
+20210527,4108,ch,glarus,1
+20210527,4109,ch,zug,2
+20210527,4110,ch,fribourg,4
+20210527,4111,ch,solothurn,1
+20210527,4112,ch,basel_stadt,1
+20210527,4113,ch,basel_landschaft,1
+20210527,4114,ch,schaffhausen,4
+20210527,4117,ch,st_gallen,7
+20210527,4118,ch,graubunden,3
+20210527,4119,ch,aargau,6
+20210527,4120,ch,thurgau,6
+20210527,4121,ch,ticino,1
+20210527,4122,ch,vaud,17
+20210527,4123,ch,valais,4
+20210527,4124,ch,neuchatel,1
+20210527,4125,ch,geneve,6
+20210527,4126,ch,jura_ch,1
 20210527,43,at,austria,192
 20210527,4301,at,wien,56
 20210527,4302,at,niederosterreich,48
@@ -49,6 +148,26 @@ dateId,areaCode,country,areaName,icuCases
 20210527,4307,at,salzburg,9
 20210527,4308,at,vorarlberg,6
 20210527,4309,at,burgenland,11
+20210526,4101,ch,zurich,44
+20210526,4102,ch,bern,21
+20210526,4107,ch,nidwalden,1
+20210526,4108,ch,glarus,1
+20210526,4109,ch,zug,2
+20210526,4110,ch,fribourg,4
+20210526,4111,ch,solothurn,1
+20210526,4112,ch,basel_stadt,3
+20210526,4113,ch,basel_landschaft,2
+20210526,4114,ch,schaffhausen,4
+20210526,4117,ch,st_gallen,8
+20210526,4118,ch,graubunden,3
+20210526,4119,ch,aargau,6
+20210526,4120,ch,thurgau,7
+20210526,4121,ch,ticino,0
+20210526,4122,ch,vaud,16
+20210526,4123,ch,valais,4
+20210526,4124,ch,neuchatel,2
+20210526,4125,ch,geneve,4
+20210526,4126,ch,jura_ch,1
 20210526,43,at,austria,198
 20210526,4301,at,wien,52
 20210526,4302,at,niederosterreich,49
@@ -59,6 +178,25 @@ dateId,areaCode,country,areaName,icuCases
 20210526,4307,at,salzburg,11
 20210526,4308,at,vorarlberg,6
 20210526,4309,at,burgenland,8
+20210525,4101,ch,zurich,43
+20210525,4107,ch,nidwalden,1
+20210525,4108,ch,glarus,1
+20210525,4109,ch,zug,2
+20210525,4110,ch,fribourg,3
+20210525,4111,ch,solothurn,3
+20210525,4112,ch,basel_stadt,4
+20210525,4113,ch,basel_landschaft,1
+20210525,4114,ch,schaffhausen,4
+20210525,4117,ch,st_gallen,8
+20210525,4118,ch,graubunden,3
+20210525,4119,ch,aargau,7
+20210525,4120,ch,thurgau,7
+20210525,4121,ch,ticino,0
+20210525,4122,ch,vaud,15
+20210525,4123,ch,valais,4
+20210525,4124,ch,neuchatel,4
+20210525,4125,ch,geneve,4
+20210525,4126,ch,jura_ch,1
 20210525,43,at,austria,220
 20210525,4301,at,wien,59
 20210525,4302,at,niederosterreich,54
@@ -69,6 +207,22 @@ dateId,areaCode,country,areaName,icuCases
 20210525,4307,at,salzburg,13
 20210525,4308,at,vorarlberg,6
 20210525,4309,at,burgenland,10
+20210524,4101,ch,zurich,45
+20210524,4107,ch,nidwalden,1
+20210524,4108,ch,glarus,1
+20210524,4109,ch,zug,3
+20210524,4110,ch,fribourg,3
+20210524,4112,ch,basel_stadt,3
+20210524,4113,ch,basel_landschaft,1
+20210524,4117,ch,st_gallen,9
+20210524,4118,ch,graubunden,3
+20210524,4120,ch,thurgau,7
+20210524,4121,ch,ticino,0
+20210524,4122,ch,vaud,18
+20210524,4123,ch,valais,5
+20210524,4124,ch,neuchatel,3
+20210524,4125,ch,geneve,4
+20210524,4126,ch,jura_ch,1
 20210524,43,at,austria,224
 20210524,4301,at,wien,62
 20210524,4302,at,niederosterreich,55
@@ -86,6 +240,20 @@ dateId,areaCode,country,areaName,icuCases
 20210523,386021,si,osrednjeslovenska,34
 20210523,386022,si,gorenjska,8
 20210523,386023,si,goriska,3
+20210523,4101,ch,zurich,44
+20210523,4107,ch,nidwalden,1
+20210523,4108,ch,glarus,1
+20210523,4109,ch,zug,2
+20210523,4110,ch,fribourg,3
+20210523,4112,ch,basel_stadt,3
+20210523,4113,ch,basel_landschaft,1
+20210523,4118,ch,graubunden,3
+20210523,4120,ch,thurgau,8
+20210523,4121,ch,ticino,1
+20210523,4122,ch,vaud,18
+20210523,4123,ch,valais,5
+20210523,4124,ch,neuchatel,3
+20210523,4126,ch,jura_ch,1
 20210523,43,at,austria,237
 20210523,4301,at,wien,73
 20210523,4302,at,niederosterreich,52
@@ -240,11 +408,19 @@ dateId,areaCode,country,areaName,icuCases
 20210522,3946,it,calabria,24
 20210522,3951,it,sicilia,104
 20210522,3952,it,sardegna,32
+20210522,4101,ch,zurich,41
 20210522,4107,ch,nidwalden,1
+20210522,4108,ch,glarus,1
+20210522,4109,ch,zug,2
+20210522,4110,ch,fribourg,3
 20210522,4112,ch,basel_stadt,5
 20210522,4113,ch,basel_landschaft,2
 20210522,4118,ch,graubunden,3
+20210522,4120,ch,thurgau,8
 20210522,4121,ch,ticino,1
+20210522,4122,ch,vaud,20
+20210522,4123,ch,valais,6
+20210522,4124,ch,neuchatel,3
 20210522,4126,ch,jura_ch,1
 20210522,43,at,austria,237
 20210522,4301,at,wien,73
@@ -403,6 +579,7 @@ dateId,areaCode,country,areaName,icuCases
 20210521,3952,it,sardegna,35
 20210521,4101,ch,zurich,40
 20210521,4107,ch,nidwalden,1
+20210521,4108,ch,glarus,1
 20210521,4109,ch,zug,2
 20210521,4110,ch,fribourg,4
 20210521,4111,ch,solothurn,3
@@ -410,9 +587,12 @@ dateId,areaCode,country,areaName,icuCases
 20210521,4113,ch,basel_landschaft,2
 20210521,4114,ch,schaffhausen,4
 20210521,4118,ch,graubunden,3
-20210521,4120,ch,thurgau,7
+20210521,4119,ch,aargau,8
+20210521,4120,ch,thurgau,8
 20210521,4121,ch,ticino,2
+20210521,4122,ch,vaud,17
 20210521,4123,ch,valais,6
+20210521,4124,ch,neuchatel,3
 20210521,4125,ch,geneve,5
 20210521,4126,ch,jura_ch,1
 20210521,43,at,austria,234
@@ -572,6 +752,7 @@ dateId,areaCode,country,areaName,icuCases
 20210520,3952,it,sardegna,37
 20210520,4101,ch,zurich,41
 20210520,4107,ch,nidwalden,1
+20210520,4108,ch,glarus,1
 20210520,4109,ch,zug,2
 20210520,4110,ch,fribourg,4
 20210520,4111,ch,solothurn,3
@@ -581,9 +762,9 @@ dateId,areaCode,country,areaName,icuCases
 20210520,4117,ch,st_gallen,8
 20210520,4118,ch,graubunden,3
 20210520,4119,ch,aargau,11
-20210520,4120,ch,thurgau,7
+20210520,4120,ch,thurgau,8
 20210520,4121,ch,ticino,4
-20210520,4122,ch,vaud,18
+20210520,4122,ch,vaud,17
 20210520,4123,ch,valais,6
 20210520,4124,ch,neuchatel,2
 20210520,4125,ch,geneve,5
@@ -746,6 +927,7 @@ dateId,areaCode,country,areaName,icuCases
 20210519,4101,ch,zurich,42
 20210519,4102,ch,bern,30
 20210519,4107,ch,nidwalden,1
+20210519,4108,ch,glarus,0
 20210519,4109,ch,zug,3
 20210519,4110,ch,fribourg,4
 20210519,4111,ch,solothurn,6
@@ -754,10 +936,10 @@ dateId,areaCode,country,areaName,icuCases
 20210519,4114,ch,schaffhausen,4
 20210519,4117,ch,st_gallen,8
 20210519,4118,ch,graubunden,4
-20210519,4119,ch,aargau,10
+20210519,4119,ch,aargau,11
 20210519,4120,ch,thurgau,7
 20210519,4121,ch,ticino,4
-20210519,4122,ch,vaud,17
+20210519,4122,ch,vaud,16
 20210519,4123,ch,valais,6
 20210519,4124,ch,neuchatel,2
 20210519,4125,ch,geneve,5
@@ -919,7 +1101,9 @@ dateId,areaCode,country,areaName,icuCases
 20210518,3951,it,sicilia,108
 20210518,3952,it,sardegna,40
 20210518,4101,ch,zurich,46
+20210518,4102,ch,bern,30
 20210518,4107,ch,nidwalden,1
+20210518,4108,ch,glarus,0
 20210518,4109,ch,zug,3
 20210518,4110,ch,fribourg,4
 20210518,4111,ch,solothurn,6
@@ -929,9 +1113,9 @@ dateId,areaCode,country,areaName,icuCases
 20210518,4117,ch,st_gallen,9
 20210518,4118,ch,graubunden,4
 20210518,4119,ch,aargau,13
-20210518,4120,ch,thurgau,7
+20210518,4120,ch,thurgau,6
 20210518,4121,ch,ticino,5
-20210518,4122,ch,vaud,19
+20210518,4122,ch,vaud,18
 20210518,4123,ch,valais,6
 20210518,4124,ch,neuchatel,2
 20210518,4125,ch,geneve,6
@@ -1094,6 +1278,7 @@ dateId,areaCode,country,areaName,icuCases
 20210517,3952,it,sardegna,39
 20210517,4101,ch,zurich,51
 20210517,4107,ch,nidwalden,1
+20210517,4108,ch,glarus,1
 20210517,4109,ch,zug,3
 20210517,4110,ch,fribourg,4
 20210517,4111,ch,solothurn,6
@@ -1103,9 +1288,9 @@ dateId,areaCode,country,areaName,icuCases
 20210517,4117,ch,st_gallen,8
 20210517,4118,ch,graubunden,4
 20210517,4119,ch,aargau,12
-20210517,4120,ch,thurgau,6
+20210517,4120,ch,thurgau,5
 20210517,4121,ch,ticino,6
-20210517,4122,ch,vaud,19
+20210517,4122,ch,vaud,18
 20210517,4123,ch,valais,6
 20210517,4124,ch,neuchatel,1
 20210517,4125,ch,geneve,5
@@ -1276,9 +1461,9 @@ dateId,areaCode,country,areaName,icuCases
 20210516,4113,ch,basel_landschaft,3
 20210516,4117,ch,st_gallen,9
 20210516,4118,ch,graubunden,4
-20210516,4120,ch,thurgau,5
+20210516,4120,ch,thurgau,4
 20210516,4121,ch,ticino,8
-20210516,4122,ch,vaud,20
+20210516,4122,ch,vaud,19
 20210516,4123,ch,valais,6
 20210516,4124,ch,neuchatel,1
 20210516,4125,ch,geneve,7
@@ -1451,7 +1636,7 @@ dateId,areaCode,country,areaName,icuCases
 20210515,4118,ch,graubunden,4
 20210515,4120,ch,thurgau,6
 20210515,4121,ch,ticino,8
-20210515,4122,ch,vaud,20
+20210515,4122,ch,vaud,19
 20210515,4123,ch,valais,6
 20210515,4124,ch,neuchatel,1
 20210515,4125,ch,geneve,7
@@ -1627,7 +1812,7 @@ dateId,areaCode,country,areaName,icuCases
 20210514,4119,ch,aargau,14
 20210514,4120,ch,thurgau,6
 20210514,4121,ch,ticino,8
-20210514,4122,ch,vaud,21
+20210514,4122,ch,vaud,20
 20210514,4123,ch,valais,7
 20210514,4124,ch,neuchatel,1
 20210514,4125,ch,geneve,6
@@ -1801,7 +1986,7 @@ dateId,areaCode,country,areaName,icuCases
 20210513,4118,ch,graubunden,4
 20210513,4120,ch,thurgau,6
 20210513,4121,ch,ticino,9
-20210513,4122,ch,vaud,18
+20210513,4122,ch,vaud,17
 20210513,4123,ch,valais,7
 20210513,4124,ch,neuchatel,2
 20210513,4125,ch,geneve,6
@@ -1978,7 +2163,7 @@ dateId,areaCode,country,areaName,icuCases
 20210512,4119,ch,aargau,16
 20210512,4120,ch,thurgau,6
 20210512,4121,ch,ticino,8
-20210512,4122,ch,vaud,17
+20210512,4122,ch,vaud,16
 20210512,4123,ch,valais,7
 20210512,4124,ch,neuchatel,1
 20210512,4125,ch,geneve,7
@@ -2142,6 +2327,7 @@ dateId,areaCode,country,areaName,icuCases
 20210511,3951,it,sicilia,133
 20210511,3952,it,sardegna,40
 20210511,4101,ch,zurich,51
+20210511,4102,ch,bern,28
 20210511,4107,ch,nidwalden,1
 20210511,4108,ch,glarus,1
 20210511,4109,ch,zug,2
@@ -2155,7 +2341,7 @@ dateId,areaCode,country,areaName,icuCases
 20210511,4119,ch,aargau,16
 20210511,4120,ch,thurgau,6
 20210511,4121,ch,ticino,9
-20210511,4122,ch,vaud,18
+20210511,4122,ch,vaud,17
 20210511,4123,ch,valais,7
 20210511,4124,ch,neuchatel,2
 20210511,4125,ch,geneve,8
@@ -2332,7 +2518,7 @@ dateId,areaCode,country,areaName,icuCases
 20210510,4119,ch,aargau,17
 20210510,4120,ch,thurgau,6
 20210510,4121,ch,ticino,11
-20210510,4122,ch,vaud,19
+20210510,4122,ch,vaud,18
 20210510,4123,ch,valais,8
 20210510,4124,ch,neuchatel,2
 20210510,4125,ch,geneve,11
@@ -2506,7 +2692,7 @@ dateId,areaCode,country,areaName,icuCases
 20210509,4118,ch,graubunden,4
 20210509,4120,ch,thurgau,7
 20210509,4121,ch,ticino,11
-20210509,4122,ch,vaud,21
+20210509,4122,ch,vaud,20
 20210509,4123,ch,valais,8
 20210509,4124,ch,neuchatel,2
 20210509,4125,ch,geneve,10
@@ -2679,7 +2865,7 @@ dateId,areaCode,country,areaName,icuCases
 20210508,4118,ch,graubunden,5
 20210508,4120,ch,thurgau,7
 20210508,4121,ch,ticino,11
-20210508,4122,ch,vaud,20
+20210508,4122,ch,vaud,19
 20210508,4123,ch,valais,8
 20210508,4124,ch,neuchatel,2
 20210508,4125,ch,geneve,10
@@ -2855,7 +3041,7 @@ dateId,areaCode,country,areaName,icuCases
 20210507,4119,ch,aargau,16
 20210507,4120,ch,thurgau,9
 20210507,4121,ch,ticino,11
-20210507,4122,ch,vaud,19
+20210507,4122,ch,vaud,18
 20210507,4123,ch,valais,8
 20210507,4124,ch,neuchatel,2
 20210507,4125,ch,geneve,10
@@ -3032,7 +3218,7 @@ dateId,areaCode,country,areaName,icuCases
 20210506,4119,ch,aargau,14
 20210506,4120,ch,thurgau,9
 20210506,4121,ch,ticino,12
-20210506,4122,ch,vaud,24
+20210506,4122,ch,vaud,23
 20210506,4123,ch,valais,8
 20210506,4124,ch,neuchatel,2
 20210506,4125,ch,geneve,9
@@ -3210,7 +3396,7 @@ dateId,areaCode,country,areaName,icuCases
 20210505,4119,ch,aargau,13
 20210505,4120,ch,thurgau,12
 20210505,4121,ch,ticino,11
-20210505,4122,ch,vaud,24
+20210505,4122,ch,vaud,23
 20210505,4123,ch,valais,8
 20210505,4124,ch,neuchatel,3
 20210505,4125,ch,geneve,8
@@ -3374,6 +3560,7 @@ dateId,areaCode,country,areaName,icuCases
 20210504,3951,it,sicilia,160
 20210504,3952,it,sardegna,47
 20210504,4101,ch,zurich,57
+20210504,4102,ch,bern,34
 20210504,4107,ch,nidwalden,1
 20210504,4108,ch,glarus,0
 20210504,4109,ch,zug,2
@@ -3387,7 +3574,7 @@ dateId,areaCode,country,areaName,icuCases
 20210504,4119,ch,aargau,14
 20210504,4120,ch,thurgau,13
 20210504,4121,ch,ticino,13
-20210504,4122,ch,vaud,22
+20210504,4122,ch,vaud,21
 20210504,4123,ch,valais,8
 20210504,4124,ch,neuchatel,3
 20210504,4125,ch,geneve,7
@@ -3564,7 +3751,7 @@ dateId,areaCode,country,areaName,icuCases
 20210503,4119,ch,aargau,13
 20210503,4120,ch,thurgau,13
 20210503,4121,ch,ticino,13
-20210503,4122,ch,vaud,20
+20210503,4122,ch,vaud,19
 20210503,4123,ch,valais,7
 20210503,4124,ch,neuchatel,4
 20210503,4125,ch,geneve,7
@@ -3738,7 +3925,7 @@ dateId,areaCode,country,areaName,icuCases
 20210502,4118,ch,graubunden,5
 20210502,4120,ch,thurgau,13
 20210502,4121,ch,ticino,14
-20210502,4122,ch,vaud,22
+20210502,4122,ch,vaud,21
 20210502,4123,ch,valais,7
 20210502,4124,ch,neuchatel,3
 20210502,4125,ch,geneve,7
@@ -3911,7 +4098,7 @@ dateId,areaCode,country,areaName,icuCases
 20210501,4118,ch,graubunden,5
 20210501,4120,ch,thurgau,14
 20210501,4121,ch,ticino,14
-20210501,4122,ch,vaud,23
+20210501,4122,ch,vaud,22
 20210501,4123,ch,valais,7
 20210501,4124,ch,neuchatel,3
 20210501,4125,ch,geneve,5
@@ -4087,7 +4274,7 @@ dateId,areaCode,country,areaName,icuCases
 20210430,4119,ch,aargau,18
 20210430,4120,ch,thurgau,14
 20210430,4121,ch,ticino,14
-20210430,4122,ch,vaud,24
+20210430,4122,ch,vaud,23
 20210430,4123,ch,valais,7
 20210430,4124,ch,neuchatel,3
 20210430,4125,ch,geneve,7
@@ -4264,7 +4451,7 @@ dateId,areaCode,country,areaName,icuCases
 20210429,4119,ch,aargau,19
 20210429,4120,ch,thurgau,13
 20210429,4121,ch,ticino,16
-20210429,4122,ch,vaud,27
+20210429,4122,ch,vaud,26
 20210429,4123,ch,valais,7
 20210429,4124,ch,neuchatel,2
 20210429,4125,ch,geneve,7
@@ -4442,7 +4629,7 @@ dateId,areaCode,country,areaName,icuCases
 20210428,4119,ch,aargau,19
 20210428,4120,ch,thurgau,12
 20210428,4121,ch,ticino,15
-20210428,4122,ch,vaud,24
+20210428,4122,ch,vaud,23
 20210428,4123,ch,valais,7
 20210428,4124,ch,neuchatel,1
 20210428,4125,ch,geneve,8
@@ -4606,6 +4793,7 @@ dateId,areaCode,country,areaName,icuCases
 20210427,3951,it,sicilia,168
 20210427,3952,it,sardegna,46
 20210427,4101,ch,zurich,62
+20210427,4102,ch,bern,30
 20210427,4107,ch,nidwalden,2
 20210427,4108,ch,glarus,0
 20210427,4109,ch,zug,2
@@ -4619,7 +4807,7 @@ dateId,areaCode,country,areaName,icuCases
 20210427,4119,ch,aargau,18
 20210427,4120,ch,thurgau,13
 20210427,4121,ch,ticino,14
-20210427,4122,ch,vaud,23
+20210427,4122,ch,vaud,22
 20210427,4123,ch,valais,7
 20210427,4124,ch,neuchatel,4
 20210427,4125,ch,geneve,9
@@ -4795,7 +4983,7 @@ dateId,areaCode,country,areaName,icuCases
 20210426,4119,ch,aargau,15
 20210426,4120,ch,thurgau,13
 20210426,4121,ch,ticino,16
-20210426,4122,ch,vaud,23
+20210426,4122,ch,vaud,22
 20210426,4123,ch,valais,5
 20210426,4124,ch,neuchatel,4
 20210426,4125,ch,geneve,10
@@ -5837,6 +6025,7 @@ dateId,areaCode,country,areaName,icuCases
 20210420,3951,it,sicilia,180
 20210420,3952,it,sardegna,58
 20210420,4101,ch,zurich,57
+20210420,4102,ch,bern,35
 20210420,4107,ch,nidwalden,2
 20210420,4108,ch,glarus,1
 20210420,4109,ch,zug,2
@@ -7068,6 +7257,7 @@ dateId,areaCode,country,areaName,icuCases
 20210413,3951,it,sicilia,176
 20210413,3952,it,sardegna,56
 20210413,4101,ch,zurich,53
+20210413,4102,ch,bern,22
 20210413,4107,ch,nidwalden,2
 20210413,4108,ch,glarus,1
 20210413,4109,ch,zug,2
@@ -8293,6 +8483,7 @@ dateId,areaCode,country,areaName,icuCases
 20210406,3951,it,sicilia,160
 20210406,3952,it,sardegna,47
 20210406,4101,ch,zurich,38
+20210406,4102,ch,bern,19
 20210406,4107,ch,nidwalden,2
 20210406,4108,ch,glarus,0
 20210406,4109,ch,zug,1
@@ -9511,6 +9702,7 @@ dateId,areaCode,country,areaName,icuCases
 20210330,3951,it,sicilia,133
 20210330,3952,it,sardegna,33
 20210330,4101,ch,zurich,35
+20210330,4102,ch,bern,28
 20210330,4107,ch,nidwalden,1
 20210330,4108,ch,glarus,0
 20210330,4109,ch,zug,1
@@ -10730,6 +10922,7 @@ dateId,areaCode,country,areaName,icuCases
 20210323,3951,it,sicilia,121
 20210323,3952,it,sardegna,24
 20210323,4101,ch,zurich,28
+20210323,4102,ch,bern,21
 20210323,4107,ch,nidwalden,1
 20210323,4108,ch,glarus,0
 20210323,4109,ch,zug,0
@@ -11948,6 +12141,7 @@ dateId,areaCode,country,areaName,icuCases
 20210316,3951,it,sicilia,113
 20210316,3952,it,sardegna,29
 20210316,4101,ch,zurich,22
+20210316,4102,ch,bern,23
 20210316,4107,ch,nidwalden,1
 20210316,4108,ch,glarus,0
 20210316,4109,ch,zug,2
@@ -13168,6 +13362,7 @@ dateId,areaCode,country,areaName,icuCases
 20210309,3951,it,sicilia,112
 20210309,3952,it,sardegna,24
 20210309,4101,ch,zurich,27
+20210309,4102,ch,bern,22
 20210309,4107,ch,nidwalden,1
 20210309,4108,ch,glarus,0
 20210309,4109,ch,zug,1
@@ -13522,6 +13717,7 @@ dateId,areaCode,country,areaName,icuCases
 20210307,3951,it,sicilia,123
 20210307,3952,it,sardegna,24
 20210307,4101,ch,zurich,24
+20210307,4102,ch,bern,22
 20210307,4107,ch,nidwalden,1
 20210307,4108,ch,glarus,0
 20210307,4109,ch,zug,1
@@ -14046,6 +14242,7 @@ dateId,areaCode,country,areaName,icuCases
 20210304,3951,it,sicilia,118
 20210304,3952,it,sardegna,23
 20210304,4101,ch,zurich,27
+20210304,4102,ch,bern,17
 20210304,4107,ch,nidwalden,1
 20210304,4108,ch,glarus,1
 20210304,4109,ch,zug,1
@@ -14401,6 +14598,7 @@ dateId,areaCode,country,areaName,icuCases
 20210302,3951,it,sicilia,123
 20210302,3952,it,sardegna,20
 20210302,4101,ch,zurich,28
+20210302,4102,ch,bern,15
 20210302,4107,ch,nidwalden,0
 20210302,4108,ch,glarus,1
 20210302,4109,ch,zug,1
@@ -14756,6 +14954,7 @@ dateId,areaCode,country,areaName,icuCases
 20210228,3951,it,sicilia,133
 20210228,3952,it,sardegna,19
 20210228,4101,ch,zurich,25
+20210228,4102,ch,bern,17
 20210228,4107,ch,nidwalden,2
 20210228,4108,ch,glarus,1
 20210228,4109,ch,zug,2
@@ -15280,6 +15479,7 @@ dateId,areaCode,country,areaName,icuCases
 20210225,3951,it,sicilia,131
 20210225,3952,it,sardegna,22
 20210225,4101,ch,zurich,31
+20210225,4102,ch,bern,23
 20210225,4107,ch,nidwalden,1
 20210225,4108,ch,glarus,2
 20210225,4109,ch,zug,2
@@ -15635,7 +15835,7 @@ dateId,areaCode,country,areaName,icuCases
 20210223,3951,it,sicilia,135
 20210223,3952,it,sardegna,24
 20210223,4101,ch,zurich,29
-20210223,4102,ch,bern,14
+20210223,4102,ch,bern,17
 20210223,4107,ch,nidwalden,2
 20210223,4108,ch,glarus,2
 20210223,4109,ch,zug,4
@@ -15991,6 +16191,7 @@ dateId,areaCode,country,areaName,icuCases
 20210221,3951,it,sicilia,143
 20210221,3952,it,sardegna,26
 20210221,4101,ch,zurich,35
+20210221,4102,ch,bern,14
 20210221,4107,ch,nidwalden,2
 20210221,4108,ch,glarus,1
 20210221,4109,ch,zug,2
@@ -16515,7 +16716,7 @@ dateId,areaCode,country,areaName,icuCases
 20210218,3951,it,sicilia,145
 20210218,3952,it,sardegna,25
 20210218,4101,ch,zurich,40
-20210218,4102,ch,bern,22
+20210218,4102,ch,bern,19
 20210218,4107,ch,nidwalden,2
 20210218,4108,ch,glarus,1
 20210218,4109,ch,zug,2
@@ -16693,7 +16894,7 @@ dateId,areaCode,country,areaName,icuCases
 20210217,3951,it,sicilia,154
 20210217,3952,it,sardegna,29
 20210217,4101,ch,zurich,37
-20210217,4102,ch,bern,23
+20210217,4102,ch,bern,22
 20210217,4107,ch,nidwalden,2
 20210217,4108,ch,glarus,1
 20210217,4109,ch,zug,2
@@ -16871,7 +17072,7 @@ dateId,areaCode,country,areaName,icuCases
 20210216,3951,it,sicilia,158
 20210216,3952,it,sardegna,24
 20210216,4101,ch,zurich,40
-20210216,4102,ch,bern,19
+20210216,4102,ch,bern,23
 20210216,4107,ch,nidwalden,2
 20210216,4108,ch,glarus,1
 20210216,4109,ch,zug,2
@@ -17049,7 +17250,7 @@ dateId,areaCode,country,areaName,icuCases
 20210215,3951,it,sicilia,165
 20210215,3952,it,sardegna,25
 20210215,4101,ch,zurich,41
-20210215,4102,ch,bern,21
+20210215,4102,ch,bern,19
 20210215,4107,ch,nidwalden,2
 20210215,4108,ch,glarus,1
 20210215,4109,ch,zug,2
@@ -17227,6 +17428,7 @@ dateId,areaCode,country,areaName,icuCases
 20210214,3951,it,sicilia,165
 20210214,3952,it,sardegna,27
 20210214,4101,ch,zurich,38
+20210214,4102,ch,bern,21
 20210214,4107,ch,nidwalden,2
 20210214,4108,ch,glarus,1
 20210214,4109,ch,zug,2
@@ -17751,7 +17953,7 @@ dateId,areaCode,country,areaName,icuCases
 20210211,3951,it,sicilia,165
 20210211,3952,it,sardegna,33
 20210211,4101,ch,zurich,47
-20210211,4102,ch,bern,20
+20210211,4102,ch,bern,24
 20210211,4107,ch,nidwalden,2
 20210211,4108,ch,glarus,1
 20210211,4109,ch,zug,2
@@ -17929,7 +18131,7 @@ dateId,areaCode,country,areaName,icuCases
 20210210,3951,it,sicilia,170
 20210210,3952,it,sardegna,32
 20210210,4101,ch,zurich,49
-20210210,4102,ch,bern,25
+20210210,4102,ch,bern,20
 20210210,4107,ch,nidwalden,2
 20210210,4108,ch,glarus,1
 20210210,4109,ch,zug,2
@@ -18107,7 +18309,7 @@ dateId,areaCode,country,areaName,icuCases
 20210209,3951,it,sicilia,176
 20210209,3952,it,sardegna,37
 20210209,4101,ch,zurich,45
-20210209,4102,ch,bern,21
+20210209,4102,ch,bern,25
 20210209,4107,ch,nidwalden,2
 20210209,4108,ch,glarus,1
 20210209,4109,ch,zug,2
@@ -18285,7 +18487,7 @@ dateId,areaCode,country,areaName,icuCases
 20210208,3951,it,sicilia,181
 20210208,3952,it,sardegna,35
 20210208,4101,ch,zurich,50
-20210208,4102,ch,bern,17
+20210208,4102,ch,bern,21
 20210208,4107,ch,nidwalden,1
 20210208,4108,ch,glarus,1
 20210208,4109,ch,zug,2
@@ -18463,6 +18665,7 @@ dateId,areaCode,country,areaName,icuCases
 20210207,3951,it,sicilia,178
 20210207,3952,it,sardegna,34
 20210207,4101,ch,zurich,52
+20210207,4102,ch,bern,17
 20210207,4107,ch,nidwalden,1
 20210207,4108,ch,glarus,1
 20210207,4109,ch,zug,2
@@ -18987,7 +19190,7 @@ dateId,areaCode,country,areaName,icuCases
 20210204,3951,it,sicilia,187
 20210204,3952,it,sardegna,28
 20210204,4101,ch,zurich,50
-20210204,4102,ch,bern,19
+20210204,4102,ch,bern,20
 20210204,4107,ch,nidwalden,2
 20210204,4108,ch,glarus,1
 20210204,4109,ch,zug,3
@@ -19165,7 +19368,7 @@ dateId,areaCode,country,areaName,icuCases
 20210203,3951,it,sicilia,193
 20210203,3952,it,sardegna,29
 20210203,4101,ch,zurich,52
-20210203,4102,ch,bern,20
+20210203,4102,ch,bern,19
 20210203,4107,ch,nidwalden,3
 20210203,4108,ch,glarus,1
 20210203,4109,ch,zug,3
@@ -19343,7 +19546,7 @@ dateId,areaCode,country,areaName,icuCases
 20210202,3951,it,sicilia,202
 20210202,3952,it,sardegna,34
 20210202,4101,ch,zurich,54
-20210202,4102,ch,bern,25
+20210202,4102,ch,bern,20
 20210202,4107,ch,nidwalden,3
 20210202,4108,ch,glarus,1
 20210202,4109,ch,zug,2
@@ -19521,7 +19724,7 @@ dateId,areaCode,country,areaName,icuCases
 20210201,3951,it,sicilia,204
 20210201,3952,it,sardegna,39
 20210201,4101,ch,zurich,51
-20210201,4102,ch,bern,28
+20210201,4102,ch,bern,25
 20210201,4107,ch,nidwalden,3
 20210201,4108,ch,glarus,2
 20210201,4109,ch,zug,2
@@ -19699,6 +19902,7 @@ dateId,areaCode,country,areaName,icuCases
 20210131,3951,it,sicilia,204
 20210131,3952,it,sardegna,39
 20210131,4101,ch,zurich,58
+20210131,4102,ch,bern,28
 20210131,4107,ch,nidwalden,4
 20210131,4108,ch,glarus,1
 20210131,4109,ch,zug,2
@@ -20223,7 +20427,7 @@ dateId,areaCode,country,areaName,icuCases
 20210128,3951,it,sicilia,215
 20210128,3952,it,sardegna,43
 20210128,4101,ch,zurich,67
-20210128,4102,ch,bern,26
+20210128,4102,ch,bern,24
 20210128,4107,ch,nidwalden,2
 20210128,4108,ch,glarus,1
 20210128,4109,ch,zug,2
@@ -20401,7 +20605,7 @@ dateId,areaCode,country,areaName,icuCases
 20210127,3951,it,sicilia,232
 20210127,3952,it,sardegna,43
 20210127,4101,ch,zurich,61
-20210127,4102,ch,bern,29
+20210127,4102,ch,bern,26
 20210127,4107,ch,nidwalden,2
 20210127,4108,ch,glarus,2
 20210127,4109,ch,zug,2
@@ -20757,7 +20961,7 @@ dateId,areaCode,country,areaName,icuCases
 20210125,3951,it,sicilia,227
 20210125,3952,it,sardegna,48
 20210125,4101,ch,zurich,67
-20210125,4102,ch,bern,34
+20210125,4102,ch,bern,29
 20210125,4107,ch,nidwalden,3
 20210125,4108,ch,glarus,1
 20210125,4109,ch,zug,2
@@ -20935,6 +21139,7 @@ dateId,areaCode,country,areaName,icuCases
 20210124,3951,it,sicilia,227
 20210124,3952,it,sardegna,45
 20210124,4101,ch,zurich,68
+20210124,4102,ch,bern,34
 20210124,4107,ch,nidwalden,3
 20210124,4108,ch,glarus,1
 20210124,4109,ch,zug,2
@@ -21639,7 +21844,7 @@ dateId,areaCode,country,areaName,icuCases
 20210120,3951,it,sicilia,215
 20210120,3952,it,sardegna,53
 20210120,4101,ch,zurich,70
-20210120,4102,ch,bern,34
+20210120,4102,ch,bern,38
 20210120,4107,ch,nidwalden,3
 20210120,4108,ch,glarus,1
 20210120,4109,ch,zug,3
@@ -21818,7 +22023,7 @@ dateId,areaCode,country,areaName,icuCases
 20210119,3951,it,sicilia,211
 20210119,3952,it,sardegna,53
 20210119,4101,ch,zurich,72
-20210119,4102,ch,bern,40
+20210119,4102,ch,bern,34
 20210119,4107,ch,nidwalden,3
 20210119,4108,ch,glarus,2
 20210119,4109,ch,zug,3
@@ -21997,7 +22202,7 @@ dateId,areaCode,country,areaName,icuCases
 20210118,3951,it,sicilia,205
 20210118,3952,it,sardegna,51
 20210118,4101,ch,zurich,71
-20210118,4102,ch,bern,42
+20210118,4102,ch,bern,40
 20210118,4107,ch,nidwalden,2
 20210118,4108,ch,glarus,1
 20210118,4109,ch,zug,3
@@ -22176,6 +22381,7 @@ dateId,areaCode,country,areaName,icuCases
 20210117,3951,it,sicilia,208
 20210117,3952,it,sardegna,48
 20210117,4101,ch,zurich,71
+20210117,4102,ch,bern,42
 20210117,4107,ch,nidwalden,2
 20210117,4108,ch,glarus,3
 20210117,4109,ch,zug,3
@@ -22701,7 +22907,7 @@ dateId,areaCode,country,areaName,icuCases
 20210114,3951,it,sicilia,205
 20210114,3952,it,sardegna,50
 20210114,4101,ch,zurich,75
-20210114,4102,ch,bern,44
+20210114,4102,ch,bern,39
 20210114,4107,ch,nidwalden,3
 20210114,4108,ch,glarus,3
 20210114,4109,ch,zug,5
@@ -22880,7 +23086,7 @@ dateId,areaCode,country,areaName,icuCases
 20210113,3951,it,sicilia,208
 20210113,3952,it,sardegna,47
 20210113,4101,ch,zurich,76
-20210113,4102,ch,bern,41
+20210113,4102,ch,bern,44
 20210113,4107,ch,nidwalden,2
 20210113,4108,ch,glarus,4
 20210113,4109,ch,zug,5
@@ -23059,7 +23265,7 @@ dateId,areaCode,country,areaName,icuCases
 20210112,3951,it,sicilia,209
 20210112,3952,it,sardegna,45
 20210112,4101,ch,zurich,79
-20210112,4102,ch,bern,42
+20210112,4102,ch,bern,41
 20210112,4107,ch,nidwalden,2
 20210112,4108,ch,glarus,3
 20210112,4109,ch,zug,5
@@ -23238,7 +23444,7 @@ dateId,areaCode,country,areaName,icuCases
 20210111,3951,it,sicilia,208
 20210111,3952,it,sardegna,48
 20210111,4101,ch,zurich,87
-20210111,4102,ch,bern,43
+20210111,4102,ch,bern,42
 20210111,4107,ch,nidwalden,3
 20210111,4108,ch,glarus,3
 20210111,4109,ch,zug,5
@@ -23417,6 +23623,7 @@ dateId,areaCode,country,areaName,icuCases
 20210110,3951,it,sicilia,208
 20210110,3952,it,sardegna,47
 20210110,4101,ch,zurich,87
+20210110,4102,ch,bern,43
 20210110,4107,ch,nidwalden,3
 20210110,4108,ch,glarus,3
 20210110,4109,ch,zug,5
@@ -23942,7 +24149,7 @@ dateId,areaCode,country,areaName,icuCases
 20210107,3951,it,sicilia,196
 20210107,3952,it,sardegna,48
 20210107,4101,ch,zurich,89
-20210107,4102,ch,bern,53
+20210107,4102,ch,bern,47
 20210107,4107,ch,nidwalden,1
 20210107,4108,ch,glarus,2
 20210107,4109,ch,zug,4
@@ -24300,7 +24507,7 @@ dateId,areaCode,country,areaName,icuCases
 20210105,3951,it,sicilia,190
 20210105,3952,it,sardegna,45
 20210105,4101,ch,zurich,104
-20210105,4102,ch,bern,51
+20210105,4102,ch,bern,53
 20210105,4107,ch,nidwalden,2
 20210105,4108,ch,glarus,4
 20210105,4109,ch,zug,4
@@ -24658,6 +24865,7 @@ dateId,areaCode,country,areaName,icuCases
 20210103,3951,it,sicilia,184
 20210103,3952,it,sardegna,43
 20210103,4101,ch,zurich,98
+20210103,4102,ch,bern,47
 20210103,4107,ch,nidwalden,3
 20210103,4108,ch,glarus,3
 20210103,4109,ch,zug,4
@@ -24832,6 +25040,7 @@ dateId,areaCode,country,areaName,icuCases
 20210102,3951,it,sicilia,186
 20210102,3952,it,sardegna,41
 20210102,4101,ch,zurich,101
+20210102,4102,ch,bern,45
 20210102,4107,ch,nidwalden,3
 20210102,4108,ch,glarus,3
 20210102,4109,ch,zug,4
@@ -25005,6 +25214,7 @@ dateId,areaCode,country,areaName,icuCases
 20210101,3951,it,sicilia,176
 20210101,3952,it,sardegna,42
 20210101,4101,ch,zurich,96
+20210101,4102,ch,bern,49
 20210101,4107,ch,nidwalden,2
 20210101,4108,ch,glarus,3
 20210101,4109,ch,zug,4
@@ -25180,7 +25390,7 @@ dateId,areaCode,country,areaName,icuCases
 20201231,3951,it,sicilia,171
 20201231,3952,it,sardegna,46
 20201231,4101,ch,zurich,96
-20201231,4102,ch,bern,43
+20201231,4102,ch,bern,48
 20201231,4107,ch,nidwalden,2
 20201231,4108,ch,glarus,3
 20201231,4109,ch,zug,4
@@ -25358,7 +25568,7 @@ dateId,areaCode,country,areaName,icuCases
 20201230,3951,it,sicilia,166
 20201230,3952,it,sardegna,44
 20201230,4101,ch,zurich,97
-20201230,4102,ch,bern,50
+20201230,4102,ch,bern,40
 20201230,4107,ch,nidwalden,2
 20201230,4108,ch,glarus,3
 20201230,4109,ch,zug,3
@@ -25536,7 +25746,7 @@ dateId,areaCode,country,areaName,icuCases
 20201229,3951,it,sicilia,169
 20201229,3952,it,sardegna,45
 20201229,4101,ch,zurich,105
-20201229,4102,ch,bern,53
+20201229,4102,ch,bern,47
 20201229,4107,ch,nidwalden,2
 20201229,4108,ch,glarus,3
 20201229,4109,ch,zug,4
@@ -25714,7 +25924,7 @@ dateId,areaCode,country,areaName,icuCases
 20201228,3951,it,sicilia,175
 20201228,3952,it,sardegna,44
 20201228,4101,ch,zurich,100
-20201228,4102,ch,bern,47
+20201228,4102,ch,bern,53
 20201228,4107,ch,nidwalden,3
 20201228,4108,ch,glarus,4
 20201228,4109,ch,zug,3
@@ -25893,6 +26103,7 @@ dateId,areaCode,country,areaName,icuCases
 20201227,3951,it,sicilia,174
 20201227,3952,it,sardegna,43
 20201227,4101,ch,zurich,103
+20201227,4102,ch,bern,47
 20201227,4107,ch,nidwalden,3
 20201227,4108,ch,glarus,3
 20201227,4109,ch,zug,4
@@ -26067,6 +26278,7 @@ dateId,areaCode,country,areaName,icuCases
 20201226,3951,it,sicilia,170
 20201226,3952,it,sardegna,43
 20201226,4101,ch,zurich,106
+20201226,4102,ch,bern,46
 20201226,4107,ch,nidwalden,1
 20201226,4108,ch,glarus,3
 20201226,4109,ch,zug,4
@@ -26240,6 +26452,7 @@ dateId,areaCode,country,areaName,icuCases
 20201225,3951,it,sicilia,174
 20201225,3952,it,sardegna,43
 20201225,4101,ch,zurich,98
+20201225,4102,ch,bern,42
 20201225,4107,ch,nidwalden,1
 20201225,4108,ch,glarus,2
 20201225,4109,ch,zug,4
@@ -26415,7 +26628,7 @@ dateId,areaCode,country,areaName,icuCases
 20201224,3951,it,sicilia,173
 20201224,3952,it,sardegna,41
 20201224,4101,ch,zurich,98
-20201224,4102,ch,bern,46
+20201224,4102,ch,bern,44
 20201224,4107,ch,nidwalden,1
 20201224,4108,ch,glarus,1
 20201224,4109,ch,zug,4
@@ -26593,7 +26806,7 @@ dateId,areaCode,country,areaName,icuCases
 20201223,3951,it,sicilia,176
 20201223,3952,it,sardegna,44
 20201223,4101,ch,zurich,104
-20201223,4102,ch,bern,53
+20201223,4102,ch,bern,46
 20201223,4107,ch,nidwalden,1
 20201223,4108,ch,glarus,2
 20201223,4109,ch,zug,4
@@ -26951,7 +27164,7 @@ dateId,areaCode,country,areaName,icuCases
 20201221,3951,it,sicilia,181
 20201221,3952,it,sardegna,48
 20201221,4101,ch,zurich,98
-20201221,4102,ch,bern,59
+20201221,4102,ch,bern,53
 20201221,4107,ch,nidwalden,3
 20201221,4108,ch,glarus,1
 20201221,4109,ch,zug,3
@@ -27130,6 +27343,7 @@ dateId,areaCode,country,areaName,icuCases
 20201220,3951,it,sicilia,178
 20201220,3952,it,sardegna,50
 20201220,4101,ch,zurich,96
+20201220,4102,ch,bern,59
 20201220,4107,ch,nidwalden,4
 20201220,4108,ch,glarus,1
 20201220,4109,ch,zug,4
@@ -27655,7 +27869,7 @@ dateId,areaCode,country,areaName,icuCases
 20201217,3951,it,sicilia,179
 20201217,3952,it,sardegna,56
 20201217,4101,ch,zurich,103
-20201217,4102,ch,bern,56
+20201217,4102,ch,bern,53
 20201217,4107,ch,nidwalden,3
 20201217,4108,ch,glarus,1
 20201217,4109,ch,zug,4
@@ -27834,7 +28048,7 @@ dateId,areaCode,country,areaName,icuCases
 20201216,3951,it,sicilia,183
 20201216,3952,it,sardegna,57
 20201216,4101,ch,zurich,107
-20201216,4102,ch,bern,58
+20201216,4102,ch,bern,55
 20201216,4107,ch,nidwalden,2
 20201216,4108,ch,glarus,1
 20201216,4109,ch,zug,4
@@ -28192,7 +28406,7 @@ dateId,areaCode,country,areaName,icuCases
 20201214,3951,it,sicilia,189
 20201214,3952,it,sardegna,57
 20201214,4101,ch,zurich,97
-20201214,4102,ch,bern,57
+20201214,4102,ch,bern,55
 20201214,4107,ch,nidwalden,2
 20201214,4108,ch,glarus,0
 20201214,4109,ch,zug,4
@@ -28371,6 +28585,7 @@ dateId,areaCode,country,areaName,icuCases
 20201213,3951,it,sicilia,198
 20201213,3952,it,sardegna,59
 20201213,4101,ch,zurich,99
+20201213,4102,ch,bern,55
 20201213,4107,ch,nidwalden,1
 20201213,4108,ch,glarus,1
 20201213,4109,ch,zug,4
@@ -28896,7 +29111,7 @@ dateId,areaCode,country,areaName,icuCases
 20201210,3951,it,sicilia,197
 20201210,3952,it,sardegna,63
 20201210,4101,ch,zurich,90
-20201210,4102,ch,bern,56
+20201210,4102,ch,bern,54
 20201210,4107,ch,nidwalden,1
 20201210,4108,ch,glarus,1
 20201210,4109,ch,zug,4
@@ -29075,7 +29290,7 @@ dateId,areaCode,country,areaName,icuCases
 20201209,3951,it,sicilia,198
 20201209,3952,it,sardegna,61
 20201209,4101,ch,zurich,84
-20201209,4102,ch,bern,59
+20201209,4102,ch,bern,56
 20201209,4107,ch,nidwalden,1
 20201209,4108,ch,glarus,1
 20201209,4109,ch,zug,4
@@ -29254,7 +29469,7 @@ dateId,areaCode,country,areaName,icuCases
 20201208,3951,it,sicilia,199
 20201208,3952,it,sardegna,62
 20201208,4101,ch,zurich,87
-20201208,4102,ch,bern,56
+20201208,4102,ch,bern,58
 20201208,4107,ch,nidwalden,1
 20201208,4108,ch,glarus,2
 20201208,4109,ch,zug,3
@@ -29433,7 +29648,7 @@ dateId,areaCode,country,areaName,icuCases
 20201207,3951,it,sicilia,205
 20201207,3952,it,sardegna,64
 20201207,4101,ch,zurich,80
-20201207,4102,ch,bern,55
+20201207,4102,ch,bern,56
 20201207,4107,ch,nidwalden,2
 20201207,4108,ch,glarus,3
 20201207,4109,ch,zug,3
@@ -29612,6 +29827,7 @@ dateId,areaCode,country,areaName,icuCases
 20201206,3951,it,sicilia,213
 20201206,3952,it,sardegna,64
 20201206,4101,ch,zurich,80
+20201206,4102,ch,bern,55
 20201206,4107,ch,nidwalden,2
 20201206,4108,ch,glarus,1
 20201206,4109,ch,zug,3
@@ -30137,7 +30353,7 @@ dateId,areaCode,country,areaName,icuCases
 20201203,3951,it,sicilia,221
 20201203,3952,it,sardegna,66
 20201203,4101,ch,zurich,92
-20201203,4102,ch,bern,57
+20201203,4102,ch,bern,50
 20201203,4107,ch,nidwalden,2
 20201203,4108,ch,glarus,0
 20201203,4109,ch,zug,4
@@ -30315,7 +30531,7 @@ dateId,areaCode,country,areaName,icuCases
 20201202,3951,it,sicilia,220
 20201202,3952,it,sardegna,66
 20201202,4101,ch,zurich,89
-20201202,4102,ch,bern,68
+20201202,4102,ch,bern,55
 20201202,4107,ch,nidwalden,2
 20201202,4108,ch,glarus,1
 20201202,4109,ch,zug,4
@@ -30494,7 +30710,7 @@ dateId,areaCode,country,areaName,icuCases
 20201201,3951,it,sicilia,220
 20201201,3952,it,sardegna,68
 20201201,4101,ch,zurich,87
-20201201,4102,ch,bern,56
+20201201,4102,ch,bern,55
 20201201,4107,ch,nidwalden,3
 20201201,4108,ch,glarus,1
 20201201,4109,ch,zug,5
@@ -30673,7 +30889,7 @@ dateId,areaCode,country,areaName,icuCases
 20201130,3951,it,sicilia,226
 20201130,3952,it,sardegna,70
 20201130,4101,ch,zurich,84
-20201130,4102,ch,bern,52
+20201130,4102,ch,bern,54
 20201130,4107,ch,nidwalden,3
 20201130,4108,ch,glarus,2
 20201130,4109,ch,zug,5
@@ -30852,6 +31068,7 @@ dateId,areaCode,country,areaName,icuCases
 20201129,3951,it,sicilia,241
 20201129,3952,it,sardegna,69
 20201129,4101,ch,zurich,77
+20201129,4102,ch,bern,50
 20201129,4107,ch,nidwalden,3
 20201129,4108,ch,glarus,2
 20201129,4109,ch,zug,5
@@ -31377,7 +31594,7 @@ dateId,areaCode,country,areaName,icuCases
 20201126,3951,it,sicilia,253
 20201126,3952,it,sardegna,73
 20201126,4101,ch,zurich,73
-20201126,4102,ch,bern,57
+20201126,4102,ch,bern,56
 20201126,4107,ch,nidwalden,3
 20201126,4108,ch,glarus,2
 20201126,4109,ch,zug,5
@@ -31555,7 +31772,7 @@ dateId,areaCode,country,areaName,icuCases
 20201125,3951,it,sicilia,250
 20201125,3952,it,sardegna,76
 20201125,4101,ch,zurich,68
-20201125,4102,ch,bern,67
+20201125,4102,ch,bern,57
 20201125,4107,ch,nidwalden,3
 20201125,4108,ch,glarus,2
 20201125,4109,ch,zug,5
@@ -31733,7 +31950,7 @@ dateId,areaCode,country,areaName,icuCases
 20201124,3951,it,sicilia,243
 20201124,3952,it,sardegna,73
 20201124,4101,ch,zurich,73
-20201124,4102,ch,bern,71
+20201124,4102,ch,bern,67
 20201124,4107,ch,nidwalden,3
 20201124,4108,ch,glarus,1
 20201124,4109,ch,zug,4
@@ -31911,7 +32128,7 @@ dateId,areaCode,country,areaName,icuCases
 20201123,3951,it,sicilia,243
 20201123,3952,it,sardegna,72
 20201123,4101,ch,zurich,68
-20201123,4102,ch,bern,66
+20201123,4102,ch,bern,70
 20201123,4107,ch,nidwalden,3
 20201123,4108,ch,glarus,3
 20201123,4109,ch,zug,4
@@ -32089,6 +32306,7 @@ dateId,areaCode,country,areaName,icuCases
 20201122,3951,it,sicilia,241
 20201122,3952,it,sardegna,70
 20201122,4101,ch,zurich,72
+20201122,4102,ch,bern,65
 20201122,4107,ch,nidwalden,3
 20201122,4108,ch,glarus,3
 20201122,4109,ch,zug,5
@@ -32611,7 +32829,7 @@ dateId,areaCode,country,areaName,icuCases
 20201119,3951,it,sicilia,240
 20201119,3952,it,sardegna,67
 20201119,4101,ch,zurich,65
-20201119,4102,ch,bern,73
+20201119,4102,ch,bern,64
 20201119,4107,ch,nidwalden,2
 20201119,4108,ch,glarus,2
 20201119,4109,ch,zug,3
@@ -32967,7 +33185,7 @@ dateId,areaCode,country,areaName,icuCases
 20201117,3951,it,sicilia,227
 20201117,3952,it,sardegna,64
 20201117,4101,ch,zurich,69
-20201117,4102,ch,bern,75
+20201117,4102,ch,bern,67
 20201117,4107,ch,nidwalden,3
 20201117,4108,ch,glarus,3
 20201117,4109,ch,zug,2
@@ -33145,7 +33363,7 @@ dateId,areaCode,country,areaName,icuCases
 20201116,3951,it,sicilia,224
 20201116,3952,it,sardegna,63
 20201116,4101,ch,zurich,69
-20201116,4102,ch,bern,63
+20201116,4102,ch,bern,75
 20201116,4107,ch,nidwalden,3
 20201116,4108,ch,glarus,4
 20201116,4109,ch,zug,2
@@ -33323,6 +33541,7 @@ dateId,areaCode,country,areaName,icuCases
 20201115,3951,it,sicilia,217
 20201115,3952,it,sardegna,60
 20201115,4101,ch,zurich,75
+20201115,4102,ch,bern,63
 20201115,4107,ch,nidwalden,3
 20201115,4108,ch,glarus,4
 20201115,4109,ch,zug,2
@@ -33845,7 +34064,7 @@ dateId,areaCode,country,areaName,icuCases
 20201112,3951,it,sicilia,205
 20201112,3952,it,sardegna,56
 20201112,4101,ch,zurich,67
-20201112,4102,ch,bern,57
+20201112,4102,ch,bern,54
 20201112,4107,ch,nidwalden,3
 20201112,4108,ch,glarus,3
 20201112,4109,ch,zug,5
@@ -34023,7 +34242,7 @@ dateId,areaCode,country,areaName,icuCases
 20201111,3951,it,sicilia,202
 20201111,3952,it,sardegna,54
 20201111,4101,ch,zurich,66
-20201111,4102,ch,bern,64
+20201111,4102,ch,bern,57
 20201111,4107,ch,nidwalden,3
 20201111,4108,ch,glarus,3
 20201111,4109,ch,zug,4
@@ -34201,7 +34420,7 @@ dateId,areaCode,country,areaName,icuCases
 20201110,3951,it,sicilia,195
 20201110,3952,it,sardegna,51
 20201110,4101,ch,zurich,65
-20201110,4102,ch,bern,62
+20201110,4102,ch,bern,64
 20201110,4107,ch,nidwalden,3
 20201110,4108,ch,glarus,4
 20201110,4109,ch,zug,5
@@ -34379,7 +34598,7 @@ dateId,areaCode,country,areaName,icuCases
 20201109,3951,it,sicilia,187
 20201109,3952,it,sardegna,58
 20201109,4101,ch,zurich,69
-20201109,4102,ch,bern,53
+20201109,4102,ch,bern,62
 20201109,4103,ch,luzern,15
 20201109,4107,ch,nidwalden,2
 20201109,4108,ch,glarus,3
@@ -34558,6 +34777,7 @@ dateId,areaCode,country,areaName,icuCases
 20201108,3951,it,sicilia,177
 20201108,3952,it,sardegna,55
 20201108,4101,ch,zurich,64
+20201108,4102,ch,bern,53
 20201108,4103,ch,luzern,14
 20201108,4107,ch,nidwalden,2
 20201108,4108,ch,glarus,2
@@ -35081,7 +35301,7 @@ dateId,areaCode,country,areaName,icuCases
 20201105,3951,it,sicilia,157
 20201105,3952,it,sardegna,46
 20201105,4101,ch,zurich,52
-20201105,4102,ch,bern,43
+20201105,4102,ch,bern,47
 20201105,4103,ch,luzern,15
 20201105,4107,ch,nidwalden,3
 20201105,4108,ch,glarus,2
@@ -35260,7 +35480,7 @@ dateId,areaCode,country,areaName,icuCases
 20201104,3951,it,sicilia,148
 20201104,3952,it,sardegna,45
 20201104,4101,ch,zurich,52
-20201104,4102,ch,bern,45
+20201104,4102,ch,bern,43
 20201104,4103,ch,luzern,15
 20201104,4107,ch,nidwalden,2
 20201104,4108,ch,glarus,2
@@ -35438,6 +35658,7 @@ dateId,areaCode,country,areaName,icuCases
 20201103,3951,it,sicilia,150
 20201103,3952,it,sardegna,45
 20201103,4101,ch,zurich,48
+20201103,4102,ch,bern,45
 20201103,4103,ch,luzern,13
 20201103,4107,ch,nidwalden,3
 20201103,4108,ch,glarus,1
@@ -35616,7 +35837,7 @@ dateId,areaCode,country,areaName,icuCases
 20201102,3951,it,sicilia,142
 20201102,3952,it,sardegna,43
 20201102,4101,ch,zurich,41
-20201102,4102,ch,bern,45
+20201102,4102,ch,bern,41
 20201102,4103,ch,luzern,13
 20201102,4107,ch,nidwalden,2
 20201102,4108,ch,glarus,1
@@ -35794,6 +36015,7 @@ dateId,areaCode,country,areaName,icuCases
 20201101,3951,it,sicilia,132
 20201101,3952,it,sardegna,43
 20201101,4101,ch,zurich,38
+20201101,4102,ch,bern,45
 20201101,4107,ch,nidwalden,2
 20201101,4108,ch,glarus,1
 20201101,4109,ch,zug,4
@@ -36316,6 +36538,7 @@ dateId,areaCode,country,areaName,icuCases
 20201029,3951,it,sicilia,115
 20201029,3952,it,sardegna,39
 20201029,4101,ch,zurich,26
+20201029,4102,ch,bern,33
 20201029,4107,ch,nidwalden,2
 20201029,4108,ch,glarus,1
 20201029,4109,ch,zug,3
@@ -36669,6 +36892,7 @@ dateId,areaCode,country,areaName,icuCases
 20201027,3951,it,sicilia,103
 20201027,3952,it,sardegna,36
 20201027,4101,ch,zurich,26
+20201027,4102,ch,bern,22
 20201027,4103,ch,luzern,7
 20201027,4107,ch,nidwalden,1
 20201027,4108,ch,glarus,1
@@ -37020,6 +37244,7 @@ dateId,areaCode,country,areaName,icuCases
 20201025,3951,it,sicilia,95
 20201025,3952,it,sardegna,34
 20201025,4101,ch,zurich,22
+20201025,4102,ch,bern,20
 20201025,4107,ch,nidwalden,0
 20201025,4108,ch,glarus,0
 20201025,4109,ch,zug,2
@@ -37536,6 +37761,7 @@ dateId,areaCode,country,areaName,icuCases
 20201022,3951,it,sicilia,89
 20201022,3952,it,sardegna,36
 20201022,4101,ch,zurich,15
+20201022,4102,ch,bern,15
 20201022,4103,ch,luzern,4
 20201022,4107,ch,nidwalden,0
 20201022,4108,ch,glarus,0
@@ -37887,6 +38113,7 @@ dateId,areaCode,country,areaName,icuCases
 20201020,3951,it,sicilia,77
 20201020,3952,it,sardegna,34
 20201020,4101,ch,zurich,12
+20201020,4102,ch,bern,13
 20201020,4103,ch,luzern,3
 20201020,4107,ch,nidwalden,1
 20201020,4108,ch,glarus,0
@@ -38238,6 +38465,7 @@ dateId,areaCode,country,areaName,icuCases
 20201018,3951,it,sicilia,70
 20201018,3952,it,sardegna,29
 20201018,4101,ch,zurich,10
+20201018,4102,ch,bern,12
 20201018,4107,ch,nidwalden,0
 20201018,4108,ch,glarus,0
 20201018,4109,ch,zug,1
@@ -38754,6 +38982,7 @@ dateId,areaCode,country,areaName,icuCases
 20201015,3951,it,sicilia,52
 20201015,3952,it,sardegna,28
 20201015,4101,ch,zurich,9
+20201015,4102,ch,bern,11
 20201015,4103,ch,luzern,1
 20201015,4107,ch,nidwalden,0
 20201015,4108,ch,glarus,0
@@ -39101,6 +39330,7 @@ dateId,areaCode,country,areaName,icuCases
 20201013,3951,it,sicilia,44
 20201013,3952,it,sardegna,26
 20201013,4101,ch,zurich,7
+20201013,4102,ch,bern,11
 20201013,4103,ch,luzern,0
 20201013,4107,ch,nidwalden,0
 20201013,4108,ch,glarus,0
@@ -39449,6 +39679,7 @@ dateId,areaCode,country,areaName,icuCases
 20201011,3951,it,sicilia,38
 20201011,3952,it,sardegna,22
 20201011,4101,ch,zurich,7
+20201011,4102,ch,bern,7
 20201011,4107,ch,nidwalden,0
 20201011,4108,ch,glarus,0
 20201011,4109,ch,zug,0
@@ -39957,6 +40188,7 @@ dateId,areaCode,country,areaName,icuCases
 20201008,3951,it,sicilia,33
 20201008,3952,it,sardegna,19
 20201008,4101,ch,zurich,6
+20201008,4102,ch,bern,7
 20201008,4103,ch,luzern,2
 20201008,4107,ch,nidwalden,0
 20201008,4108,ch,glarus,0
@@ -40302,6 +40534,7 @@ dateId,areaCode,country,areaName,icuCases
 20201006,3951,it,sicilia,28
 20201006,3952,it,sardegna,19
 20201006,4101,ch,zurich,6
+20201006,4102,ch,bern,6
 20201006,4103,ch,luzern,1
 20201006,4107,ch,nidwalden,0
 20201006,4108,ch,glarus,0
@@ -40646,6 +40879,7 @@ dateId,areaCode,country,areaName,icuCases
 20201004,3951,it,sicilia,24
 20201004,3952,it,sardegna,20
 20201004,4101,ch,zurich,8
+20201004,4102,ch,bern,6
 20201004,4107,ch,nidwalden,0
 20201004,4108,ch,glarus,0
 20201004,4109,ch,zug,0
@@ -41150,6 +41384,7 @@ dateId,areaCode,country,areaName,icuCases
 20201001,3951,it,sicilia,20
 20201001,3952,it,sardegna,20
 20201001,4101,ch,zurich,10
+20201001,4102,ch,bern,1
 20201001,4103,ch,luzern,1
 20201001,4107,ch,nidwalden,1
 20201001,4108,ch,glarus,0
@@ -41494,6 +41729,7 @@ dateId,areaCode,country,areaName,icuCases
 20200929,3951,it,sicilia,16
 20200929,3952,it,sardegna,19
 20200929,4101,ch,zurich,12
+20200929,4102,ch,bern,1
 20200929,4103,ch,luzern,0
 20200929,4107,ch,nidwalden,1
 20200929,4108,ch,glarus,0
@@ -41838,6 +42074,7 @@ dateId,areaCode,country,areaName,icuCases
 20200927,3951,it,sicilia,14
 20200927,3952,it,sardegna,18
 20200927,4101,ch,zurich,11
+20200927,4102,ch,bern,2
 20200927,4107,ch,nidwalden,1
 20200927,4108,ch,glarus,0
 20200927,4109,ch,zug,0
@@ -42343,6 +42580,7 @@ dateId,areaCode,country,areaName,icuCases
 20200924,3951,it,sicilia,16
 20200924,3952,it,sardegna,18
 20200924,4101,ch,zurich,11
+20200924,4102,ch,bern,3
 20200924,4103,ch,luzern,1
 20200924,4107,ch,nidwalden,1
 20200924,4108,ch,glarus,0
@@ -42686,6 +42924,7 @@ dateId,areaCode,country,areaName,icuCases
 20200922,3951,it,sicilia,15
 20200922,3952,it,sardegna,21
 20200922,4101,ch,zurich,8
+20200922,4102,ch,bern,3
 20200922,4103,ch,luzern,0
 20200922,4107,ch,nidwalden,1
 20200922,4108,ch,glarus,0
@@ -43030,6 +43269,7 @@ dateId,areaCode,country,areaName,icuCases
 20200920,3951,it,sicilia,13
 20200920,3952,it,sardegna,18
 20200920,4101,ch,zurich,11
+20200920,4102,ch,bern,5
 20200920,4107,ch,nidwalden,1
 20200920,4108,ch,glarus,0
 20200920,4109,ch,zug,0
@@ -43533,6 +43773,7 @@ dateId,areaCode,country,areaName,icuCases
 20200917,3951,it,sicilia,14
 20200917,3952,it,sardegna,17
 20200917,4101,ch,zurich,11
+20200917,4102,ch,bern,3
 20200917,4103,ch,luzern,0
 20200917,4107,ch,nidwalden,1
 20200917,4108,ch,glarus,0
@@ -43875,6 +44116,7 @@ dateId,areaCode,country,areaName,icuCases
 20200915,3951,it,sicilia,17
 20200915,3952,it,sardegna,18
 20200915,4101,ch,zurich,10
+20200915,4102,ch,bern,2
 20200915,4103,ch,luzern,0
 20200915,4107,ch,nidwalden,1
 20200915,4108,ch,glarus,0
@@ -44217,6 +44459,7 @@ dateId,areaCode,country,areaName,icuCases
 20200913,3951,it,sicilia,17
 20200913,3952,it,sardegna,14
 20200913,4101,ch,zurich,10
+20200913,4102,ch,bern,2
 20200913,4107,ch,nidwalden,1
 20200913,4108,ch,glarus,0
 20200913,4109,ch,zug,0
@@ -44717,6 +44960,7 @@ dateId,areaCode,country,areaName,icuCases
 20200910,3951,it,sicilia,18
 20200910,3952,it,sardegna,12
 20200910,4101,ch,zurich,10
+20200910,4102,ch,bern,2
 20200910,4103,ch,luzern,1
 20200910,4107,ch,nidwalden,1
 20200910,4108,ch,glarus,0
@@ -45059,6 +45303,7 @@ dateId,areaCode,country,areaName,icuCases
 20200908,3951,it,sicilia,13
 20200908,3952,it,sardegna,10
 20200908,4101,ch,zurich,11
+20200908,4102,ch,bern,2
 20200908,4103,ch,luzern,1
 20200908,4107,ch,nidwalden,1
 20200908,4108,ch,glarus,0
@@ -45401,6 +45646,7 @@ dateId,areaCode,country,areaName,icuCases
 20200906,3951,it,sicilia,13
 20200906,3952,it,sardegna,8
 20200906,4101,ch,zurich,12
+20200906,4102,ch,bern,2
 20200906,4107,ch,nidwalden,1
 20200906,4108,ch,glarus,0
 20200906,4109,ch,zug,0
@@ -46244,6 +46490,7 @@ dateId,areaCode,country,areaName,icuCases
 20200901,3951,it,sicilia,10
 20200901,3952,it,sardegna,6
 20200901,4101,ch,zurich,7
+20200901,4102,ch,bern,2
 20200901,4103,ch,luzern,3
 20200901,4107,ch,nidwalden,0
 20200901,4108,ch,glarus,0
@@ -46586,6 +46833,7 @@ dateId,areaCode,country,areaName,icuCases
 20200830,3951,it,sicilia,10
 20200830,3952,it,sardegna,3
 20200830,4101,ch,zurich,9
+20200830,4102,ch,bern,2
 20200830,4107,ch,nidwalden,0
 20200830,4108,ch,glarus,0
 20200830,4109,ch,zug,1
@@ -47089,6 +47337,7 @@ dateId,areaCode,country,areaName,icuCases
 20200827,3951,it,sicilia,10
 20200827,3952,it,sardegna,2
 20200827,4101,ch,zurich,7
+20200827,4102,ch,bern,1
 20200827,4103,ch,luzern,3
 20200827,4107,ch,nidwalden,0
 20200827,4109,ch,zug,1
@@ -47429,6 +47678,7 @@ dateId,areaCode,country,areaName,icuCases
 20200825,3951,it,sicilia,10
 20200825,3952,it,sardegna,0
 20200825,4101,ch,zurich,9
+20200825,4102,ch,bern,1
 20200825,4103,ch,luzern,3
 20200825,4107,ch,nidwalden,0
 20200825,4109,ch,zug,0
@@ -47769,6 +48019,7 @@ dateId,areaCode,country,areaName,icuCases
 20200823,3951,it,sicilia,10
 20200823,3952,it,sardegna,0
 20200823,4101,ch,zurich,11
+20200823,4102,ch,bern,1
 20200823,4107,ch,nidwalden,0
 20200823,4109,ch,zug,0
 20200823,4110,ch,fribourg,1
@@ -48269,6 +48520,7 @@ dateId,areaCode,country,areaName,icuCases
 20200820,3951,it,sicilia,8
 20200820,3952,it,sardegna,0
 20200820,4101,ch,zurich,10
+20200820,4102,ch,bern,2
 20200820,4103,ch,luzern,4
 20200820,4107,ch,nidwalden,0
 20200820,4109,ch,zug,0
@@ -48608,6 +48860,7 @@ dateId,areaCode,country,areaName,icuCases
 20200818,3951,it,sicilia,6
 20200818,3952,it,sardegna,0
 20200818,4101,ch,zurich,9
+20200818,4102,ch,bern,1
 20200818,4103,ch,luzern,4
 20200818,4107,ch,nidwalden,0
 20200818,4109,ch,zug,0
@@ -48949,6 +49202,7 @@ dateId,areaCode,country,areaName,icuCases
 20200816,3951,it,sicilia,5
 20200816,3952,it,sardegna,0
 20200816,4101,ch,zurich,7
+20200816,4102,ch,bern,1
 20200816,4107,ch,nidwalden,0
 20200816,4109,ch,zug,0
 20200816,4110,ch,fribourg,1
@@ -49448,6 +49702,7 @@ dateId,areaCode,country,areaName,icuCases
 20200813,3951,it,sicilia,6
 20200813,3952,it,sardegna,0
 20200813,4101,ch,zurich,6
+20200813,4102,ch,bern,1
 20200813,4103,ch,luzern,4
 20200813,4107,ch,nidwalden,0
 20200813,4109,ch,zug,0
@@ -49788,6 +50043,7 @@ dateId,areaCode,country,areaName,icuCases
 20200811,3951,it,sicilia,6
 20200811,3952,it,sardegna,0
 20200811,4101,ch,zurich,5
+20200811,4102,ch,bern,3
 20200811,4103,ch,luzern,3
 20200811,4107,ch,nidwalden,0
 20200811,4109,ch,zug,0
@@ -50127,6 +50383,7 @@ dateId,areaCode,country,areaName,icuCases
 20200809,3951,it,sicilia,5
 20200809,3952,it,sardegna,0
 20200809,4101,ch,zurich,7
+20200809,4102,ch,bern,3
 20200809,4107,ch,nidwalden,0
 20200809,4109,ch,zug,0
 20200809,4110,ch,fribourg,1
@@ -50626,6 +50883,7 @@ dateId,areaCode,country,areaName,icuCases
 20200806,3951,it,sicilia,4
 20200806,3952,it,sardegna,0
 20200806,4101,ch,zurich,5
+20200806,4102,ch,bern,3
 20200806,4103,ch,luzern,5
 20200806,4107,ch,nidwalden,0
 20200806,4109,ch,zug,0
@@ -50965,6 +51223,7 @@ dateId,areaCode,country,areaName,icuCases
 20200804,3951,it,sicilia,3
 20200804,3952,it,sardegna,0
 20200804,4101,ch,zurich,6
+20200804,4102,ch,bern,3
 20200804,4103,ch,luzern,5
 20200804,4107,ch,nidwalden,0
 20200804,4109,ch,zug,0
@@ -51304,6 +51563,7 @@ dateId,areaCode,country,areaName,icuCases
 20200802,3951,it,sicilia,3
 20200802,3952,it,sardegna,0
 20200802,4101,ch,zurich,7
+20200802,4102,ch,bern,3
 20200802,4107,ch,nidwalden,0
 20200802,4109,ch,zug,0
 20200802,4110,ch,fribourg,1
@@ -51803,6 +52063,7 @@ dateId,areaCode,country,areaName,icuCases
 20200730,3951,it,sicilia,2
 20200730,3952,it,sardegna,0
 20200730,4101,ch,zurich,7
+20200730,4102,ch,bern,2
 20200730,4103,ch,luzern,5
 20200730,4107,ch,nidwalden,0
 20200730,4109,ch,zug,0
@@ -52142,6 +52403,7 @@ dateId,areaCode,country,areaName,icuCases
 20200728,3951,it,sicilia,2
 20200728,3952,it,sardegna,0
 20200728,4101,ch,zurich,7
+20200728,4102,ch,bern,2
 20200728,4103,ch,luzern,4
 20200728,4107,ch,nidwalden,0
 20200728,4109,ch,zug,0
@@ -52481,6 +52743,7 @@ dateId,areaCode,country,areaName,icuCases
 20200726,3951,it,sicilia,2
 20200726,3952,it,sardegna,0
 20200726,4101,ch,zurich,4
+20200726,4102,ch,bern,2
 20200726,4103,ch,luzern,3
 20200726,4107,ch,nidwalden,0
 20200726,4109,ch,zug,0
@@ -53318,6 +53581,7 @@ dateId,areaCode,country,areaName,icuCases
 20200721,3951,it,sicilia,2
 20200721,3952,it,sardegna,0
 20200721,4101,ch,zurich,5
+20200721,4102,ch,bern,3
 20200721,4103,ch,luzern,4
 20200721,4107,ch,nidwalden,0
 20200721,4109,ch,zug,1
@@ -53657,6 +53921,7 @@ dateId,areaCode,country,areaName,icuCases
 20200719,3951,it,sicilia,1
 20200719,3952,it,sardegna,0
 20200719,4101,ch,zurich,7
+20200719,4102,ch,bern,4
 20200719,4107,ch,nidwalden,0
 20200719,4109,ch,zug,0
 20200719,4110,ch,fribourg,1
@@ -54156,6 +54421,7 @@ dateId,areaCode,country,areaName,icuCases
 20200716,3951,it,sicilia,0
 20200716,3952,it,sardegna,0
 20200716,4101,ch,zurich,8
+20200716,4102,ch,bern,3
 20200716,4103,ch,luzern,4
 20200716,4107,ch,nidwalden,0
 20200716,4109,ch,zug,0
@@ -54494,6 +54760,7 @@ dateId,areaCode,country,areaName,icuCases
 20200714,3951,it,sicilia,0
 20200714,3952,it,sardegna,0
 20200714,4101,ch,zurich,10
+20200714,4102,ch,bern,2
 20200714,4103,ch,luzern,3
 20200714,4107,ch,nidwalden,0
 20200714,4109,ch,zug,0
@@ -54833,6 +55100,7 @@ dateId,areaCode,country,areaName,icuCases
 20200712,3951,it,sicilia,0
 20200712,3952,it,sardegna,0
 20200712,4101,ch,zurich,6
+20200712,4102,ch,bern,2
 20200712,4107,ch,nidwalden,0
 20200712,4109,ch,zug,0
 20200712,4110,ch,fribourg,1
@@ -55333,6 +55601,7 @@ dateId,areaCode,country,areaName,icuCases
 20200709,3951,it,sicilia,0
 20200709,3952,it,sardegna,0
 20200709,4101,ch,zurich,5
+20200709,4102,ch,bern,1
 20200709,4107,ch,nidwalden,0
 20200709,4109,ch,zug,0
 20200709,4110,ch,fribourg,1
@@ -56510,7 +56779,7 @@ dateId,areaCode,country,areaName,icuCases
 20200702,3951,it,sicilia,3
 20200702,3952,it,sardegna,0
 20200702,4101,ch,zurich,0
-20200702,4102,ch,bern,0
+20200702,4102,ch,bern,1
 20200702,4103,ch,luzern,2
 20200702,4107,ch,nidwalden,0
 20200702,4109,ch,zug,0
@@ -60885,7 +61154,6 @@ dateId,areaCode,country,areaName,icuCases
 20200606,3951,it,sicilia,7
 20200606,3952,it,sardegna,1
 20200606,4101,ch,zurich,2
-20200606,4102,ch,bern,0
 20200606,4107,ch,nidwalden,0
 20200606,4109,ch,zug,0
 20200606,4110,ch,fribourg,2
@@ -61050,7 +61318,6 @@ dateId,areaCode,country,areaName,icuCases
 20200605,3951,it,sicilia,6
 20200605,3952,it,sardegna,0
 20200605,4101,ch,zurich,2
-20200605,4102,ch,bern,0
 20200605,4107,ch,nidwalden,0
 20200605,4109,ch,zug,0
 20200605,4110,ch,fribourg,2
@@ -61728,7 +61995,7 @@ dateId,areaCode,country,areaName,icuCases
 20200601,3951,it,sicilia,8
 20200601,3952,it,sardegna,1
 20200601,4101,ch,zurich,3
-20200601,4102,ch,bern,1
+20200601,4102,ch,bern,0
 20200601,4107,ch,nidwalden,0
 20200601,4109,ch,zug,0
 20200601,4110,ch,fribourg,3
@@ -62396,7 +62663,7 @@ dateId,areaCode,country,areaName,icuCases
 20200528,3951,it,sicilia,8
 20200528,3952,it,sardegna,2
 20200528,4101,ch,zurich,2
-20200528,4102,ch,bern,2
+20200528,4102,ch,bern,1
 20200528,4107,ch,nidwalden,0
 20200528,4109,ch,zug,0
 20200528,4110,ch,fribourg,3
@@ -63073,7 +63340,7 @@ dateId,areaCode,country,areaName,icuCases
 20200524,3951,it,sicilia,9
 20200524,3952,it,sardegna,3
 20200524,4101,ch,zurich,8
-20200524,4102,ch,bern,3
+20200524,4102,ch,bern,2
 20200524,4107,ch,nidwalden,0
 20200524,4109,ch,zug,0
 20200524,4110,ch,fribourg,3
@@ -63911,7 +64178,7 @@ dateId,areaCode,country,areaName,icuCases
 20200519,3951,it,sicilia,12
 20200519,3952,it,sardegna,9
 20200519,4101,ch,zurich,8
-20200519,4102,ch,bern,2
+20200519,4102,ch,bern,3
 20200519,4103,ch,luzern,4
 20200519,4107,ch,nidwalden,0
 20200519,4109,ch,zug,0
@@ -64251,7 +64518,7 @@ dateId,areaCode,country,areaName,icuCases
 20200517,3951,it,sicilia,13
 20200517,3952,it,sardegna,10
 20200517,4101,ch,zurich,12
-20200517,4102,ch,bern,5
+20200517,4102,ch,bern,2
 20200517,4107,ch,nidwalden,0
 20200517,4109,ch,zug,0
 20200517,4110,ch,fribourg,4
@@ -64417,7 +64684,7 @@ dateId,areaCode,country,areaName,icuCases
 20200516,3951,it,sicilia,12
 20200516,3952,it,sardegna,10
 20200516,4101,ch,zurich,13
-20200516,4102,ch,bern,5
+20200516,4102,ch,bern,3
 20200516,4107,ch,nidwalden,0
 20200516,4109,ch,zug,0
 20200516,4110,ch,fribourg,5
@@ -64583,7 +64850,7 @@ dateId,areaCode,country,areaName,icuCases
 20200515,3951,it,sicilia,11
 20200515,3952,it,sardegna,10
 20200515,4101,ch,zurich,12
-20200515,4102,ch,bern,5
+20200515,4102,ch,bern,4
 20200515,4103,ch,luzern,4
 20200515,4107,ch,nidwalden,0
 20200515,4109,ch,zug,0
@@ -64923,7 +65190,7 @@ dateId,areaCode,country,areaName,icuCases
 20200513,3951,it,sicilia,13
 20200513,3952,it,sardegna,10
 20200513,4101,ch,zurich,11
-20200513,4102,ch,bern,7
+20200513,4102,ch,bern,5
 20200513,4103,ch,luzern,4
 20200513,4107,ch,nidwalden,0
 20200513,4109,ch,zug,0
@@ -65093,7 +65360,7 @@ dateId,areaCode,country,areaName,icuCases
 20200512,3951,it,sicilia,15
 20200512,3952,it,sardegna,11
 20200512,4101,ch,zurich,9
-20200512,4102,ch,bern,6
+20200512,4102,ch,bern,7
 20200512,4103,ch,luzern,5
 20200512,4107,ch,nidwalden,0
 20200512,4109,ch,zug,1
@@ -65263,7 +65530,7 @@ dateId,areaCode,country,areaName,icuCases
 20200511,3951,it,sicilia,16
 20200511,3952,it,sardegna,10
 20200511,4101,ch,zurich,10
-20200511,4102,ch,bern,7
+20200511,4102,ch,bern,6
 20200511,4103,ch,luzern,5
 20200511,4107,ch,nidwalden,0
 20200511,4109,ch,zug,1
@@ -65768,7 +66035,7 @@ dateId,areaCode,country,areaName,icuCases
 20200508,3951,it,sicilia,19
 20200508,3952,it,sardegna,10
 20200508,4101,ch,zurich,8
-20200508,4102,ch,bern,8
+20200508,4102,ch,bern,7
 20200508,4103,ch,luzern,6
 20200508,4107,ch,nidwalden,0
 20200508,4109,ch,zug,1
@@ -66108,7 +66375,7 @@ dateId,areaCode,country,areaName,icuCases
 20200506,3951,it,sicilia,25
 20200506,3952,it,sardegna,11
 20200506,4101,ch,zurich,14
-20200506,4102,ch,bern,6
+20200506,4102,ch,bern,8
 20200506,4103,ch,luzern,6
 20200506,4107,ch,nidwalden,0
 20200506,4109,ch,zug,2
@@ -66279,7 +66546,7 @@ dateId,areaCode,country,areaName,icuCases
 20200505,3951,it,sicilia,26
 20200505,3952,it,sardegna,9
 20200505,4101,ch,zurich,16
-20200505,4102,ch,bern,7
+20200505,4102,ch,bern,6
 20200505,4103,ch,luzern,6
 20200505,4107,ch,nidwalden,0
 20200505,4109,ch,zug,2
@@ -66449,7 +66716,7 @@ dateId,areaCode,country,areaName,icuCases
 20200504,3951,it,sicilia,27
 20200504,3952,it,sardegna,9
 20200504,4101,ch,zurich,18
-20200504,4102,ch,bern,8
+20200504,4102,ch,bern,7
 20200504,4103,ch,luzern,6
 20200504,4107,ch,nidwalden,0
 20200504,4109,ch,zug,1
@@ -66620,7 +66887,7 @@ dateId,areaCode,country,areaName,icuCases
 20200503,3951,it,sicilia,29
 20200503,3952,it,sardegna,10
 20200503,4101,ch,zurich,19
-20200503,4102,ch,bern,10
+20200503,4102,ch,bern,8
 20200503,4103,ch,luzern,7
 20200503,4107,ch,nidwalden,0
 20200503,4109,ch,zug,1
@@ -66789,7 +67056,7 @@ dateId,areaCode,country,areaName,icuCases
 20200502,3951,it,sicilia,30
 20200502,3952,it,sardegna,13
 20200502,4101,ch,zurich,19
-20200502,4102,ch,bern,9
+20200502,4102,ch,bern,10
 20200502,4103,ch,luzern,8
 20200502,4107,ch,nidwalden,0
 20200502,4109,ch,zug,1
@@ -67300,7 +67567,7 @@ dateId,areaCode,country,areaName,icuCases
 20200429,3951,it,sicilia,34
 20200429,3952,it,sardegna,17
 20200429,4101,ch,zurich,25
-20200429,4102,ch,bern,10
+20200429,4102,ch,bern,9
 20200429,4103,ch,luzern,8
 20200429,4107,ch,nidwalden,0
 20200429,4109,ch,zug,3
@@ -67471,7 +67738,7 @@ dateId,areaCode,country,areaName,icuCases
 20200428,3951,it,sicilia,34
 20200428,3952,it,sardegna,18
 20200428,4101,ch,zurich,25
-20200428,4102,ch,bern,7
+20200428,4102,ch,bern,10
 20200428,4103,ch,luzern,7
 20200428,4107,ch,nidwalden,0
 20200428,4109,ch,zug,3
@@ -67642,7 +67909,7 @@ dateId,areaCode,country,areaName,icuCases
 20200427,3951,it,sicilia,35
 20200427,3952,it,sardegna,19
 20200427,4101,ch,zurich,33
-20200427,4102,ch,bern,10
+20200427,4102,ch,bern,7
 20200427,4103,ch,luzern,7
 20200427,4107,ch,nidwalden,0
 20200427,4109,ch,zug,3
@@ -67813,7 +68080,7 @@ dateId,areaCode,country,areaName,icuCases
 20200426,3951,it,sicilia,33
 20200426,3952,it,sardegna,20
 20200426,4101,ch,zurich,33
-20200426,4102,ch,bern,9
+20200426,4102,ch,bern,10
 20200426,4103,ch,luzern,7
 20200426,4107,ch,nidwalden,0
 20200426,4109,ch,zug,3
@@ -68491,7 +68758,7 @@ dateId,areaCode,country,areaName,icuCases
 20200422,3951,it,sicilia,35
 20200422,3952,it,sardegna,20
 20200422,4101,ch,zurich,0
-20200422,4102,ch,bern,14
+20200422,4102,ch,bern,11
 20200422,4107,ch,nidwalden,1
 20200422,4109,ch,zug,3
 20200422,4110,ch,fribourg,5
@@ -68660,7 +68927,7 @@ dateId,areaCode,country,areaName,icuCases
 20200421,3951,it,sicilia,37
 20200421,3952,it,sardegna,21
 20200421,4101,ch,zurich,0
-20200421,4102,ch,bern,17
+20200421,4102,ch,bern,14
 20200421,4103,ch,luzern,5
 20200421,4107,ch,nidwalden,1
 20200421,4109,ch,zug,4
@@ -68830,7 +69097,7 @@ dateId,areaCode,country,areaName,icuCases
 20200420,3951,it,sicilia,39
 20200420,3952,it,sardegna,21
 20200420,4101,ch,zurich,0
-20200420,4102,ch,bern,19
+20200420,4102,ch,bern,17
 20200420,4103,ch,luzern,5
 20200420,4107,ch,nidwalden,2
 20200420,4109,ch,zug,5
@@ -69000,7 +69267,7 @@ dateId,areaCode,country,areaName,icuCases
 20200419,3951,it,sicilia,41
 20200419,3952,it,sardegna,22
 20200419,4101,ch,zurich,0
-20200419,4102,ch,bern,20
+20200419,4102,ch,bern,19
 20200419,4103,ch,luzern,4
 20200419,4107,ch,nidwalden,2
 20200419,4109,ch,zug,6
@@ -69338,7 +69605,7 @@ dateId,areaCode,country,areaName,icuCases
 20200417,3951,it,sicilia,46
 20200417,3952,it,sardegna,23
 20200417,4101,ch,zurich,0
-20200417,4102,ch,bern,25
+20200417,4102,ch,bern,22
 20200417,4103,ch,luzern,3
 20200417,4107,ch,nidwalden,2
 20200417,4109,ch,zug,6
