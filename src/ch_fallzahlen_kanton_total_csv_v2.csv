@@ -1,8 +1,10 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
+20210628,12:00,AI,,1236,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210628,10:20,BS,,12964,,,,12730,205,https://www.gesundheit.bs.ch
 20210628,,FL,,3034,,,,,59,https://www.regierung.li/de/mitteilungen/228128/?typ=news
 20210628,00:00,GE,,58921,,,,,745,https://infocovid.smc.unige.ch/
 20210628,,GL,,2806,1,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
+20210628,,LU,,,9,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210628,09:00,SH,,4808,1,1,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 20210628,,SO,,17964,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210628,09:00,SZ,,12328,,,,12018,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -14,6 +16,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210627,00:00,FL,,3034,4,,,2959,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210627,00:00,GE,,58920,,,,,745,https://infocovid.smc.unige.ch/
 20210627,,GR,,13615,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
+20210627,,JU,,7119,3,0,,,145,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20210627,,LU,,28897,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210627,,NE,,17343,0,,0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20210627,,NW,,2737,0,0,,,23,https://www.nw.ch/gesundheitsamtdienste/6044
 20210627,,SG,,42801,3,1,1,,715,https://www.sg.ch/tools/informationen-coronavirus.html
@@ -25,6 +29,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210626,00:00,GE,,58917,,,,,745,https://infocovid.smc.unige.ch/
 20210626,,GR,,13614,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210626,,JU,,7119,3,0,,,145,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20210626,,LU,,28892,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210626,,NE,,17342,0,,0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20210626,,NW,,2737,0,0,,,23,https://www.nw.ch/gesundheitsamtdienste/6044
 20210626,,SG,,42800,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
@@ -38,7 +43,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210625,,GL,,2806,1,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210625,,GR,,13610,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210625,,JU,,7119,3,0,,,145,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
-20210625,,LU,,,12,,2,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
+20210625,,LU,,28890,12,,2,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210625,,NE,,17341,0,0,0,,403,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20210625,,NW,,2737,0,0,,,23,http://www.nw.ch/coronastatistik
 20210625,00:00,OW,,2598,1,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
