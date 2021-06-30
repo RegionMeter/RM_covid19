@@ -1,23 +1,27 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
+20210630,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210630,10:30,BS,,12966,8,3,,12736,205,https://www.gesundheit.bs.ch
 20210630,,FL,,3036,,,,,59,https://www.regierung.li/de/mitteilungen/228138/?typ=news
 20210630,00:00,GE,,58952,,,,,745,https://infocovid.smc.unige.ch/
 20210630,,GL,,2809,2,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
+20210630,,LU,,,7,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210630,00:00,OW,,2600,0,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20210630,09:00,SH,,4809,1,1,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
+20210630,,SO,,17970,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210630,09:00,SZ,,12331,,,,12030,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210630,10:00,TG,,18959,6,1,,1162,455,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210630,,TI,,33246,0,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210630,00:00,UR,,3266,1,,,,50,https://www.ur.ch/themen/2962
 20210629,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
-20210629,,BE,,65675,14,8,5,,1090,https://covid-kennzahlen.apps.be.ch/
+20210629,,BE,,65675,8,4,3,,1090,https://covid-kennzahlen.apps.be.ch/
 20210629,,BL,,,0,0,0,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210629,11:00,BS,,12963,8,3,,12734,205,https://www.gesundheit.bs.ch
 20210629,00:00,FL,,3036,4,,,2962,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210629,00:00,GE,,58950,5,1,,,745,https://infocovid.smc.unige.ch/
 20210629,,GL,,2807,2,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210629,,GR,,13620,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20210629,,LU,,,7,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
+20210629,,JU,,7120,0,0,,,145,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20210629,,LU,,28919,7,,,,334,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210629,,NW,,2737,0,0,,,23,http://www.nw.ch/coronastatistik
 20210629,00:00,OW,,2599,0,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20210629,,SG,,42810,3,1,0,,715,https://www.sg.ch/tools/informationen-coronavirus.html
@@ -26,6 +30,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210629,09:00,SZ,,12329,,,,12024,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210629,10:00,TG,,18959,6,1,,1161,455,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210629,00:00,UR,,3266,1,,,,50,https://www.ur.ch/themen/2962
+20210629,,VD,,84321,27,5,,,1018,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210629,08:00,ZG,,8459,0,0,,8323,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210629,14:30,ZH,,112652,24,16,10,,1416,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210628,08:00,AG,,47822,6,1,,46995,703,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
@@ -50,7 +55,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210628,10:00,TG,,18954,7,1,,1161,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210628,,TI,,33240,1,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210628,00:00,UR,,3264,0,,,,50,https://www.ur.ch/themen/2962
-20210628,,VD,,84316,28,5,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210628,,VD,,84318,28,5,,,1018,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210628,,VS,,38146,6,3,1,,785,https://www.vs.ch/de/web/coronavirus
 20210628,08:00,ZG,,8454,0,0,,8318,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210628,14:30,ZH,,112627,25,16,11,,1416,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -70,7 +75,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210627,,SG,,42800,3,1,1,,715,https://www.sg.ch/tools/informationen-coronavirus.html
 20210627,09:00,SZ,,12325,,,,12003,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210627,10:00,TG,,18950,7,2,,1160,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-20210627,,VD,,84302,27,6,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210627,,VD,,84302,27,6,,,1018,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210627,,VS,,38146,6,2,1,,785,https://www.vs.ch/de/web/coronavirus
 20210627,08:00,ZG,,8450,0,0,,8313,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210627,14:30,ZH,,112622,30,18,11,,1416,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -90,7 +95,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210626,,SG,,42799,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20210626,09:00,SZ,,12322,,,,11998,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210626,10:00,TG,,18949,6,2,,1160,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-20210626,,VD,,84297,28,8,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210626,,VD,,84297,28,8,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210626,,VS,,38146,6,2,1,,785,https://www.vs.ch/de/web/coronavirus
 20210626,08:00,ZG,,8449,0,0,,8318,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210626,14:30,ZH,,112608,32,19,15,,1416,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -116,7 +121,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210625,10:00,TG,,18941,5,2,,1160,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210625,,TI,,33232,1,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210625,00:00,UR,,3262,0,,,,50,https://www.ur.ch/themen/2962
-20210625,,VD,,84295,29,7,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210625,,VD,,84295,29,7,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210625,,VS,,38141,7,1,1,,785,https://www.vs.ch/de/web/coronavirus
 20210625,08:00,ZG,,8445,0,0,,8313,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210625,14:30,ZH,,112595,30,17,14,,1416,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -143,7 +148,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210624,10:00,TG,,18938,5,2,,1160,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210624,,TI,,33230,2,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210624,00:00,UR,,3262,0,,,,50,https://www.ur.ch/themen/2962
-20210624,,VD,,84289,27,9,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210624,,VD,,84289,27,9,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210624,,VS,,38139,6,1,1,,785,https://www.vs.ch/de/web/coronavirus
 20210624,08:00,ZG,,8443,0,0,,8309,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210624,14:30,ZH,,112573,31,16,14,,1416,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -169,7 +174,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210623,10:00,TG,,18931,4,2,,1160,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210623,,TI,,33225,2,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210623,00:00,UR,,3262,0,,,,50,https://www.ur.ch/themen/2962
-20210623,,VD,,84277,29,8,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210623,,VD,,84277,29,8,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210623,,VS,,38131,6,2,1,,785,https://www.vs.ch/de/web/coronavirus
 20210623,08:00,ZG,,8441,1,0,,8301,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210623,14:30,ZH,,112559,33,16,14,,1415,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -195,7 +200,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210622,10:00,TG,,18926,5,2,,1160,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210622,,TI,,33222,2,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210622,00:00,UR,,3262,0,,,,50,https://www.ur.ch/themen/2962
-20210622,,VD,,84270,32,8,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210622,,VD,,84270,32,8,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210622,,VS,,38124,5,3,1,,785,https://www.vs.ch/de/web/coronavirus
 20210622,08:00,ZG,,8440,1,0,,8299,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210622,14:30,ZH,,112545,36,18,12,,1414,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -221,7 +226,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210621,10:00,TG,,18923,4,2,,1160,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210621,,TI,,33220,3,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210621,00:00,UR,,3262,0,,,,50,https://www.ur.ch/themen/2962
-20210621,,VD,,84262,32,9,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210621,,VD,,84262,32,9,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210621,,VS,,38116,6,3,1,,785,https://www.vs.ch/de/web/coronavirus
 20210621,08:00,ZG,,8439,1,0,,8298,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210621,14:30,ZH,,112517,38,18,13,,1414,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -241,7 +246,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210620,,SG,,42754,11,1,1,,714,https://www.sg.ch/tools/informationen-coronavirus.html
 20210620,09:00,SZ,,12270,,,,11907,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210620,10:00,TG,,18919,4,3,,1160,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-20210620,,VD,,84245,34,10,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210620,,VD,,84245,34,10,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210620,,VS,,38107,5,2,1,,785,https://www.vs.ch/de/web/coronavirus
 20210620,08:00,ZG,,8437,1,1,,8291,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210620,14:30,ZH,,112506,41,20,12,,1414,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -261,7 +266,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210619,,SG,,42749,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20210619,09:00,SZ,,12266,,,,11899,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210619,10:00,TG,,18918,4,3,,1160,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-20210619,,VD,,84238,33,10,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210619,,VD,,84238,33,10,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210619,,VS,,38098,5,2,1,,785,https://www.vs.ch/de/web/coronavirus
 20210619,08:00,ZG,,8437,1,1,,8291,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210619,14:30,ZH,,112487,38,19,12,,1414,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -287,7 +292,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210618,10:00,TG,,18918,4,3,,1160,454,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210618,,TI,,33201,3,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210618,00:00,UR,,3261,0,,,,50,https://www.ur.ch/themen/2962
-20210618,,VD,,84228,30,10,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210618,,VD,,84228,30,10,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210618,,VS,,38096,5,2,1,,785,https://www.vs.ch/de/web/coronavirus
 20210618,08:00,ZG,,8433,1,1,,8283,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210618,14:30,ZH,,112460,39,17,13,,1414,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -314,7 +319,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210617,10:00,TG,,18914,5,4,,1159,453,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210617,,TI,,33196,3,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210617,00:00,UR,,3260,0,,,,50,https://www.ur.ch/themen/2962
-20210617,,VD,,84217,38,11,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210617,,VD,,84217,38,11,,,1017,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210617,,VS,,38087,6,2,2,,785,https://www.vs.ch/de/web/coronavirus
 20210617,08:00,ZG,,8430,1,1,,8274,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210617,14:30,ZH,,112444,36,20,15,,1413,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -340,7 +345,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210616,10:00,TG,,18907,5,4,,1159,453,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210616,,TI,,33188,3,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210616,00:00,UR,,3260,0,,,,50,https://www.ur.ch/themen/2962
-20210616,,VD,,84208,38,12,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210616,,VD,,84208,38,12,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210616,,VS,,38080,9,4,4,,785,https://www.vs.ch/de/web/coronavirus
 20210616,08:00,ZG,,8428,1,1,,8272,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210616,14:30,ZH,,112412,40,22,18,,1413,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -367,7 +372,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210615,10:00,TG,,18897,8,4,,1157,453,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210615,,TI,,33179,1,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210615,00:00,UR,,3260,0,,,,50,https://www.ur.ch/themen/2962
-20210615,,VD,,84186,41,11,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210615,,VD,,84186,41,11,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210615,,VS,,38074,10,4,3,,784,https://www.vs.ch/de/web/coronavirus
 20210615,08:00,ZG,,8425,1,1,,8268,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210615,14:30,ZH,,112372,47,23,17,,1412,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -393,7 +398,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210614,10:00,TG,,18890,10,4,,1155,453,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210614,,TI,,33172,1,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210614,00:00,UR,,3260,3,,,,49,https://www.ur.ch/themen/2962
-20210614,,VD,,84171,43,11,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210614,,VD,,84171,43,11,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210614,,VS,,38067,9,4,4,,784,https://www.vs.ch/de/web/coronavirus
 20210614,08:00,ZG,,8422,3,0,,8268,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210614,14:30,ZH,,112323,48,27,16,,1411,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -414,7 +419,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210613,09:00,SZ,,12197,,,,11788,236,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210613,10:00,TG,,18878,10,4,,1154,453,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210613,,TI,,33171,1,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210613,,VD,,84145,51,13,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210613,,VD,,84145,51,13,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210613,,VS,,38062,9,4,4,,784,https://www.vs.ch/de/web/coronavirus
 20210613,08:00,ZG,,8416,2,0,,8265,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210613,14:30,ZH,,112297,47,27,19,,1411,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -435,7 +440,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210612,09:00,SZ,,12190,,,,11785,236,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210612,10:00,TG,,18876,10,4,,1154,453,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210612,,TI,,33168,1,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210612,,VD,,84130,49,13,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210612,,VD,,84130,49,13,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210612,,VS,,38057,10,4,4,,784,https://www.vs.ch/de/web/coronavirus
 20210612,08:00,ZG,,8412,2,0,,8249,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210612,14:30,ZH,,112261,49,28,20,,1410,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -462,7 +467,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210611,10:00,TG,,18874,9,4,,1154,453,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210611,,TI,,33165,1,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210611,00:00,UR,,3253,3,,,,49,https://www.ur.ch/themen/2962
-20210611,,VD,,84108,48,13,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210611,,VD,,84108,48,13,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210611,,VS,,38052,9,4,4,,784,https://www.vs.ch/de/web/coronavirus
 20210611,08:00,ZG,,8407,2,0,,8247,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210611,14:30,ZH,,112210,51,28,21,,1409,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -489,7 +494,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210610,10:00,TG,,18868,11,4,,1151,453,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210610,,TI,,33161,1,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210610,00:00,UR,,3253,3,,,,49,https://www.ur.ch/themen/2962
-20210610,,VD,,84079,48,11,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210610,,VD,,84079,48,11,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210610,,VS,,38038,11,4,4,,784,https://www.vs.ch/de/web/coronavirus
 20210610,08:00,ZG,,8402,3,0,,8239,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210610,14:30,ZH,,112167,56,31,21,,1408,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -516,7 +521,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210609,10:00,TG,,18856,13,4,,1149,453,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210609,,TI,,33150,2,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210609,00:00,UR,,3251,3,,,,49,https://www.ur.ch/themen/2962
-20210609,,VD,,84055,56,13,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210609,,VD,,84055,56,13,,,1016,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210609,,VS,,38029,11,4,3,,784,https://www.vs.ch/de/web/coronavirus
 20210609,08:00,ZG,,8396,3,0,,8236,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210609,14:30,ZH,,112105,67,31,23,,1406,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -543,7 +548,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210608,10:00,TG,,18836,13,4,,1148,453,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210608,,TI,,33139,2,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210608,00:00,UR,,3250,3,,,,49,https://www.ur.ch/themen/2962
-20210608,,VD,,84020,57,14,,,1014,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210608,,VD,,84020,57,14,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210608,,VS,,38011,11,4,3,,784,https://www.vs.ch/de/web/coronavirus
 20210608,08:00,ZG,,8391,4,0,,8229,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210608,14:30,ZH,,112032,77,33,22,,1406,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -570,7 +575,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210607,10:00,TG,,18822,17,5,,1144,452,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210607,,TI,,33132,2,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210607,00:00,UR,,3250,3,,,,49,https://www.ur.ch/themen/2962
-20210607,,VD,,83982,59,15,,,1014,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210607,,VD,,83982,59,15,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210607,,VS,,37995,10,4,2,,784,https://www.vs.ch/de/web/coronavirus
 20210607,08:00,ZG,,8387,6,0,,8231,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210607,14:30,ZH,,111938,84,33,21,,1406,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -591,7 +596,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210606,09:00,SZ,,12075,,,,11633,235,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210606,10:00,TG,,18808,17,5,,1143,452,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210606,,TI,,33128,3,0,0,3411,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210606,,VD,,83930,55,13,,,1014,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210606,,VD,,83930,55,13,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210606,,VS,,37982,11,3,3,,784,https://www.vs.ch/de/web/coronavirus
 20210606,08:00,ZG,,8381,4,1,,8216,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210606,14:30,ZH,,111908,77,35,25,,1406,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -612,7 +617,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210605,09:00,SZ,,12055,,,,11628,235,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210605,10:00,TG,,18799,17,7,,1142,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210605,,TI,,33116,4,0,0,3410,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210605,,VD,,83909,55,13,,,1014,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210605,,VD,,83909,55,13,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210605,,VS,,37969,13,3,2,,784,https://www.vs.ch/de/web/coronavirus
 20210605,08:00,ZG,,8377,4,1,,8216,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210605,14:30,ZH,,111870,77,35,26,,1406,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -638,7 +643,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210604,10:00,TG,,18790,17,8,,1142,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210604,,TI,,33109,3,0,0,3409,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210604,00:00,UR,,3244,3,,,,49,https://www.ur.ch/themen/2962
-20210604,,VD,,83872,50,11,,,1014,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210604,,VD,,83872,50,11,,,1015,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210604,,VS,,37956,15,3,2,,784,https://www.vs.ch/de/web/coronavirus
 20210604,08:00,ZG,,8371,4,1,,8210,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210604,14:30,ZH,,111814,79,33,27,,1405,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -661,7 +666,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210603,09:00,SZ,,12017,,,,11557,234,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210603,10:00,TG,,18770,21,8,,1138,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210603,,TI,,33099,6,0,0,3406,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210603,,VD,,83831,52,10,,,1012,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210603,,VD,,83831,52,10,,,1013,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210603,,VS,,37938,15,4,2,,784,https://www.vs.ch/de/web/coronavirus
 20210603,08:00,ZG,,8368,4,1,,8199,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210603,14:30,ZH,,111748,81,34,27,,1404,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -688,7 +693,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210602,10:00,TG,,18766,21,8,,1137,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210602,,TI,,33088,10,0,0,3402,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210602,00:00,UR,,3238,4,,,,49,https://www.ur.ch/themen/2962
-20210602,,VD,,83773,57,11,,,1012,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210602,,VD,,83773,57,11,,,1013,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210602,,VS,,37927,15,4,2,,784,https://www.vs.ch/de/web/coronavirus
 20210602,08:00,ZG,,8361,4,1,,8192,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210602,14:30,ZH,,111666,80,36,30,,1404,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -715,7 +720,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210601,10:00,TG,,18750,23,8,,1134,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210601,,TI,,33068,10,0,0,3402,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210601,00:00,UR,,3234,4,,,,49,https://www.ur.ch/themen/2962
-20210601,,VD,,83722,58,11,,,1012,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210601,,VD,,83722,58,11,,,1013,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210601,,VS,,37902,14,4,2,,784,https://www.vs.ch/de/web/coronavirus
 20210601,08:00,ZG,,8353,4,1,,8181,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210601,14:30,ZH,,111571,81,37,30,,1403,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -742,7 +747,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210531,10:00,TG,,18737,25,8,,1130,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210531,,TI,,33056,11,0,0,3401,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210531,00:00,UR,,3231,5,,,,49,https://www.ur.ch/themen/2962
-20210531,,VD,,83666,56,13,,,1012,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210531,,VD,,83666,56,13,,,1013,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210531,,VS,,37875,15,3,1,,784,https://www.vs.ch/de/web/coronavirus
 20210531,08:00,ZG,,8351,5,1,,8179,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210531,14:30,ZH,,111455,93,39,27,,1403,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -763,7 +768,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210530,09:00,SZ,,11926,,,,11431,232,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210530,10:00,TG,,18716,24,7,,1128,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210530,,TI,,33050,11,1,0,3400,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210530,,VD,,83563,57,16,,,1012,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210530,,VD,,83563,57,16,,,1013,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210530,,VS,,37839,17,3,2,,784,https://www.vs.ch/de/web/coronavirus
 20210530,08:00,ZG,,8347,4,1,,,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210530,14:30,ZH,,111397,91,37,26,,1402,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -784,7 +789,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210529,09:00,SZ,,11894,,,,11426,232,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210529,10:00,TG,,18704,22,8,,1128,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210529,,TI,,33038,10,1,0,3400,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210529,,VD,,83526,56,17,,,1012,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210529,,VD,,83526,56,17,,,1013,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210529,,VS,,37814,16,4,3,,784,https://www.vs.ch/de/web/coronavirus
 20210529,08:00,ZG,,8345,4,1,,8167,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210529,14:30,ZH,,111347,93,40,28,,1402,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -810,7 +815,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210528,10:00,TG,,18683,19,8,,1127,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210528,,TI,,33021,15,1,0,3394,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210528,00:00,UR,,3221,5,,,,49,https://www.ur.ch/themen/2962
-20210528,,VD,,83467,58,18,,,1012,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210528,,VD,,83467,58,18,,,1013,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210528,,VS,,37794,15,3,3,,783,https://www.vs.ch/de/web/coronavirus
 20210528,08:00,ZG,,8337,4,1,,8158,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210528,14:30,ZH,,111264,99,42,30,,1401,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -837,7 +842,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210527,10:00,TG,,18642,20,6,,1124,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210527,,TI,,33013,18,1,0,3391,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210527,00:00,UR,,3217,7,,,,49,https://www.ur.ch/themen/2962
-20210527,,VD,,83374,67,17,,,1011,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210527,,VD,,83374,67,17,,,1012,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210527,,VS,,37768,18,4,3,,783,https://www.vs.ch/de/web/coronavirus
 20210527,08:00,ZG,,8328,6,2,,8147,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210527,14:30,ZH,,111162,104,44,33,,1401,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -864,7 +869,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210526,10:00,TG,,18625,20,7,,1122,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210526,,TI,,33000,19,0,0,3390,994,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210526,00:00,UR,,3211,7,,,,49,https://www.ur.ch/themen/2962
-20210526,,VD,,83286,75,16,,,1010,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210526,,VD,,83286,75,16,,,1011,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210526,,VS,,37711,23,4,2,,782,https://www.vs.ch/de/web/coronavirus
 20210526,08:00,ZG,,8319,6,2,,8135,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210526,14:30,ZH,,111022,105,44,30,,1401,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -891,7 +896,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210525,10:00,TG,,18605,23,7,,1118,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210525,,TI,,32990,19,0,0,3388,994,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210525,00:00,UR,,3209,10,,,,49,https://www.ur.ch/themen/2962
-20210525,,VD,,83167,78,15,,,1010,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210525,,VD,,83167,78,15,,,1011,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210525,,VS,,37667,23,4,3,,782,https://www.vs.ch/de/web/coronavirus
 20210525,08:00,ZG,,8308,5,2,,8122,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210525,14:30,ZH,,110874,111,43,29,,1401,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -913,7 +918,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210524,09:00,SZ,,11784,,,,11256,231,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210524,10:00,TG,,18586,21,7,,1117,451,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210524,,TI,,32977,21,0,0,3386,994,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210524,,VD,,83021,84,18,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210524,,VD,,83021,84,18,,,1009,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210524,,VS,,37626,25,5,4,,782,https://www.vs.ch/de/web/coronavirus
 20210524,08:00,ZG,,8300,5,3,,8107,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210524,14:30,ZH,,110747,111,45,29,,1401,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -934,7 +939,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210523,09:00,SZ,,11771,,,,11240,231,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210523,10:00,TG,,18557,20,8,,1116,450,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210523,,TI,,32965,23,1,1,3383,994,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210523,,VD,,82962,79,18,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210523,,VD,,82962,79,18,,,1009,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210523,,VS,,37585,24,5,4,,782,https://www.vs.ch/de/web/coronavirus
 20210523,08:00,ZG,,8296,6,2,,8092,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210523,14:30,ZH,,110706,118,44,29,,1398,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -955,7 +960,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210522,09:00,SZ,,11738,,,,11232,231,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210522,10:00,TG,,18547,19,8,,1116,449,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210522,,TI,,32947,24,1,1,3381,994,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210522,,VD,,82885,75,20,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210522,,VD,,82885,75,20,,,1009,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210522,,VS,,37569,27,6,5,,782,https://www.vs.ch/de/web/coronavirus
 20210522,08:00,ZG,,8292,6,2,,8076,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210522,14:30,ZH,,110639,126,41,31,,1398,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -982,7 +987,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210521,10:00,TG,,18523,20,8,,1114,449,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210521,,TI,,32930,25,2,1,3379,993,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210521,00:00,UR,,3191,7,,,,49,https://www.ur.ch/themen/2962
-20210521,,VD,,82802,73,17,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210521,,VD,,82802,73,17,,,1009,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210521,,VS,,37550,28,6,5,,781,https://www.vs.ch/de/web/coronavirus
 20210521,08:00,ZG,,8282,6,2,,8065,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210521,14:30,ZH,,110489,119,40,30,,1397,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1008,7 +1013,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210520,10:00,TG,,18478,22,8,,1110,449,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210520,,TI,,32914,25,4,1,3378,993,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210520,00:00,UR,,3175,9,,,,49,https://www.ur.ch/themen/2962
-20210520,,VD,,82681,84,17,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210520,,VD,,82681,84,17,,,1009,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210520,,VS,,37517,30,6,5,,780,https://www.vs.ch/de/web/coronavirus
 20210520,08:00,ZG,,8272,7,2,,8058,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210520,14:30,ZH,,110347,123,41,33,,1397,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1035,7 +1040,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210519,10:00,TG,,18458,21,7,,1110,449,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210519,,TI,,32886,27,4,1,3374,993,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210519,00:00,UR,,3167,10,,,,49,https://www.ur.ch/themen/2962
-20210519,,VD,,82553,84,16,,,1007,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210519,,VD,,82553,84,16,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210519,,VS,,37474,29,6,6,,780,https://www.vs.ch/de/web/coronavirus
 20210519,08:00,ZG,,8254,5,3,,8042,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210519,14:30,ZH,,110197,122,42,33,,1396,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1062,7 +1067,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210518,10:00,TG,,18421,23,6,,1105,448,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210518,,TI,,32850,28,5,2,3373,992,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210518,00:00,UR,,3154,8,,,,48,https://www.ur.ch/themen/2962
-20210518,,VD,,82425,89,17,,,1007,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210518,,VD,,82425,89,17,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210518,,VS,,37429,25,6,5,,780,https://www.vs.ch/de/web/coronavirus
 20210518,08:00,ZG,,8238,5,3,,8022,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210518,14:30,ZH,,109985,128,46,34,,1396,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1088,7 +1093,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210517,10:00,TG,,18383,23,5,,1103,448,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210517,,TI,,32824,29,6,3,3370,992,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210517,00:00,UR,,3145,8,,,,48,https://www.ur.ch/themen/2962
-20210517,,VD,,82291,89,17,,,1007,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210517,,VD,,82291,89,17,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210517,,VS,,37384,25,6,6,,780,https://www.vs.ch/de/web/coronavirus
 20210517,08:00,ZG,,8228,3,3,,8013,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210517,14:30,ZH,,109761,124,51,34,,1396,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1109,7 +1114,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210516,09:00,SZ,,11567,,,,11009,226,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210516,10:00,TG,,18306,22,4,,1099,448,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210516,,TI,,32815,29,8,5,3370,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210516,,VD,,82135,103,18,,,1007,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210516,,VD,,82135,103,18,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210516,,VS,,37327,22,6,6,,780,https://www.vs.ch/de/web/coronavirus
 20210516,08:00,ZG,,8222,5,2,,7999,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210516,14:30,ZH,,109647,128,56,39,,1396,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1130,7 +1135,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210515,09:00,SZ,,11550,,,,11009,225,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210515,10:00,TG,,18300,23,6,,1096,447,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210515,,TI,,32796,30,8,5,3368,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210515,,VD,,82062,98,18,,,1007,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210515,,VD,,82062,98,18,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210515,,VS,,37293,20,6,6,,780,https://www.vs.ch/de/web/coronavirus
 20210515,08:00,ZG,,8213,5,2,,7972,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210515,14:30,ZH,,109566,133,53,38,,1393,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1155,7 +1160,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210514,10:00,TG,,18271,24,6,,1095,447,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210514,,TI,,32771,34,8,6,3364,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210514,00:00,UR,,3130,7,,,,48,https://www.ur.ch/themen/2962
-20210514,,VD,,81978,92,19,,,1007,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210514,,VD,,81978,92,19,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210514,,VS,,37265,21,7,7,,780,https://www.vs.ch/de/web/coronavirus
 20210514,08:00,ZG,,8198,5,2,,7950,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210514,14:30,ZH,,109386,139,51,37,,1392,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1176,7 +1181,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210513,09:00,SZ,,11515,,,,10992,225,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210513,10:00,TG,,18221,24,6,,1091,447,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210513,,TI,,32738,36,9,7,3362,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210513,,VD,,81864,93,16,,,1007,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210513,,VD,,81864,93,16,,,1008,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210513,,VS,,37227,22,7,7,,779,https://www.vs.ch/de/web/coronavirus
 20210513,08:00,ZG,,8183,4,2,,7950,120,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210513,14:30,ZH,,109237,150,49,36,,1390,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1203,7 +1208,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210512,10:00,TG,,18213,21,6,,1090,447,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210512,,TI,,32696,38,8,7,3358,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210512,00:00,UR,,3105,10,,,,48,https://www.ur.ch/themen/2962
-20210512,,VD,,81800,96,15,,,1006,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210512,,VD,,81800,96,15,,,1007,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210512,,VS,,37205,26,7,7,,779,https://www.vs.ch/de/web/coronavirus
 20210512,08:00,ZG,,8166,4,2,,7937,120,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210512,14:30,ZH,,109080,154,47,33,,1390,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1230,7 +1235,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210511,10:00,TG,,18165,22,6,,1086,447,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210511,,TI,,32665,43,9,7,3350,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210511,00:00,UR,,3095,10,,,,48,https://www.ur.ch/themen/2962
-20210511,,VD,,81653,103,16,,,1006,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210511,,VD,,81653,103,16,,,1007,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210511,,VS,,37156,29,7,7,,779,https://www.vs.ch/de/web/coronavirus
 20210511,08:00,ZG,,8147,7,2,,7910,119,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210511,14:30,ZH,,108876,166,51,39,,1390,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1257,7 +1262,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210510,10:00,TG,,18120,21,6,,1084,447,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210510,,TI,,32617,53,11,7,3340,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210510,00:00,UR,,3089,11,,,,47,https://www.ur.ch/themen/2962
-20210510,,VD,,81537,107,17,,,1006,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210510,,VD,,81537,107,17,,,1007,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210510,,VS,,37094,29,8,6,,779,https://www.vs.ch/de/web/coronavirus
 20210510,08:00,ZG,,8132,8,2,,7892,119,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210510,14:30,ZH,,108650,180,44,30,,1390,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1278,7 +1283,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210509,09:00,SZ,,11419,,,,10849,224,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210509,10:00,TG,,18040,23,7,,1080,447,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210509,,TI,,32586,54,11,8,3338,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210509,,VD,,81370,111,20,,,1005,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210509,,VD,,81370,111,20,,,1006,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210509,,VS,,37010,27,8,6,,779,https://www.vs.ch/de/web/coronavirus
 20210509,08:00,ZG,,8126,8,2,,7874,119,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210509,14:30,ZH,,108515,180,44,30,,1390,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1299,7 +1304,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210508,09:00,SZ,,11386,,,,10849,224,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210508,10:00,TG,,18028,22,7,,1080,446,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210508,,TI,,32559,54,11,8,3337,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210508,,VD,,81280,105,19,,,1005,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210508,,VD,,81280,105,19,,,1006,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210508,,VS,,36974,26,8,6,,779,https://www.vs.ch/de/web/coronavirus
 20210508,08:00,ZG,,8116,8,2,,7855,119,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210508,14:30,ZH,,108387,149,49,36,,1389,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1326,7 +1331,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210507,10:00,TG,,17965,20,9,,1080,446,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210507,,TI,,32496,54,11,8,3333,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210507,00:00,UR,,3024,5,,,,47,https://www.ur.ch/themen/2962
-20210507,,VD,,81151,103,18,,,1005,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210507,,VD,,81151,103,18,,,1006,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210507,,VS,,36937,31,8,6,,779,https://www.vs.ch/de/web/coronavirus
 20210507,08:00,ZG,,8103,8,2,,7842,119,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210507,14:30,ZH,,108185,158,49,35,,1387,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1353,7 +1358,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210506,10:00,TG,,17958,21,9,,1078,446,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210506,,TI,,32450,57,12,8,3329,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210506,00:00,UR,,3003,5,,,,47,https://www.ur.ch/themen/2962
-20210506,,VD,,80992,106,23,,,1004,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210506,,VD,,80992,106,23,,,1005,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210506,,VS,,36861,30,8,7,,779,https://www.vs.ch/de/web/coronavirus
 20210506,08:00,ZG,,8079,6,2,,7819,119,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210506,14:30,ZH,,108001,181,53,35,,1385,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1380,7 +1385,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210505,10:00,TG,,17911,24,12,,1074,446,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210505,,TI,,32388,60,11,7,3324,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210505,00:00,UR,,2988,5,,,,47,https://www.ur.ch/themen/2962
-20210505,,VD,,80816,110,23,,,1004,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210505,,VD,,80816,110,23,,,1005,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210505,,VS,,36801,29,8,6,,779,https://www.vs.ch/de/web/coronavirus
 20210505,08:00,ZG,,8055,7,2,,7796,118,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210505,14:30,ZH,,107766,196,55,40,,1384,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1407,7 +1412,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210504,10:00,TG,,17868,31,13,,1066,444,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210504,,TI,,32328,60,13,7,3319,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210504,08:30,UR,,2968,5,,,,47,https://www.ur.ch/themen/2962
-20210504,,VD,,80638,122,21,,,1004,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210504,,VD,,80638,122,21,,,1005,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210504,,VS,,36740,33,8,8,,778,https://www.vs.ch/de/web/coronavirus
 20210504,08:00,ZG,,8035,5,2,,7773,118,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210504,14:30,ZH,,107535,204,57,41,,1384,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1434,7 +1439,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210503,10:00,TG,,17842,31,13,,1064,443,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210503,,TI,,32271,62,13,10,3312,991,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210503,00:00,UR,,2957,8,,,,47,https://www.ur.ch/themen/2962
-20210503,,VD,,80470,137,19,,,1003,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210503,,VD,,80470,137,19,,,1004,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210503,,VS,,36654,40,7,6,,778,https://www.vs.ch/de/web/coronavirus
 20210503,08:00,ZG,,8018,5,2,,7751,118,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210503,14:30,ZH,,107221,209,63,46,,1383,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1455,7 +1460,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210502,09:00,SZ,,11206,,,,10528,223,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210502,10:00,TG,,17772,36,13,,1058,443,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210502,,TI,,32252,62,14,11,3310,989,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210502,,VD,,80280,138,21,,,1003,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210502,,VD,,80280,138,21,,,1004,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210502,,VS,,36544,35,7,6,,777,https://www.vs.ch/de/web/coronavirus
 20210502,08:00,ZG,,8012,4,2,,7718,118,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210502,14:30,ZH,,107052,214,61,43,,1382,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1476,7 +1481,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210501,09:00,SZ,,11180,,,,10521,223,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210501,10:00,TG,,17766,36,14,,1055,442,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210501,,TI,,32214,63,14,11,3306,989,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
-20210501,,VD,,80184,131,22,,,1003,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210501,,VD,,80184,131,22,,,1004,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210501,,VS,,36515,34,7,6,,777,https://www.vs.ch/de/web/coronavirus
 20210501,08:00,ZG,,7997,4,2,,7709,118,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210501,14:30,ZH,,106855,210,65,49,,1381,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -1503,7 +1508,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210430,10:00,TG,,17741,37,14,,1050,441,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210430,,TI,,32171,68,14,12,3299,989,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210430,00:00,UR,,2903,8,,,,47,https://www.ur.ch/themen/2962
-20210430,,VD,,80053,122,23,,,1002,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
+20210430,,VD,,80053,122,23,,,1003,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/
 20210430,,VS,,36473,31,7,7,,777,https://www.vs.ch/de/web/coronavirus
 20210430,08:00,ZG,,7976,4,2,,7683,118,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210430,14:30,ZH,,106564,210,67,53,,1378,https://www.zh.ch/de/gesundheit/coronavirus.html
