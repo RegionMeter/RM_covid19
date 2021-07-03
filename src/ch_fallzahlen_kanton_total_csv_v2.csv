@@ -1,9 +1,10 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
+20210703,00:00,GE,,58989,,,,,745,https://infocovid.smc.unige.ch/
 20210702,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210702,,BL,,,1,0,0,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210702,10:30,BS,,12970,9,3,,12737,205,https://www.gesundheit.bs.ch
 20210702,,FL,,3040,,,,,59,https://www.regierung.li/de/mitteilungen/228149/?typ=news
-20210702,00:00,GE,,58978,,,,,745,https://infocovid.smc.unige.ch/
+20210702,00:00,GE,,58989,,,,,745,https://infocovid.smc.unige.ch/
 20210702,,GL,,2811,1,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210702,,GR,,13638,1,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210702,,LU,,,6,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -142,7 +143,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210626,10:40,BS,,12960,11,3,,12724,205,https://www.gesundheit.bs.ch
 20210626,00:00,FL,,3032,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210626,,FR,,32472,7,1,,954,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210626,00:00,GE,,58916,,,,,745,https://infocovid.smc.unige.ch/
+20210626,00:00,GE,,58915,,,,,745,https://infocovid.smc.unige.ch/
 20210626,,GL,,,,0,,,,https://www.gl.ch/public/upload/assets/36569/Sentinella%20Bericht%20KW25.pdf
 20210626,,GR,,13614,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210626,,JU,,7119,3,0,,,145,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
