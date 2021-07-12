@@ -1,14 +1,17 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20210712,00:00,GE,,59162,,,,,745,https://infocovid.smc.unige.ch/
+20210712,00:00,UR,,3266,0,,,,50,https://www.ur.ch/themen/2962
 20210711,10:40,BS,,13016,,,,12765,205,https://www.gesundheit.bs.ch
 20210711,00:00,GE,,59162,,,,,745,https://infocovid.smc.unige.ch/
 20210711,,GR,,13705,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
+20210711,,SG,,43000,4,2,2,,717,https://www.sg.ch/tools/informationen-coronavirus.html
 20210711,09:00,SZ,,12429,,,,12104,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210710,10:30,BS,,13014,,,,12762,205,https://www.gesundheit.bs.ch
 20210710,00:00,FL,,3057,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210710,00:00,GE,,59142,,,,,745,https://infocovid.smc.unige.ch/
 20210710,,GR,,13701,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210710,,NW,,2748,0,0,,,23,https://www.nw.ch/gesundheitsamtdienste/6044
+20210710,,SG,,42993,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20210710,09:00,SZ,,12412,,,,12104,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210709,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210709,,BL,,,1,0,0,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -20,6 +23,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210709,,LU,,,6,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210709,,NW,,2742,0,0,,,23,http://www.nw.ch/coronastatistik
 20210709,00:00,OW,,2605,2,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
+20210709,,SG,,42981,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20210709,09:00,SH,,4831,0,0,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 20210709,,SO,,18006,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210709,09:00,SZ,,12401,,,,12103,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -43,7 +47,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210708,,LU,,29017,6,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210708,,NW,,2741,0,0,,,23,http://www.nw.ch/coronastatistik
 20210708,00:00,OW,,2605,0,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20210708,,SG,,42952,3,2,2,,716,https://www.sg.ch/tools/informationen-coronavirus.html
+20210708,,SG,,42958,3,2,2,,716,https://www.sg.ch/tools/informationen-coronavirus.html
 20210708,09:00,SH,,4825,0,0,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 20210708,,SO,,17999,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210708,09:00,SZ,,12393,,,,12097,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
