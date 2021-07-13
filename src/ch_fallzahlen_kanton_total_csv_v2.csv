@@ -1,9 +1,12 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20210713,00:00,GE,,59191,,,,,745,https://infocovid.smc.unige.ch/
+20210713,00:00,OW,,2609,1,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20210713,09:00,SH,,4834,0,0,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 20210713,09:00,SZ,,12439,,,,12120,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
+20210713,,TI,,33400,3,0,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210713,00:00,UR,,3266,0,,,,50,https://www.ur.ch/themen/2962
 20210712,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
+20210712,,BE,,65894,4,2,2,,1092,https://covid-kennzahlen.apps.be.ch/
 20210712,,BL,,,0,0,0,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210712,11:20,BS,,13027,3,3,,12773,205,https://www.gesundheit.bs.ch
 20210712,00:00,FL,,3058,4,,,2981,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
@@ -25,7 +28,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210712,08:00,ZG,,8574,1,0,,8378,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210712,14:30,ZH,,113264,13,8,5,,1418,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210711,08:00,AG,,48000,,,,47110,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
-20210711,,BE,,65869,4,2,2,,1092,https://covid-kennzahlen.apps.be.ch/
+20210711,,BE,,65872,4,2,2,,1092,https://covid-kennzahlen.apps.be.ch/
 20210711,,BL,,18298,0,0,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210711,10:40,BS,,13016,3,3,,12765,205,https://www.gesundheit.bs.ch
 20210711,00:00,FL,,3058,4,,,2977,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
@@ -43,7 +46,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210711,08:00,ZG,,8566,1,0,,8372,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210711,14:30,ZH,,113200,13,9,5,,1418,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210710,08:00,AG,,47986,,,,47110,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
-20210710,,BE,,65849,,,,,1092,https://covid-kennzahlen.apps.be.ch/
+20210710,,BE,,65850,,,,,1092,https://covid-kennzahlen.apps.be.ch/
 20210710,,BL,,18289,1,1,1,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210710,10:30,BS,,13014,2,2,,12762,205,https://www.gesundheit.bs.ch
 20210710,00:00,FL,,3057,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
