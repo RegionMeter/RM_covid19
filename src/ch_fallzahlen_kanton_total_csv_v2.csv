@@ -1,13 +1,14 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
+20210718,00:00,GE,,59572,,,,,745,https://infocovid.smc.unige.ch/
 20210717,10:30,BS,,13116,,,,12798,205,https://www.gesundheit.bs.ch
-20210717,00:00,GE,,59489,,,,,745,https://infocovid.smc.unige.ch/
+20210717,00:00,GE,,59572,,,,,745,https://infocovid.smc.unige.ch/
 20210717,,GR,,13761,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210717,,NW,,2755,0,0,,,23,https://www.nw.ch/gesundheitsamtdienste/6044
 20210717,09:00,SZ,,12503,,,,12151,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210716,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210716,,BL,,,1,0,0,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210716,10:20,BS,,13104,6,3,,12797,205,https://www.gesundheit.bs.ch
-20210716,00:00,GE,,59489,4,0,,,745,https://infocovid.smc.unige.ch/
+20210716,00:00,GE,,59495,4,0,,,745,https://infocovid.smc.unige.ch/
 20210716,,GL,,2844,1,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210716,,GR,,13757,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210716,,LU,,,8,,1,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -51,7 +52,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210714,10:30,BS,,13064,4,3,,12780,205,https://www.gesundheit.bs.ch
 20210714,00:00,FL,,3061,4,,,2985,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210714,,FR,,32556,3,0,,958,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210714,00:00,GE,,59312,4,0,,,745,https://infocovid.smc.unige.ch/
+20210714,00:00,GE,,59311,4,0,,,745,https://infocovid.smc.unige.ch/
 20210714,,GL,,2838,0,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210714,,GR,,13731,1,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210714,,LU,,29120,9,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -74,7 +75,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210713,10:40,BS,,13035,3,3,,12778,205,https://www.gesundheit.bs.ch
 20210713,00:00,FL,,3060,4,,,2984,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210713,,FR,,32549,5,1,,957,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210713,00:00,GE,,59229,4,0,,,745,https://infocovid.smc.unige.ch/
+20210713,00:00,GE,,59228,4,0,,,745,https://infocovid.smc.unige.ch/
 20210713,,GL,,2834,0,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210713,,GR,,13720,1,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210713,,JU,,7147,0,0,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -99,7 +100,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210712,11:20,BS,,13027,3,3,,12773,205,https://www.gesundheit.bs.ch
 20210712,00:00,FL,,3058,4,,,2981,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210712,,FR,,32545,3,0,,957,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210712,00:00,GE,,59180,4,0,,,745,https://infocovid.smc.unige.ch/
+20210712,00:00,GE,,59179,4,0,,,745,https://infocovid.smc.unige.ch/
 20210712,,GL,,2830,1,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210712,,GR,,13715,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210712,,JU,,7145,0,0,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4371,7 +4372,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210121,11:10,BS,,9067,62,11,,8596,171,https://www.gesundheit.bs.ch
 20210121,00:00,FL,,2432,6,,,2322,52,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210121,,FR,,25018,41,6,,734,437,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210121,00:00,GE,,43467,117,8,,,695,https://infocovid.smc.unige.ch/
+20210121,00:00,GE,,43466,117,8,,,695,https://infocovid.smc.unige.ch/
 20210121,,GL,,1972,20,1,,,50,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210121,,GR,,9510,29,9,8,,160,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210121,,JU,,5104,17,1,,,119,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4398,7 +4399,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210120,10:50,BS,,9021,67,11,,8550,171,https://www.gesundheit.bs.ch
 20210120,00:00,FL,,2415,6,,,2322,51,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210120,,FR,,24948,38,6,,732,436,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210120,00:00,GE,,43348,116,9,,,694,https://infocovid.smc.unige.ch/
+20210120,00:00,GE,,43347,116,9,,,694,https://infocovid.smc.unige.ch/
 20210120,,GL,,1954,23,1,,,48,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210120,,GR,,9466,36,11,9,,159,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210120,,JU,,5073,18,1,,,118,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4425,7 +4426,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210119,10:50,BS,,8974,70,12,,8507,170,https://www.gesundheit.bs.ch
 20210119,00:00,FL,,2405,6,,,2302,50,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210119,,FR,,24856,43,8,,730,436,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210119,00:00,GE,,43216,114,8,,,694,https://infocovid.smc.unige.ch/
+20210119,00:00,GE,,43215,114,8,,,694,https://infocovid.smc.unige.ch/
 20210119,,GL,,1936,22,2,,,48,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210119,,GR,,9399,42,11,9,,159,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210119,,JU,,5055,22,1,,,118,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4452,7 +4453,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210118,11:30,BS,,8951,69,13,,8481,169,https://www.gesundheit.bs.ch
 20210118,00:00,FL,,2398,7,,,2292,50,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210118,,FR,,24767,44,8,,728,431,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210118,00:00,GE,,43064,113,6,,,692,https://infocovid.smc.unige.ch/
+20210118,00:00,GE,,43063,113,6,,,692,https://infocovid.smc.unige.ch/
 20210118,,GL,,1924,20,1,,,46,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210118,,GR,,9335,39,10,9,,159,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210118,,JU,,5026,19,1,,,117,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4478,7 +4479,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210117,11:15,BS,,8942,67,13,,8441,169,https://www.gesundheit.bs.ch
 20210117,00:00,FL,,2395,6,,,2281,50,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210117,,FR,,24710,44,7,,728,428,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210117,00:00,GE,,42872,114,5,,,691,https://infocovid.smc.unige.ch/
+20210117,00:00,GE,,42871,114,5,,,691,https://infocovid.smc.unige.ch/
 20210117,,GL,13130,,,3,,,,https://www.gl.ch/public/upload/assets/34570/Sentinella%20Bericht%20KW6.pdf
 20210117,,GR,,9274,39,8,8,,159,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210117,,JU,,5007,17,1,,,117,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4499,7 +4500,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210116,11:00,BS,,8924,65,13,,8395,169,https://www.gesundheit.bs.ch
 20210116,00:00,FL,,2389,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210116,,FR,,24656,40,8,,727,428,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210116,00:00,GE,,42840,114,6,,,690,https://infocovid.smc.unige.ch/
+20210116,00:00,GE,,42839,114,6,,,690,https://infocovid.smc.unige.ch/
 20210116,,GL,,,,3,,,,https://www.gl.ch/public/upload/assets/34570/Sentinella%20Bericht%20KW6.pdf
 20210116,,GR,,9226,41,8,8,,157,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210116,,JU,,5002,15,2,,,117,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4521,7 +4522,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210115,11:00,BS,,8896,64,10,,8335,168,https://www.gesundheit.bs.ch
 20210115,00:00,FL,,2383,9,,,2264,49,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210115,,FR,,24601,38,7,,727,427,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210115,00:00,GE,,42735,115,7,,,687,https://infocovid.smc.unige.ch/
+20210115,00:00,GE,,42734,115,7,,,687,https://infocovid.smc.unige.ch/
 20210115,,GL,,1902,22,3,,,43,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210115,,GR,,9192,37,8,7,,157,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210115,,JU,,4957,15,1,,,117,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4548,7 +4549,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210114,10:45,BS,,8870,68,14,,8259,167,https://www.gesundheit.bs.ch
 20210114,00:00,FL,,2378,9,,,2264,49,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210114,,FR,,24524,41,7,,722,424,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210114,00:00,GE,,42598,128,7,,,686,https://infocovid.smc.unige.ch/
+20210114,00:00,GE,,42597,128,7,,,686,https://infocovid.smc.unige.ch/
 20210114,,GL,,1886,23,3,,,42,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210114,,GR,,9119,43,8,8,,155,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210114,,JU,,4939,17,0,,,117,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4575,7 +4576,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210113,10:45,BS,,8835,83,13,,8198,167,https://www.gesundheit.bs.ch
 20210113,00:00,FL,,2375,13,,,2234,49,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210113,,FR,,24431,47,8,,717,424,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210113,00:00,GE,,42457,118,6,,,686,https://infocovid.smc.unige.ch/
+20210113,00:00,GE,,42456,118,6,,,686,https://infocovid.smc.unige.ch/
 20210113,,GL,,1867,20,4,,,42,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210113,,GR,,9071,43,7,6,,154,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210113,,JU,,4908,20,0,,,117,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4602,7 +4603,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210112,11:00,BS,,8785,89,15,,8143,167,https://www.gesundheit.bs.ch
 20210112,00:00,FL,,2370,13,,,2211,49,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210112,,FR,,24351,49,8,,713,421,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210112,00:00,GE,,42314,121,7,,,686,https://infocovid.smc.unige.ch/
+20210112,00:00,GE,,42313,121,7,,,686,https://infocovid.smc.unige.ch/
 20210112,,GL,,1852,21,3,,,39,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210112,,GR,,8981,48,6,6,,152,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210112,,JU,,4868,23,0,,,117,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4629,7 +4630,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210111,10:40,BS,,8720,98,14,,8080,163,https://www.gesundheit.bs.ch
 20210111,00:00,FL,,2355,13,,,2196,49,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210111,,FR,,24255,47,9,,710,421,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210111,00:00,GE,,42162,132,6,,,684,https://infocovid.smc.unige.ch/
+20210111,00:00,GE,,42161,132,6,,,684,https://infocovid.smc.unige.ch/
 20210111,,GL,,1823,24,3,,,38,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210111,,GR,,8929,45,6,6,,152,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210111,,JU,,4837,25,0,,,117,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4654,7 +4655,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210110,10:40,BS,,8695,100,14,,8020,163,https://www.gesundheit.bs.ch
 20210110,00:00,FL,,2346,14,,,2182,49,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210110,,FR,,24184,46,10,,710,418,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210110,00:00,GE,,42003,123,5,,,684,https://infocovid.smc.unige.ch/
+20210110,00:00,GE,,42002,123,5,,,684,https://infocovid.smc.unige.ch/
 20210110,,GL,12215,,,3,,,,https://www.gl.ch/public/upload/assets/34478/Sentinella%20Bericht%20KW5.pdf
 20210110,,GR,,8866,44,6,6,,149,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210110,,JU,,4807,24,1,,,116,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4675,7 +4676,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210109,12:15,BS,,8656,102,17,,7939,163,https://www.gesundheit.bs.ch
 20210109,00:00,FL,,2340,,,,,49,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210109,,FR,,24143,49,11,,708,417,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210109,00:00,GE,,41937,117,5,,,684,https://infocovid.smc.unige.ch/
+20210109,00:00,GE,,41936,117,5,,,684,https://infocovid.smc.unige.ch/
 20210109,,GL,,,,3,,,,https://www.gl.ch/public/upload/assets/34478/Sentinella%20Bericht%20KW5.pdf
 20210109,,GR,,8837,43,5,5,,149,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210109,,JU,,4793,23,1,,,116,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4698,7 +4699,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210108,10:45,BS,,8608,104,19,,7915,163,https://www.gesundheit.bs.ch
 20210108,00:00,FL,,2329,14,,,2108,48,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210108,,FR,,24058,53,11,,708,415,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210108,00:00,GE,,41843,124,6,,,680,https://infocovid.smc.unige.ch/
+20210108,00:00,GE,,41842,124,6,,,680,https://infocovid.smc.unige.ch/
 20210108,,GL,,1781,22,3,,,38,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210108,,GR,,8772,38,5,5,,149,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210108,,JU,,4758,23,2,,,115,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4725,7 +4726,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210107,10:15,BS,,8534,102,21,,7815,163,https://www.gesundheit.bs.ch
 20210107,00:00,FL,,2311,14,,,2108,48,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210107,,FR,,23959,52,11,,707,415,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210107,00:00,GE,,41722,117,5,,,679,https://infocovid.smc.unige.ch/
+20210107,00:00,GE,,41721,117,5,,,679,https://infocovid.smc.unige.ch/
 20210107,,GL,,1733,21,2,,,38,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210107,,GR,,8685,37,5,5,,147,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210107,,JU,,4734,25,2,,,114,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4752,7 +4753,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210106,11:15,BS,,8464,109,21,,7764,163,https://www.gesundheit.bs.ch
 20210106,00:00,FL,,2295,18,,,2084,48,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210106,,FR,,23876,51,11,,706,414,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210106,00:00,GE,,41586,120,6,,,678,https://infocovid.smc.unige.ch/
+20210106,00:00,GE,,41585,120,6,,,678,https://infocovid.smc.unige.ch/
 20210106,,GL,,1710,21,2,,,38,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210106,,GR,,8625,46,8,7,,145,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210106,,JU,,4701,22,2,,,114,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4778,7 +4779,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210105,12:00,BS,,8382,108,19,,7688,163,https://www.gesundheit.bs.ch
 20210105,00:00,FL,,2246,16,,,2005,45,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210105,,FR,,23761,56,12,,703,412,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210105,00:00,GE,,41454,127,5,,,675,https://infocovid.smc.unige.ch/
+20210105,00:00,GE,,41453,127,5,,,675,https://infocovid.smc.unige.ch/
 20210105,,GL,,1656,22,4,,,37,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210105,,GR,,8518,42,7,6,,145,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210105,,JU,,4658,21,2,,,114,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4805,7 +4806,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210104,11:15,BS,,8306,107,17,,7611,160,https://www.gesundheit.bs.ch
 20210104,,FL,,2224,13,,,1979,41,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf
 20210104,,FR,,23642,57,10,,697,412,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210104,00:00,GE,,41301,135,5,,,673,https://infocovid.smc.unige.ch/
+20210104,00:00,GE,,41300,135,5,,,673,https://infocovid.smc.unige.ch/
 20210104,,GL,,1635,20,4,,,37,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210104,,GR,,8438,47,8,7,,141,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210104,,JU,,4606,26,2,,,114,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4830,7 +4831,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210103,12:00,BS,,8259,110,19,,7576,156,https://www.gesundheit.bs.ch
 20210103,00:00,FL,,2224,13,,,1979,41,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210103,,FR,,23557,50,10,,697,411,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210103,00:00,GE,,41158,131,4,,,671,https://infocovid.smc.unige.ch/
+20210103,00:00,GE,,41157,131,4,,,671,https://infocovid.smc.unige.ch/
 20210103,,GL,,,,3,,,,https://www.gl.ch/public/upload/assets/34288/Sentinella%20Bericht%20KW4.pdf
 20210103,,GR,,8323,42,8,6,,140,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210103,,JU,,4560,29,2,,,112,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4851,7 +4852,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210102,11:00,BS,,8203,120,18,,7512,155,https://www.gesundheit.bs.ch
 20210102,00:00,FL,,2222,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210102,,FR,,23480,49,10,,697,411,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210102,00:00,GE,,41088,123,5,,,670,https://infocovid.smc.unige.ch/
+20210102,00:00,GE,,41087,123,5,,,670,https://infocovid.smc.unige.ch/
 20210102,,GL,,,,3,,,,https://www.gl.ch/public/upload/assets/34288/Sentinella%20Bericht%20KW4.pdf
 20210102,,GR,,8284,50,7,6,,140,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210102,,JU,,4534,29,2,,,111,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4872,7 +4873,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210101,10:30,BS,,8182,117,16,,7436,153,https://www.gesundheit.bs.ch
 20210101,00:00,FL,,2202,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210101,,FR,,23415,47,11,,697,409,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20210101,00:00,GE,,40982,120,7,,,667,https://infocovid.smc.unige.ch/
+20210101,00:00,GE,,40981,120,7,,,667,https://infocovid.smc.unige.ch/
 20210101,,GL,,1612,19,3,,,36,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210101,,GR,,8232,50,8,5,,140,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210101,,JU,,4516,32,2,,,111,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4896,7 +4897,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201231,11:00,BS,,8108,136,21,,7370,149,https://www.gesundheit.bs.ch
 20201231,00:00,FL,,2136,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201231,,FR,,23366,49,11,,695,409,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201231,00:00,GE,,40935,122,6,,,665,https://infocovid.smc.unige.ch/
+20201231,00:00,GE,,40934,122,6,,,665,https://infocovid.smc.unige.ch/
 20201231,,GL,,1588,18,3,,,36,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201231,,GR,,8168,52,8,6,,137,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201231,,JU,,4487,32,2,,,111,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4922,7 +4923,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201230,10:45,BS,,8043,133,23,,7301,148,https://www.gesundheit.bs.ch
 20201230,00:00,FL,,2104,16,,,1810,39,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201230,,FR,,23278,48,10,,694,408,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201230,00:00,GE,,40818,138,7,,,662,https://infocovid.smc.unige.ch/
+20201230,00:00,GE,,40817,138,7,,,662,https://infocovid.smc.unige.ch/
 20201230,,GL,,1565,17,3,,,36,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201230,,GR,,8086,53,8,7,,137,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201230,,JU,,4456,35,2,,,111,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4947,7 +4948,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201229,11:15,BS,,7990,141,22,,7243,144,https://www.gesundheit.bs.ch
 20201229,00:00,FL,,2069,21,,,1764,38,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201229,,FR,,23183,52,10,,689,408,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201229,00:00,GE,,40640,146,11,,,658,https://infocovid.smc.unige.ch/
+20201229,00:00,GE,,40639,146,11,,,658,https://infocovid.smc.unige.ch/
 20201229,,GL,,1537,22,3,,,35,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201229,,GR,,7993,52,7,5,,137,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201229,,JU,,4412,34,1,,,111,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -4974,7 +4975,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201228,10:30,BS,,7901,141,25,,7123,139,https://www.gesundheit.bs.ch
 20201228,00:00,FL,,2038,24,,,1734,35,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201228,,FR,,23089,55,11,,685,401,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201228,00:00,GE,,40473,144,11,,,655,https://infocovid.smc.unige.ch/
+20201228,00:00,GE,,40472,144,11,,,655,https://infocovid.smc.unige.ch/
 20201228,,GL,,1504,16,4,,,35,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201228,,GR,,7874,46,7,5,,136,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201228,,JU,,4373,34,1,,,108,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -5989,7 +5990,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201118,10:30,BS,,4290,155,27,,3213,59,https://www.gesundheit.bs.ch
 20201118,00:00,FL,,1072,11,,,865,8,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201118,,FR,,18777,189,26,,485,293,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201118,00:00,GE,,34147,568,27,,,502,https://infocovid.smc.unige.ch/
+20201118,00:00,GE,,34146,568,27,,,502,https://infocovid.smc.unige.ch/
 20201118,,GL,,814,10,2,,,17,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201118,,GR,,4080,56,10,9,,77,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201118,,JU,,3397,43,7,,,70,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -6016,7 +6017,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201117,10:30,BS,,4151,147,26,,3058,58,https://www.gesundheit.bs.ch
 20201117,00:00,FL,,1051,7,,,841,8,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201117,,FR,,18461,197,20,,470,283,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201117,00:00,GE,,33807,606,30,,,482,https://infocovid.smc.unige.ch/
+20201117,00:00,GE,,33806,606,30,,,482,https://infocovid.smc.unige.ch/
 20201117,,GL,,796,13,3,,,16,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201117,,GR,,3997,65,11,11,,76,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201117,,JU,,3370,48,7,,,68,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -6043,7 +6044,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201116,10:30,BS,,4041,148,25,,2996,57,https://www.gesundheit.bs.ch
 20201116,00:00,FL,,1002,8,,,796,8,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201116,,FR,,18234,196,22,,461,277,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201116,00:00,GE,,33369,642,31,,,468,https://infocovid.smc.unige.ch/
+20201116,00:00,GE,,33368,642,31,,,468,https://infocovid.smc.unige.ch/
 20201116,,GL,,786,14,4,,,16,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201116,,GR,,3912,87,11,10,,75,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201116,,JU,,3317,51,7,,,68,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -6068,7 +6069,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201115,10:30,BS,,3964,143,25,,2943,57,https://www.gesundheit.bs.ch
 20201115,00:00,FL,,989,12,,,763,7,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201115,,FR,,18024,189,23,,458,269,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201115,00:00,GE,,32926,639,32,,,455,https://infocovid.smc.unige.ch/
+20201115,00:00,GE,,32925,639,32,,,455,https://infocovid.smc.unige.ch/
 20201115,,GL,6232,,,4,,,,https://www.gl.ch/public/upload/assets/33581/Sentinella%20Bericht%20KW50.pdf
 20201115,,GR,,3862,78,10,9,,74,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201115,,JU,,3290,61,7,,,64,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -6091,7 +6092,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201114,10:30,BS,,3870,135,24,,2845,57,https://www.gesundheit.bs.ch
 20201114,00:00,FL,,985,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201114,,FR,,17869,186,21,,452,261,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201114,00:00,GE,,32749,635,32,,,449,https://infocovid.smc.unige.ch/
+20201114,00:00,GE,,32748,635,32,,,449,https://infocovid.smc.unige.ch/
 20201114,,GL,,,,4,,,,https://www.gl.ch/public/upload/assets/33581/Sentinella%20Bericht%20KW50.pdf
 20201114,,GR,,3806,72,10,10,,72,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201114,,JU,,3258,59,7,,,62,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -6115,7 +6116,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201113,11:00,BS,,3751,129,24,,2779,56,https://www.gesundheit.bs.ch
 20201113,00:00,FL,,970,12,,,682,5,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201113,,FR,,17519,205,21,,428,253,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201113,00:00,GE,,32393,629,29,,,434,https://infocovid.smc.unige.ch/
+20201113,00:00,GE,,32392,629,29,,,434,https://infocovid.smc.unige.ch/
 20201113,,GL,,752,20,4,,,16,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201113,,GR,,3727,63,8,7,,72,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201113,,JU,,3221,60,7,,,58,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -6142,7 +6143,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201112,09:00,BS,,3608,117,21,,2693,56,https://www.gesundheit.bs.ch
 20201112,00:00,FL,,928,12,,,682,5,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201112,,FR,,17080,211,23,,417,238,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201112,00:00,GE,,31850,630,30,,,428,https://infocovid.smc.unige.ch/
+20201112,00:00,GE,,31849,630,30,,,428,https://infocovid.smc.unige.ch/
 20201112,,GL,,737,18,3,,,16,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201112,,GR,,3649,60,8,7,,68,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201112,,JU,,3161,61,7,,,57,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -6169,7 +6170,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201111,09:00,BS,,3458,118,20,,2607,56,https://www.gesundheit.bs.ch
 20201111,00:00,FL,,905,15,,,656,4,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201111,,FR,,16570,212,23,,397,233,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201111,00:00,GE,,31188,620,28,,,417,https://infocovid.smc.unige.ch/
+20201111,00:00,GE,,31187,620,28,,,417,https://infocovid.smc.unige.ch/
 20201111,,GL,,719,19,3,,,16,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201111,,GR,,3571,64,8,7,,66,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201111,,JU,,3073,60,7,,,54,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -6196,7 +6197,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201110,09:00,BS,,3363,116,22,,2548,56,https://www.gesundheit.bs.ch
 20201110,00:00,FL,,877,14,,,616,4,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201110,,FR,,15975,212,24,,382,226,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201110,00:00,GE,,30390,638,29,,,407,https://infocovid.smc.unige.ch/
+20201110,00:00,GE,,30389,638,29,,,407,https://infocovid.smc.unige.ch/
 20201110,,GL,,677,21,4,,,15,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201110,,GR,,3444,57,6,6,,65,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201110,,JU,,3024,72,7,,,52,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
@@ -6223,7 +6224,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201109,10:30,BS,,3267,101,19,,2477,56,https://www.gesundheit.bs.ch
 20201109,00:00,FL,,846,14,,,590,4,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20201109,,FR,,15378,200,25,,372,219,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-20201109,00:00,GE,,29509,631,26,,,398,https://infocovid.smc.unige.ch/
+20201109,00:00,GE,,29508,631,26,,,398,https://infocovid.smc.unige.ch/
 20201109,,GL,,661,21,3,,,15,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20201109,,GR,,3339,54,8,8,,65,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20201109,,JU,,2968,74,8,,,49,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
