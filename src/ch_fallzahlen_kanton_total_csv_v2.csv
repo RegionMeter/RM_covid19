@@ -1,10 +1,11 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20210718,10:20,BS,,13135,,,,12803,205,https://www.gesundheit.bs.ch
 20210718,00:00,GE,,59572,,,,,745,https://infocovid.smc.unige.ch/
+20210718,,NW,,2757,0,0,,,23,http://www.nw.ch/coronastatistik
 20210717,10:30,BS,,13116,,,,12798,205,https://www.gesundheit.bs.ch
 20210717,00:00,GE,,59572,,,,,745,https://infocovid.smc.unige.ch/
 20210717,,GR,,13761,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20210717,,NW,,2755,0,0,,,23,https://www.nw.ch/gesundheitsamtdienste/6044
+20210717,,NW,,2755,0,0,,,23,http://www.nw.ch/coronastatistik
 20210717,09:00,SZ,,12503,,,,12151,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210716,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210716,,BL,,,1,0,0,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -13,7 +14,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210716,,GL,,2844,1,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210716,,GR,,13757,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210716,,LU,,,8,,1,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
-20210716,,NW,,2754,0,0,,,23,https://www.nw.ch/gesundheitsamtdienste/6044
+20210716,,NW,,2754,0,0,,,23,http://www.nw.ch/coronastatistik
 20210716,00:00,OW,,2614,1,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20210716,09:00,SH,,4842,1,0,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 20210716,,SO,,18048,,,,,,https://corona.so.ch/bevoelkerung/daten/
