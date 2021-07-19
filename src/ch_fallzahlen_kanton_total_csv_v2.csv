@@ -1,7 +1,12 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
+20210719,10:20,BS,,13142,,,,12817,205,https://www.gesundheit.bs.ch
 20210719,00:00,GE,,59648,,,,,745,https://infocovid.smc.unige.ch/
+20210719,00:00,OW,,2617,0,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20210719,09:00,SH,,4852,1,0,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
+20210719,,SO,,18083,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210719,09:00,SZ,,12520,,,,12155,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
+20210719,10:00,TG,,19056,3,0,,1173,456,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20210719,,TI,,33541,7,2,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210719,00:00,UR,,3271,1,,,,50,https://www.ur.ch/themen/2962
 20210718,10:20,BS,,13135,,,,12803,205,https://www.gesundheit.bs.ch
 20210718,00:00,GE,,59648,,,,,745,https://infocovid.smc.unige.ch/
@@ -9,6 +14,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210718,,NW,,2757,0,0,,,23,http://www.nw.ch/coronastatistik
 20210718,,SG,,43191,2,2,1,,717,https://www.sg.ch/tools/informationen-coronavirus.html
 20210718,09:00,SZ,,12517,,,,12152,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
+20210718,10:00,TG,,19056,3,0,,1173,456,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210717,,BE,,,,,,,,https://covid-kennzahlen.apps.be.ch/
 20210717,10:30,BS,,13116,,,,12798,205,https://www.gesundheit.bs.ch
 20210717,00:00,GE,,59578,,,,,745,https://infocovid.smc.unige.ch/
@@ -16,6 +22,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210717,,NW,,2755,0,0,,,23,http://www.nw.ch/coronastatistik
 20210717,,SG,,43179,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20210717,09:00,SZ,,12503,,,,12151,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
+20210717,10:00,TG,,19049,3,0,,1173,456,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210716,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210716,,BE,,,,,,,,https://covid-kennzahlen.apps.be.ch/
 20210716,,BL,,,1,0,0,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -30,7 +37,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210716,09:00,SH,,4842,1,0,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 20210716,,SO,,18048,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210716,09:00,SZ,,12479,,,,12137,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20210716,10:00,TG,,19041,2,0,,1173,456,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20210716,10:00,TG,,19048,3,0,,1173,456,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210716,,TI,,33492,5,1,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210716,00:00,UR,,3267,0,,,,50,https://www.ur.ch/themen/2962
 20210716,08:00,ZG,,8617,2,0,,8427,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
@@ -52,7 +59,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210715,09:00,SH,,4838,0,0,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 20210715,,SO,,18040,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210715,09:00,SZ,,12468,,,,12133,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20210715,10:00,TG,,19041,2,0,,1173,456,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20210715,10:00,TG,,19042,3,0,,1173,456,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210715,,TI,,33475,5,1,0,,995,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210715,00:00,UR,,3266,0,,,,50,https://www.ur.ch/themen/2962
 20210715,,VS,,38303,5,3,2,,785,https://www.vs.ch/de/web/coronavirus
