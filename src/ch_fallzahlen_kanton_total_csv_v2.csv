@@ -10,6 +10,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210719,,LU,,,10,,2,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210719,,NW,,2761,0,0,,,23,http://www.nw.ch/coronastatistik
 20210719,00:00,OW,,2617,0,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
+20210719,,SG,,43228,5,2,0,,717,https://www.sg.ch/tools/informationen-coronavirus.html
 20210719,09:00,SH,,4852,1,0,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 20210719,,SO,,18083,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210719,09:00,SZ,,12520,,,,12155,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -25,10 +26,11 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210718,10:20,BS,,13135,6,3,,12803,205,https://www.gesundheit.bs.ch
 20210718,,FR,,32599,2,0,,959,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210718,00:00,GE,,59658,,,,,745,https://infocovid.smc.unige.ch/
+20210718,,GL,32482,,,0,,,,https://www.gl.ch/public/upload/assets/36840/Sentinella%20Bericht%20KW28.pdf
 20210718,,GR,,13766,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210718,,LU,,29252,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210718,,NW,,2757,0,0,,,23,http://www.nw.ch/coronastatistik
-20210718,,SG,,43191,2,2,1,,717,https://www.sg.ch/tools/informationen-coronavirus.html
+20210718,,SG,,43200,2,2,1,,717,https://www.sg.ch/tools/informationen-coronavirus.html
 20210718,09:00,SZ,,12517,,,,12152,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210718,10:00,TG,,19056,3,0,,1173,456,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210718,08:00,ZG,,8642,2,0,,8448,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
@@ -39,10 +41,11 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210717,10:30,BS,,13116,7,3,,12798,205,https://www.gesundheit.bs.ch
 20210717,,FR,,32590,2,0,,959,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210717,00:00,GE,,59585,,,,,745,https://infocovid.smc.unige.ch/
+20210717,,GL,,,,0,,,,https://www.gl.ch/public/upload/assets/36840/Sentinella%20Bericht%20KW28.pdf
 20210717,,GR,,13761,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210717,,LU,,29225,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210717,,NW,,2755,0,0,,,23,http://www.nw.ch/coronastatistik
-20210717,,SG,,43179,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20210717,,SG,,43183,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20210717,09:00,SZ,,12503,,,,12151,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210717,10:00,TG,,19050,3,0,,1173,456,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210717,08:00,ZG,,8636,2,0,,8445,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
@@ -54,12 +57,12 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210716,10:20,BS,,13104,6,3,,12797,205,https://www.gesundheit.bs.ch
 20210716,,FR,,32582,2,0,,958,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210716,00:00,GE,,59493,4,0,,,745,https://infocovid.smc.unige.ch/
-20210716,,GL,,2844,1,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
+20210716,,GL,,2844,1,0,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210716,,GR,,13757,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210716,,LU,,29197,8,,1,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210716,,NW,,2754,0,0,,,23,http://www.nw.ch/coronastatistik
 20210716,00:00,OW,,2614,1,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20210716,,SG,,43161,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20210716,,SG,,43162,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20210716,09:00,SH,,4842,1,0,,,78,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 20210716,,SO,,18048,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210716,09:00,SZ,,12479,,,,12137,238,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -76,7 +79,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210715,10:30,BS,,13084,5,3,,12788,205,https://www.gesundheit.bs.ch
 20210715,,FR,,32565,3,0,,958,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210715,00:00,GE,,59415,4,0,,,745,https://infocovid.smc.unige.ch/
-20210715,,GL,,2840,1,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
+20210715,,GL,,2840,1,0,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210715,,GR,,13743,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210715,,LU,,29156,9,,1,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210715,,NW,,2751,0,0,,,23,http://www.nw.ch/coronastatistik
@@ -99,7 +102,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210714,00:00,FL,,3061,4,,,2985,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210714,,FR,,32555,3,0,,958,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210714,00:00,GE,,59307,4,0,,,745,https://infocovid.smc.unige.ch/
-20210714,,GL,,2838,0,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
+20210714,,GL,,2838,0,0,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210714,,GR,,13731,1,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210714,,LU,,29122,9,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210714,,NE,,17394,2,1,0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
@@ -122,7 +125,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210713,00:00,FL,,3060,4,,,2984,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210713,,FR,,32548,5,1,,957,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210713,00:00,GE,,59224,4,0,,,745,https://infocovid.smc.unige.ch/
-20210713,,GL,,2834,0,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
+20210713,,GL,,2834,0,0,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210713,,GR,,13720,1,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210713,,JU,,7147,0,0,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20210713,,LU,,29103,11,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -147,7 +150,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210712,00:00,FL,,3058,4,,,2981,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210712,,FR,,32544,3,0,,957,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210712,00:00,GE,,59175,4,0,,,745,https://infocovid.smc.unige.ch/
-20210712,,GL,,2830,1,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
+20210712,,GL,,2830,1,0,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210712,,GR,,13715,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210712,,JU,,7145,0,0,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20210712,,LU,,29070,5,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -171,7 +174,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210711,00:00,FL,,3058,4,,,2977,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210711,,FR,,32535,3,0,,957,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210711,00:00,GE,,59139,,,,,745,https://infocovid.smc.unige.ch/
-20210711,,GL,31626,,,1,,,,https://www.gl.ch/public/upload/assets/36814/Sentinella%20Bericht%20KW27.pdf
+20210711,,GL,31626,,,1,,,,https://www.gl.ch/public/upload/assets/36840/Sentinella%20Bericht%20KW28.pdf
 20210711,,GR,,13705,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210711,,JU,,7143,0,0,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20210711,,LU,,29055,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -191,7 +194,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210710,00:00,FL,,3057,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210710,,FR,,32532,3,0,,957,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210710,00:00,GE,,59119,,,,,745,https://infocovid.smc.unige.ch/
-20210710,,GL,,,,1,,,,https://www.gl.ch/public/upload/assets/36814/Sentinella%20Bericht%20KW27.pdf
+20210710,,GL,,,,1,,,,https://www.gl.ch/public/upload/assets/36840/Sentinella%20Bericht%20KW28.pdf
 20210710,,GR,,13701,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210710,,JU,,7143,0,0,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20210710,,LU,,29048,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -336,7 +339,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210704,00:00,FL,,3045,4,,,,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210704,,FR,,32494,3,0,,956,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210704,00:00,GE,,58990,,,,,745,https://infocovid.smc.unige.ch/
-20210704,,GL,30862,,,0,,,,https://www.gl.ch/public/upload/assets/36814/Sentinella%20Bericht%20KW27.pdf
+20210704,,GL,30862,,,0,,,,https://www.gl.ch/public/upload/assets/36840/Sentinella%20Bericht%20KW28.pdf
 20210704,,GR,,13646,1,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210704,,JU,,7126,0,0,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20210704,,LU,,28957,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -356,7 +359,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210703,00:00,FL,,3045,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210703,,FR,,32490,3,0,,956,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210703,00:00,GE,,58979,,,,,745,https://infocovid.smc.unige.ch/
-20210703,,GL,,,,0,,,,https://www.gl.ch/public/upload/assets/36814/Sentinella%20Bericht%20KW27.pdf
+20210703,,GL,,,,0,,,,https://www.gl.ch/public/upload/assets/36840/Sentinella%20Bericht%20KW28.pdf
 20210703,,GR,,13641,1,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210703,,JU,,7126,0,0,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20210703,,LU,,28952,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -502,7 +505,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210627,00:00,FL,,3034,4,,,2959,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210627,,FR,,32467,6,1,,954,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210627,00:00,GE,,58898,,,,,745,https://infocovid.smc.unige.ch/
-20210627,,GL,30023,,,0,,,,https://www.gl.ch/public/upload/assets/36814/Sentinella%20Bericht%20KW27.pdf
+20210627,,GL,30023,,,0,,,,https://www.gl.ch/public/upload/assets/36840/Sentinella%20Bericht%20KW28.pdf
 20210627,,GR,,13615,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210627,,JU,,7120,3,0,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20210627,,LU,,28898,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -522,7 +525,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210626,00:00,FL,,3032,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210626,,FR,,32466,7,1,,954,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210626,00:00,GE,,58892,,,,,745,https://infocovid.smc.unige.ch/
-20210626,,GL,,,,0,,,,https://www.gl.ch/public/upload/assets/36814/Sentinella%20Bericht%20KW27.pdf
+20210626,,GL,,,,0,,,,https://www.gl.ch/public/upload/assets/36840/Sentinella%20Bericht%20KW28.pdf
 20210626,,GR,,13614,2,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210626,,JU,,7120,3,0,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20210626,,LU,,28893,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -673,7 +676,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210620,00:00,FL,,3028,2,,,,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210620,,FR,,32434,8,2,,947,489,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210620,00:00,GE,,58856,1,0,,,745,https://infocovid.smc.unige.ch/
-20210620,,GL,29420,,,0,,,,https://www.gl.ch/public/upload/assets/36814/Sentinella%20Bericht%20KW27.pdf
+20210620,,GL,29420,,,0,,,,https://www.gl.ch/public/upload/assets/36840/Sentinella%20Bericht%20KW28.pdf
 20210620,,GR,,13588,3,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210620,,JU,,7113,4,1,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20210620,,LU,,28868,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -693,7 +696,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210619,00:00,FL,,3028,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210619,,FR,,32434,9,2,,947,489,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210619,00:00,GE,,58850,1,0,,,745,https://infocovid.smc.unige.ch/
-20210619,,GL,,,,0,,,,https://www.gl.ch/public/upload/assets/36814/Sentinella%20Bericht%20KW27.pdf
+20210619,,GL,,,,0,,,,https://www.gl.ch/public/upload/assets/36840/Sentinella%20Bericht%20KW28.pdf
 20210619,,GR,,13588,3,0,0,,192,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210619,,JU,,7113,4,1,,,147,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20210619,,LU,,28865,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
