@@ -1,8 +1,10 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
+20210827,12:00,AI,,1363,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210827,,BE,,72422,112,27,23,,1110,https://covid-kennzahlen.apps.be.ch/
 20210827,10:30,BS,,15025,45,12,,14206,211,https://www.gesundheit.bs.ch
 20210827,00:00,GE,,64531,,,,,748,https://infocovid.smc.unige.ch/
 20210827,,GL,,3301,8,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
+20210827,,LU,,,41,,7,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210827,,SO,,20332,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210827,09:00,SZ,,13546,,,,12944,241,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210827,10:00,TG,,21409,36,17,,1253,458,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -19,7 +21,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210826,,GL,,3259,10,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210826,,GR,,15024,19,5,2,,194,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20210826,,JU,,7666,4,2,,,130,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
-20210826,,LU,,,45,,8,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
+20210826,,LU,,32059,45,,8,,340,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20210826,,NE,,18395,,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20210826,,NW,,2943,2,2,,,23,http://www.nw.ch/coronastatistik
 20210826,00:00,OW,,2866,4,,,,39,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
