@@ -1,5 +1,5 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
-20210830,11:20,BS,,15173,,,,14417,211,https://www.gesundheit.bs.ch
+20210830,11:20,BS,,15173,44,14,,14417,211,https://www.gesundheit.bs.ch
 20210830,00:00,GE,,64871,,,,,748,https://infocovid.smc.unige.ch/
 20210830,,GL,,3355,11,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20210830,,LU,,,48,,8,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -9,7 +9,9 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210830,,TI,,35242,33,5,,,998,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210830,00:00,UR,,3434,7,,,,51,https://www.ur.ch/themen/2962
 20210830,08:00,ZG,,9466,5,2,,9166,124,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
-20210829,11:00,BS,,15136,,,,14372,211,https://www.gesundheit.bs.ch
+20210829,08:00,AG,,54203,,,,49860,712,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210829,,BE,,73088,112,27,23,,1115,https://covid-kennzahlen.apps.be.ch/
+20210829,11:00,BS,,15136,43,14,,14372,211,https://www.gesundheit.bs.ch
 20210829,00:00,FL,,3266,3,,,3166,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210829,,FR,,34417,17,7,,977,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210829,00:00,GE,,64870,,,,,748,https://infocovid.smc.unige.ch/
@@ -23,8 +25,9 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210829,09:00,SZ,,13648,,,,13019,242,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210829,10:00,TG,,21608,38,17,,1254,459,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210829,08:00,ZG,,9451,3,2,,9126,124,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
-20210828,,BE,,,,,,,,https://covid-kennzahlen.apps.be.ch/
-20210828,11:00,BS,,15087,,,,14286,211,https://www.gesundheit.bs.ch
+20210828,08:00,AG,,54015,,,,49750,712,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210828,,BE,,73011,,,,,1115,https://covid-kennzahlen.apps.be.ch/
+20210828,11:00,BS,,15087,41,13,,14286,211,https://www.gesundheit.bs.ch
 20210828,00:00,FL,,3263,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210828,,FR,,34387,17,7,,975,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20210828,00:00,GE,,64810,,,,,748,https://infocovid.smc.unige.ch/
@@ -38,8 +41,9 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210828,09:00,SZ,,13595,,,,12983,242,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20210828,10:00,TG,,21603,38,16,,1254,459,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210828,08:00,ZG,,9428,3,2,,9097,124,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
+20210827,08:00,AG,,53791,81,23,,49520,712,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210827,12:00,AI,,1363,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
-20210827,,BE,,72422,112,27,23,,1110,https://covid-kennzahlen.apps.be.ch/
+20210827,,BE,,72838,112,27,23,,1114,https://covid-kennzahlen.apps.be.ch/
 20210827,,BL,,,17,5,1,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210827,10:30,BS,,15025,45,12,,14206,211,https://www.gesundheit.bs.ch
 20210827,00:00,FL,,3259,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
@@ -61,11 +65,11 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210827,00:00,UR,,3416,8,,,,51,https://www.ur.ch/themen/2962
 20210827,08:00,ZG,,9404,3,2,,9071,124,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210827,14:30,ZH,,125376,165,57,45,,1433,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210826,08:00,AG,,53509,77,22,,49335,711,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210826,08:00,AG,,53510,77,22,,49335,711,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210826,12:00,AI,,1354,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210826,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
-20210826,,BE,,72421,,,,,1110,https://covid-kennzahlen.apps.be.ch/
-20210826,,BL,,20831,16,5,0,,224,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210826,,BE,,72539,,,,,1111,https://covid-kennzahlen.apps.be.ch/
+20210826,,BL,,20899,16,5,0,,224,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210826,10:40,BS,,14950,44,11,,14107,210,https://www.gesundheit.bs.ch
 20210826,00:00,FL,,3257,3,,,3136,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210826,,FR,,34245,14,4,,973,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -89,8 +93,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210826,14:30,ZH,,124921,157,53,38,,1433,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210825,08:00,AG,,53263,70,17,,49140,710,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210825,12:00,AI,,1349,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
-20210825,,BE,,72263,112,27,23,,1110,https://covid-kennzahlen.apps.be.ch/
-20210825,,BL,,20773,22,6,2,,224,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210825,,BE,,72264,112,27,23,,1111,https://covid-kennzahlen.apps.be.ch/
+20210825,,BL,,20775,22,6,2,,224,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210825,10:50,BS,,14869,45,10,,14055,210,https://www.gesundheit.bs.ch
 20210825,00:00,FL,,3250,5,,,3127,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210825,,FR,,34172,14,3,,973,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -114,8 +118,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210825,14:30,ZH,,124402,167,52,40,,1432,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210824,08:00,AG,,53001,77,17,,48925,709,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210824,12:00,AI,,1340,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
-20210824,,BE,,71920,112,27,23,,1109,https://covid-kennzahlen.apps.be.ch/
-20210824,,BL,,20682,21,4,2,,224,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210824,,BE,,71921,112,27,23,,1109,https://covid-kennzahlen.apps.be.ch/
+20210824,,BL,,20683,21,4,2,,224,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210824,10:50,BS,,14777,43,10,,13978,210,https://www.gesundheit.bs.ch
 20210824,00:00,FL,,3247,4,,,3120,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210824,,FR,,34096,13,3,,972,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -139,8 +143,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210824,14:30,ZH,,123928,178,51,39,,1432,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210823,08:00,AG,,52663,79,19,,48725,708,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210823,12:00,AI,,1330,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
-20210823,,BE,,71588,74,11,11,,1108,https://covid-kennzahlen.apps.be.ch/
-20210823,,BL,,20569,18,4,2,,224,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210823,,BE,,71590,74,11,11,,1108,https://covid-kennzahlen.apps.be.ch/
+20210823,,BL,,20570,18,4,2,,224,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210823,11:10,BS,,14714,41,12,,13886,210,https://www.gesundheit.bs.ch
 20210823,00:00,FL,,3233,4,,,3112,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210823,,FR,,33985,8,2,,970,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -163,8 +167,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210823,08:00,ZG,,9287,11,3,,8943,124,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210823,14:30,ZH,,123159,183,49,36,,1431,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210822,08:00,AG,,52391,,,,48630,708,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
-20210822,,BE,,71164,,,,,1107,https://covid-kennzahlen.apps.be.ch/
-20210822,,BL,,20430,18,4,2,,224,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210822,,BE,,71166,,,,,1107,https://covid-kennzahlen.apps.be.ch/
+20210822,,BL,,20431,18,4,2,,224,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210822,10:40,BS,,14691,36,10,,13826,210,https://www.gesundheit.bs.ch
 20210822,00:00,FL,,3228,4,,,3104,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210822,,FR,,33919,9,2,,969,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -184,8 +188,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210822,08:00,ZG,,9267,9,2,,8919,124,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210822,14:30,ZH,,122746,169,49,28,,1430,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210821,08:00,AG,,52255,,,,48535,708,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
-20210821,,BE,,70994,,,,,1107,https://covid-kennzahlen.apps.be.ch/
-20210821,,BL,,20365,21,4,3,,223,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210821,,BE,,70995,,,,,1107,https://covid-kennzahlen.apps.be.ch/
+20210821,,BL,,20366,21,4,3,,223,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210821,10:50,BS,,14611,39,10,,13784,210,https://www.gesundheit.bs.ch
 20210821,00:00,FL,,3223,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210821,,FR,,33871,10,1,,968,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -205,8 +209,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210821,14:30,ZH,,122463,153,50,33,,1428,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210820,08:00,AG,,52029,51,13,,48430,707,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210820,12:00,AI,,1319,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
-20210820,,BE,,70819,,,,,1107,https://covid-kennzahlen.apps.be.ch/
-20210820,,BL,,20317,19,4,2,,222,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210820,,BE,,70820,,,,,1107,https://covid-kennzahlen.apps.be.ch/
+20210820,,BL,,20318,19,4,2,,222,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210820,10:40,BS,,14561,40,9,,13737,209,https://www.gesundheit.bs.ch
 20210820,00:00,FL,,3219,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210820,,FR,,33783,8,1,,968,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -231,8 +235,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210819,08:00,AG,,51761,47,11,,48335,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210819,12:00,AI,,1314,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210819,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
-20210819,,BE,,70586,74,11,11,,1105,https://covid-kennzahlen.apps.be.ch/
-20210819,,BL,,20202,21,3,2,,222,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210819,,BE,,70587,74,11,11,,1105,https://covid-kennzahlen.apps.be.ch/
+20210819,,BL,,20203,21,3,2,,222,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210819,10:30,BS,,14470,39,7,,13661,209,https://www.gesundheit.bs.ch
 20210819,00:00,FL,,3209,3,,,3076,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210819,,FR,,33728,6,1,,968,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -256,8 +260,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210819,14:30,ZH,,121465,143,46,27,,1427,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210818,08:00,AG,,51499,42,10,,48255,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210818,12:00,AI,,1301,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
-20210818,,BE,,70334,,,,,1103,https://covid-kennzahlen.apps.be.ch/
-20210818,,BL,,20105,19,3,3,,222,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210818,,BE,,70335,,,,,1103,https://covid-kennzahlen.apps.be.ch/
+20210818,,BL,,20106,19,3,3,,222,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210818,11:10,BS,,14370,30,6,,13629,209,https://www.gesundheit.bs.ch
 20210818,00:00,FL,,3198,3,,,3071,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210818,,FR,,33664,5,1,,968,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -281,8 +285,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210818,14:30,ZH,,120969,133,44,29,,1425,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210817,08:00,AG,,51209,46,11,,48190,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210817,12:00,AI,,1295,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
-20210817,,BE,,70054,74,11,11,,1103,https://covid-kennzahlen.apps.be.ch/
-20210817,,BL,,19997,20,3,2,,222,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210817,,BE,,70055,74,11,11,,1103,https://covid-kennzahlen.apps.be.ch/
+20210817,,BL,,19998,20,3,2,,222,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210817,10:40,BS,,14291,33,6,,13586,208,https://www.gesundheit.bs.ch
 20210817,00:00,FL,,3185,2,,,3065,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210817,,FR,,33561,3,0,,968,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -304,10 +308,10 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210817,,VS,,39510,21,4,4,,785,https://www.vs.ch/de/web/coronavirus
 20210817,08:00,ZG,,9087,14,2,,8830,123,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210817,14:30,ZH,,120476,121,40,24,,1425,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210816,08:00,AG,,50882,48,8,,48085,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210816,08:00,AG,,50882,48,8,,48080,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210816,12:00,AI,,1282,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210816,,BE,,69753,29,6,4,,1102,https://covid-kennzahlen.apps.be.ch/
-20210816,,BL,,19866,17,0,0,,222,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210816,,BL,,19865,17,0,0,,222,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210816,10:40,BS,,14182,35,7,,13554,208,https://www.gesundheit.bs.ch
 20210816,00:00,FL,,3175,1,,,3045,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210816,,FR,,33476,5,0,,966,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -331,7 +335,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210816,14:30,ZH,,119730,104,32,22,,1424,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210815,08:00,AG,,50651,,,,48015,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210815,,BE,,69361,29,6,4,,1102,https://covid-kennzahlen.apps.be.ch/
-20210815,,BL,,19657,13,0,0,,221,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210815,,BL,,19656,13,0,0,,221,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210815,10:30,BS,,14132,33,7,,13531,208,https://www.gesundheit.bs.ch
 20210815,00:00,FL,,3161,1,,,3045,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210815,,FR,,33426,4,0,,966,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -352,7 +356,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210815,14:30,ZH,,119484,89,29,18,,1424,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210814,08:00,AG,,50541,,,,47965,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210814,,BE,,69208,,,,,1102,https://covid-kennzahlen.apps.be.ch/
-20210814,,BL,,19576,12,0,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210814,,BL,,19575,12,0,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210814,10:30,BS,,14080,26,8,,13488,208,https://www.gesundheit.bs.ch
 20210814,00:00,FL,,3155,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210814,,FR,,33375,4,0,,964,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -370,10 +374,10 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210814,,VS,,39265,20,3,3,,785,https://www.vs.ch/de/web/coronavirus
 20210814,08:00,ZG,,8999,4,1,,8765,123,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210814,14:30,ZH,,119137,86,28,17,,1424,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210813,08:00,AG,,50315,32,7,,47930,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210813,08:00,AG,,50315,32,7,,47925,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210813,12:00,AI,,1262,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210813,,BE,,69030,,,,,1102,https://covid-kennzahlen.apps.be.ch/
-20210813,,BL,,19524,6,0,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210813,,BL,,19523,6,0,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210813,10:30,BS,,14005,21,6,,13438,208,https://www.gesundheit.bs.ch
 20210813,00:00,FL,,3146,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210813,,FR,,33343,2,0,,964,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -399,7 +403,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210812,12:00,AI,,1257,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210812,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210812,,BE,,68786,29,6,4,,1102,https://covid-kennzahlen.apps.be.ch/
-20210812,,BL,,19449,6,0,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210812,,BL,,19448,6,0,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210812,10:50,BS,,13945,19,4,,13413,208,https://www.gesundheit.bs.ch
 20210812,00:00,FL,,3140,1,,,3031,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210812,,FR,,33298,2,0,,964,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -424,7 +428,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210811,08:00,AG,,49923,21,6,,47825,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210811,12:00,AI,,1255,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210811,,BE,,68538,29,6,4,,1102,https://covid-kennzahlen.apps.be.ch/
-20210811,,BL,,19368,5,0,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210811,,BL,,19367,5,0,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210811,10:30,BS,,13892,15,2,,13337,208,https://www.gesundheit.bs.ch
 20210811,00:00,FL,,3127,1,,,3028,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210811,,FR,,33233,4,0,,962,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -449,7 +453,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210810,08:00,AG,,49712,24,6,,47785,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210810,12:00,AI,,1251,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210810,,BE,,68293,29,6,4,,1102,https://covid-kennzahlen.apps.be.ch/
-20210810,,BL,,19287,6,0,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210810,,BL,,19286,6,0,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210810,10:30,BS,,13831,15,3,,13302,208,https://www.gesundheit.bs.ch
 20210810,00:00,FL,,3119,2,,,3025,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210810,,FR,,33179,4,0,,962,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -474,7 +478,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210809,08:00,AG,,49516,22,4,,47740,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210809,12:00,AI,,1249,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210809,,BE,,68046,21,5,4,,1102,https://covid-kennzahlen.apps.be.ch/
-20210809,,BL,,19223,6,1,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210809,,BL,,19222,6,1,0,,220,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210809,11:20,BS,,13789,8,2,,13266,208,https://www.gesundheit.bs.ch
 20210809,00:00,FL,,3107,1,,,3025,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210809,,FR,,33122,6,1,,962,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -498,7 +502,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210809,14:30,ZH,,117427,66,22,13,,1422,https://www.zh.ch/de/gesundheit/coronavirus.html
 20210808,08:00,AG,,49391,,,,47700,706,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210808,,BE,,67732,,,,,1102,https://covid-kennzahlen.apps.be.ch/
-20210808,,BL,,19098,5,1,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20210808,,BL,,19097,5,1,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210808,10:30,BS,,13757,9,1,,13247,208,https://www.gesundheit.bs.ch
 20210808,00:00,FL,,3102,1,,,3024,59,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20210808,,FR,,33080,5,0,,962,493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -701,7 +705,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210731,,VS,,38684,4,2,2,,785,https://www.vs.ch/de/web/coronavirus
 20210731,08:00,ZG,,8794,6,0,,8601,123,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210731,14:30,ZH,,116078,46,16,10,,1420,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210730,08:00,AG,,48671,9,3,,47415,705,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210730,08:00,AG,,48671,9,3,,47410,705,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210730,12:00,AI,,1246,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210730,,BE,,66781,,,,,1102,https://covid-kennzahlen.apps.be.ch/
 20210730,,BL,,18719,3,0,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -777,7 +781,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210728,,VS,,38627,5,2,1,,785,https://www.vs.ch/de/web/coronavirus
 20210728,08:00,ZG,,8767,4,0,,8578,123,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210728,14:30,ZH,,115657,41,13,8,,1419,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210727,08:00,AG,,48522,9,3,,47350,705,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210727,08:00,AG,,48522,9,3,,47345,705,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210727,12:00,AI,,1242,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210727,,BE,,66579,13,4,2,,1100,https://covid-kennzahlen.apps.be.ch/
 20210727,,BL,,18623,1,1,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -802,7 +806,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210727,,VS,,38607,3,1,1,,785,https://www.vs.ch/de/web/coronavirus
 20210727,08:00,ZG,,8751,4,0,,8556,123,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210727,14:30,ZH,,115505,38,14,10,,1419,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210726,08:00,AG,,48472,8,3,,47310,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210726,08:00,AG,,48472,8,3,,47305,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210726,,BE,,66534,10,2,2,,1100,https://covid-kennzahlen.apps.be.ch/
 20210726,,BL,,18604,1,1,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210726,10:30,BS,,13263,10,2,,12919,205,https://www.gesundheit.bs.ch
@@ -826,7 +830,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210726,,VS,,38584,4,2,2,,785,https://www.vs.ch/de/web/coronavirus
 20210726,08:00,ZG,,8739,3,0,,8546,122,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210726,14:30,ZH,,115288,34,13,5,,1419,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210725,08:00,AG,,48424,,,,47290,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210725,08:00,AG,,48424,,,,47285,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210725,,BE,,66461,10,2,2,,1100,https://covid-kennzahlen.apps.be.ch/
 20210725,,BL,,18570,1,1,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210725,10:30,BS,,13250,9,2,,12911,205,https://www.gesundheit.bs.ch
@@ -1034,7 +1038,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210717,,VS,,38375,3,1,0,,785,https://www.vs.ch/de/web/coronavirus
 20210717,08:00,ZG,,8636,2,0,,8445,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210717,14:30,ZH,,113989,19,9,5,,1419,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210716,08:00,AG,,48133,2,0,,47145,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210716,08:00,AG,,48133,2,0,,47140,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210716,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210716,,BE,,66100,,,,,1097,https://covid-kennzahlen.apps.be.ch/
 20210716,,BL,,18381,1,0,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -1159,7 +1163,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210712,,VS,,38266,6,2,1,,785,https://www.vs.ch/de/web/coronavirus
 20210712,08:00,ZG,,8574,1,0,,8378,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210712,14:30,ZH,,113257,13,8,5,,1419,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210711,08:00,AG,,48005,,,,47110,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210711,08:00,AG,,48005,,,,47105,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210711,,BE,,65872,4,2,2,,1097,https://covid-kennzahlen.apps.be.ch/
 20210711,,BL,,18301,0,0,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210711,10:40,BS,,13016,3,3,,12765,205,https://www.gesundheit.bs.ch
@@ -1200,7 +1204,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210710,,VS,,38228,7,3,2,,785,https://www.vs.ch/de/web/coronavirus
 20210710,08:00,ZG,,8555,1,0,,8370,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210710,14:30,ZH,,113141,13,9,5,,1418,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210709,08:00,AG,,47976,3,1,,47100,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210709,08:00,AG,,47976,3,1,,47095,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210709,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210709,,BE,,65835,,,,,1097,https://covid-kennzahlen.apps.be.ch/
 20210709,,BL,,18277,1,0,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -1368,7 +1372,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210703,,VS,,38135,7,2,2,,785,https://www.vs.ch/de/web/coronavirus
 20210703,08:00,ZG,,8484,0,0,,8331,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210703,14:30,ZH,,112756,17,10,6,,1418,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210702,08:00,AG,,47856,,,,47045,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210702,08:00,AG,,47856,,,,47040,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210702,12:00,AI,,1238,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210702,,BE,,65724,,,,,1097,https://covid-kennzahlen.apps.be.ch/
 20210702,,BL,,18238,1,0,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -1468,7 +1472,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210629,,VS,,38108,5,4,2,,785,https://www.vs.ch/de/web/coronavirus
 20210629,08:00,ZG,,8459,0,0,,8323,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210629,14:30,ZH,,112649,24,16,10,,1418,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210628,08:00,AG,,47832,6,1,,47000,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210628,08:00,AG,,47832,6,1,,46995,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210628,12:00,AI,,1236,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210628,,BE,,65683,14,8,5,,1097,https://covid-kennzahlen.apps.be.ch/
 20210628,,BL,,18219,0,0,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -1536,7 +1540,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210626,,VS,,38099,6,3,2,,785,https://www.vs.ch/de/web/coronavirus
 20210626,08:00,ZG,,8449,0,0,,8318,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210626,14:30,ZH,,112605,32,19,15,,1417,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210625,08:00,AG,,47812,7,1,,46960,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210625,08:00,AG,,47812,7,1,,46955,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210625,12:00,AI,,1236,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210625,,BE,,65656,,,,,1097,https://covid-kennzahlen.apps.be.ch/
 20210625,,BL,,18216,0,0,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -1615,7 +1619,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210623,,VS,,38081,6,3,2,,785,https://www.vs.ch/de/web/coronavirus
 20210623,08:00,ZG,,8441,1,0,,8301,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210623,14:30,ZH,,112556,33,16,14,,1416,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210622,08:00,AG,,47793,12,9,,46900,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210622,08:00,AG,,47793,12,9,,46895,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210622,12:00,AI,,1236,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210622,,BE,,65617,14,8,5,,1097,https://covid-kennzahlen.apps.be.ch/
 20210622,,BL,,18206,1,0,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -1709,7 +1713,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210619,,VS,,38048,5,3,2,,785,https://www.vs.ch/de/web/coronavirus
 20210619,08:00,ZG,,8437,1,1,,8291,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210619,14:30,ZH,,112484,38,19,12,,1415,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210618,08:00,AG,,47758,17,8,,46795,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210618,08:00,AG,,47758,17,8,,46790,704,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210618,12:00,AI,,1229,,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210618,,BE,,65585,,,,,1096,https://covid-kennzahlen.apps.be.ch/
 20210618,,BL,,18190,1,0,0,,219,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -2042,7 +2046,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210606,,VS,,37933,11,4,4,,784,https://www.vs.ch/de/web/coronavirus
 20210606,08:00,ZG,,8381,4,1,,8216,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210606,14:30,ZH,,111905,77,35,25,,1407,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210605,08:00,AG,,47552,,,,46315,703,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210605,08:00,AG,,47552,,,,46310,703,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210605,,BE,,65272,,,,,1094,https://covid-kennzahlen.apps.be.ch/
 20210605,,BL,,18120,5,0,0,17538,218,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210605,10:30,BS,,12873,16,5,,12516,204,https://www.gesundheit.bs.ch
@@ -2216,7 +2220,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210530,,VS,,37790,17,3,2,,784,https://www.vs.ch/de/web/coronavirus
 20210530,08:00,ZG,,8347,4,1,,,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210530,14:30,ZH,,111395,91,37,26,,1403,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210529,08:00,AG,,47358,,,,45790,700,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210529,08:00,AG,,47358,,,,45785,700,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210529,08:00,BE,,64972,,,,,1089,https://covid-kennzahlen.apps.be.ch/
 20210529,,BL,,18032,8,0,0,17368,218,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210529,10:40,BS,,12784,12,2,,12417,204,https://www.gesundheit.bs.ch
@@ -2567,7 +2571,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210516,,VS,,37278,22,6,6,,780,https://www.vs.ch/de/web/coronavirus
 20210516,08:00,ZG,,8222,5,2,,7999,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210516,14:30,ZH,,109645,128,56,39,,1397,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210515,08:00,AG,,46526,,,,44310,696,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210515,08:00,AG,,46526,,,,44305,696,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210515,08:00,BE,,63570,,,,,1079,https://covid-kennzahlen.apps.be.ch/
 20210515,,BL,,17724,17,3,0,16816,218,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210515,14:20,BS,,12558,28,6,,12055,201,https://www.gesundheit.bs.ch
@@ -2614,7 +2618,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210514,,VS,,37216,21,7,7,,780,https://www.vs.ch/de/web/coronavirus
 20210514,08:00,ZG,,8198,5,2,,7950,121,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210514,14:30,ZH,,109384,139,51,37,,1393,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210513,08:00,AG,,46358,,,,44065,695,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210513,08:00,AG,,46358,,,,44060,695,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210513,08:00,BE,,63348,,,,,1078,https://covid-kennzahlen.apps.be.ch/
 20210513,,BL,,17675,18,1,0,16690,218,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210513,11:00,BS,,12522,29,6,,11961,201,https://www.gesundheit.bs.ch
@@ -2918,7 +2922,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210502,,VS,,36496,35,7,6,,777,https://www.vs.ch/de/web/coronavirus
 20210502,08:00,ZG,,8012,4,2,,7718,118,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210502,14:30,ZH,,107051,214,61,43,,1383,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210501,08:00,AG,,45069,,,,42230,692,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210501,08:00,AG,,45069,,,,42225,692,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210501,08:00,BE,,61686,,,,,1074,https://covid-kennzahlen.apps.be.ch/
 20210501,,BL,,17141,23,6,5,15859,218,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210501,10:40,BS,,12031,51,13,,11404,199,https://www.gesundheit.bs.ch
@@ -3048,7 +3052,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210427,,VS,,36160,36,7,6,,776,https://www.vs.ch/de/web/coronavirus
 20210427,08:00,ZG,,7908,10,2,,7628,116,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210427,14:30,ZH,,105626,235,62,47,,1377,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210426,08:00,AG,,44368,91,15,,41390,683,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210426,08:00,AG,,44368,91,15,,41385,683,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210426,12:00,AI,,974,1,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210426,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210426,08:00,BE,,60920,,,,,1069,https://covid-kennzahlen.apps.be.ch/
@@ -3146,7 +3150,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210423,,VS,,35845,37,8,6,,771,https://www.vs.ch/de/web/coronavirus
 20210423,08:00,ZG,,7827,11,3,,7546,116,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210423,14:30,ZH,,104290,222,54,40,,1373,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210422,08:00,AG,,43805,85,17,,40765,680,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210422,08:00,AG,,43805,85,17,,40760,680,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210422,12:00,AI,,962,2,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210422,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210422,08:00,BE,,60271,,,,,1066,https://covid-kennzahlen.apps.be.ch/
@@ -3276,7 +3280,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210418,,VS,,35272,40,9,9,,767,https://www.vs.ch/de/web/coronavirus
 20210418,08:00,ZG,,7700,8,2,,7380,114,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210418,14:30,ZH,,102174,222,61,38,,1365,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210417,08:00,AG,,43015,,,,40015,675,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210417,08:00,AG,,43015,,,,40010,675,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210417,08:00,BE,,59343,,,,,1063,https://covid-kennzahlen.apps.be.ch/
 20210417,,BL,,16116,21,2,1,15007,217,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210417,10:30,BS,,11314,43,10,,10741,197,https://www.gesundheit.bs.ch
@@ -3530,7 +3534,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210408,,VS,,34253,34,8,7,,762,https://www.vs.ch/de/web/coronavirus
 20210408,08:00,ZG,,7428,15,2,,7124,114,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210408,14:30,ZH,,97966,205,41,23,,1352,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210407,08:00,AG,,41335,92,12,,38580,670,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210407,08:00,AG,,41335,92,12,,38575,670,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210407,12:00,AI,,932,2,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210407,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210407,08:00,BE,,57536,89,19,18,,1058,https://covid-kennzahlen.apps.be.ch/
@@ -3557,7 +3561,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210407,,VS,,34138,39,8,6,,762,https://www.vs.ch/de/web/coronavirus
 20210407,08:00,ZG,,7392,16,2,,7078,114,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210407,14:30,ZH,,97467,208,39,23,,1351,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210406,08:00,AG,,41145,81,9,,38430,670,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210406,08:00,AG,,41145,81,9,,38425,670,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210406,12:00,AI,,930,1,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210406,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210406,08:00,BE,,57321,89,19,18,,1057,https://covid-kennzahlen.apps.be.ch/
@@ -3651,7 +3655,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210403,,VS,,33782,35,7,4,,761,https://www.vs.ch/de/web/coronavirus
 20210403,08:00,ZG,,7304,8,0,,6990,114,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210403,14:30,ZH,,96176,194,33,22,,1343,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210402,08:00,AG,,40675,,,,37915,665,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210402,08:00,AG,,40675,,,,37910,665,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210402,08:00,BE,,56780,,,,,1054,https://covid-kennzahlen.apps.be.ch/
 20210402,,BL,,15267,18,1,1,14269,212,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210402,10:50,BS,,10739,30,3,,10210,196,https://www.gesundheit.bs.ch
@@ -3727,7 +3731,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210331,,VS,,33570,27,5,5,,760,https://www.vs.ch/de/web/coronavirus
 20210331,08:00,ZG,,7205,11,1,,6897,114,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210331,14:30,ZH,,95145,183,30,25,,1339,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210330,08:00,AG,,40240,79,11,,37430,658,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210330,08:00,AG,,40240,79,11,,37425,658,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210330,12:00,AI,,917,1,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210330,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210330,08:00,BE,,56340,89,28,22,,1052,https://covid-kennzahlen.apps.be.ch/
@@ -3959,7 +3963,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210322,,VS,,32794,45,5,4,,758,https://www.vs.ch/de/web/coronavirus
 20210322,08:00,ZG,,6930,8,0,,6631,114,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210322,14:30,ZH,,91975,144,26,13,,1320,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210321,08:00,AG,,38891,,,,36440,649,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210321,08:00,AG,,38891,,,,36435,649,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210321,08:00,BE,,54859,,,,,1040,https://covid-kennzahlen.apps.be.ch/
 20210321,,BL,,14635,16,1,1,13711,209,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210321,10:40,BS,,10320,34,7,,9869,193,https://www.gesundheit.bs.ch
@@ -4180,7 +4184,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210313,,VS,,32169,30,5,2,,755,https://www.vs.ch/de/web/coronavirus
 20210313,08:00,ZG,,6720,2,1,,6469,114,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210313,14:30,ZH,,89783,127,26,18,,1298,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210312,08:00,AG,,37758,45,9,,35870,642,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210312,08:00,AG,,37758,45,9,,35865,642,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210312,12:00,AI,,891,0,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210312,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210312,08:00,BE,,53983,,,,,1036,https://covid-kennzahlen.apps.be.ch/
@@ -4315,7 +4319,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210308,,VS,,31855,46,9,8,,754,https://www.vs.ch/de/web/coronavirus
 20210308,08:00,ZG,,6603,2,1,,6389,113,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210308,14:30,ZH,,88632,143,24,12,,1290,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210307,08:00,AG,,37199,,,,35480,641,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210307,08:00,AG,,37199,,,,35475,641,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210307,08:00,BE,,53457,74,22,18,,1029,https://covid-kennzahlen.apps.be.ch/
 20210307,,BL,,13957,15,2,1,13235,209,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210307,12:40,BS,,9967,20,5,,9617,192,https://www.gesundheit.bs.ch
@@ -4467,7 +4471,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210302,,VS,,31489,33,8,7,,751,https://www.vs.ch/de/web/coronavirus
 20210302,08:00,ZG,,6526,7,1,,6333,113,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210302,14:30,ZH,,87651,134,28,10,,1283,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210301,08:00,AG,,36791,39,6,,35120,641,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210301,08:00,AG,,36791,39,6,,35115,641,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210301,12:00,AI,,874,0,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210301,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210301,08:00,BE,,52968,71,17,13,,1026,https://covid-kennzahlen.apps.be.ch/
@@ -4565,7 +4569,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210226,,VS,,31266,35,9,7,,750,https://www.vs.ch/de/web/coronavirus
 20210226,08:00,ZG,,6472,8,2,,6275,113,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210226,14:30,ZH,,87130,126,31,16,,1276,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210225,08:00,AG,,36528,39,8,,34870,638,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210225,08:00,AG,,36528,39,8,,34865,638,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210225,12:00,AI,,868,1,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210225,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210225,08:00,BE,,52638,75,23,15,,1020,https://covid-kennzahlen.apps.be.ch/
@@ -4646,7 +4650,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210223,,VS,,31061,41,9,8,,747,https://www.vs.ch/de/web/coronavirus
 20210223,08:00,ZG,,6433,8,4,,6231,112,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210223,14:30,ZH,,86657,130,29,16,,1274,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210222,08:00,AG,,36281,33,10,,34600,636,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210222,08:00,AG,,36281,33,10,,34595,636,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210222,12:00,AI,,865,1,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210222,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210222,08:00,BE,,52315,95,14,11,,1017,https://covid-kennzahlen.apps.be.ch/
@@ -4852,7 +4856,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210215,,VS,,30589,74,11,7,,735,https://www.vs.ch/de/web/coronavirus
 20210215,08:00,ZG,,6349,8,2,,6096,112,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210215,14:30,ZH,,85397,157,41,30,,1258,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210214,08:00,AG,,35791,,,,33805,630,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210214,08:00,AG,,35791,,,,33800,630,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210214,08:00,BE,,51649,110,21,16,,1007,https://covid-kennzahlen.apps.be.ch/
 20210214,,BL,,13326,18,1,0,12549,207,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210214,10:30,BS,,9646,25,8,,9257,188,https://www.gesundheit.bs.ch
@@ -4874,7 +4878,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210214,,VS,,30527,77,10,7,,732,https://www.vs.ch/de/web/coronavirus
 20210214,08:00,ZG,,6340,7,2,,6095,112,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210214,14:30,ZH,,85291,157,38,32,,1255,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210213,08:00,AG,,35772,,,,33755,629,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210213,08:00,AG,,35772,,,,33750,629,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210213,08:00,BE,,51601,,,,,1005,https://covid-kennzahlen.apps.be.ch/
 20210213,,BL,,13312,19,1,1,12519,207,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20210213,10:20,BS,,9632,26,7,,9238,188,https://www.gesundheit.bs.ch
@@ -5156,7 +5160,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210203,,VS,,29817,129,11,8,,709,https://www.vs.ch/de/web/coronavirus
 20210203,08:00,ZG,,6084,8,3,,5801,109,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210203,14:30,ZH,,83087,221,52,36,,1209,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210202,08:00,AG,,34807,74,20,,32105,618,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210202,08:00,AG,,34807,74,20,,32100,618,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210202,12:00,AI,,839,1,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210202,,AR,,,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210202,08:00,BE,,50394,117,20,17,,976,https://covid-kennzahlen.apps.be.ch/
@@ -5692,7 +5696,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210113,,VS,,27553,112,11,8,,643,https://www.vs.ch/de/web/coronavirus
 20210113,08:00,ZG,,5511,20,5,,5087,86,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210113,14:30,ZH,,76609,381,76,54,,1067,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210112,08:00,AG,,31662,125,24,,27225,543,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210112,08:00,AG,,31662,125,24,,27220,543,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210112,12:00,AI,,769,3,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210112,12:30,AR,,2710,23,0,,,40,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210112,08:00,BE,,46711,241,41,33,,844,https://covid-kennzahlen.apps.be.ch/
@@ -5844,7 +5848,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210107,,VS,,26787,92,10,8,,627,https://www.vs.ch/de/web/coronavirus
 20210107,08:00,ZG,,5260,24,4,,4824,78,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210107,14:30,ZH,,73786,442,89,63,,1010,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210106,08:00,AG,,30380,152,27,,25405,507,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210106,08:00,AG,,30380,152,27,,25400,507,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210106,12:00,AI,,738,2,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210106,13:20,AR,,2583,17,2,,,39,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210106,08:00,BE,,45107,300,53,41,,795,https://covid-kennzahlen.apps.be.ch/
@@ -5870,7 +5874,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210106,,VS,,26642,83,10,7,,623,https://www.vs.ch/de/web/coronavirus
 20210106,08:00,ZG,,5217,23,4,,4781,78,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210106,14:30,ZH,,73184,480,99,67,,1003,https://www.zh.ch/de/gesundheit/coronavirus.html
-20210105,08:00,AG,,30042,167,31,,24925,501,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20210105,08:00,AG,,30042,167,31,,24920,501,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20210105,12:00,AI,,726,2,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210105,10:10,AR,,2526,16,1,,,39,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20210105,08:00,BE,,44792,309,53,43,,783,https://covid-kennzahlen.apps.be.ch/
@@ -6069,7 +6073,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201229,,VS,,25484,66,12,9,,602,https://www.vs.ch/de/web/coronavirus
 20201229,08:00,ZG,,4764,15,4,,4413,66,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201229,14:30,ZH,,67700,514,105,71,,913,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201228,08:00,AG,,27591,179,36,,21490,446,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201228,08:00,AG,,27591,179,36,,21485,446,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201228,12:00,AI,,679,5,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201228,11:55,AR,,2340,14,1,,,38,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201228,08:00,BE,,41872,309,53,35,,711,https://covid-kennzahlen.apps.be.ch/
@@ -6193,7 +6197,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201224,,VS,,25008,63,15,12,,589,https://www.vs.ch/de/web/coronavirus
 20201224,08:00,ZG,,4575,19,4,,4154,61,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201224,14:30,ZH,,64758,499,98,70,,830,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201223,08:00,AG,,26266,197,36,,19710,399,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201223,08:00,AG,,26266,197,36,,19705,399,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201223,12:00,AI,,657,5,,,,15,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201223,14:40,AR,,2254,17,1,,,38,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201223,08:00,BE,,40249,302,46,31,,654,https://covid-kennzahlen.apps.be.ch/
@@ -6609,7 +6613,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201208,,VS,,23512,122,23,17,,558,https://www.vs.ch/de/web/coronavirus
 20201208,08:00,ZG,,3747,26,3,,3356,41,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201208,14:30,ZH,,50942,491,87,64,,551,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201207,08:00,AG,,19637,183,27,,14215,244,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201207,08:00,AG,,19637,183,27,,14210,244,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201207,12:00,AI,,563,,,,,14,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201207,10:55,AR,,1800,26,2,,,30,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201207,08:00,BE,,32245,313,56,43,,512,https://covid-kennzahlen.apps.be.ch/
@@ -6862,7 +6866,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201128,,VS,,22390,178,31,24,,515,https://www.vs.ch/de/web/coronavirus
 20201128,08:00,ZG,,3289,21,5,,2862,30,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201128,14:30,ZH,,43943,369,78,52,,425,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201127,08:00,AG,,16639,164,26,,11420,189,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201127,08:00,AG,,16639,164,26,,11415,189,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201127,12:00,AI,,526,,,,,13,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201127,15:20,AR,,1560,17,2,,,27,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201127,08:00,BE,,28216,326,56,43,,417,https://covid-kennzahlen.apps.be.ch/
@@ -6916,7 +6920,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201126,,VS,,22158,196,31,23,,504,https://www.vs.ch/de/web/coronavirus
 20201126,08:00,ZG,,3186,26,5,,2740,27,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201126,14:30,ZH,,42453,397,73,49,,404,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201125,08:00,AG,,15993,164,24,,10755,179,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201125,08:00,AG,,15993,164,24,,10750,179,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201125,12:00,AI,,517,,,,,13,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201125,14:00,AR,,1499,16,2,,,26,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201125,08:00,BE,,27367,334,57,44,,391,https://covid-kennzahlen.apps.be.ch/
@@ -7252,7 +7256,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201113,,VS,,19810,298,36,26,,390,https://www.vs.ch/de/web/coronavirus
 20201113,08:00,ZG,,2506,30,6,,2044,17,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201113,14:30,ZH,,33759,360,66,47,,276,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201112,08:00,AG,,11958,132,24,,6215,116,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201112,08:00,AG,,11958,132,24,,6210,116,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201112,12:00,AI,,464,,,,,8,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201112,10:20,AR,,1129,21,2,,,12,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201112,08:00,BE,,21914,402,54,45,,266,https://covid-kennzahlen.apps.be.ch/
@@ -7279,7 +7283,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201112,,VS,,19508,310,39,27,,382,https://www.vs.ch/de/web/coronavirus
 20201112,08:00,ZG,,2425,28,5,,1956,17,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201112,14:30,ZH,,32979,361,67,47,,265,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201111,08:00,AG,,11628,139,24,,5820,110,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201111,08:00,AG,,11628,139,24,,5815,110,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201111,12:00,AI,,460,,,,,7,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201111,13:25,AR,,1102,26,2,,,12,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201111,08:00,BE,,21382,410,57,44,,250,https://covid-kennzahlen.apps.be.ch/
@@ -7383,7 +7387,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201108,,VS,,17867,346,39,25,,329,https://www.vs.ch/de/web/coronavirus
 20201108,08:00,ZG,,2238,30,5,,1754,14,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201108,14:30,ZH,,29968,332,64,46,,236,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201107,08:00,AG,,10527,,,,4490,100,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201107,08:00,AG,,10527,,,,4485,100,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201107,08:00,BE,,19288,368,,,,215,https://covid-kennzahlen.apps.be.ch/
 20201107,,BL,,3818,55,7,4,2253,43,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20201107,08:15,BS,,3152,92,15,,2332,56,https://www.gesundheit.bs.ch
@@ -7667,7 +7671,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201028,,VS,,11963,185,13,5,,221,https://www.vs.ch/de/web/coronavirus
 20201028,08:00,ZG,,1544,23,2,,1007,10,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201028,14:30,ZH,,19511,201,24,17,,178,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201027,08:00,AG,,6208,82,11,,2405,60,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201027,08:00,AG,,6208,82,11,,2400,60,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201027,12:00,AI,,266,9,,,,1,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201027,16:15,AR,,605,24,3,,,7,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201027,08:00,BE,,11914,213,22,14,,121,https://covid-kennzahlen.apps.be.ch/
@@ -7768,7 +7772,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201024,,VS,,9056,151,9,3,378,200,https://www.vs.ch/de/web/coronavirus
 20201024,08:00,ZG,,1286,16,2,,852,10,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201024,14:30,ZH,,16242,130,21,16,,164,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201023,08:00,AG,,5006,50,8,,2175,59,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201023,08:00,AG,,5006,50,8,,2170,59,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201023,12:00,AI,,212,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201023,14:00,AR,,482,19,2,,,4,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201023,08:00,BE,,9331,153,15,9,,105,https://covid-kennzahlen.apps.be.ch/
@@ -7795,7 +7799,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201023,,VS,,8535,130,7,2,374,194,https://www.vs.ch/de/web/coronavirus
 20201023,08:00,ZG,,1212,16,2,,788,10,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201023,14:30,ZH,,15488,112,20,13,,163,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201022,08:00,AG,,4740,40,8,,2120,59,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201022,08:00,AG,,4740,40,8,,2115,59,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201022,12:00,AI,,197,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201022,12:10,AR,,430,16,1,,,4,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201022,08:00,BE,,8687,153,15,9,,105,https://covid-kennzahlen.apps.be.ch/
@@ -7821,7 +7825,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201022,,VS,,7781,117,8,2,371,189,https://www.vs.ch/de/web/coronavirus
 20201022,08:00,ZG,,1149,17,2,,740,10,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201022,14:30,ZH,,14804,101,15,10,,162,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201021,08:00,AG,,4471,37,6,,2065,58,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201021,08:00,AG,,4471,37,6,,2060,58,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201021,12:00,AI,,179,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201021,14:40,AR,,404,13,1,,,4,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201021,08:00,BE,,8062,121,13,7,,103,https://covid-kennzahlen.apps.be.ch/
@@ -8122,7 +8126,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20201010,,VS,,3286,70,2,1,333,159,https://www.vs.ch/de/web/coronavirus
 20201010,08:00,ZG,,619,6,0,,433,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20201010,14:30,ZH,,9553,42,6,4,,153,https://www.zh.ch/de/gesundheit/coronavirus.html
-20201009,08:00,AG,,2934,12,2,,1865,56,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20201009,08:00,AG,,2934,12,2,,1860,56,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20201009,12:00,AI,,52,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20201009,14:40,AR,,218,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20201009,08:00,BE,,4343,39,7,3,,98,https://covid-kennzahlen.apps.be.ch/
@@ -8377,7 +8381,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200930,,VS,,2692,41,1,1,328,157,https://www.vs.ch/de/web/coronavirus
 20200930,08:00,ZG,,441,4,0,,409,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200930,14:30,ZH,,7989,31,11,9,,150,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200929,08:00,AG,,2613,11,1,,1680,55,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200929,08:00,AG,,2613,11,1,,1675,55,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200929,12:00,AI,,39,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200929,08:00,BE,,3520,25,1,1,,97,https://covid-kennzahlen.apps.be.ch/
 20200929,,BL,,1182,0,0,0,1113,36,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -8728,7 +8732,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200916,,VS,,2511,21,0,0,322,157,https://www.vs.ch/de/web/coronavirus
 20200916,08:00,ZG,,409,1,0,,363,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200916,14:30,ZH,,7133,25,11,9,,148,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200915,08:00,AG,,2400,13,2,,1405,53,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200915,08:00,AG,,2400,13,2,,1400,53,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200915,08:00,BE,,2986,12,2,1,,94,https://covid-kennzahlen.apps.be.ch/
 20200915,,BL,,1149,3,0,0,1058,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20200915,10:30,BS,,1278,4,1,,1178,54,https://www.gesundheit.bs.ch
@@ -8780,7 +8784,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200914,,VS,,2483,21,0,0,321,157,https://www.vs.ch/de/web/coronavirus
 20200914,08:00,ZG,,404,1,0,,342,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200914,14:30,ZH,,7019,25,10,9,,148,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200913,08:00,AG,,2365,,,,1385,53,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200913,08:00,AG,,2365,,,,1380,53,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200913,08:00,BE,,2875,7,2,1,,94,https://covid-kennzahlen.apps.be.ch/
 20200913,,BL,,1141,2,0,0,1052,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20200913,09:40,BS,,1272,4,1,,1171,54,https://www.gesundheit.bs.ch
@@ -9105,7 +9109,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200901,,VS,,2347,12,0,0,320,156,https://www.vs.ch/de/web/coronavirus
 20200901,08:00,ZG,,353,4,0,,311,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200901,14:30,ZH,,6125,26,7,6,,145,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200831,08:00,AG,,2109,6,4,,1110,52,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200831,08:00,AG,,2109,6,4,,1105,52,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200831,12:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200831,10:30,AR,,133,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200831,08:00,BE,,2552,7,2,2,,94,https://covid-kennzahlen.apps.be.ch/
@@ -9132,7 +9136,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200831,,VS,,2337,12,0,0,320,156,https://www.vs.ch/de/web/coronavirus
 20200831,08:00,ZG,,349,4,0,,311,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200831,14:30,ZH,,6057,22,8,6,,145,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200830,08:00,AG,,2102,,,,1100,52,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200830,08:00,AG,,2102,,,,1095,52,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200830,08:00,BE,,2529,7,2,2,,94,https://covid-kennzahlen.apps.be.ch/
 20200830,,BL,,1085,3,1,1,987,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20200830,09:40,BS,,1213,3,1,,1113,54,https://www.gesundheit.bs.ch
@@ -9176,7 +9180,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200829,,VS,,2329,12,0,0,320,156,https://www.vs.ch/de/web/coronavirus
 20200829,08:00,ZG,,344,3,1,,301,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200829,14:30,ZH,,5984,19,8,5,,144,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200828,08:00,AG,,2070,7,3,,1070,52,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200828,08:00,AG,,2070,7,3,,1065,52,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200828,12:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200828,14:35,AR,,132,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200828,08:00,BE,,2515,4,1,1,,94,https://covid-kennzahlen.apps.be.ch/
@@ -9230,7 +9234,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200827,,VS,,2312,12,0,0,320,156,https://www.vs.ch/de/web/coronavirus
 20200827,08:00,ZG,,341,3,1,,297,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200827,14:30,ZH,,5833,18,7,5,,144,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200826,08:00,AG,,2020,9,3,,1035,52,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200826,08:00,AG,,2020,9,3,,1030,52,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200826,12:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200826,08:00,BE,,2469,4,1,1,,94,https://covid-kennzahlen.apps.be.ch/
 20200826,,BL,,1065,2,1,1,971,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -9430,7 +9434,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200819,,VS,,2224,14,1,1,315,155,https://www.vs.ch/de/web/coronavirus
 20200819,08:00,ZG,,319,0,0,,278,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200819,14:30,ZH,,5295,32,9,9,,142,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200818,08:00,AG,,1852,12,1,,915,51,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200818,08:00,AG,,1852,12,1,,910,51,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200818,08:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200818,15:10,AR,,122,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200818,08:00,BE,,2334,7,1,0,,93,https://covid-kennzahlen.apps.be.ch/
@@ -9504,7 +9508,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200816,,VS,,2201,13,1,1,314,155,https://www.vs.ch/de/web/coronavirus
 20200816,08:00,ZG,,312,0,0,,275,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200816,14:30,ZH,,5116,29,7,7,,142,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200815,08:00,AG,,1805,,,,895,50,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200815,08:00,AG,,1805,,,,890,50,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200815,08:00,BE,,2304,,,,,93,https://covid-kennzahlen.apps.be.ch/
 20200815,,BL,,1014,1,1,0,938,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20200815,09:40,BS,,1135,8,0,,1022,53,https://www.gesundheit.bs.ch
@@ -9552,7 +9556,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200814,,VS,,2191,13,1,1,314,155,https://www.vs.ch/de/web/coronavirus
 20200814,08:00,ZG,,312,0,0,,275,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200814,14:30,ZH,,5025,26,6,6,,142,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200813,08:00,AG,,1773,9,3,,870,50,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200813,08:00,AG,,1773,9,3,,865,50,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200813,07:55,AR,,117,3,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200813,08:00,BE,,2281,7,1,1,,93,https://covid-kennzahlen.apps.be.ch/
 20200813,,BL,,1003,1,1,0,927,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -9678,7 +9682,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200809,,VS,,2150,10,1,1,314,154,https://www.vs.ch/de/web/coronavirus
 20200809,08:00,ZG,,297,0,0,,259,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200809,14:30,ZH,,4754,28,7,6,,141,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200808,08:00,AG,,1688,,,,815,50,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200808,08:00,AG,,1688,,,,810,50,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200808,08:00,BE,,2193,,,,,93,https://covid-kennzahlen.apps.be.ch/
 20200808,,BL,,986,1,0,0,916,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20200808,09:30,BS,,1083,7,0,,991,52,https://www.gesundheit.bs.ch
@@ -10181,7 +10185,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200720,,VS,,2073,10,2,1,311,154,https://www.vs.ch/de/web/coronavirus
 20200720,08:00,ZG,,261,2,0,,224,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200720,14:30,ZH,,4231,29,6,4,,138,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200719,08:00,AG,,1463,,,,625,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200719,08:00,AG,,1463,,,,620,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200719,08:00,BE,,2038,7,4,0,,92,https://covid-kennzahlen.apps.be.ch/
 20200719,,BL,,944,0,0,0,879,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20200719,14:44,BS,,1025,7,3,,958,50,https://www.gesundheit.bs.ch https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-woech
@@ -10223,7 +10227,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200718,,VS,,2069,10,2,1,311,154,https://www.vs.ch/de/web/coronavirus
 20200718,08:00,ZG,,259,5,0,,223,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200718,14:30,ZH,,4203,24,7,6,,137,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200717,08:00,AG,,1454,4,1,,620,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200717,08:00,AG,,1454,4,1,,615,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200717,08:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200717,10:30,AR,,107,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200717,08:00,BE,,2032,4,3,0,,92,https://covid-kennzahlen.apps.be.ch/
@@ -10275,7 +10279,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200716,,VS,,2065,10,1,0,308,154,https://www.vs.ch/de/web/coronavirus
 20200716,08:00,ZG,,259,3,0,,223,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200716,14:30,ZH,,4159,23,8,6,,137,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200715,08:00,AG,,1431,7,1,,600,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200715,08:00,AG,,1431,7,1,,595,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200715,08:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200715,08:00,BE,,2012,3,2,0,,92,https://covid-kennzahlen.apps.be.ch/
 20200715,,BL,,940,2,0,0,869,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -10571,7 +10575,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200704,,VS,,2034,11,2,0,302,154,https://www.vs.ch/de/web/coronavirus
 20200704,08:00,ZG,,235,0,0,,204,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200704,14:30,ZH,,3925,9,0,0,,134,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200703,08:00,AG,,1333,2,0,,525,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200703,08:00,AG,,1333,2,0,,520,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200703,08:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200703,08:00,BE,,1942,4,1,1,,92,https://covid-kennzahlen.apps.be.ch/
 20200703,,BL,,909,0,0,0,850,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -10622,7 +10626,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200702,,VS,,2028,12,1,0,300,154,https://www.vs.ch/de/web/coronavirus
 20200702,08:00,ZG,,229,0,0,,202,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200702,14:30,ZH,,3889,10,0,0,,134,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200701,08:00,AG,,1316,2,1,,520,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200701,08:00,AG,,1316,2,1,,515,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200701,08:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200701,08:30,AR,,103,3,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200701,08:00,BE,,1932,7,0,0,,92,https://covid-kennzahlen.apps.be.ch/
@@ -10649,7 +10653,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200701,,VS,,2024,11,2,0,300,154,https://www.vs.ch/de/web/coronavirus
 20200701,08:00,ZG,,227,0,0,,202,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200701,14:30,ZH,,3833,13,2,0,,134,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200630,08:00,AG,,1301,2,1,,520,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200630,08:00,AG,,1301,2,1,,515,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200630,08:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200630,08:00,BE,,1928,7,0,0,,92,https://covid-kennzahlen.apps.be.ch/
 20200630,,BL,,902,0,0,0,849,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -10797,7 +10801,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200625,,VS,,1996,13,1,0,297,154,https://www.vs.ch/de/web/coronavirus
 20200625,08:00,ZG,,219,0,0,,196,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200625,14:30,ZH,,3706,7,4,1,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200624,08:00,AG,,1248,1,0,,510,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200624,08:00,AG,,1248,1,0,,505,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200624,08:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200624,08:00,BE,,,1,0,0,,,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html
 20200624,,BL,,894,0,0,0,848,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -10822,7 +10826,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200624,,VS,,1988,15,1,0,295,154,https://www.vs.ch/de/web/coronavirus
 20200624,08:00,ZG,,218,0,0,,196,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200624,14:30,ZH,,3698,8,1,0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200623,08:00,AG,,1241,1,0,,510,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200623,08:00,AG,,1241,1,0,,505,48,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200623,08:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200623,08:00,BE,,1909,1,0,0,,92,https://covid-kennzahlen.apps.be.ch/
 20200623,,BL,,894,0,0,0,848,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -11064,7 +11068,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200614,,VS,,1943,15,2,0,290,154,https://www.vs.ch/de/web/coronavirus
 20200614,08:00,ZG,,211,1,0,,186,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200614,14:30,ZH,,3633,9,1,0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200613,08:00,AG,,1227,,,,500,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200613,08:00,AG,,1227,,,,495,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200613,08:00,BE,,1894,1,0,0,,92,https://covid-kennzahlen.apps.be.ch/
 20200613,,BL,,888,0,0,0,845,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20200613,09:30,BS,,983,3,2,,931,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-unveraendert-983-bestaetigte-faelle-im-kanton-basel-stadt-gd.html
@@ -11086,7 +11090,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200613,,VS,,1943,15,2,0,290,154,https://www.vs.ch/de/web/coronavirus
 20200613,08:00,ZG,,211,1,0,,186,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200613,14:30,ZH,,3628,8,1,0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200612,08:00,AG,,1226,1,1,,500,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200612,08:00,AG,,1226,1,1,,495,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200612,11:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200612,09:15,AR,,100,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200612,08:00,BE,,1893,1,0,0,,92,https://covid-kennzahlen.apps.be.ch/
@@ -11274,7 +11278,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200605,,VS,,1922,17,3,2,287,153,https://www.vs.ch/de/web/coronavirus
 20200605,08:00,ZG,,202,0,0,,185,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200605,14:30,ZH,,3614,8,2,1,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200604,08:00,AG,,1216,3,2,2,485,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200604,08:00,AG,,1216,3,2,2,480,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200604,09:00,AR,,100,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200604,08:00,BE,,1878,5,0,0,,92,https://covid-kennzahlen.apps.be.ch/
 20200604,,BL,,887,0,0,0,839,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -11299,7 +11303,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200604,,VS,,1920,17,3,2,287,153,https://www.vs.ch/de/web/coronavirus
 20200604,08:00,ZG,,202,0,0,,185,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200604,14:30,ZH,,3608,9,5,1,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200603,08:00,AG,,1214,2,1,,485,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200603,08:00,AG,,1214,2,1,,480,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200603,11:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200603,08:00,AR,,100,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200603,08:00,BE,,1875,6,0,0,,92,https://covid-kennzahlen.apps.be.ch/
@@ -11350,7 +11354,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200602,,VS,,1918,17,3,2,286,153,https://www.vs.ch/de/web/coronavirus
 20200602,08:00,ZG,,202,0,0,,185,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200602,14:30,ZH,,3597,11,1,0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200601,08:00,AG,,1213,,,,475,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200601,08:00,AG,,1213,,,,470,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200601,08:00,BE,,,6,0,0,,,https://covid-kennzahlen.apps.be.ch/
 20200601,,BL,,886,0,0,0,839,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20200601,10:00,BS,,978,5,3,,923,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-978-bestaetigte-faelle-im-kanton-basel-stadt-gd.html
@@ -11394,7 +11398,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200531,,VS,,1916,17,5,2,285,153,https://www.vs.ch/de/web/coronavirus
 20200531,08:00,ZG,,202,0,0,,180,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200531,14:30,ZH,,3595,11,3,1,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200530,08:00,AG,,1210,,,,470,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200530,08:00,AG,,1210,,,,465,47,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200530,08:00,BE,,,9,1,1,,,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html
 20200530,,BL,,884,0,0,0,839,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20200530,10:00,BS,,978,5,3,,923,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-978-bestaetigte-faelle-im-kanton-basel-stadt-gd.html
@@ -11592,7 +11596,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200523,,VS,,1906,21,5,2,278,153,https://www.vs.ch/de/web/coronavirus
 20200523,08:00,ZG,,201,0,0,,174,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200523,14:30,ZH,,3566,26,7,1,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200522,08:00,AG,,1198,9,2,,435,46,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200522,08:00,AG,,1198,9,2,,430,46,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200522,14:00,AR,,99,1,1,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200522,08:00,BE,,1862,20,3,3,,91,https://covid-kennzahlen.apps.be.ch/
 20200522,,BL,,880,2,0,0,836,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -11641,7 +11645,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20200521,,VS,,1906,22,6,3,277,153,https://www.vs.ch/de/web/coronavirus
 20200521,08:00,ZG,,199,0,0,,173,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20200521,14:30,ZH,,3562,25,6,3,,132,https://www.zh.ch/de/gesundheit/coronavirus.html
-20200520,08:00,AG,,1196,11,2,2,425,46,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
+20200520,08:00,AG,,1196,11,2,2,420,46,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20200520,11:00,AI,,25,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20200520,14:00,AR,,99,1,1,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 20200520,08:00,BE,,1856,24,3,3,,91,https://covid-kennzahlen.apps.be.ch/
