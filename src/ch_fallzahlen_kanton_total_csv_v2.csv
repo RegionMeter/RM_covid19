@@ -1,6 +1,10 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20210901,00:00,GE,,65195,,,,,748,https://infocovid.smc.unige.ch/
+20210901,,GL,,3399,9,,,,78,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
+20210901,,SO,,20885,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210901,09:00,SZ,,13770,,,,13102,242,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
+20210901,10:00,TG,,21861,37,18,,1280,461,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20210901,,TI,,35365,32,8,,,999,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210901,00:00,UR,,3451,5,,,,51,https://www.ur.ch/themen/2962
 20210831,12:00,AI,,1401,,,,,16,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20210831,,BL,,,20,3,1,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -18,7 +22,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210831,,SH,,5600,9,4,,,79,https://coviddashboard.sh.ch/
 20210831,,SO,,20736,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210831,09:00,SZ,,13710,,,,13039,242,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20210831,10:00,TG,,21734,40,18,,1272,459,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20210831,10:00,TG,,21859,37,18,,1280,461,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210831,,TI,,35298,34,8,,,999,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210831,00:00,UR,,3440,7,,,,51,https://www.ur.ch/themen/2962
 20210831,08:00,ZG,,9498,6,3,,9195,124,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
@@ -41,7 +45,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210830,,SH,,5578,8,4,,,79,https://coviddashboard.sh.ch/
 20210830,,SO,,20636,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210830,09:00,SZ,,13681,,,,13031,242,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20210830,10:00,TG,,21734,40,18,,1272,459,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20210830,10:00,TG,,21809,43,19,,1273,460,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210830,,TI,,35242,33,5,,,998,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210830,00:00,UR,,3434,7,,,,51,https://www.ur.ch/themen/2962
 20210830,,VS,,40463,28,8,5,,785,https://www.vs.ch/de/web/coronavirus
@@ -63,7 +67,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210829,,SG,,47881,69,20,18,,724,https://www.sg.ch/tools/informationen-coronavirus.html
 20210829,,SH,,5564,10,4,,,79,https://coviddashboard.sh.ch/
 20210829,09:00,SZ,,13648,,,,13019,242,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20210829,10:00,TG,,21646,44,18,,1265,459,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20210829,10:00,TG,,21656,44,18,,1265,459,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210829,,VD,,91469,87,32,,,,https://www.infosan.vd.ch/fileadmin/2-PUBLICATIONS/SANTE_POPULATION/SSP_20210829_COVID_Bulletin_hebdomadaire_epidemio.pdf
 20210829,,VS,,40454,25,8,5,,785,https://www.vs.ch/de/web/coronavirus
 20210829,08:00,ZG,,9451,3,2,,9126,124,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
@@ -84,7 +88,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210828,,SG,,47822,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20210828,,SH,,5530,,,,,78,https://coviddashboard.sh.ch/
 20210828,09:00,SZ,,13595,,,,12983,242,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20210828,10:00,TG,,21621,42,17,,1264,459,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20210828,10:00,TG,,21631,42,17,,1264,459,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210828,,VS,,40423,24,8,5,,785,https://www.vs.ch/de/web/coronavirus
 20210828,08:00,ZG,,9428,3,2,,9097,124,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20210828,14:30,ZH,,125836,160,62,47,,1433,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -107,7 +111,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210827,,SH,,5497,,,,,78,https://coviddashboard.sh.ch/
 20210827,,SO,,20332,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210827,09:00,SZ,,13546,,,,12944,241,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20210827,10:00,TG,,21565,40,18,,1262,458,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20210827,10:00,TG,,21572,40,18,,1262,458,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210827,,TI,,35143,41,4,,,997,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210827,00:00,UR,,3416,8,,,,51,https://www.ur.ch/themen/2962
 20210827,,VS,,40382,21,5,4,,785,https://www.vs.ch/de/web/coronavirus
@@ -133,7 +137,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20210826,,SH,,5457,10,5,,,78,https://coviddashboard.sh.ch/
 20210826,,SO,,20206,,,,,,https://corona.so.ch/bevoelkerung/daten/
 20210826,09:00,SZ,,13488,,,,12905,241,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20210826,10:00,TG,,21449,44,17,,1253,458,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20210826,10:00,TG,,21451,44,17,,1253,458,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20210826,,TI,,35095,38,5,,,997,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20210826,00:00,UR,,3406,7,,,,51,https://www.ur.ch/themen/2962
 20210826,,VS,,40301,26,6,3,,785,https://www.vs.ch/de/web/coronavirus
