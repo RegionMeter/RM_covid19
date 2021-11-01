@@ -1,6 +1,7 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20211101,10:50,BS,,16682,,,,16249,215,https://www.gesundheit.bs.ch
 20211101,00:00,GE,,69556,,,,,755,https://infocovid.smc.unige.ch/
+20211101,,NW,,3705,6,2,,,26,http://www.nw.ch/coronastatistik
 20211101,,SO,,23455,12,4,,,284,https://corona.so.ch/bevoelkerung/daten/
 20211101,10:00,TG,,26450,20,5,,1483,497,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20211101,14:30,ZH,,144915,80,20,13,,1498,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -13,7 +14,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211031,,GR,,17627,22,3,3,,203,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20211031,,JU,,8365,1,0,,,141,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20211031,,NE,,20189,,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
-20211031,,NW,,3687,6,2,,,26,https://www.nw.ch/gesundheitsamtdienste/6044
+20211031,,NW,,3687,6,2,,,26,http://www.nw.ch/coronastatistik
 20211031,,SG,,57628,33,6,4,,752,https://www.sg.ch/tools/informationen-coronavirus.html
 20211031,,SH,,6471,7,2,,,83,https://coviddashboard.sh.ch/
 20211031,09:00,SZ,,16791,,,,15760,253,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -28,7 +29,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211030,,GR,,17596,20,3,3,,203,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20211030,,JU,,8360,1,0,,,141,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualite/Statistiques-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20211030,,NE,,20183,,,,,410,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
-20211030,,NW,,3673,7,3,,,26,https://www.nw.ch/gesundheitsamtdienste/6044
+20211030,,NW,,3673,7,3,,,26,http://www.nw.ch/coronastatistik
 20211030,,SG,,57544,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211030,,SH,,6448,,,,,83,https://coviddashboard.sh.ch/
 20211030,09:00,SZ,,16697,,,,15744,252,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
