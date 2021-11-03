@@ -1,7 +1,10 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20211103,00:00,GE,,69788,,,,,755,https://infocovid.smc.unige.ch/
 20211103,09:00,SZ,,16930,,,,15929,255,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
+20211103,10:00,TG,,26711,17,3,,1489,500,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20211103,,TI,,36689,10,2,,,1007,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20211103,00:00,UR,,4178,3,,,,54,https://www.ur.ch/themen/2962
+20211103,08:00,ZG,,11021,8,3,,10707,133,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20211102,12:00,AI,,1916,,,,,18,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20211102,10:40,BS,,16722,20,3,,16258,217,https://www.gesundheit.bs.ch
 20211102,00:00,FL,,3598,1,,,3474,61,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
@@ -17,7 +20,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211102,,SH,,6489,6,2,,,86,https://coviddashboard.sh.ch/
 20211102,,SO,,23489,11,4,,,284,https://corona.so.ch/bevoelkerung/daten/
 20211102,09:00,SZ,,16869,,,,15876,255,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20211102,10:00,TG,,26557,19,4,,1485,500,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20211102,10:00,TG,,26711,17,3,,1489,500,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20211102,,TI,,36653,9,2,,,1007,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20211102,00:00,UR,,4165,3,,,,54,https://www.ur.ch/themen/2962
 20211102,08:00,ZG,,10978,9,3,,10660,133,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
@@ -37,7 +40,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211101,,SH,,6480,8,2,,,86,https://coviddashboard.sh.ch/
 20211101,,SO,,23455,12,4,,,284,https://corona.so.ch/bevoelkerung/daten/
 20211101,09:00,SZ,,16826,,,,15814,253,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20211101,10:00,TG,,26557,19,4,,1485,500,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20211101,10:00,TG,,26640,21,4,,1485,500,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20211101,08:00,ZG,,10956,4,3,,10638,133,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20211101,14:30,ZH,,144915,80,20,13,,1499,https://www.zh.ch/de/gesundheit/coronavirus.html
 20211031,08:00,AG,,61391,,,,59340,739,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
@@ -56,7 +59,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211031,,SG,,57677,33,6,4,,752,https://www.sg.ch/tools/informationen-coronavirus.html
 20211031,,SH,,6471,7,2,,,83,https://coviddashboard.sh.ch/
 20211031,09:00,SZ,,16791,,,,15760,253,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20211031,10:00,TG,,26462,21,4,,1483,497,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20211031,10:00,TG,,26467,21,4,,1483,497,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20211031,,VD,,98594,57,8,,,,https://www.infosan.vd.ch/fileadmin/2-PUBLICATIONS/SANTE_POPULATION/SSP_20211102_COVID_Bulletin_hebdomadaire_epidemio.pdf
 20211031,08:00,ZG,,10936,4,3,,10613,133,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20211031,14:30,ZH,,144735,67,20,13,,1499,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -76,7 +79,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211030,,SG,,57562,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211030,,SH,,6448,,,,,83,https://coviddashboard.sh.ch/
 20211030,09:00,SZ,,16697,,,,15744,252,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20211030,10:00,TG,,26440,19,4,,1483,497,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20211030,10:00,TG,,26445,19,4,,1483,497,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20211030,08:00,ZG,,10921,4,3,,10613,133,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20211030,14:30,ZH,,144582,68,21,15,,1499,https://www.zh.ch/de/gesundheit/coronavirus.html
 20211029,08:00,AG,,61201,35,11,,59265,737,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
@@ -97,7 +100,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211029,,SH,,6432,,,,,83,https://coviddashboard.sh.ch/
 20211029,,SO,,23357,11,3,,,284,https://corona.so.ch/bevoelkerung/daten/
 20211029,09:00,SZ,,16614,,,,15726,252,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20211029,10:00,TG,,26389,18,4,,1483,497,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20211029,10:00,TG,,26391,18,4,,1483,497,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20211029,,TI,,36599,8,2,,,1007,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20211029,00:00,UR,,4135,3,,,,54,https://www.ur.ch/themen/2962
 20211029,08:00,ZG,,10889,4,3,,10582,133,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
@@ -122,7 +125,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211028,,SH,,6412,9,1,,,83,https://coviddashboard.sh.ch/
 20211028,,SO,,23311,12,3,,,284,https://corona.so.ch/bevoelkerung/daten/
 20211028,09:00,SZ,,16531,,,,15696,251,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
-20211028,10:00,TG,,26306,21,4,,1480,497,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20211028,10:00,TG,,26307,21,4,,1480,497,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20211028,,TI,,36568,8,2,,,1007,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20211028,00:00,UR,,4127,3,,,,54,https://www.ur.ch/themen/2962
 20211028,,VS,,43657,7,2,2,,678,https://www.vs.ch/de/web/coronavirus
