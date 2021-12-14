@@ -1,6 +1,7 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20211214,12:00,AI,,2834,,,,,20,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20211214,,BE,,115842,225,35,28,,1285,https://covid-kennzahlen.apps.be.ch/
+20211214,,BL,,,71,7,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20211214,11:50,BS,,23095,89,16,,21523,244,https://www.gesundheit.bs.ch
 20211214,,GL,,5874,8,,,,97,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20211214,,LU,,,66,,8,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -11,7 +12,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211214,00:00,UR,,5616,4,,,,58,https://www.ur.ch/themen/2962
 20211213,08:00,AG,,79881,130,22,,69555,811,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20211213,,BE,,115840,225,35,28,,1285,https://covid-kennzahlen.apps.be.ch/
-20211213,,BL,,,76,7,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20211213,,BL,,33366,76,7,,,251,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20211213,12:10,BS,,22928,99,17,,21381,241,https://www.gesundheit.bs.ch
 20211213,00:00,FL,,5405,19,,,4994,68,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20211213,00:00,GE,,82936,152,15,,,760,https://infocovid.smc.unige.ch/
@@ -48,6 +49,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211212,,SH,,9121,16,4,,,97,https://coviddashboard.sh.ch/
 20211212,09:00,SZ,,25051,,,,22812,296,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211212,10:00,TG,,40192,66,19,,1676,528,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20211212,,VD,,118020,235,30,,,,https://www.infosan.vd.ch/fileadmin/2-PUBLICATIONS/SANTE_POPULATION/SSP_20211212_COVID_Bulletin_hebdomadaire_epidemio.pdf
 20211212,,VS,,51713,82,12,7,,706,https://www.vs.ch/de/web/coronavirus
 20211212,08:00,ZG,,15067,24,4,,,147,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20211212,14:30,ZH,,185514,235,49,35,,1568,https://www.zh.ch/de/gesundheit/coronavirus.html
