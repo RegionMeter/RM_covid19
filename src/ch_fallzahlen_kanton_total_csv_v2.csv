@@ -1,14 +1,17 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
+20211221,09:00,SZ,,26824,,,,25156,307,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211221,00:00,UR,,5896,2,,,,59,https://www.ur.ch/themen/2962
 20211220,,BL,,,54,5,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20211220,12:00,BS,,24080,98,19,,22679,244,https://www.gesundheit.bs.ch
 20211220,00:00,GE,,87186,142,19,,,760,https://infocovid.smc.unige.ch/
 20211220,,GL,,6122,7,,,,98,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20211220,,GR,,27257,43,7,7,,221,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20211220,,JU,,11395,25,3,,,127,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20211220,,JU,,11395,25,4,,,131,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20211220,,LU,,,66,,9,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211220,,NW,,6103,11,3,,,31,http://www.nw.ch/coronastatistik
 20211220,00:00,OW,,6444,8,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
+20211220,,SG,,84971,,,,,790,https://www.sg.ch/tools/informationen-coronavirus.html
+20211220,,SH,,9759,17,3,,,101,https://coviddashboard.sh.ch/
 20211220,,SO,,32072,40,12,,,305,https://corona.so.ch/bevoelkerung/daten/
 20211220,09:00,SZ,,26744,,,,24897,306,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211220,10:00,TG,,42825,51,18,,1731,535,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -25,10 +28,10 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211219,,FR,,47868,54,10,,1173,518,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20211219,00:00,GE,,86628,133,17,,,760,https://infocovid.smc.unige.ch/
 20211219,,GR,,27111,50,9,8,,221,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20211219,,JU,,11115,25,3,,,127,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20211219,,JU,,11115,25,3,,,130,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20211219,,LU,,54449,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211219,,NW,,6047,9,2,,,31,http://www.nw.ch/coronastatistik
-20211219,,SG,,84559,,,,,789,https://www.sg.ch/tools/informationen-coronavirus.html
+20211219,,SG,,84625,,,,,789,https://www.sg.ch/tools/informationen-coronavirus.html
 20211219,,SH,,9686,18,3,,,100,https://coviddashboard.sh.ch/
 20211219,09:00,SZ,,26645,,,,24693,303,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211219,10:00,TG,,42822,51,18,,1731,535,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -43,10 +46,10 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211218,,FR,,47688,56,7,,1169,518,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20211218,00:00,GE,,86353,141,18,,,760,https://infocovid.smc.unige.ch/
 20211218,,GR,,27013,38,7,7,,219,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20211218,,JU,,11089,28,3,,,127,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20211218,,JU,,11089,28,3,,,128,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20211218,,LU,,54136,,,,,403,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211218,,NW,,6003,9,2,,,31,http://www.nw.ch/coronastatistik
-20211218,,SG,,84433,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211218,,SG,,84452,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211218,,SH,,9627,,,,,100,https://coviddashboard.sh.ch/
 20211218,09:00,SZ,,26419,,,,24492,303,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211218,10:00,TG,,42662,49,18,,1730,535,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -67,7 +70,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211217,,LU,,53818,62,,8,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211217,,NW,,5949,10,2,,,31,http://www.nw.ch/coronastatistik
 20211217,00:00,OW,,6228,11,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211217,,SG,,84183,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211217,,SG,,84190,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211217,,SH,,9555,,,,,100,https://coviddashboard.sh.ch/
 20211217,,SO,,31369,44,10,,,302,https://corona.so.ch/bevoelkerung/daten/
 20211217,09:00,SZ,,26204,,,,24159,302,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -93,7 +96,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211216,,NE,,24436,28,9,6,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211216,,NW,,5906,9,3,,,30,http://www.nw.ch/coronastatistik
 20211216,00:00,OW,,6110,12,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211216,,SG,,83639,88,22,17,,786,https://www.sg.ch/tools/informationen-coronavirus.html
+20211216,,SG,,83637,88,22,17,,786,https://www.sg.ch/tools/informationen-coronavirus.html
 20211216,,SH,,9460,22,3,,,100,https://coviddashboard.sh.ch/
 20211216,,SO,,31056,48,10,,,301,https://corona.so.ch/bevoelkerung/daten/
 20211216,09:00,SZ,,25891,,,,23826,299,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -118,7 +121,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211215,,NE,,24360,34,10,7,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211215,,NW,,5854,7,2,,,30,http://www.nw.ch/coronastatistik
 20211215,00:00,OW,,6022,12,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211215,,SG,,83060,85,21,19,,784,https://www.sg.ch/tools/informationen-coronavirus.html
+20211215,,SG,,83058,85,21,19,,784,https://www.sg.ch/tools/informationen-coronavirus.html
 20211215,,SH,,9386,19,4,,,100,https://coviddashboard.sh.ch/
 20211215,,SO,,30703,44,9,,,299,https://corona.so.ch/bevoelkerung/daten/
 20211215,09:00,SZ,,25628,,,,23617,299,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -143,7 +146,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211214,,NE,,24176,33,8,5,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211214,,NW,,5795,6,2,,,30,http://www.nw.ch/coronastatistik
 20211214,00:00,OW,,5924,12,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211214,,SG,,82506,101,24,21,,781,https://www.sg.ch/tools/informationen-coronavirus.html
+20211214,,SG,,82504,101,24,21,,781,https://www.sg.ch/tools/informationen-coronavirus.html
 20211214,,SH,,9272,19,4,,,100,https://coviddashboard.sh.ch/
 20211214,,SO,,30411,45,8,,,299,https://corona.so.ch/bevoelkerung/daten/
 20211214,09:00,SZ,,25345,,,,23351,299,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -167,7 +170,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211213,,NE,,23904,39,7,4,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211213,,NW,,5752,6,2,,,30,http://www.nw.ch/coronastatistik
 20211213,00:00,OW,,5891,12,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211213,,SG,,81735,105,22,20,,780,https://www.sg.ch/tools/informationen-coronavirus.html
+20211213,,SG,,81733,105,22,20,,780,https://www.sg.ch/tools/informationen-coronavirus.html
 20211213,,SH,,9173,16,4,,,100,https://coviddashboard.sh.ch/
 20211213,,SO,472726,30232,45,9,,,297,https://corona.so.ch/fileadmin/corona/Bevoelkerung/Daten/Woechentlicher_Situationsbericht/2021_1213_Woechentlicher_Situationsbericht__.pdf
 20211213,09:00,SZ,,25209,,,,23034,296,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -189,7 +192,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211212,,LU,,51326,,,,,395,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211212,,NE,,23684,42,6,3,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211212,,NW,,5726,5,2,,,30,http://www.nw.ch/coronastatistik
-20211212,,SG,,80653,106,21,20,,780,https://www.sg.ch/tools/informationen-coronavirus.html
+20211212,,SG,,80651,106,21,20,,780,https://www.sg.ch/tools/informationen-coronavirus.html
 20211212,,SH,,9123,16,4,,,97,https://coviddashboard.sh.ch/
 20211212,09:00,SZ,,25051,,,,22812,296,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211212,10:00,TG,,40215,64,18,,1679,528,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -209,7 +212,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211211,,LU,,51070,,,,,394,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211211,,NE,,23627,36,5,3,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211211,,NW,,5696,5,1,,,30,http://www.nw.ch/coronastatistik
-20211211,,SG,,80417,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211211,,SG,,80415,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211211,,SH,,9074,,,,,96,https://coviddashboard.sh.ch/
 20211211,09:00,SZ,,24754,,,,22526,296,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211211,10:00,TG,,40057,59,17,,1677,528,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -231,7 +234,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211210,,NE,,23523,35,5,3,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211210,,NW,,5620,7,1,,,30,http://www.nw.ch/coronastatistik
 20211210,00:00,OW,,5706,7,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211210,,SG,,80106,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211210,,SG,,80104,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211210,,SH,,9012,,,,,96,https://coviddashboard.sh.ch/
 20211210,,SO,,29456,33,8,,,297,https://corona.so.ch/bevoelkerung/daten/
 20211210,09:00,SZ,,24415,,,,22230,295,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -257,7 +260,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211209,,NE,,23334,34,4,2,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211209,,NW,,5572,6,2,,,29,http://www.nw.ch/coronastatistik
 20211209,00:00,OW,,5580,7,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211209,,SG,,79343,110,20,19,,778,https://www.sg.ch/tools/informationen-coronavirus.html
+20211209,,SG,,79341,110,20,19,,778,https://www.sg.ch/tools/informationen-coronavirus.html
 20211209,,SH,,8908,16,4,,,96,https://coviddashboard.sh.ch/
 20211209,,SO,,29175,31,9,,,296,https://corona.so.ch/bevoelkerung/daten/
 20211209,09:00,SZ,,24129,,,,21914,294,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -280,7 +283,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211208,,LU,,49751,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211208,,NE,,23213,34,5,2,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211208,,NW,,5498,4,1,,,29,http://www.nw.ch/coronastatistik
-20211208,,SG,,78651,122,20,19,,776,https://www.sg.ch/tools/informationen-coronavirus.html
+20211208,,SG,,78649,122,20,19,,776,https://www.sg.ch/tools/informationen-coronavirus.html
 20211208,,SH,,8822,17,4,,,96,https://coviddashboard.sh.ch/
 20211208,,SO,,28912,30,8,,,296,https://corona.so.ch/bevoelkerung/daten/
 20211208,09:00,SZ,,23813,,,,21711,293,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -304,7 +307,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211207,,NE,,23048,29,5,2,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211207,,NW,,5407,6,2,,,29,http://www.nw.ch/coronastatistik
 20211207,00:00,OW,,5406,4,,,,53,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211207,,SG,,77894,122,19,18,,775,https://www.sg.ch/tools/informationen-coronavirus.html
+20211207,,SG,,77892,122,19,18,,775,https://www.sg.ch/tools/informationen-coronavirus.html
 20211207,,SH,,8708,19,4,,,96,https://coviddashboard.sh.ch/
 20211207,,SO,,28615,28,7,,,296,https://corona.so.ch/bevoelkerung/daten/
 20211207,09:00,SZ,,23484,,,,21475,293,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -328,7 +331,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211206,,NE,,22869,26,6,3,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211206,,NW,,5348,5,2,,,29,http://www.nw.ch/coronastatistik
 20211206,00:00,OW,,5370,4,,,,53,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211206,,SG,,77057,121,18,17,,774,https://www.sg.ch/tools/informationen-coronavirus.html
+20211206,,SG,,77055,121,18,17,,774,https://www.sg.ch/tools/informationen-coronavirus.html
 20211206,,SH,,8596,19,4,,,96,https://coviddashboard.sh.ch/
 20211206,,SO,453614,28419,24,7,,,294,https://corona.so.ch/fileadmin/corona/Bevoelkerung/Daten/Woechentlicher_Situationsbericht/2021_1206_Woechentlicher_Situationsbericht__.pdf
 20211206,09:00,SZ,,23305,,,,21243,292,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -351,7 +354,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211205,,LU,,48114,,,,,385,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211205,,NE,,22632,23,7,3,,416,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211205,,NW,,5306,4,2,,,28,http://www.nw.ch/coronastatistik
-20211205,,SG,,75956,113,19,18,,773,https://www.sg.ch/tools/informationen-coronavirus.html
+20211205,,SG,,75954,113,19,18,,773,https://www.sg.ch/tools/informationen-coronavirus.html
 20211205,,SH,,8509,21,3,,,96,https://coviddashboard.sh.ch/
 20211205,09:00,SZ,,23095,,,,21062,292,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211205,10:00,TG,,36998,56,13,,1624,523,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -372,7 +375,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211204,,LU,,47815,,,,,384,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211204,,NE,,22596,17,7,4,,416,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211204,,NW,,5250,4,2,,,28,http://www.nw.ch/coronastatistik
-20211204,,SG,,75666,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211204,,SG,,75664,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211204,,SH,,8446,,,,,96,https://coviddashboard.sh.ch/
 20211204,09:00,SZ,,22833,,,,20897,290,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211204,10:00,TG,,36798,54,12,,1620,523,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -394,7 +397,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211203,,NE,,22491,19,7,4,,416,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211203,,NW,,5217,3,2,,,28,http://www.nw.ch/coronastatistik
 20211203,00:00,OW,,5196,5,,,,53,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211203,,SG,,75229,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211203,,SG,,75227,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211203,,SH,,8333,,,,,96,https://coviddashboard.sh.ch/
 20211203,,SO,,27822,26,6,,,292,https://corona.so.ch/bevoelkerung/daten/
 20211203,09:00,SZ,,22503,,,,20679,290,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -445,7 +448,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211201,,NE,,22229,22,6,3,,416,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211201,,NW,,5113,3,1,,,28,http://www.nw.ch/coronastatistik
 20211201,00:00,OW,,5083,8,,,,52,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211201,,SG,,73620,108,18,18,,767,https://www.sg.ch/tools/informationen-coronavirus.html
+20211201,,SG,,73621,108,18,18,,767,https://www.sg.ch/tools/informationen-coronavirus.html
 20211201,,SH,,8155,14,4,,,96,https://coviddashboard.sh.ch/
 20211201,,SO,,27343,25,4,,,291,https://corona.so.ch/bevoelkerung/daten/
 20211201,09:00,SZ,,21939,,,,20210,286,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -470,7 +473,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211130,,NE,,22127,17,4,3,,416,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211130,,NW,,5072,3,1,,,28,http://www.nw.ch/coronastatistik
 20211130,00:00,OW,,4999,7,,,,52,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211130,,SG,,72777,109,19,17,,765,https://www.sg.ch/tools/informationen-coronavirus.html
+20211130,,SG,,72778,109,19,17,,765,https://www.sg.ch/tools/informationen-coronavirus.html
 20211130,,SH,,8051,11,4,,,96,https://coviddashboard.sh.ch/
 20211130,,SO,,27099,26,4,,,290,https://corona.so.ch/bevoelkerung/daten/
 20211130,09:00,SZ,,21704,,,,19988,286,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -493,7 +496,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211129,,NE,,21966,20,4,4,,416,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211129,,NW,,4998,3,1,,,28,http://www.nw.ch/coronastatistik
 20211129,00:00,OW,,4961,6,,,,52,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211129,,SG,,71999,,19,17,,765,https://www.sg.ch/tools/informationen-coronavirus.html
+20211129,,SG,,72000,,19,17,,765,https://www.sg.ch/tools/informationen-coronavirus.html
 20211129,,SH,,7964,12,4,,,96,https://coviddashboard.sh.ch/
 20211129,,SO,436430,26961,29,4,,,290,https://corona.so.ch/fileadmin/corona/Bevoelkerung/Daten/Woechentlicher_Situationsbericht/2021_1129_Woechentlicher_Situationsbericht__.pdf
 20211129,09:00,SZ,,21564,,,,19702,283,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -515,7 +518,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211128,,LU,,45190,,,,,378,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211128,,NE,,21855,19,4,4,,416,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211128,,NW,,4955,3,1,,,28,http://www.nw.ch/coronastatistik
-20211128,,SG,,70828,,17,15,,764,https://www.sg.ch/tools/informationen-coronavirus.html
+20211128,,SG,,70829,,17,15,,764,https://www.sg.ch/tools/informationen-coronavirus.html
 20211128,,SH,,7895,10,3,,,94,https://coviddashboard.sh.ch/
 20211128,09:00,SZ,,21429,,,,19544,283,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211128,10:00,TG,,33592,48,10,,1584,516,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -535,7 +538,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211127,,LU,,45008,,,,,377,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211127,,NE,,21824,16,4,4,,416,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211127,,NW,,4912,3,2,,,28,http://www.nw.ch/coronastatistik
-20211127,,SG,,70574,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211127,,SG,,70575,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211127,,SH,,7846,,,,,93,https://coviddashboard.sh.ch/
 20211127,09:00,SZ,,21130,,,,19335,283,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211127,10:00,TG,,33306,47,11,,1582,514,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -557,7 +560,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211126,,NE,,21752,13,4,4,,416,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211126,,NW,,4848,3,2,,,28,http://www.nw.ch/coronastatistik
 20211126,00:00,OW,,4735,4,,,,52,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211126,,SG,,70193,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211126,,SG,,70194,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211126,,SH,,7775,,,,,93,https://coviddashboard.sh.ch/
 20211126,,SO,,26421,27,5,,,290,https://corona.so.ch/bevoelkerung/daten/
 20211126,09:00,SZ,,20974,,,,19061,281,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -583,7 +586,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211125,,NE,,21640,16,5,4,,416,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211125,,NW,,4780,3,2,,,28,http://www.nw.ch/coronastatistik
 20211125,00:00,OW,,4721,3,,,,52,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211125,,SG,,69421,,11,8,,763,https://www.sg.ch/tools/informationen-coronavirus.html
+20211125,,SG,,69422,,11,8,,763,https://www.sg.ch/tools/informationen-coronavirus.html
 20211125,,SH,,7671,10,4,,,93,https://coviddashboard.sh.ch/
 20211125,,SO,,26209,31,7,,,289,https://corona.so.ch/bevoelkerung/daten/
 20211125,09:00,SZ,,20752,,,,18835,278,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -608,7 +611,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211124,,NE,,21543,16,5,4,,415,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211124,,NW,,4714,3,2,,,28,http://www.nw.ch/coronastatistik
 20211124,00:00,OW,,4635,3,,,,52,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211124,,SG,,68720,,7,6,,762,https://www.sg.ch/tools/informationen-coronavirus.html
+20211124,,SG,,68721,,7,6,,762,https://www.sg.ch/tools/informationen-coronavirus.html
 20211124,,SH,,7594,8,3,,,92,https://coviddashboard.sh.ch/
 20211124,,SO,,25998,24,8,,,288,https://corona.so.ch/bevoelkerung/daten/
 20211124,09:00,SZ,,20439,,,,18655,278,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -633,7 +636,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211123,,NE,,21437,14,5,4,,415,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211123,,NW,,4654,3,2,,,27,http://www.nw.ch/coronastatistik
 20211123,00:00,OW,,4600,4,,,,52,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211123,,SG,,67924,72,6,5,,760,https://www.sg.ch/tools/informationen-coronavirus.html
+20211123,,SG,,67925,72,6,5,,760,https://www.sg.ch/tools/informationen-coronavirus.html
 20211123,,SH,,7508,9,3,,,92,https://coviddashboard.sh.ch/
 20211123,,SO,,25817,30,8,,,287,https://corona.so.ch/bevoelkerung/daten/
 20211123,09:00,SZ,,20160,,,,18474,275,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -658,7 +661,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211122,,NE,,21333,12,5,4,,415,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211122,,NW,,4612,4,2,,,27,http://www.nw.ch/coronastatistik
 20211122,00:00,OW,,4578,4,,,,52,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211122,,SG,,67074,62,6,4,,759,https://www.sg.ch/tools/informationen-coronavirus.html
+20211122,,SG,,67075,62,6,4,,759,https://www.sg.ch/tools/informationen-coronavirus.html
 20211122,,SH,,7428,10,3,,,92,https://coviddashboard.sh.ch/
 20211122,,SO,419926,25691,30,5,,,286,https://corona.so.ch/fileadmin/corona/Bevoelkerung/Daten/Woechentlicher_Situationsbericht/2021_1122_Woechentlicher_Situationsbericht__.pdf
 20211122,09:00,SZ,,20067,,,,18300,275,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -680,7 +683,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211121,,LU,,42764,,,,,374,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211121,,NE,,21241,13,4,3,,415,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211121,,NW,,4591,3,2,,,27,http://www.nw.ch/coronastatistik
-20211121,,SG,,66013,57,5,4,,757,https://www.sg.ch/tools/informationen-coronavirus.html
+20211121,,SG,,66014,57,5,4,,757,https://www.sg.ch/tools/informationen-coronavirus.html
 20211121,,SH,,7381,9,3,,,92,https://coviddashboard.sh.ch/
 20211121,09:00,SZ,,19881,,,,18183,274,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211121,10:00,TG,,30773,39,6,,1546,510,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -700,7 +703,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211120,,LU,,42554,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211120,,NE,,21218,12,4,3,,414,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211120,,NW,,4566,3,2,,,27,http://www.nw.ch/coronastatistik
-20211120,,SG,,65745,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211120,,SG,,65746,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211120,,SH,,7341,,,,,92,https://coviddashboard.sh.ch/
 20211120,09:00,SZ,,19661,,,,18039,271,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211120,10:00,TG,,30634,39,5,,1544,510,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -722,7 +725,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211119,,NE,,21163,14,4,3,,414,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211119,,NW,,4510,2,2,,,27,http://www.nw.ch/coronastatistik
 20211119,00:00,OW,,4410,4,,,,52,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211119,,SG,,65420,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211119,,SG,,65421,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20211119,,SH,,7289,,,,,92,https://coviddashboard.sh.ch/
 20211119,,SO,,25208,20,4,,,286,https://corona.so.ch/bevoelkerung/daten/
 20211119,09:00,SZ,,19432,,,,17860,269,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -748,7 +751,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211118,,NE,,21081,17,4,3,,414,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211118,,NW,,4450,2,2,,,27,http://www.nw.ch/coronastatistik
 20211118,00:00,OW,,4370,4,,,,52,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
-20211118,,SG,,64780,41,4,3,,757,https://www.sg.ch/tools/informationen-coronavirus.html
+20211118,,SG,,64781,41,4,3,,757,https://www.sg.ch/tools/informationen-coronavirus.html
 20211118,,SH,,7202,8,3,,,92,https://coviddashboard.sh.ch/
 20211118,,SO,,25065,18,4,,,285,https://corona.so.ch/bevoelkerung/daten/
 20211118,09:00,SZ,,19169,,,,17649,268,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
