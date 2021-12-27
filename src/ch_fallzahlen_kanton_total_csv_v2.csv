@@ -1,13 +1,14 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
-20211227,00:00,FL,,5934,10,,,5588,69,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
+20211227,00:00,FL,,5940,10,,,5588,69,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20211227,09:00,SZ,,27987,,,,26416,316,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211226,12:00,BS,,24952,,,,23586,246,https://www.gesundheit.bs.ch
 20211226,00:00,FL,,5934,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20211226,00:00,GE,,91905,172,19,,,788,https://infocovid.smc.unige.ch/
 20211226,,GR,,28756,41,10,9,,224,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20211226,,JU,,12067,38,2,,,132,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20211226,,JU,,12067,41,2,,,132,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20211226,,NW,,6424,9,2,,,31,http://www.nw.ch/coronastatistik
 20211226,,SG,,87694,91,19,16,,803,https://www.sg.ch/tools/informationen-coronavirus.html
+20211226,,SH,,10303,25,4,,,101,https://coviddashboard.sh.ch/
 20211226,09:00,SZ,,27937,,,,26287,316,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211225,,BE,,,,,,,,https://covid-kennzahlen.apps.be.ch/
 20211225,12:00,BS,,24863,,,,23454,246,https://www.gesundheit.bs.ch
@@ -16,6 +17,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211225,,JU,,11994,38,2,,,132,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20211225,,NW,,6395,8,2,,,31,http://www.nw.ch/coronastatistik
 20211225,,SG,,87604,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211225,,SH,,10238,,,,,101,https://coviddashboard.sh.ch/
 20211225,09:00,SZ,,27758,,,,26128,316,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211224,,BE,,,,,,,,https://covid-kennzahlen.apps.be.ch/
 20211224,,BL,,,49,6,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -28,6 +30,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211224,,LU,,,64,,5,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20211224,,NW,,6362,8,2,,,31,http://www.nw.ch/coronastatistik
 20211224,,SG,,87441,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20211224,,SH,,10180,,,,,101,https://coviddashboard.sh.ch/
 20211224,,SO,,33186,39,14,,,308,https://corona.so.ch/bevoelkerung/daten/
 20211224,09:00,SZ,,27541,,,,25932,314,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211224,10:00,TG,,44133,60,18,,1763,544,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -47,7 +50,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211223,,NW,,6299,8,2,,,31,http://www.nw.ch/coronastatistik
 20211223,00:00,OW,,6593,7,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20211223,,SG,,87045,90,15,14,,798,https://www.sg.ch/tools/informationen-coronavirus.html
-20211223,,SH,,10088,21,4,,,101,https://coviddashboard.sh.ch/
+20211223,,SH,,10076,21,4,,,101,https://coviddashboard.sh.ch/
 20211223,,SO,,32890,37,13,,,307,https://corona.so.ch/bevoelkerung/daten/
 20211223,09:00,SZ,,27322,,,,25628,312,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211223,10:00,TG,,44131,60,18,,1763,544,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -70,7 +73,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211222,,NW,,6241,7,2,,,31,http://www.nw.ch/coronastatistik
 20211222,00:00,OW,,6523,7,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20211222,,SG,,86559,90,16,12,,797,https://www.sg.ch/tools/informationen-coronavirus.html
-20211222,,SH,,9993,23,4,,,101,https://coviddashboard.sh.ch/
+20211222,,SH,,9983,23,4,,,101,https://coviddashboard.sh.ch/
 20211222,,SO,,32562,44,13,,,307,https://corona.so.ch/bevoelkerung/daten/
 20211222,09:00,SZ,,27032,,,,25407,308,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211222,10:00,TG,,43950,64,19,,1754,542,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -94,7 +97,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211221,,NW,,6154,10,2,,,31,http://www.nw.ch/coronastatistik
 20211221,00:00,OW,,6454,7,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20211221,,SG,,86025,96,18,16,,795,https://www.sg.ch/tools/informationen-coronavirus.html
-20211221,,SH,,9882,22,3,,,101,https://coviddashboard.sh.ch/
+20211221,,SH,,9874,22,3,,,101,https://coviddashboard.sh.ch/
 20211221,,SO,,32305,40,12,,,306,https://corona.so.ch/bevoelkerung/daten/
 20211221,09:00,SZ,,26824,,,,25156,307,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211221,10:00,TG,,43650,62,20,,1750,541,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -117,7 +120,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211220,,NW,,6103,11,3,,,31,http://www.nw.ch/coronastatistik
 20211220,00:00,OW,,6420,8,,,,54,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20211220,,SG,,85440,100,18,17,,790,https://www.sg.ch/tools/informationen-coronavirus.html
-20211220,,SH,,9759,17,3,,,101,https://coviddashboard.sh.ch/
+20211220,,SH,,9755,17,3,,,101,https://coviddashboard.sh.ch/
 20211220,,SO,492653,32072,40,12,,,305,https://corona.so.ch/fileadmin/corona/Bevoelkerung/Daten/Woechentlicher_Situationsbericht/2021_1220_Woechentlicher_Situationsbericht__.pdf
 20211220,09:00,SZ,,26744,,,,24897,306,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211220,10:00,TG,,43325,59,18,,1744,540,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -139,7 +142,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211219,,NE,,24900,46,8,3,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211219,,NW,,6047,9,2,,,31,http://www.nw.ch/coronastatistik
 20211219,,SG,,84652,,,,,789,https://www.sg.ch/tools/informationen-coronavirus.html
-20211219,,SH,,9686,18,3,,,100,https://coviddashboard.sh.ch/
+20211219,,SH,,9685,18,3,,,100,https://coviddashboard.sh.ch/
 20211219,09:00,SZ,,26645,,,,24693,303,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211219,10:00,TG,,42868,57,20,,1737,539,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20211219,,VD,,124353,259,33,,,,https://www.infosan.vd.ch/fileadmin/2-PUBLICATIONS/SANTE_POPULATION/SSP_20211221_COVID_Bulletin_hebdomadaire_epidemio.pdf
@@ -159,7 +162,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211218,,NE,,24843,39,8,2,,417,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20211218,,NW,,6003,9,2,,,31,http://www.nw.ch/coronastatistik
 20211218,,SG,,84465,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
-20211218,,SH,,9627,,,,,100,https://coviddashboard.sh.ch/
+20211218,,SH,,9626,,,,,100,https://coviddashboard.sh.ch/
 20211218,09:00,SZ,,26419,,,,24492,303,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20211218,10:00,TG,,42696,53,19,,1734,538,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20211218,,VS,,54048,80,9,5,,715,https://www.vs.ch/de/web/coronavirus
