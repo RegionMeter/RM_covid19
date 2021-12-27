@@ -1,5 +1,6 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20211227,12:00,AI,,3075,,,,,22,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
+20211227,13:00,BS,,25053,83,18,,23710,248,https://www.gesundheit.bs.ch
 20211227,00:00,FL,,5940,10,,,5588,69,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20211227,,GL,,6376,6,,,,98,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20211227,,LU,,,54,,6,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
@@ -10,7 +11,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211227,00:00,UR,,6168,3,,,,59,https://www.ur.ch/themen/2962
 20211227,08:00,ZG,,16790,17,4,,,150,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20211226,08:00,AG,,88159,,,,78430,845,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
-20211226,12:00,BS,,24952,,,,23586,246,https://www.gesundheit.bs.ch
+20211226,12:00,BS,,24952,83,20,,23586,246,https://www.gesundheit.bs.ch
 20211226,00:00,FL,,5934,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20211226,00:00,GE,,91905,172,19,,,788,https://infocovid.smc.unige.ch/
 20211226,,GR,,28756,41,10,9,,224,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
@@ -24,7 +25,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20211226,08:00,ZG,,16705,19,4,,,149,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20211225,08:00,AG,,87761,,,,78015,845,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20211225,,BE,,,,,,,,https://covid-kennzahlen.apps.be.ch/
-20211225,12:00,BS,,24863,,,,23454,246,https://www.gesundheit.bs.ch
+20211225,12:00,BS,,24863,84,20,,23454,246,https://www.gesundheit.bs.ch
 20211225,00:00,GE,,91546,164,19,,,788,https://infocovid.smc.unige.ch/
 20211225,,GR,,28575,40,10,9,,224,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20211225,,JU,,11994,38,2,,,132,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
