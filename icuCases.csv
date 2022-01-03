@@ -1,4 +1,7 @@
 dateId,areaCode,country,areaName,icuCases
+20220103,4109,ch,zug,6
+20220103,4111,ch,solothurn,16
+20220103,4120,ch,thurgau,14
 20220103,4121,ch,ticino,16
 20220102,386011,si,pomurska,14
 20220102,386012,si,podravska,33
@@ -33,9 +36,11 @@ dateId,areaCode,country,areaName,icuCases
 20220102,3951,it,sicilia,107
 20220102,3952,it,sardegna,17
 20220102,4107,ch,nidwalden,2
+20220102,4109,ch,zug,5
 20220102,4114,ch,schaffhausen,2
 20220102,4117,ch,st_gallen,15
 20220102,4118,ch,graubunden,9
+20220102,4120,ch,thurgau,14
 20220102,4121,ch,ticino,16
 20220102,4125,ch,geneve,19
 20220102,4126,ch,jura_ch,2
@@ -82,7 +87,9 @@ dateId,areaCode,country,areaName,icuCases
 20220101,3951,it,sicilia,102
 20220101,3952,it,sardegna,15
 20220101,4107,ch,nidwalden,3
+20220101,4109,ch,zug,5
 20220101,4118,ch,graubunden,10
+20220101,4120,ch,thurgau,16
 20220101,4121,ch,ticino,16
 20220101,4125,ch,geneve,17
 20220101,4126,ch,jura_ch,2
@@ -130,11 +137,12 @@ dateId,areaCode,country,areaName,icuCases
 20211231,3951,it,sicilia,98
 20211231,3952,it,sardegna,16
 20211231,4107,ch,nidwalden,3
+20211231,4109,ch,zug,5
 20211231,4111,ch,solothurn,14
 20211231,4112,ch,basel_stadt,18
 20211231,4113,ch,basel_landschaft,6
 20211231,4118,ch,graubunden,8
-20211231,4120,ch,thurgau,15
+20211231,4120,ch,thurgau,16
 20211231,4121,ch,ticino,16
 20211231,4125,ch,geneve,17
 20211231,4126,ch,jura_ch,3
@@ -184,6 +192,7 @@ dateId,areaCode,country,areaName,icuCases
 20211230,4101,ch,zurich,48
 20211230,4102,ch,bern,35
 20211230,4107,ch,nidwalden,3
+20211230,4109,ch,zug,5
 20211230,4111,ch,solothurn,16
 20211230,4112,ch,basel_stadt,16
 20211230,4113,ch,basel_landschaft,6
@@ -249,7 +258,7 @@ dateId,areaCode,country,areaName,icuCases
 20211229,4117,ch,st_gallen,17
 20211229,4118,ch,graubunden,10
 20211229,4119,ch,aargau,24
-20211229,4120,ch,thurgau,15
+20211229,4120,ch,thurgau,16
 20211229,4121,ch,ticino,16
 20211229,4123,ch,valais,10
 20211229,4125,ch,geneve,19
@@ -308,7 +317,7 @@ dateId,areaCode,country,areaName,icuCases
 20211228,4117,ch,st_gallen,18
 20211228,4118,ch,graubunden,10
 20211228,4119,ch,aargau,25
-20211228,4120,ch,thurgau,16
+20211228,4120,ch,thurgau,17
 20211228,4121,ch,ticino,14
 20211228,4123,ch,valais,11
 20211228,4125,ch,geneve,19
@@ -367,7 +376,7 @@ dateId,areaCode,country,areaName,icuCases
 20211227,4117,ch,st_gallen,19
 20211227,4118,ch,graubunden,11
 20211227,4119,ch,aargau,26
-20211227,4120,ch,thurgau,17
+20211227,4120,ch,thurgau,18
 20211227,4121,ch,ticino,12
 20211227,4123,ch,valais,12
 20211227,4124,ch,neuchatel,8
@@ -424,7 +433,7 @@ dateId,areaCode,country,areaName,icuCases
 20211226,4114,ch,schaffhausen,4
 20211226,4117,ch,st_gallen,19
 20211226,4118,ch,graubunden,10
-20211226,4120,ch,thurgau,17
+20211226,4120,ch,thurgau,18
 20211226,4123,ch,valais,10
 20211226,4124,ch,neuchatel,8
 20211226,4125,ch,geneve,19
@@ -478,7 +487,7 @@ dateId,areaCode,country,areaName,icuCases
 20211225,4112,ch,basel_stadt,20
 20211225,4113,ch,basel_landschaft,7
 20211225,4118,ch,graubunden,10
-20211225,4120,ch,thurgau,17
+20211225,4120,ch,thurgau,18
 20211225,4123,ch,valais,10
 20211225,4124,ch,neuchatel,7
 20211225,4125,ch,geneve,19
