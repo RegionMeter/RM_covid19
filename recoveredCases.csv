@@ -1,5 +1,6 @@
 dateId,areaCode,country,areaName,recoveredCases
 20220104,4105,ch,schwyz,27890
+20220104,4120,ch,thurgau,1831
 20220103,39,it,italy,5133272
 20220103,3911,it,piemonte,413888
 20220103,3912,it,valle_daosta,13668
@@ -24,7 +25,8 @@ dateId,areaCode,country,areaName,recoveredCases
 20220103,3952,it,sardegna,78975
 20220103,4105,ch,schwyz,27683
 20220103,4112,ch,basel_stadt,24925
-20220103,4120,ch,thurgau,1821
+20220103,4120,ch,thurgau,1830
+20220103,423,li,liechtenstein,5911
 20220102,39,it,italy,5119893
 20220102,3911,it,piemonte,412682
 20220102,3912,it,valle_daosta,13610
@@ -51,7 +53,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20220102,4110,ch,fribourg,1232
 20220102,4112,ch,basel_stadt,24615
 20220102,4119,ch,aargau,82805
-20220102,4120,ch,thurgau,1821
+20220102,4120,ch,thurgau,1827
 20220102,423,li,liechtenstein,5866
 20220102,43,at,austria,1230737
 20220102,4301,at,wien,222938
@@ -89,7 +91,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20220101,4110,ch,fribourg,1231
 20220101,4112,ch,basel_stadt,24469
 20220101,4119,ch,aargau,82445
-20220101,4120,ch,thurgau,1821
+20220101,4120,ch,thurgau,1827
 20220101,43,at,austria,1228917
 20220101,4301,at,wien,222499
 20220101,4302,at,niederosterreich,210402
@@ -126,7 +128,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211231,4110,ch,fribourg,1222
 20211231,4112,ch,basel_stadt,24328
 20211231,4119,ch,aargau,81860
-20211231,4120,ch,thurgau,1819
+20211231,4120,ch,thurgau,1823
 20211231,43,at,austria,1227051
 20211231,4301,at,wien,222030
 20211231,4302,at,niederosterreich,210081
@@ -163,7 +165,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211230,4110,ch,fribourg,1218
 20211230,4112,ch,basel_stadt,24182
 20211230,4119,ch,aargau,81050
-20211230,4120,ch,thurgau,1817
+20211230,4120,ch,thurgau,1818
 20211230,423,li,liechtenstein,5715
 20211230,43,at,austria,1224456
 20211230,4301,at,wien,221229
@@ -427,7 +429,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211223,4110,ch,fribourg,1191
 20211223,4112,ch,basel_stadt,23043
 20211223,4119,ch,aargau,76570
-20211223,4120,ch,thurgau,1768
+20211223,4120,ch,thurgau,1767
 20211223,43,at,austria,1203680
 20211223,4301,at,wien,216488
 20211223,4302,at,niederosterreich,206446
@@ -464,7 +466,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211222,4110,ch,fribourg,1187
 20211222,4112,ch,basel_stadt,22863
 20211222,4119,ch,aargau,75720
-20211222,4120,ch,thurgau,1757
+20211222,4120,ch,thurgau,1756
 20211222,423,li,liechtenstein,5438
 20211222,43,at,austria,1199603
 20211222,4301,at,wien,215566
@@ -502,7 +504,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211221,4110,ch,fribourg,1179
 20211221,4112,ch,basel_stadt,22758
 20211221,4119,ch,aargau,74855
-20211221,4120,ch,thurgau,1752
+20211221,4120,ch,thurgau,1751
 20211221,423,li,liechtenstein,5382
 20211221,43,at,austria,1195192
 20211221,4301,at,wien,214592
@@ -540,7 +542,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211220,4110,ch,fribourg,1173
 20211220,4112,ch,basel_stadt,22679
 20211220,4119,ch,aargau,74015
-20211220,4120,ch,thurgau,1746
+20211220,4120,ch,thurgau,1745
 20211220,423,li,liechtenstein,5346
 20211220,43,at,austria,1189611
 20211220,4301,at,wien,213240
@@ -578,7 +580,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211219,4110,ch,fribourg,1173
 20211219,4112,ch,basel_stadt,22509
 20211219,4119,ch,aargau,73335
-20211219,4120,ch,thurgau,1739
+20211219,4120,ch,thurgau,1738
 20211219,423,li,liechtenstein,5274
 20211219,43,at,austria,1184838
 20211219,4301,at,wien,212254
@@ -616,7 +618,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211218,4110,ch,fribourg,1169
 20211218,4112,ch,basel_stadt,22327
 20211218,4119,ch,aargau,72935
-20211218,4120,ch,thurgau,1736
+20211218,4120,ch,thurgau,1735
 20211218,43,at,austria,1180508
 20211218,4301,at,wien,211530
 20211218,4302,at,niederosterreich,203173
@@ -653,7 +655,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211217,4110,ch,fribourg,1162
 20211217,4112,ch,basel_stadt,22079
 20211217,4119,ch,aargau,72290
-20211217,4120,ch,thurgau,1732
+20211217,4120,ch,thurgau,1731
 20211217,43,at,austria,1175195
 20211217,4301,at,wien,210518
 20211217,4302,at,niederosterreich,202242
@@ -690,7 +692,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211216,4110,ch,fribourg,1157
 20211216,4112,ch,basel_stadt,21833
 20211216,4119,ch,aargau,71590
-20211216,4120,ch,thurgau,1719
+20211216,4120,ch,thurgau,1718
 20211216,423,li,liechtenstein,5152
 20211216,43,at,austria,1169020
 20211216,4301,at,wien,209311
@@ -728,7 +730,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211215,4110,ch,fribourg,1151
 20211215,4112,ch,basel_stadt,21593
 20211215,4119,ch,aargau,70905
-20211215,4120,ch,thurgau,1708
+20211215,4120,ch,thurgau,1707
 20211215,423,li,liechtenstein,5108
 20211215,43,at,austria,1162686
 20211215,4301,at,wien,207954
@@ -766,7 +768,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211214,4110,ch,fribourg,1143
 20211214,4112,ch,basel_stadt,21523
 20211214,4119,ch,aargau,70235
-20211214,4120,ch,thurgau,1701
+20211214,4120,ch,thurgau,1700
 20211214,423,li,liechtenstein,5041
 20211214,43,at,austria,1155889
 20211214,4301,at,wien,206536
@@ -804,7 +806,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211213,4110,ch,fribourg,1138
 20211213,4112,ch,basel_stadt,21381
 20211213,4119,ch,aargau,69525
-20211213,4120,ch,thurgau,1694
+20211213,4120,ch,thurgau,1693
 20211213,423,li,liechtenstein,4994
 20211213,43,at,austria,1147410
 20211213,4301,at,wien,204617
@@ -842,7 +844,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211212,4110,ch,fribourg,1137
 20211212,4112,ch,basel_stadt,21223
 20211212,4119,ch,aargau,69040
-20211212,4120,ch,thurgau,1681
+20211212,4120,ch,thurgau,1680
 20211212,423,li,liechtenstein,4929
 20211212,43,at,austria,1139602
 20211212,4301,at,wien,203319
@@ -880,7 +882,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211211,4110,ch,fribourg,1132
 20211211,4112,ch,basel_stadt,20985
 20211211,4119,ch,aargau,68765
-20211211,4120,ch,thurgau,1679
+20211211,4120,ch,thurgau,1678
 20211211,43,at,austria,1132043
 20211211,4301,at,wien,202048
 20211211,4302,at,niederosterreich,195580
@@ -917,7 +919,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211210,4110,ch,fribourg,1130
 20211210,4112,ch,basel_stadt,20735
 20211210,4119,ch,aargau,68260
-20211210,4120,ch,thurgau,1673
+20211210,4120,ch,thurgau,1672
 20211210,43,at,austria,1122792
 20211210,4301,at,wien,200616
 20211210,4302,at,niederosterreich,193989
@@ -954,7 +956,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211209,4110,ch,fribourg,1122
 20211209,4112,ch,basel_stadt,20466
 20211209,4119,ch,aargau,67725
-20211209,4120,ch,thurgau,1662
+20211209,4120,ch,thurgau,1661
 20211209,423,li,liechtenstein,4772
 20211209,43,at,austria,1112882
 20211209,4301,at,wien,198918
@@ -992,7 +994,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211208,4110,ch,fribourg,1120
 20211208,4112,ch,basel_stadt,20191
 20211208,4119,ch,aargau,67215
-20211208,4120,ch,thurgau,1654
+20211208,4120,ch,thurgau,1653
 20211208,423,li,liechtenstein,4705
 20211208,43,at,austria,1102421
 20211208,4301,at,wien,196824
@@ -1030,7 +1032,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211207,4110,ch,fribourg,1116
 20211207,4112,ch,basel_stadt,20044
 20211207,4119,ch,aargau,66750
-20211207,4120,ch,thurgau,1646
+20211207,4120,ch,thurgau,1645
 20211207,43,at,austria,1091143
 20211207,4301,at,wien,194966
 20211207,4302,at,niederosterreich,189056
@@ -1067,7 +1069,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211206,4110,ch,fribourg,1115
 20211206,4112,ch,basel_stadt,19828
 20211206,4119,ch,aargau,66245
-20211206,4120,ch,thurgau,1635
+20211206,4120,ch,thurgau,1634
 20211206,423,li,liechtenstein,4600
 20211206,43,at,austria,1077807
 20211206,4301,at,wien,193030
@@ -1105,7 +1107,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211205,4110,ch,fribourg,1113
 20211205,4112,ch,basel_stadt,19612
 20211205,4119,ch,aargau,65845
-20211205,4120,ch,thurgau,1626
+20211205,4120,ch,thurgau,1625
 20211205,423,li,liechtenstein,4530
 20211205,43,at,austria,1066804
 20211205,4301,at,wien,191743
@@ -1143,7 +1145,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211204,4110,ch,fribourg,1112
 20211204,4112,ch,basel_stadt,19308
 20211204,4119,ch,aargau,65560
-20211204,4120,ch,thurgau,1622
+20211204,4120,ch,thurgau,1621
 20211204,43,at,austria,1056006
 20211204,4301,at,wien,190651
 20211204,4302,at,niederosterreich,183691
@@ -1180,7 +1182,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211203,4110,ch,fribourg,1110
 20211203,4112,ch,basel_stadt,19274
 20211203,4119,ch,aargau,65205
-20211203,4120,ch,thurgau,1620
+20211203,4120,ch,thurgau,1619
 20211203,43,at,austria,1044372
 20211203,4301,at,wien,189342
 20211203,4302,at,niederosterreich,181663
@@ -1217,7 +1219,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211202,4110,ch,fribourg,1105
 20211202,4112,ch,basel_stadt,19090
 20211202,4119,ch,aargau,64795
-20211202,4120,ch,thurgau,1616
+20211202,4120,ch,thurgau,1615
 20211202,423,li,liechtenstein,4357
 20211202,43,at,austria,1031022
 20211202,4301,at,wien,188007
@@ -1255,7 +1257,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211201,4110,ch,fribourg,1100
 20211201,4112,ch,basel_stadt,18895
 20211201,4119,ch,aargau,64420
-20211201,4120,ch,thurgau,1609
+20211201,4120,ch,thurgau,1608
 20211201,423,li,liechtenstein,4304
 20211201,43,at,austria,1018570
 20211201,4301,at,wien,186706
@@ -1293,7 +1295,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211130,4110,ch,fribourg,1097
 20211130,4112,ch,basel_stadt,18613
 20211130,4119,ch,aargau,63995
-20211130,4120,ch,thurgau,1599
+20211130,4120,ch,thurgau,1598
 20211130,423,li,liechtenstein,4246
 20211130,43,at,austria,1005238
 20211130,4301,at,wien,185364
@@ -1331,7 +1333,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211129,4110,ch,fribourg,1095
 20211129,4112,ch,basel_stadt,18468
 20211129,4119,ch,aargau,63595
-20211129,4120,ch,thurgau,1594
+20211129,4120,ch,thurgau,1593
 20211129,423,li,liechtenstein,4206
 20211129,43,at,austria,991157
 20211129,4301,at,wien,183853
@@ -1369,7 +1371,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211128,4110,ch,fribourg,1095
 20211128,4112,ch,basel_stadt,18264
 20211128,4119,ch,aargau,63380
-20211128,4120,ch,thurgau,1586
+20211128,4120,ch,thurgau,1585
 20211128,423,li,liechtenstein,4139
 20211128,43,at,austria,978176
 20211128,4301,at,wien,182739
@@ -1407,7 +1409,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211127,4110,ch,fribourg,1095
 20211127,4112,ch,basel_stadt,18151
 20211127,4119,ch,aargau,63155
-20211127,4120,ch,thurgau,1584
+20211127,4120,ch,thurgau,1583
 20211127,43,at,austria,966199
 20211127,4301,at,wien,181839
 20211127,4302,at,niederosterreich,169193
@@ -1444,7 +1446,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211126,4110,ch,fribourg,1092
 20211126,4112,ch,basel_stadt,17897
 20211126,4119,ch,aargau,62920
-20211126,4120,ch,thurgau,1582
+20211126,4120,ch,thurgau,1581
 20211126,43,at,austria,952814
 20211126,4301,at,wien,180733
 20211126,4302,at,niederosterreich,166591
@@ -1481,7 +1483,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211125,4110,ch,fribourg,1088
 20211125,4112,ch,basel_stadt,17756
 20211125,4119,ch,aargau,62675
-20211125,4120,ch,thurgau,1575
+20211125,4120,ch,thurgau,1574
 20211125,423,li,liechtenstein,3958
 20211125,43,at,austria,939382
 20211125,4301,at,wien,179675
@@ -1519,7 +1521,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211124,4110,ch,fribourg,1085
 20211124,4112,ch,basel_stadt,17624
 20211124,4119,ch,aargau,62400
-20211124,4120,ch,thurgau,1568
+20211124,4120,ch,thurgau,1567
 20211124,423,li,liechtenstein,3897
 20211124,43,at,austria,926128
 20211124,4301,at,wien,178381
@@ -1557,7 +1559,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211123,4110,ch,fribourg,1085
 20211123,4112,ch,basel_stadt,17525
 20211123,4119,ch,aargau,62175
-20211123,4120,ch,thurgau,1564
+20211123,4120,ch,thurgau,1563
 20211123,423,li,liechtenstein,3853
 20211123,43,at,austria,913967
 20211123,4301,at,wien,176900
@@ -1595,7 +1597,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211122,4110,ch,fribourg,1085
 20211122,4112,ch,basel_stadt,17437
 20211122,4119,ch,aargau,61835
-20211122,4120,ch,thurgau,1555
+20211122,4120,ch,thurgau,1554
 20211122,423,li,liechtenstein,3807
 20211122,43,at,austria,901520
 20211122,4301,at,wien,176081
@@ -1633,7 +1635,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211121,4110,ch,fribourg,1085
 20211121,4112,ch,basel_stadt,17332
 20211121,4119,ch,aargau,61695
-20211121,4120,ch,thurgau,1548
+20211121,4120,ch,thurgau,1547
 20211121,423,li,liechtenstein,3769
 20211121,43,at,austria,891136
 20211121,4301,at,wien,175426
@@ -1671,7 +1673,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211120,4110,ch,fribourg,1083
 20211120,4112,ch,basel_stadt,17237
 20211120,4119,ch,aargau,61560
-20211120,4120,ch,thurgau,1546
+20211120,4120,ch,thurgau,1545
 20211120,43,at,austria,881677
 20211120,4301,at,wien,174782
 20211120,4302,at,niederosterreich,153356
@@ -1708,7 +1710,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211119,4110,ch,fribourg,1083
 20211119,4112,ch,basel_stadt,17141
 20211119,4119,ch,aargau,61375
-20211119,4120,ch,thurgau,1544
+20211119,4120,ch,thurgau,1543
 20211119,43,at,austria,871888
 20211119,4301,at,wien,174224
 20211119,4302,at,niederosterreich,151238
@@ -1745,7 +1747,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211118,4110,ch,fribourg,1079
 20211118,4112,ch,basel_stadt,17068
 20211118,4119,ch,aargau,61210
-20211118,4120,ch,thurgau,1540
+20211118,4120,ch,thurgau,1539
 20211118,423,li,liechtenstein,3703
 20211118,43,at,austria,863017
 20211118,4301,at,wien,173486
@@ -1783,7 +1785,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211117,4110,ch,fribourg,1077
 20211117,4112,ch,basel_stadt,16961
 20211117,4119,ch,aargau,60980
-20211117,4120,ch,thurgau,1536
+20211117,4120,ch,thurgau,1535
 20211117,423,li,liechtenstein,3679
 20211117,43,at,austria,854570
 20211117,4301,at,wien,172627
@@ -1821,7 +1823,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211116,4110,ch,fribourg,1076
 20211116,4112,ch,basel_stadt,16880
 20211116,4119,ch,aargau,60765
-20211116,4120,ch,thurgau,1532
+20211116,4120,ch,thurgau,1531
 20211116,423,li,liechtenstein,3662
 20211116,43,at,austria,846532
 20211116,4301,at,wien,172149
@@ -1859,7 +1861,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211115,4110,ch,fribourg,1074
 20211115,4112,ch,basel_stadt,16813
 20211115,4119,ch,aargau,60590
-20211115,4120,ch,thurgau,1527
+20211115,4120,ch,thurgau,1526
 20211115,423,li,liechtenstein,3637
 20211115,43,at,austria,838960
 20211115,4301,at,wien,171601
@@ -1897,7 +1899,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211114,4110,ch,fribourg,1071
 20211114,4112,ch,basel_stadt,16759
 20211114,4119,ch,aargau,60495
-20211114,4120,ch,thurgau,1522
+20211114,4120,ch,thurgau,1521
 20211114,423,li,liechtenstein,3615
 20211114,43,at,austria,831926
 20211114,4301,at,wien,171124
@@ -1935,7 +1937,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211113,4110,ch,fribourg,1070
 20211113,4112,ch,basel_stadt,16693
 20211113,4119,ch,aargau,60415
-20211113,4120,ch,thurgau,1522
+20211113,4120,ch,thurgau,1521
 20211113,43,at,austria,825748
 20211113,4301,at,wien,170696
 20211113,4302,at,niederosterreich,142017
@@ -1973,7 +1975,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211112,4110,ch,fribourg,1070
 20211112,4112,ch,basel_stadt,16636
 20211112,4119,ch,aargau,60305
-20211112,4120,ch,thurgau,1521
+20211112,4120,ch,thurgau,1520
 20211112,43,at,austria,819247
 20211112,4301,at,wien,170217
 20211112,4302,at,niederosterreich,140560
@@ -2011,7 +2013,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211111,4110,ch,fribourg,1068
 20211111,4112,ch,basel_stadt,16575
 20211111,4119,ch,aargau,60180
-20211111,4120,ch,thurgau,1516
+20211111,4120,ch,thurgau,1515
 20211111,423,li,liechtenstein,3568
 20211111,43,at,austria,813563
 20211111,4301,at,wien,169724
@@ -2050,7 +2052,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211110,4110,ch,fribourg,1067
 20211110,4112,ch,basel_stadt,16519
 20211110,4119,ch,aargau,60035
-20211110,4120,ch,thurgau,1514
+20211110,4120,ch,thurgau,1513
 20211110,423,li,liechtenstein,3555
 20211110,43,at,austria,808285
 20211110,4301,at,wien,169235
@@ -2089,7 +2091,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211109,4110,ch,fribourg,1063
 20211109,4112,ch,basel_stadt,16484
 20211109,4119,ch,aargau,59935
-20211109,4120,ch,thurgau,1512
+20211109,4120,ch,thurgau,1511
 20211109,423,li,liechtenstein,3539
 20211109,43,at,austria,803118
 20211109,4301,at,wien,168698
@@ -2128,7 +2130,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211108,4110,ch,fribourg,1063
 20211108,4112,ch,basel_stadt,16450
 20211108,4119,ch,aargau,59835
-20211108,4120,ch,thurgau,1507
+20211108,4120,ch,thurgau,1506
 20211108,423,li,liechtenstein,3530
 20211108,43,at,austria,797635
 20211108,4301,at,wien,168079
@@ -2167,7 +2169,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211107,4110,ch,fribourg,1061
 20211107,4112,ch,basel_stadt,16431
 20211107,4119,ch,aargau,59765
-20211107,4120,ch,thurgau,1505
+20211107,4120,ch,thurgau,1504
 20211107,423,li,liechtenstein,3515
 20211107,43,at,austria,793130
 20211107,4301,at,wien,167644
@@ -2206,7 +2208,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211106,4110,ch,fribourg,1061
 20211106,4112,ch,basel_stadt,16390
 20211106,4119,ch,aargau,59725
-20211106,4120,ch,thurgau,1502
+20211106,4120,ch,thurgau,1501
 20211106,43,at,austria,788865
 20211106,4301,at,wien,167305
 20211106,4302,at,niederosterreich,133702
@@ -2244,7 +2246,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211105,4110,ch,fribourg,1058
 20211105,4112,ch,basel_stadt,16344
 20211105,4119,ch,aargau,59650
-20211105,4120,ch,thurgau,1500
+20211105,4120,ch,thurgau,1499
 20211105,43,at,austria,784873
 20211105,4301,at,wien,166923
 20211105,4302,at,niederosterreich,132893
@@ -2282,7 +2284,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211104,4110,ch,fribourg,1058
 20211104,4112,ch,basel_stadt,16313
 20211104,4119,ch,aargau,59565
-20211104,4120,ch,thurgau,1499
+20211104,4120,ch,thurgau,1498
 20211104,423,li,liechtenstein,3489
 20211104,43,at,austria,780897
 20211104,4301,at,wien,166605
@@ -2321,7 +2323,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211103,4110,ch,fribourg,1056
 20211103,4112,ch,basel_stadt,16279
 20211103,4119,ch,aargau,59465
-20211103,4120,ch,thurgau,1495
+20211103,4120,ch,thurgau,1494
 20211103,423,li,liechtenstein,3482
 20211103,43,at,austria,777387
 20211103,4301,at,wien,166161
@@ -2360,7 +2362,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211102,4110,ch,fribourg,1054
 20211102,4112,ch,basel_stadt,16258
 20211102,4119,ch,aargau,59380
-20211102,4120,ch,thurgau,1492
+20211102,4120,ch,thurgau,1491
 20211102,423,li,liechtenstein,3474
 20211102,43,at,austria,774044
 20211102,4301,at,wien,165827
@@ -2399,7 +2401,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211101,4110,ch,fribourg,1054
 20211101,4112,ch,basel_stadt,16249
 20211101,4119,ch,aargau,59300
-20211101,4120,ch,thurgau,1488
+20211101,4120,ch,thurgau,1487
 20211101,423,li,liechtenstein,3471
 20211101,43,at,austria,770169
 20211101,4301,at,wien,165318
@@ -2438,7 +2440,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211031,4110,ch,fribourg,1054
 20211031,4112,ch,basel_stadt,16215
 20211031,4119,ch,aargau,59235
-20211031,4120,ch,thurgau,1486
+20211031,4120,ch,thurgau,1485
 20211031,43,at,austria,766910
 20211031,4301,at,wien,165071
 20211031,4302,at,niederosterreich,128942
@@ -2476,7 +2478,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211030,4110,ch,fribourg,1053
 20211030,4112,ch,basel_stadt,16203
 20211030,4119,ch,aargau,59200
-20211030,4120,ch,thurgau,1486
+20211030,4120,ch,thurgau,1485
 20211030,43,at,austria,764137
 20211030,4301,at,wien,164808
 20211030,4302,at,niederosterreich,128362
@@ -2514,7 +2516,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211029,4110,ch,fribourg,1053
 20211029,4112,ch,basel_stadt,16162
 20211029,4119,ch,aargau,59160
-20211029,4120,ch,thurgau,1485
+20211029,4120,ch,thurgau,1484
 20211029,43,at,austria,761314
 20211029,4301,at,wien,164494
 20211029,4302,at,niederosterreich,127721
@@ -2552,7 +2554,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211028,4110,ch,fribourg,1053
 20211028,4112,ch,basel_stadt,16148
 20211028,4119,ch,aargau,59100
-20211028,4120,ch,thurgau,1482
+20211028,4120,ch,thurgau,1481
 20211028,423,li,liechtenstein,3452
 20211028,43,at,austria,758411
 20211028,4301,at,wien,164184
@@ -2591,7 +2593,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211027,4110,ch,fribourg,1053
 20211027,4112,ch,basel_stadt,16119
 20211027,4119,ch,aargau,59045
-20211027,4120,ch,thurgau,1478
+20211027,4120,ch,thurgau,1477
 20211027,423,li,liechtenstein,3449
 20211027,43,at,austria,755824
 20211027,4301,at,wien,163813
@@ -2630,7 +2632,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211026,4110,ch,fribourg,1053
 20211026,4112,ch,basel_stadt,16108
 20211026,4119,ch,aargau,58995
-20211026,4120,ch,thurgau,1476
+20211026,4120,ch,thurgau,1475
 20211026,423,li,liechtenstein,3441
 20211026,43,at,austria,753350
 20211026,4301,at,wien,163379
@@ -2669,7 +2671,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211025,4110,ch,fribourg,1050
 20211025,4112,ch,basel_stadt,16095
 20211025,4119,ch,aargau,58925
-20211025,4120,ch,thurgau,1474
+20211025,4120,ch,thurgau,1473
 20211025,423,li,liechtenstein,3435
 20211025,43,at,austria,750468
 20211025,4301,at,wien,162717
@@ -2708,7 +2710,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211024,4110,ch,fribourg,1048
 20211024,4112,ch,basel_stadt,16081
 20211024,4119,ch,aargau,58875
-20211024,4120,ch,thurgau,1472
+20211024,4120,ch,thurgau,1471
 20211024,423,li,liechtenstein,3432
 20211024,43,at,austria,748260
 20211024,4301,at,wien,162372
@@ -2747,7 +2749,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211023,4110,ch,fribourg,1048
 20211023,4112,ch,basel_stadt,16071
 20211023,4119,ch,aargau,58835
-20211023,4120,ch,thurgau,1472
+20211023,4120,ch,thurgau,1471
 20211023,43,at,austria,746307
 20211023,4301,at,wien,162064
 20211023,4302,at,niederosterreich,124766
@@ -2785,7 +2787,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211022,4110,ch,fribourg,1046
 20211022,4112,ch,basel_stadt,16057
 20211022,4119,ch,aargau,58785
-20211022,4120,ch,thurgau,1471
+20211022,4120,ch,thurgau,1470
 20211022,43,at,austria,744225
 20211022,4301,at,wien,161713
 20211022,4302,at,niederosterreich,124332
@@ -2823,7 +2825,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211021,4110,ch,fribourg,1046
 20211021,4112,ch,basel_stadt,16043
 20211021,4119,ch,aargau,58745
-20211021,4120,ch,thurgau,1467
+20211021,4120,ch,thurgau,1466
 20211021,423,li,liechtenstein,3415
 20211021,43,at,austria,742181
 20211021,4301,at,wien,161361
@@ -2862,7 +2864,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211020,4110,ch,fribourg,1046
 20211020,4112,ch,basel_stadt,16025
 20211020,4119,ch,aargau,58685
-20211020,4120,ch,thurgau,1467
+20211020,4120,ch,thurgau,1466
 20211020,423,li,liechtenstein,3412
 20211020,43,at,austria,740348
 20211020,4301,at,wien,161000
@@ -2901,7 +2903,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211019,4110,ch,fribourg,1045
 20211019,4112,ch,basel_stadt,16016
 20211019,4119,ch,aargau,58625
-20211019,4120,ch,thurgau,1466
+20211019,4120,ch,thurgau,1465
 20211019,423,li,liechtenstein,3405
 20211019,43,at,austria,738482
 20211019,4301,at,wien,160570
@@ -2940,7 +2942,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211018,4110,ch,fribourg,1045
 20211018,4112,ch,basel_stadt,16007
 20211018,4119,ch,aargau,58545
-20211018,4120,ch,thurgau,1460
+20211018,4120,ch,thurgau,1459
 20211018,423,li,liechtenstein,3401
 20211018,43,at,austria,736175
 20211018,4301,at,wien,159877
@@ -2979,7 +2981,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211017,4110,ch,fribourg,1045
 20211017,4112,ch,basel_stadt,15995
 20211017,4119,ch,aargau,58480
-20211017,4120,ch,thurgau,1456
+20211017,4120,ch,thurgau,1455
 20211017,423,li,liechtenstein,3399
 20211017,43,at,austria,734442
 20211017,4301,at,wien,159498
@@ -3018,7 +3020,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211016,4110,ch,fribourg,1045
 20211016,4112,ch,basel_stadt,15991
 20211016,4119,ch,aargau,58445
-20211016,4120,ch,thurgau,1456
+20211016,4120,ch,thurgau,1455
 20211016,43,at,austria,732655
 20211016,4301,at,wien,159127
 20211016,4302,at,niederosterreich,122276
@@ -3056,7 +3058,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211015,4110,ch,fribourg,1045
 20211015,4112,ch,basel_stadt,15986
 20211015,4119,ch,aargau,58375
-20211015,4120,ch,thurgau,1455
+20211015,4120,ch,thurgau,1454
 20211015,43,at,austria,730917
 20211015,4301,at,wien,158749
 20211015,4302,at,niederosterreich,121990
@@ -3094,7 +3096,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211014,4110,ch,fribourg,1045
 20211014,4112,ch,basel_stadt,15969
 20211014,4119,ch,aargau,58305
-20211014,4120,ch,thurgau,1453
+20211014,4120,ch,thurgau,1452
 20211014,423,li,liechtenstein,3390
 20211014,43,at,austria,728952
 20211014,4301,at,wien,158370
@@ -3133,7 +3135,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211013,4110,ch,fribourg,1044
 20211013,4112,ch,basel_stadt,15962
 20211013,4119,ch,aargau,58235
-20211013,4120,ch,thurgau,1451
+20211013,4120,ch,thurgau,1450
 20211013,423,li,liechtenstein,3389
 20211013,43,at,austria,727124
 20211013,4301,at,wien,157847
@@ -3172,7 +3174,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211012,4110,ch,fribourg,1044
 20211012,4112,ch,basel_stadt,15957
 20211012,4119,ch,aargau,58185
-20211012,4120,ch,thurgau,1449
+20211012,4120,ch,thurgau,1448
 20211012,423,li,liechtenstein,3389
 20211012,43,at,austria,725454
 20211012,4301,at,wien,157411
@@ -3211,7 +3213,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211011,4110,ch,fribourg,1043
 20211011,4112,ch,basel_stadt,15950
 20211011,4119,ch,aargau,58055
-20211011,4120,ch,thurgau,1447
+20211011,4120,ch,thurgau,1446
 20211011,423,li,liechtenstein,3387
 20211011,43,at,austria,723255
 20211011,4301,at,wien,156763
@@ -3250,7 +3252,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211010,4110,ch,fribourg,1043
 20211010,4112,ch,basel_stadt,15937
 20211010,4119,ch,aargau,57965
-20211010,4120,ch,thurgau,1445
+20211010,4120,ch,thurgau,1444
 20211010,423,li,liechtenstein,3384
 20211010,43,at,austria,721584
 20211010,4301,at,wien,156380
@@ -3289,7 +3291,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211009,4110,ch,fribourg,1043
 20211009,4112,ch,basel_stadt,15931
 20211009,4119,ch,aargau,57920
-20211009,4120,ch,thurgau,1444
+20211009,4120,ch,thurgau,1443
 20211009,43,at,austria,719912
 20211009,4301,at,wien,155918
 20211009,4302,at,niederosterreich,120404
@@ -3327,7 +3329,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211008,4110,ch,fribourg,1036
 20211008,4112,ch,basel_stadt,15923
 20211008,4119,ch,aargau,57850
-20211008,4120,ch,thurgau,1442
+20211008,4120,ch,thurgau,1441
 20211008,43,at,austria,718019
 20211008,4301,at,wien,155523
 20211008,4302,at,niederosterreich,120118
@@ -3365,7 +3367,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211007,4110,ch,fribourg,1035
 20211007,4112,ch,basel_stadt,15902
 20211007,4119,ch,aargau,57740
-20211007,4120,ch,thurgau,1438
+20211007,4120,ch,thurgau,1437
 20211007,423,li,liechtenstein,3379
 20211007,43,at,austria,715941
 20211007,4301,at,wien,155046
@@ -3404,7 +3406,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211006,4110,ch,fribourg,1034
 20211006,4112,ch,basel_stadt,15814
 20211006,4119,ch,aargau,57630
-20211006,4120,ch,thurgau,1437
+20211006,4120,ch,thurgau,1436
 20211006,423,li,liechtenstein,3376
 20211006,43,at,austria,713857
 20211006,4301,at,wien,154396
@@ -3443,7 +3445,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211005,4110,ch,fribourg,1032
 20211005,4112,ch,basel_stadt,15801
 20211005,4119,ch,aargau,57530
-20211005,4120,ch,thurgau,1434
+20211005,4120,ch,thurgau,1433
 20211005,423,li,liechtenstein,3375
 20211005,43,at,austria,711998
 20211005,4301,at,wien,153818
@@ -3482,7 +3484,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211004,4110,ch,fribourg,1031
 20211004,4112,ch,basel_stadt,15785
 20211004,4119,ch,aargau,57400
-20211004,4120,ch,thurgau,1432
+20211004,4120,ch,thurgau,1431
 20211004,423,li,liechtenstein,3371
 20211004,43,at,austria,709588
 20211004,4301,at,wien,152878
@@ -3521,7 +3523,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211003,4110,ch,fribourg,1031
 20211003,4112,ch,basel_stadt,15761
 20211003,4119,ch,aargau,57330
-20211003,4120,ch,thurgau,1428
+20211003,4120,ch,thurgau,1427
 20211003,423,li,liechtenstein,3370
 20211003,43,at,austria,707900
 20211003,4301,at,wien,152423
@@ -3560,7 +3562,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211002,4110,ch,fribourg,1029
 20211002,4112,ch,basel_stadt,15742
 20211002,4119,ch,aargau,57275
-20211002,4120,ch,thurgau,1428
+20211002,4120,ch,thurgau,1427
 20211002,43,at,austria,706378
 20211002,4301,at,wien,152028
 20211002,4302,at,niederosterreich,118379
@@ -3598,7 +3600,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211001,4110,ch,fribourg,1029
 20211001,4112,ch,basel_stadt,15725
 20211001,4119,ch,aargau,57190
-20211001,4120,ch,thurgau,1427
+20211001,4120,ch,thurgau,1426
 20211001,43,at,austria,704594
 20211001,4301,at,wien,151555
 20211001,4302,at,niederosterreich,118055
@@ -3636,7 +3638,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210930,4110,ch,fribourg,1029
 20210930,4112,ch,basel_stadt,15709
 20210930,4119,ch,aargau,57060
-20210930,4120,ch,thurgau,1420
+20210930,4120,ch,thurgau,1419
 20210930,423,li,liechtenstein,3368
 20210930,43,at,austria,702742
 20210930,4301,at,wien,151002
@@ -3675,7 +3677,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210929,4110,ch,fribourg,1028
 20210929,4112,ch,basel_stadt,15699
 20210929,4119,ch,aargau,56955
-20210929,4120,ch,thurgau,1416
+20210929,4120,ch,thurgau,1415
 20210929,423,li,liechtenstein,3366
 20210929,43,at,austria,700623
 20210929,4301,at,wien,150231
@@ -3714,7 +3716,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210928,4110,ch,fribourg,1027
 20210928,4112,ch,basel_stadt,15682
 20210928,4119,ch,aargau,56790
-20210928,4120,ch,thurgau,1404
+20210928,4120,ch,thurgau,1403
 20210928,423,li,liechtenstein,3363
 20210928,43,at,austria,698638
 20210928,4301,at,wien,149611
@@ -3753,7 +3755,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210927,4110,ch,fribourg,1026
 20210927,4112,ch,basel_stadt,15660
 20210927,4119,ch,aargau,56620
-20210927,4120,ch,thurgau,1397
+20210927,4120,ch,thurgau,1396
 20210927,423,li,liechtenstein,3360
 20210927,43,at,austria,696348
 20210927,4301,at,wien,148915
@@ -3792,7 +3794,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210926,4110,ch,fribourg,1025
 20210926,4112,ch,basel_stadt,15638
 20210926,4119,ch,aargau,56500
-20210926,4120,ch,thurgau,1396
+20210926,4120,ch,thurgau,1395
 20210926,423,li,liechtenstein,3355
 20210926,43,at,austria,694709
 20210926,4301,at,wien,148424
@@ -3831,7 +3833,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210925,4110,ch,fribourg,1025
 20210925,4112,ch,basel_stadt,15622
 20210925,4119,ch,aargau,56385
-20210925,4120,ch,thurgau,1392
+20210925,4120,ch,thurgau,1391
 20210925,43,at,austria,692917
 20210925,4301,at,wien,147975
 20210925,4302,at,niederosterreich,116132
@@ -3869,7 +3871,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210924,4110,ch,fribourg,1023
 20210924,4112,ch,basel_stadt,15613
 20210924,4119,ch,aargau,56210
-20210924,4120,ch,thurgau,1391
+20210924,4120,ch,thurgau,1390
 20210924,43,at,austria,691012
 20210924,4301,at,wien,147496
 20210924,4302,at,niederosterreich,115783
@@ -3907,7 +3909,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210923,4110,ch,fribourg,1021
 20210923,4112,ch,basel_stadt,15556
 20210923,4119,ch,aargau,56025
-20210923,4120,ch,thurgau,1383
+20210923,4120,ch,thurgau,1382
 20210923,423,li,liechtenstein,3336
 20210923,43,at,austria,689023
 20210923,4301,at,wien,147015
@@ -3946,7 +3948,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210922,4110,ch,fribourg,1018
 20210922,4112,ch,basel_stadt,15533
 20210922,4119,ch,aargau,55840
-20210922,4120,ch,thurgau,1377
+20210922,4120,ch,thurgau,1376
 20210922,423,li,liechtenstein,3332
 20210922,43,at,austria,687154
 20210922,4301,at,wien,146597
@@ -3985,7 +3987,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210921,4110,ch,fribourg,1017
 20210921,4112,ch,basel_stadt,15523
 20210921,4119,ch,aargau,55595
-20210921,4120,ch,thurgau,1373
+20210921,4120,ch,thurgau,1372
 20210921,423,li,liechtenstein,3327
 20210921,43,at,austria,685316
 20210921,4301,at,wien,146145
@@ -4024,7 +4026,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210920,4110,ch,fribourg,1016
 20210920,4112,ch,basel_stadt,15490
 20210920,4119,ch,aargau,55275
-20210920,4120,ch,thurgau,1371
+20210920,4120,ch,thurgau,1370
 20210920,423,li,liechtenstein,3323
 20210920,43,at,austria,683020
 20210920,4301,at,wien,145493
@@ -4063,7 +4065,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210919,4110,ch,fribourg,1016
 20210919,4112,ch,basel_stadt,15441
 20210919,4119,ch,aargau,55045
-20210919,4120,ch,thurgau,1364
+20210919,4120,ch,thurgau,1363
 20210919,423,li,liechtenstein,3318
 20210919,43,at,austria,681279
 20210919,4301,at,wien,145182
@@ -4102,7 +4104,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210918,4110,ch,fribourg,1016
 20210918,4112,ch,basel_stadt,15395
 20210918,4119,ch,aargau,54935
-20210918,4120,ch,thurgau,1362
+20210918,4120,ch,thurgau,1361
 20210918,43,at,austria,679628
 20210918,4301,at,wien,144797
 20210918,4302,at,niederosterreich,113655
@@ -4140,7 +4142,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210917,4110,ch,fribourg,1014
 20210917,4112,ch,basel_stadt,15344
 20210917,4119,ch,aargau,54700
-20210917,4120,ch,thurgau,1361
+20210917,4120,ch,thurgau,1360
 20210917,43,at,austria,677926
 20210917,4301,at,wien,144386
 20210917,4302,at,niederosterreich,113363
@@ -4178,7 +4180,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210916,4110,ch,fribourg,1010
 20210916,4112,ch,basel_stadt,15298
 20210916,4119,ch,aargau,54395
-20210916,4120,ch,thurgau,1356
+20210916,4120,ch,thurgau,1355
 20210916,423,li,liechtenstein,3297
 20210916,43,at,austria,676258
 20210916,4301,at,wien,144064
@@ -4217,7 +4219,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210915,4110,ch,fribourg,1010
 20210915,4112,ch,basel_stadt,15265
 20210915,4119,ch,aargau,54150
-20210915,4120,ch,thurgau,1352
+20210915,4120,ch,thurgau,1351
 20210915,423,li,liechtenstein,3288
 20210915,43,at,austria,674612
 20210915,4301,at,wien,143675
@@ -4256,7 +4258,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210914,4110,ch,fribourg,1009
 20210914,4112,ch,basel_stadt,15232
 20210914,4119,ch,aargau,53850
-20210914,4120,ch,thurgau,1347
+20210914,4120,ch,thurgau,1346
 20210914,423,li,liechtenstein,3279
 20210914,43,at,austria,673130
 20210914,4301,at,wien,143274
@@ -4295,7 +4297,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210913,4110,ch,fribourg,1007
 20210913,4112,ch,basel_stadt,15185
 20210913,4119,ch,aargau,53520
-20210913,4120,ch,thurgau,1343
+20210913,4120,ch,thurgau,1342
 20210913,423,li,liechtenstein,3275
 20210913,43,at,austria,671405
 20210913,4301,at,wien,142799
@@ -4334,7 +4336,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210912,4110,ch,fribourg,1005
 20210912,4112,ch,basel_stadt,15138
 20210912,4119,ch,aargau,53290
-20210912,4120,ch,thurgau,1336
+20210912,4120,ch,thurgau,1335
 20210912,423,li,liechtenstein,3270
 20210912,43,at,austria,669964
 20210912,4301,at,wien,142504
@@ -4373,7 +4375,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210911,4110,ch,fribourg,1005
 20210911,4112,ch,basel_stadt,15093
 20210911,4119,ch,aargau,53105
-20210911,4120,ch,thurgau,1333
+20210911,4120,ch,thurgau,1332
 20210911,43,at,austria,668663
 20210911,4301,at,wien,142172
 20210911,4302,at,niederosterreich,111836
