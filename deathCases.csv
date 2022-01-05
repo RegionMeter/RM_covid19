@@ -3,6 +3,7 @@ dateId,areaCode,country,areaName,deathCases
 20220105,4104,ch,uri,59
 20220105,4105,ch,schwyz,332
 20220105,4108,ch,glarus,100
+20220105,4109,ch,zug,151
 20220105,4111,ch,solothurn,312
 20220105,4112,ch,basel_stadt,252
 20220105,4116,ch,appenzell_innerrhoden,22
@@ -164,16 +165,18 @@ dateId,areaCode,country,areaName,deathCases
 20220104,4106,ch,obwalden,55
 20220104,4107,ch,nidwalden,31
 20220104,4108,ch,glarus,100
+20220104,4109,ch,zug,150
 20220104,4111,ch,solothurn,312
 20220104,4112,ch,basel_stadt,252
 20220104,4114,ch,schaffhausen,102
 20220104,4116,ch,appenzell_innerrhoden,22
 20220104,4117,ch,st_gallen,808
 20220104,4118,ch,graubunden,232
+20220104,4119,ch,aargau,860
 20220104,4120,ch,thurgau,566
 20220104,4121,ch,ticino,1053
 20220104,4125,ch,geneve,796
-20220104,4126,ch,jura_ch,36
+20220104,4126,ch,jura_ch,145
 20220104,423,li,liechtenstein,71
 20220103,3301,fr,ile_de_france,22501
 20220103,330101,fr,paris,4999
@@ -346,7 +349,7 @@ dateId,areaCode,country,areaName,deathCases
 20220103,4123,ch,valais,728
 20220103,4124,ch,neuchatel,417
 20220103,4125,ch,geneve,796
-20220103,4126,ch,jura_ch,36
+20220103,4126,ch,jura_ch,145
 20220103,423,li,liechtenstein,71
 20220103,43,at,austria,13352
 20220103,4301,at,wien,2805
@@ -525,7 +528,7 @@ dateId,areaCode,country,areaName,deathCases
 20220102,4123,ch,valais,728
 20220102,4124,ch,neuchatel,417
 20220102,4125,ch,geneve,796
-20220102,4126,ch,jura_ch,36
+20220102,4126,ch,jura_ch,145
 20220102,423,li,liechtenstein,71
 20220102,43,at,austria,13345
 20220102,4301,at,wien,2804
@@ -704,7 +707,7 @@ dateId,areaCode,country,areaName,deathCases
 20220101,4123,ch,valais,728
 20220101,4124,ch,neuchatel,417
 20220101,4125,ch,geneve,796
-20220101,4126,ch,jura_ch,36
+20220101,4126,ch,jura_ch,145
 20220101,43,at,austria,13338
 20220101,4301,at,wien,2801
 20220101,4302,at,niederosterreich,2131
@@ -885,7 +888,7 @@ dateId,areaCode,country,areaName,deathCases
 20211231,4123,ch,valais,728
 20211231,4124,ch,neuchatel,417
 20211231,4125,ch,geneve,796
-20211231,4126,ch,jura_ch,36
+20211231,4126,ch,jura_ch,145
 20211231,43,at,austria,13335
 20211231,4301,at,wien,2801
 20211231,4302,at,niederosterreich,2131
@@ -1068,7 +1071,7 @@ dateId,areaCode,country,areaName,deathCases
 20211230,4123,ch,valais,727
 20211230,4124,ch,neuchatel,417
 20211230,4125,ch,geneve,794
-20211230,4126,ch,jura_ch,36
+20211230,4126,ch,jura_ch,145
 20211230,423,li,liechtenstein,69
 20211230,43,at,austria,13328
 20211230,4301,at,wien,2798
@@ -1252,7 +1255,7 @@ dateId,areaCode,country,areaName,deathCases
 20211229,4123,ch,valais,727
 20211229,4124,ch,neuchatel,417
 20211229,4125,ch,geneve,794
-20211229,4126,ch,jura_ch,35
+20211229,4126,ch,jura_ch,144
 20211229,423,li,liechtenstein,69
 20211229,43,at,austria,13310
 20211229,4301,at,wien,2792
@@ -1437,7 +1440,7 @@ dateId,areaCode,country,areaName,deathCases
 20211228,4123,ch,valais,726
 20211228,4124,ch,neuchatel,417
 20211228,4125,ch,geneve,793
-20211228,4126,ch,jura_ch,34
+20211228,4126,ch,jura_ch,143
 20211228,423,li,liechtenstein,69
 20211228,43,at,austria,13296
 20211228,4301,at,wien,2790
@@ -1622,7 +1625,7 @@ dateId,areaCode,country,areaName,deathCases
 20211227,4123,ch,valais,726
 20211227,4124,ch,neuchatel,417
 20211227,4125,ch,geneve,793
-20211227,4126,ch,jura_ch,34
+20211227,4126,ch,jura_ch,143
 20211227,423,li,liechtenstein,69
 20211227,43,at,austria,13281
 20211227,4301,at,wien,2788
@@ -1800,7 +1803,7 @@ dateId,areaCode,country,areaName,deathCases
 20211226,4123,ch,valais,724
 20211226,4124,ch,neuchatel,417
 20211226,4125,ch,geneve,792
-20211226,4126,ch,jura_ch,32
+20211226,4126,ch,jura_ch,141
 20211226,423,li,liechtenstein,69
 20211226,43,at,austria,13265
 20211226,4301,at,wien,2784
@@ -1977,7 +1980,7 @@ dateId,areaCode,country,areaName,deathCases
 20211225,4123,ch,valais,724
 20211225,4124,ch,neuchatel,417
 20211225,4125,ch,geneve,792
-20211225,4126,ch,jura_ch,32
+20211225,4126,ch,jura_ch,141
 20211225,43,at,austria,13250
 20211225,4301,at,wien,2782
 20211225,4302,at,niederosterreich,2118
@@ -2158,7 +2161,7 @@ dateId,areaCode,country,areaName,deathCases
 20211224,4123,ch,valais,722
 20211224,4124,ch,neuchatel,417
 20211224,4125,ch,geneve,789
-20211224,4126,ch,jura_ch,30
+20211224,4126,ch,jura_ch,139
 20211224,43,at,austria,13238
 20211224,4301,at,wien,2780
 20211224,4302,at,niederosterreich,2117
@@ -2341,7 +2344,7 @@ dateId,areaCode,country,areaName,deathCases
 20211223,4123,ch,valais,721
 20211223,4124,ch,neuchatel,417
 20211223,4125,ch,geneve,789
-20211223,4126,ch,jura_ch,29
+20211223,4126,ch,jura_ch,138
 20211223,43,at,austria,13230
 20211223,4301,at,wien,2779
 20211223,4302,at,niederosterreich,2116
@@ -2525,7 +2528,7 @@ dateId,areaCode,country,areaName,deathCases
 20211222,4123,ch,valais,719
 20211222,4124,ch,neuchatel,417
 20211222,4125,ch,geneve,789
-20211222,4126,ch,jura_ch,28
+20211222,4126,ch,jura_ch,137
 20211222,423,li,liechtenstein,69
 20211222,43,at,austria,13215
 20211222,4301,at,wien,2776
@@ -2709,7 +2712,7 @@ dateId,areaCode,country,areaName,deathCases
 20211221,4123,ch,valais,719
 20211221,4124,ch,neuchatel,417
 20211221,4125,ch,geneve,788
-20211221,4126,ch,jura_ch,27
+20211221,4126,ch,jura_ch,136
 20211221,423,li,liechtenstein,68
 20211221,43,at,austria,13201
 20211221,4301,at,wien,2771
@@ -2892,7 +2895,7 @@ dateId,areaCode,country,areaName,deathCases
 20211220,4123,ch,valais,717
 20211220,4124,ch,neuchatel,417
 20211220,4125,ch,geneve,787
-20211220,4126,ch,jura_ch,27
+20211220,4126,ch,jura_ch,136
 20211220,423,li,liechtenstein,68
 20211220,43,at,austria,13183
 20211220,4301,at,wien,2767
@@ -3070,7 +3073,7 @@ dateId,areaCode,country,areaName,deathCases
 20211219,4123,ch,valais,717
 20211219,4124,ch,neuchatel,417
 20211219,4125,ch,geneve,785
-20211219,4126,ch,jura_ch,26
+20211219,4126,ch,jura_ch,135
 20211219,423,li,liechtenstein,68
 20211219,43,at,austria,13167
 20211219,4301,at,wien,2763
@@ -3248,7 +3251,7 @@ dateId,areaCode,country,areaName,deathCases
 20211218,4123,ch,valais,716
 20211218,4124,ch,neuchatel,417
 20211218,4125,ch,geneve,785
-20211218,4126,ch,jura_ch,24
+20211218,4126,ch,jura_ch,133
 20211218,43,at,austria,13140
 20211218,4301,at,wien,2762
 20211218,4302,at,niederosterreich,2102
@@ -3430,7 +3433,7 @@ dateId,areaCode,country,areaName,deathCases
 20211217,4123,ch,valais,716
 20211217,4124,ch,neuchatel,417
 20211217,4125,ch,geneve,785
-20211217,4126,ch,jura_ch,23
+20211217,4126,ch,jura_ch,132
 20211217,43,at,austria,13117
 20211217,4301,at,wien,2756
 20211217,4302,at,niederosterreich,2100
@@ -3614,7 +3617,7 @@ dateId,areaCode,country,areaName,deathCases
 20211216,4123,ch,valais,713
 20211216,4124,ch,neuchatel,417
 20211216,4125,ch,geneve,784
-20211216,4126,ch,jura_ch,22
+20211216,4126,ch,jura_ch,131
 20211216,423,li,liechtenstein,68
 20211216,43,at,austria,13092
 20211216,4301,at,wien,2749
@@ -3799,7 +3802,7 @@ dateId,areaCode,country,areaName,deathCases
 20211215,4123,ch,valais,712
 20211215,4124,ch,neuchatel,417
 20211215,4125,ch,geneve,784
-20211215,4126,ch,jura_ch,22
+20211215,4126,ch,jura_ch,131
 20211215,423,li,liechtenstein,68
 20211215,43,at,austria,13066
 20211215,4301,at,wien,2747
@@ -3983,7 +3986,7 @@ dateId,areaCode,country,areaName,deathCases
 20211214,4123,ch,valais,710
 20211214,4124,ch,neuchatel,417
 20211214,4125,ch,geneve,783
-20211214,4126,ch,jura_ch,20
+20211214,4126,ch,jura_ch,129
 20211214,423,li,liechtenstein,68
 20211214,43,at,austria,13039
 20211214,4301,at,wien,2742
@@ -4166,7 +4169,7 @@ dateId,areaCode,country,areaName,deathCases
 20211213,4123,ch,valais,710
 20211213,4124,ch,neuchatel,417
 20211213,4125,ch,geneve,782
-20211213,4126,ch,jura_ch,17
+20211213,4126,ch,jura_ch,126
 20211213,423,li,liechtenstein,68
 20211213,43,at,austria,13001
 20211213,4301,at,wien,2739
@@ -4345,7 +4348,7 @@ dateId,areaCode,country,areaName,deathCases
 20211212,4123,ch,valais,710
 20211212,4124,ch,neuchatel,417
 20211212,4125,ch,geneve,781
-20211212,4126,ch,jura_ch,16
+20211212,4126,ch,jura_ch,125
 20211212,423,li,liechtenstein,67
 20211212,43,at,austria,12962
 20211212,4301,at,wien,2736
@@ -4523,7 +4526,7 @@ dateId,areaCode,country,areaName,deathCases
 20211211,4123,ch,valais,708
 20211211,4124,ch,neuchatel,417
 20211211,4125,ch,geneve,780
-20211211,4126,ch,jura_ch,13
+20211211,4126,ch,jura_ch,122
 20211211,43,at,austria,12928
 20211211,4301,at,wien,2730
 20211211,4302,at,niederosterreich,2075
@@ -4706,7 +4709,7 @@ dateId,areaCode,country,areaName,deathCases
 20211210,4123,ch,valais,708
 20211210,4124,ch,neuchatel,417
 20211210,4125,ch,geneve,779
-20211210,4126,ch,jura_ch,12
+20211210,4126,ch,jura_ch,121
 20211210,43,at,austria,12897
 20211210,4301,at,wien,2727
 20211210,4302,at,niederosterreich,2068
@@ -4890,7 +4893,7 @@ dateId,areaCode,country,areaName,deathCases
 20211209,4123,ch,valais,708
 20211209,4124,ch,neuchatel,417
 20211209,4125,ch,geneve,778
-20211209,4126,ch,jura_ch,10
+20211209,4126,ch,jura_ch,119
 20211209,423,li,liechtenstein,67
 20211209,43,at,austria,12854
 20211209,4301,at,wien,2721
@@ -5071,7 +5074,7 @@ dateId,areaCode,country,areaName,deathCases
 20211208,4123,ch,valais,708
 20211208,4124,ch,neuchatel,417
 20211208,4125,ch,geneve,777
-20211208,4126,ch,jura_ch,9
+20211208,4126,ch,jura_ch,118
 20211208,423,li,liechtenstein,65
 20211208,43,at,austria,12811
 20211208,4301,at,wien,2717
@@ -5256,7 +5259,7 @@ dateId,areaCode,country,areaName,deathCases
 20211207,4123,ch,valais,706
 20211207,4124,ch,neuchatel,417
 20211207,4125,ch,geneve,775
-20211207,4126,ch,jura_ch,9
+20211207,4126,ch,jura_ch,118
 20211207,43,at,austria,12759
 20211207,4301,at,wien,2709
 20211207,4302,at,niederosterreich,2039
@@ -5439,7 +5442,7 @@ dateId,areaCode,country,areaName,deathCases
 20211206,4123,ch,valais,706
 20211206,4124,ch,neuchatel,417
 20211206,4125,ch,geneve,774
-20211206,4126,ch,jura_ch,9
+20211206,4126,ch,jura_ch,118
 20211206,423,li,liechtenstein,64
 20211206,43,at,austria,12707
 20211206,4301,at,wien,2702
@@ -5618,7 +5621,7 @@ dateId,areaCode,country,areaName,deathCases
 20211205,4123,ch,valais,704
 20211205,4124,ch,neuchatel,416
 20211205,4125,ch,geneve,773
-20211205,4126,ch,jura_ch,9
+20211205,4126,ch,jura_ch,118
 20211205,423,li,liechtenstein,62
 20211205,43,at,austria,12663
 20211205,4301,at,wien,2695
@@ -5796,7 +5799,7 @@ dateId,areaCode,country,areaName,deathCases
 20211204,4123,ch,valais,701
 20211204,4124,ch,neuchatel,416
 20211204,4125,ch,geneve,770
-20211204,4126,ch,jura_ch,9
+20211204,4126,ch,jura_ch,118
 20211204,43,at,austria,12621
 20211204,4301,at,wien,2691
 20211204,4302,at,niederosterreich,2012
@@ -5979,7 +5982,7 @@ dateId,areaCode,country,areaName,deathCases
 20211203,4123,ch,valais,701
 20211203,4124,ch,neuchatel,416
 20211203,4125,ch,geneve,767
-20211203,4126,ch,jura_ch,8
+20211203,4126,ch,jura_ch,117
 20211203,43,at,austria,12570
 20211203,4301,at,wien,2688
 20211203,4302,at,niederosterreich,1999
@@ -6162,7 +6165,7 @@ dateId,areaCode,country,areaName,deathCases
 20211202,4123,ch,valais,700
 20211202,4124,ch,neuchatel,416
 20211202,4125,ch,geneve,765
-20211202,4126,ch,jura_ch,7
+20211202,4126,ch,jura_ch,116
 20211202,423,li,liechtenstein,62
 20211202,43,at,austria,12512
 20211202,4301,at,wien,2676
@@ -6346,7 +6349,7 @@ dateId,areaCode,country,areaName,deathCases
 20211201,4123,ch,valais,700
 20211201,4124,ch,neuchatel,416
 20211201,4125,ch,geneve,764
-20211201,4126,ch,jura_ch,3
+20211201,4126,ch,jura_ch,112
 20211201,423,li,liechtenstein,62
 20211201,43,at,austria,12453
 20211201,4301,at,wien,2670
@@ -6530,7 +6533,7 @@ dateId,areaCode,country,areaName,deathCases
 20211130,4123,ch,valais,698
 20211130,4124,ch,neuchatel,416
 20211130,4125,ch,geneve,762
-20211130,4126,ch,jura_ch,3
+20211130,4126,ch,jura_ch,112
 20211130,423,li,liechtenstein,61
 20211130,43,at,austria,12391
 20211130,4301,at,wien,2664
@@ -6713,7 +6716,7 @@ dateId,areaCode,country,areaName,deathCases
 20211129,4123,ch,valais,698
 20211129,4124,ch,neuchatel,416
 20211129,4125,ch,geneve,762
-20211129,4126,ch,jura_ch,3
+20211129,4126,ch,jura_ch,112
 20211129,423,li,liechtenstein,61
 20211129,43,at,austria,12352
 20211129,4301,at,wien,2661
@@ -6892,7 +6895,7 @@ dateId,areaCode,country,areaName,deathCases
 20211128,4123,ch,valais,698
 20211128,4124,ch,neuchatel,416
 20211128,4125,ch,geneve,762
-20211128,4126,ch,jura_ch,3
+20211128,4126,ch,jura_ch,112
 20211128,423,li,liechtenstein,61
 20211128,43,at,austria,12286
 20211128,4301,at,wien,2653
@@ -7070,7 +7073,7 @@ dateId,areaCode,country,areaName,deathCases
 20211127,4123,ch,valais,697
 20211127,4124,ch,neuchatel,416
 20211127,4125,ch,geneve,761
-20211127,4126,ch,jura_ch,3
+20211127,4126,ch,jura_ch,112
 20211127,43,at,austria,12231
 20211127,4301,at,wien,2648
 20211127,4302,at,niederosterreich,1940
@@ -7253,7 +7256,7 @@ dateId,areaCode,country,areaName,deathCases
 20211126,4123,ch,valais,697
 20211126,4124,ch,neuchatel,416
 20211126,4125,ch,geneve,761
-20211126,4126,ch,jura_ch,2
+20211126,4126,ch,jura_ch,111
 20211126,43,at,austria,12184
 20211126,4301,at,wien,2643
 20211126,4302,at,niederosterreich,1934
@@ -7437,7 +7440,7 @@ dateId,areaCode,country,areaName,deathCases
 20211125,4123,ch,valais,697
 20211125,4124,ch,neuchatel,416
 20211125,4125,ch,geneve,761
-20211125,4126,ch,jura_ch,2
+20211125,4126,ch,jura_ch,111
 20211125,423,li,liechtenstein,61
 20211125,43,at,austria,12119
 20211125,4301,at,wien,2636
@@ -7621,7 +7624,7 @@ dateId,areaCode,country,areaName,deathCases
 20211124,4123,ch,valais,696
 20211124,4124,ch,neuchatel,415
 20211124,4125,ch,geneve,761
-20211124,4126,ch,jura_ch,2
+20211124,4126,ch,jura_ch,111
 20211124,423,li,liechtenstein,61
 20211124,43,at,austria,12061
 20211124,4301,at,wien,2629
@@ -7805,7 +7808,7 @@ dateId,areaCode,country,areaName,deathCases
 20211123,4123,ch,valais,695
 20211123,4124,ch,neuchatel,415
 20211123,4125,ch,geneve,761
-20211123,4126,ch,jura_ch,2
+20211123,4126,ch,jura_ch,111
 20211123,423,li,liechtenstein,61
 20211123,43,at,austria,12013
 20211123,4301,at,wien,2622
@@ -7989,7 +7992,7 @@ dateId,areaCode,country,areaName,deathCases
 20211122,4123,ch,valais,694
 20211122,4124,ch,neuchatel,415
 20211122,4125,ch,geneve,761
-20211122,4126,ch,jura_ch,1
+20211122,4126,ch,jura_ch,110
 20211122,423,li,liechtenstein,61
 20211122,43,at,austria,11960
 20211122,4301,at,wien,2616
@@ -8168,7 +8171,7 @@ dateId,areaCode,country,areaName,deathCases
 20211121,4123,ch,valais,694
 20211121,4124,ch,neuchatel,415
 20211121,4125,ch,geneve,761
-20211121,4126,ch,jura_ch,0
+20211121,4126,ch,jura_ch,109
 20211121,423,li,liechtenstein,61
 20211121,43,at,austria,11905
 20211121,4301,at,wien,2607
@@ -8345,7 +8348,7 @@ dateId,areaCode,country,areaName,deathCases
 20211120,4123,ch,valais,692
 20211120,4124,ch,neuchatel,414
 20211120,4125,ch,geneve,761
-20211120,4126,ch,jura_ch,0
+20211120,4126,ch,jura_ch,109
 20211120,43,at,austria,11851
 20211120,4301,at,wien,2598
 20211120,4302,at,niederosterreich,1888
@@ -8528,7 +8531,7 @@ dateId,areaCode,country,areaName,deathCases
 20211119,4123,ch,valais,690
 20211119,4124,ch,neuchatel,414
 20211119,4125,ch,geneve,759
-20211119,4126,ch,jura_ch,0
+20211119,4126,ch,jura_ch,109
 20211119,43,at,austria,11812
 20211119,4301,at,wien,2595
 20211119,4302,at,niederosterreich,1881
@@ -8711,7 +8714,7 @@ dateId,areaCode,country,areaName,deathCases
 20211118,4123,ch,valais,689
 20211118,4124,ch,neuchatel,414
 20211118,4125,ch,geneve,759
-20211118,4126,ch,jura_ch,0
+20211118,4126,ch,jura_ch,109
 20211118,423,li,liechtenstein,61
 20211118,43,at,austria,11762
 20211118,4301,at,wien,2591
@@ -8895,7 +8898,7 @@ dateId,areaCode,country,areaName,deathCases
 20211117,4123,ch,valais,685
 20211117,4124,ch,neuchatel,413
 20211117,4125,ch,geneve,759
-20211117,4126,ch,jura_ch,0
+20211117,4126,ch,jura_ch,109
 20211117,423,li,liechtenstein,61
 20211117,43,at,austria,11718
 20211117,4301,at,wien,2586
@@ -9079,7 +9082,7 @@ dateId,areaCode,country,areaName,deathCases
 20211116,4123,ch,valais,685
 20211116,4124,ch,neuchatel,413
 20211116,4125,ch,geneve,759
-20211116,4126,ch,jura_ch,0
+20211116,4126,ch,jura_ch,109
 20211116,423,li,liechtenstein,61
 20211116,43,at,austria,11673
 20211116,4301,at,wien,2582
@@ -9263,7 +9266,7 @@ dateId,areaCode,country,areaName,deathCases
 20211115,4123,ch,valais,681
 20211115,4124,ch,neuchatel,413
 20211115,4125,ch,geneve,759
-20211115,4126,ch,jura_ch,0
+20211115,4126,ch,jura_ch,109
 20211115,423,li,liechtenstein,61
 20211115,43,at,austria,11635
 20211115,4301,at,wien,2576
@@ -9442,7 +9445,7 @@ dateId,areaCode,country,areaName,deathCases
 20211114,4123,ch,valais,681
 20211114,4124,ch,neuchatel,413
 20211114,4125,ch,geneve,756
-20211114,4126,ch,jura_ch,0
+20211114,4126,ch,jura_ch,109
 20211114,423,li,liechtenstein,61
 20211114,43,at,austria,11598
 20211114,4301,at,wien,2570
@@ -9619,7 +9622,7 @@ dateId,areaCode,country,areaName,deathCases
 20211113,4123,ch,valais,680
 20211113,4124,ch,neuchatel,413
 20211113,4125,ch,geneve,756
-20211113,4126,ch,jura_ch,0
+20211113,4126,ch,jura_ch,109
 20211113,43,at,austria,11557
 20211113,4301,at,wien,2562
 20211113,4302,at,niederosterreich,1833
@@ -9801,7 +9804,7 @@ dateId,areaCode,country,areaName,deathCases
 20211112,4123,ch,valais,680
 20211112,4124,ch,neuchatel,413
 20211112,4125,ch,geneve,756
-20211112,4126,ch,jura_ch,0
+20211112,4126,ch,jura_ch,109
 20211112,43,at,austria,11510
 20211112,4301,at,wien,2558
 20211112,4302,at,niederosterreich,1827
@@ -9985,7 +9988,7 @@ dateId,areaCode,country,areaName,deathCases
 20211111,4123,ch,valais,680
 20211111,4124,ch,neuchatel,413
 20211111,4125,ch,geneve,756
-20211111,4126,ch,jura_ch,0
+20211111,4126,ch,jura_ch,109
 20211111,423,li,liechtenstein,61
 20211111,43,at,austria,11466
 20211111,4301,at,wien,2554
@@ -10168,7 +10171,7 @@ dateId,areaCode,country,areaName,deathCases
 20211110,4123,ch,valais,680
 20211110,4124,ch,neuchatel,413
 20211110,4125,ch,geneve,756
-20211110,4126,ch,jura_ch,0
+20211110,4126,ch,jura_ch,109
 20211110,423,li,liechtenstein,61
 20211110,43,at,austria,11415
 20211110,4301,at,wien,2546
@@ -10353,7 +10356,7 @@ dateId,areaCode,country,areaName,deathCases
 20211109,4123,ch,valais,680
 20211109,4124,ch,neuchatel,413
 20211109,4125,ch,geneve,756
-20211109,4126,ch,jura_ch,0
+20211109,4126,ch,jura_ch,109
 20211109,423,li,liechtenstein,61
 20211109,43,at,austria,11390
 20211109,4301,at,wien,2540
@@ -10537,7 +10540,7 @@ dateId,areaCode,country,areaName,deathCases
 20211108,4123,ch,valais,680
 20211108,4124,ch,neuchatel,413
 20211108,4125,ch,geneve,756
-20211108,4126,ch,jura_ch,0
+20211108,4126,ch,jura_ch,109
 20211108,423,li,liechtenstein,61
 20211108,43,at,austria,11361
 20211108,4301,at,wien,2537
@@ -10715,7 +10718,7 @@ dateId,areaCode,country,areaName,deathCases
 20211107,4123,ch,valais,680
 20211107,4124,ch,neuchatel,413
 20211107,4125,ch,geneve,756
-20211107,4126,ch,jura_ch,0
+20211107,4126,ch,jura_ch,109
 20211107,423,li,liechtenstein,61
 20211107,43,at,austria,11334
 20211107,4301,at,wien,2531
@@ -10892,7 +10895,7 @@ dateId,areaCode,country,areaName,deathCases
 20211106,4123,ch,valais,680
 20211106,4124,ch,neuchatel,413
 20211106,4125,ch,geneve,756
-20211106,4126,ch,jura_ch,0
+20211106,4126,ch,jura_ch,109
 20211106,43,at,austria,11315
 20211106,4301,at,wien,2528
 20211106,4302,at,niederosterreich,1804
