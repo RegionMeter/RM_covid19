@@ -1,5 +1,6 @@
 dateId,areaCode,country,areaName,recoveredCases
 20220111,4105,ch,schwyz,29524
+20220111,4112,ch,basel_stadt,27144
 20220111,4120,ch,thurgau,1878
 20220110,3301,fr,ile_de_france,116261
 20220110,330101,fr,paris,24300
@@ -140,6 +141,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20220110,3952,it,sardegna,80832
 20220110,4105,ch,schwyz,29236
 20220110,4112,ch,basel_stadt,26706
+20220110,4119,ch,aargau,87880
 20220110,4120,ch,thurgau,1878
 20220110,423,li,liechtenstein,6230
 20220109,3301,fr,ile_de_france,115899
@@ -739,7 +741,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20220106,4105,ch,schwyz,28308
 20220106,4110,ch,fribourg,1248
 20220106,4112,ch,basel_stadt,25697
-20220106,4119,ch,aargau,85500
+20220106,4119,ch,aargau,85495
 20220106,4120,ch,thurgau,1859
 20220106,423,li,liechtenstein,6064
 20220106,43,at,austria,1241174
@@ -1044,7 +1046,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20220104,4105,ch,schwyz,27890
 20220104,4110,ch,fribourg,1238
 20220104,4112,ch,basel_stadt,24992
-20220104,4119,ch,aargau,84055
+20220104,4119,ch,aargau,84050
 20220104,4120,ch,thurgau,1843
 20220104,423,li,liechtenstein,5964
 20220104,43,at,austria,1236335
@@ -1197,7 +1199,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20220103,4105,ch,schwyz,27683
 20220103,4110,ch,fribourg,1233
 20220103,4112,ch,basel_stadt,24925
-20220103,4119,ch,aargau,83290
+20220103,4119,ch,aargau,83285
 20220103,4120,ch,thurgau,1833
 20220103,423,li,liechtenstein,5911
 20220103,43,at,austria,1233681
@@ -1350,7 +1352,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20220102,4105,ch,schwyz,27546
 20220102,4110,ch,fribourg,1232
 20220102,4112,ch,basel_stadt,24615
-20220102,4119,ch,aargau,82800
+20220102,4119,ch,aargau,82795
 20220102,4120,ch,thurgau,1828
 20220102,423,li,liechtenstein,5866
 20220102,43,at,austria,1231458
@@ -1807,7 +1809,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211230,4105,ch,schwyz,26953
 20211230,4110,ch,fribourg,1218
 20211230,4112,ch,basel_stadt,24182
-20211230,4119,ch,aargau,81045
+20211230,4119,ch,aargau,81040
 20211230,4120,ch,thurgau,1818
 20211230,423,li,liechtenstein,5715
 20211230,43,at,austria,1224782
@@ -2113,7 +2115,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211228,4105,ch,schwyz,26596
 20211228,4110,ch,fribourg,1205
 20211228,4112,ch,basel_stadt,23851
-20211228,4119,ch,aargau,79705
+20211228,4119,ch,aargau,79700
 20211228,4120,ch,thurgau,1801
 20211228,423,li,liechtenstein,5682
 20211228,43,at,austria,1219745
@@ -2724,7 +2726,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211224,4105,ch,schwyz,25932
 20211224,4110,ch,fribourg,1196
 20211224,4112,ch,basel_stadt,23261
-20211224,4119,ch,aargau,77295
+20211224,4119,ch,aargau,77290
 20211224,4120,ch,thurgau,1775
 20211224,43,at,austria,1207479
 20211224,4301,at,wien,217258
@@ -2876,7 +2878,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211223,4105,ch,schwyz,25628
 20211223,4110,ch,fribourg,1191
 20211223,4112,ch,basel_stadt,23043
-20211223,4119,ch,aargau,76565
+20211223,4119,ch,aargau,76560
 20211223,4120,ch,thurgau,1767
 20211223,43,at,austria,1203637
 20211223,4301,at,wien,216508
@@ -3334,7 +3336,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211220,4105,ch,schwyz,24897
 20211220,4110,ch,fribourg,1173
 20211220,4112,ch,basel_stadt,22679
-20211220,4119,ch,aargau,74010
+20211220,4119,ch,aargau,74005
 20211220,4120,ch,thurgau,1745
 20211220,423,li,liechtenstein,5346
 20211220,43,at,austria,1189546
@@ -3487,7 +3489,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211219,4105,ch,schwyz,24693
 20211219,4110,ch,fribourg,1173
 20211219,4112,ch,basel_stadt,22509
-20211219,4119,ch,aargau,73330
+20211219,4119,ch,aargau,73325
 20211219,4120,ch,thurgau,1738
 20211219,423,li,liechtenstein,5274
 20211219,43,at,austria,1184780
@@ -3640,7 +3642,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211218,4105,ch,schwyz,24492
 20211218,4110,ch,fribourg,1169
 20211218,4112,ch,basel_stadt,22327
-20211218,4119,ch,aargau,72930
+20211218,4119,ch,aargau,72925
 20211218,4120,ch,thurgau,1735
 20211218,43,at,austria,1180457
 20211218,4301,at,wien,211549
@@ -5013,7 +5015,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211209,4105,ch,schwyz,21914
 20211209,4110,ch,fribourg,1122
 20211209,4112,ch,basel_stadt,20466
-20211209,4119,ch,aargau,67720
+20211209,4119,ch,aargau,67715
 20211209,4120,ch,thurgau,1661
 20211209,423,li,liechtenstein,4772
 20211209,43,at,austria,1112916
@@ -5166,7 +5168,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211208,4105,ch,schwyz,21711
 20211208,4110,ch,fribourg,1120
 20211208,4112,ch,basel_stadt,20191
-20211208,4119,ch,aargau,67210
+20211208,4119,ch,aargau,67205
 20211208,4120,ch,thurgau,1653
 20211208,423,li,liechtenstein,4705
 20211208,43,at,austria,1102474
@@ -5319,7 +5321,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211207,4105,ch,schwyz,21475
 20211207,4110,ch,fribourg,1116
 20211207,4112,ch,basel_stadt,20044
-20211207,4119,ch,aargau,66745
+20211207,4119,ch,aargau,66740
 20211207,4120,ch,thurgau,1645
 20211207,43,at,austria,1091204
 20211207,4301,at,wien,194991
@@ -5929,7 +5931,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211203,4105,ch,schwyz,20679
 20211203,4110,ch,fribourg,1110
 20211203,4112,ch,basel_stadt,19274
-20211203,4119,ch,aargau,65200
+20211203,4119,ch,aargau,65195
 20211203,4120,ch,thurgau,1619
 20211203,43,at,austria,1044480
 20211203,4301,at,wien,189378
@@ -6081,7 +6083,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211202,4105,ch,schwyz,20430
 20211202,4110,ch,fribourg,1105
 20211202,4112,ch,basel_stadt,19090
-20211202,4119,ch,aargau,64790
+20211202,4119,ch,aargau,64785
 20211202,4120,ch,thurgau,1615
 20211202,423,li,liechtenstein,4357
 20211202,43,at,austria,1031137
@@ -6387,7 +6389,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211130,4105,ch,schwyz,19988
 20211130,4110,ch,fribourg,1097
 20211130,4112,ch,basel_stadt,18613
-20211130,4119,ch,aargau,63990
+20211130,4119,ch,aargau,63985
 20211130,4120,ch,thurgau,1598
 20211130,423,li,liechtenstein,4246
 20211130,43,at,austria,1005355
@@ -6846,7 +6848,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211127,4105,ch,schwyz,19335
 20211127,4110,ch,fribourg,1095
 20211127,4112,ch,basel_stadt,18151
-20211127,4119,ch,aargau,63150
+20211127,4119,ch,aargau,63145
 20211127,4120,ch,thurgau,1583
 20211127,43,at,austria,966319
 20211127,4301,at,wien,181869
@@ -6998,7 +7000,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211126,4105,ch,schwyz,19061
 20211126,4110,ch,fribourg,1092
 20211126,4112,ch,basel_stadt,17897
-20211126,4119,ch,aargau,62915
+20211126,4119,ch,aargau,62910
 20211126,4120,ch,thurgau,1581
 20211126,43,at,austria,952928
 20211126,4301,at,wien,180763
@@ -7303,7 +7305,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211124,4105,ch,schwyz,18655
 20211124,4110,ch,fribourg,1085
 20211124,4112,ch,basel_stadt,17624
-20211124,4119,ch,aargau,62395
+20211124,4119,ch,aargau,62390
 20211124,4120,ch,thurgau,1567
 20211124,423,li,liechtenstein,3897
 20211124,43,at,austria,926220
@@ -7456,7 +7458,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211123,4105,ch,schwyz,18474
 20211123,4110,ch,fribourg,1085
 20211123,4112,ch,basel_stadt,17525
-20211123,4119,ch,aargau,62170
+20211123,4119,ch,aargau,62165
 20211123,4120,ch,thurgau,1563
 20211123,423,li,liechtenstein,3853
 20211123,43,at,austria,914053
@@ -7915,7 +7917,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211120,4105,ch,schwyz,18039
 20211120,4110,ch,fribourg,1083
 20211120,4112,ch,basel_stadt,17237
-20211120,4119,ch,aargau,61555
+20211120,4119,ch,aargau,61550
 20211120,4120,ch,thurgau,1545
 20211120,43,at,austria,881716
 20211120,4301,at,wien,174809
@@ -8067,7 +8069,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211119,4105,ch,schwyz,17860
 20211119,4110,ch,fribourg,1083
 20211119,4112,ch,basel_stadt,17141
-20211119,4119,ch,aargau,61370
+20211119,4119,ch,aargau,61365
 20211119,4120,ch,thurgau,1543
 20211119,43,at,austria,871922
 20211119,4301,at,wien,174251
@@ -8525,7 +8527,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211116,4105,ch,schwyz,17272
 20211116,4110,ch,fribourg,1076
 20211116,4112,ch,basel_stadt,16880
-20211116,4119,ch,aargau,60760
+20211116,4119,ch,aargau,60755
 20211116,4120,ch,thurgau,1531
 20211116,423,li,liechtenstein,3662
 20211116,43,at,austria,846572
@@ -8678,7 +8680,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211115,4105,ch,schwyz,16995
 20211115,4110,ch,fribourg,1074
 20211115,4112,ch,basel_stadt,16813
-20211115,4119,ch,aargau,60585
+20211115,4119,ch,aargau,60580
 20211115,4120,ch,thurgau,1526
 20211115,423,li,liechtenstein,3637
 20211115,43,at,austria,838998
@@ -8984,7 +8986,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211113,4105,ch,schwyz,16524
 20211113,4110,ch,fribourg,1070
 20211113,4112,ch,basel_stadt,16693
-20211113,4119,ch,aargau,60410
+20211113,4119,ch,aargau,60405
 20211113,4120,ch,thurgau,1521
 20211113,43,at,austria,825776
 20211113,4301,at,wien,170723
@@ -9137,7 +9139,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211112,4109,ch,zug,11003
 20211112,4110,ch,fribourg,1070
 20211112,4112,ch,basel_stadt,16636
-20211112,4119,ch,aargau,60300
+20211112,4119,ch,aargau,60295
 20211112,4120,ch,thurgau,1520
 20211112,43,at,austria,819272
 20211112,4301,at,wien,170242
@@ -9290,7 +9292,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211111,4109,ch,zug,11004
 20211111,4110,ch,fribourg,1068
 20211111,4112,ch,basel_stadt,16575
-20211111,4119,ch,aargau,60175
+20211111,4119,ch,aargau,60170
 20211111,4120,ch,thurgau,1515
 20211111,423,li,liechtenstein,3568
 20211111,43,at,austria,813591
@@ -9906,7 +9908,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211107,4109,ch,zug,10806
 20211107,4110,ch,fribourg,1061
 20211107,4112,ch,basel_stadt,16431
-20211107,4119,ch,aargau,59760
+20211107,4119,ch,aargau,59755
 20211107,4120,ch,thurgau,1504
 20211107,423,li,liechtenstein,3515
 20211107,43,at,austria,793154
@@ -10213,7 +10215,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211105,4109,ch,zug,10754
 20211105,4110,ch,fribourg,1058
 20211105,4112,ch,basel_stadt,16344
-20211105,4119,ch,aargau,59645
+20211105,4119,ch,aargau,59640
 20211105,4120,ch,thurgau,1499
 20211105,43,at,austria,784896
 20211105,4301,at,wien,166945
@@ -10366,7 +10368,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211104,4109,ch,zug,10755
 20211104,4110,ch,fribourg,1058
 20211104,4112,ch,basel_stadt,16313
-20211104,4119,ch,aargau,59560
+20211104,4119,ch,aargau,59555
 20211104,4120,ch,thurgau,1498
 20211104,423,li,liechtenstein,3489
 20211104,43,at,austria,780920
@@ -10674,7 +10676,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211102,4109,ch,zug,10660
 20211102,4110,ch,fribourg,1054
 20211102,4112,ch,basel_stadt,16258
-20211102,4119,ch,aargau,59375
+20211102,4119,ch,aargau,59370
 20211102,4120,ch,thurgau,1491
 20211102,423,li,liechtenstein,3474
 20211102,43,at,austria,774067
@@ -11135,7 +11137,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211030,4109,ch,zug,10613
 20211030,4110,ch,fribourg,1053
 20211030,4112,ch,basel_stadt,16203
-20211030,4119,ch,aargau,59195
+20211030,4119,ch,aargau,59190
 20211030,4120,ch,thurgau,1485
 20211030,43,at,austria,764162
 20211030,4301,at,wien,164829
@@ -11288,7 +11290,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211029,4109,ch,zug,10582
 20211029,4110,ch,fribourg,1053
 20211029,4112,ch,basel_stadt,16162
-20211029,4119,ch,aargau,59155
+20211029,4119,ch,aargau,59150
 20211029,4120,ch,thurgau,1484
 20211029,43,at,austria,761338
 20211029,4301,at,wien,164514
@@ -11595,7 +11597,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211027,4109,ch,zug,10504
 20211027,4110,ch,fribourg,1053
 20211027,4112,ch,basel_stadt,16119
-20211027,4119,ch,aargau,59040
+20211027,4119,ch,aargau,59035
 20211027,4120,ch,thurgau,1477
 20211027,423,li,liechtenstein,3449
 20211027,43,at,austria,755850
@@ -12057,7 +12059,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211024,4109,ch,zug,10446
 20211024,4110,ch,fribourg,1048
 20211024,4112,ch,basel_stadt,16081
-20211024,4119,ch,aargau,58870
+20211024,4119,ch,aargau,58865
 20211024,4120,ch,thurgau,1471
 20211024,423,li,liechtenstein,3432
 20211024,43,at,austria,748280
@@ -12211,7 +12213,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211023,4109,ch,zug,10463
 20211023,4110,ch,fribourg,1048
 20211023,4112,ch,basel_stadt,16071
-20211023,4119,ch,aargau,58830
+20211023,4119,ch,aargau,58825
 20211023,4120,ch,thurgau,1471
 20211023,43,at,austria,746328
 20211023,4301,at,wien,162083
@@ -12364,7 +12366,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211022,4109,ch,zug,10432
 20211022,4110,ch,fribourg,1046
 20211022,4112,ch,basel_stadt,16057
-20211022,4119,ch,aargau,58780
+20211022,4119,ch,aargau,58775
 20211022,4120,ch,thurgau,1470
 20211022,43,at,austria,744246
 20211022,4301,at,wien,161731
@@ -12517,7 +12519,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211021,4109,ch,zug,10438
 20211021,4110,ch,fribourg,1046
 20211021,4112,ch,basel_stadt,16043
-20211021,4119,ch,aargau,58740
+20211021,4119,ch,aargau,58735
 20211021,4120,ch,thurgau,1466
 20211021,423,li,liechtenstein,3415
 20211021,43,at,austria,742197
@@ -12671,7 +12673,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211020,4109,ch,zug,10438
 20211020,4110,ch,fribourg,1046
 20211020,4112,ch,basel_stadt,16025
-20211020,4119,ch,aargau,58680
+20211020,4119,ch,aargau,58675
 20211020,4120,ch,thurgau,1466
 20211020,423,li,liechtenstein,3412
 20211020,43,at,austria,740364
@@ -12825,7 +12827,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211019,4109,ch,zug,10407
 20211019,4110,ch,fribourg,1045
 20211019,4112,ch,basel_stadt,16016
-20211019,4119,ch,aargau,58620
+20211019,4119,ch,aargau,58615
 20211019,4120,ch,thurgau,1465
 20211019,423,li,liechtenstein,3405
 20211019,43,at,austria,738500
@@ -13287,7 +13289,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211016,4109,ch,zug,10362
 20211016,4110,ch,fribourg,1045
 20211016,4112,ch,basel_stadt,15991
-20211016,4119,ch,aargau,58440
+20211016,4119,ch,aargau,58435
 20211016,4120,ch,thurgau,1455
 20211016,43,at,austria,732673
 20211016,4301,at,wien,159144
@@ -13593,7 +13595,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211014,4109,ch,zug,10346
 20211014,4110,ch,fribourg,1045
 20211014,4112,ch,basel_stadt,15969
-20211014,4119,ch,aargau,58300
+20211014,4119,ch,aargau,58295
 20211014,4120,ch,thurgau,1452
 20211014,423,li,liechtenstein,3390
 20211014,43,at,austria,728969
@@ -14669,7 +14671,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211007,4109,ch,zug,10225
 20211007,4110,ch,fribourg,1035
 20211007,4112,ch,basel_stadt,15902
-20211007,4119,ch,aargau,57735
+20211007,4119,ch,aargau,57730
 20211007,4120,ch,thurgau,1437
 20211007,423,li,liechtenstein,3379
 20211007,43,at,austria,715955
@@ -14823,7 +14825,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211006,4109,ch,zug,10211
 20211006,4110,ch,fribourg,1034
 20211006,4112,ch,basel_stadt,15814
-20211006,4119,ch,aargau,57625
+20211006,4119,ch,aargau,57620
 20211006,4120,ch,thurgau,1436
 20211006,423,li,liechtenstein,3376
 20211006,43,at,austria,713871
@@ -14977,7 +14979,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211005,4109,ch,zug,10179
 20211005,4110,ch,fribourg,1032
 20211005,4112,ch,basel_stadt,15801
-20211005,4119,ch,aargau,57525
+20211005,4119,ch,aargau,57520
 20211005,4120,ch,thurgau,1433
 20211005,423,li,liechtenstein,3375
 20211005,43,at,austria,712013
@@ -15592,7 +15594,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20211001,4109,ch,zug,10106
 20211001,4110,ch,fribourg,1029
 20211001,4112,ch,basel_stadt,15725
-20211001,4119,ch,aargau,57185
+20211001,4119,ch,aargau,57180
 20211001,4120,ch,thurgau,1426
 20211001,43,at,austria,704606
 20211001,4301,at,wien,151570
@@ -15899,7 +15901,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210929,4109,ch,zug,10091
 20210929,4110,ch,fribourg,1028
 20210929,4112,ch,basel_stadt,15699
-20210929,4119,ch,aargau,56950
+20210929,4119,ch,aargau,56945
 20210929,4120,ch,thurgau,1415
 20210929,423,li,liechtenstein,3366
 20210929,43,at,austria,700637
@@ -16053,7 +16055,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210928,4109,ch,zug,10066
 20210928,4110,ch,fribourg,1027
 20210928,4112,ch,basel_stadt,15682
-20210928,4119,ch,aargau,56785
+20210928,4119,ch,aargau,56780
 20210928,4120,ch,thurgau,1403
 20210928,423,li,liechtenstein,3363
 20210928,43,at,austria,698651
@@ -16361,7 +16363,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210926,4109,ch,zug,10018
 20210926,4110,ch,fribourg,1025
 20210926,4112,ch,basel_stadt,15638
-20210926,4119,ch,aargau,56495
+20210926,4119,ch,aargau,56490
 20210926,4120,ch,thurgau,1395
 20210926,423,li,liechtenstein,3355
 20210926,43,at,austria,694721
@@ -16515,7 +16517,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210925,4109,ch,zug,9998
 20210925,4110,ch,fribourg,1025
 20210925,4112,ch,basel_stadt,15622
-20210925,4119,ch,aargau,56380
+20210925,4119,ch,aargau,56375
 20210925,4120,ch,thurgau,1391
 20210925,43,at,austria,692930
 20210925,4301,at,wien,147989
@@ -16668,7 +16670,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210924,4109,ch,zug,9978
 20210924,4110,ch,fribourg,1023
 20210924,4112,ch,basel_stadt,15613
-20210924,4119,ch,aargau,56205
+20210924,4119,ch,aargau,56200
 20210924,4120,ch,thurgau,1390
 20210924,43,at,austria,691025
 20210924,4301,at,wien,147510
@@ -16821,7 +16823,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210923,4109,ch,zug,9940
 20210923,4110,ch,fribourg,1021
 20210923,4112,ch,basel_stadt,15556
-20210923,4119,ch,aargau,56020
+20210923,4119,ch,aargau,56015
 20210923,4120,ch,thurgau,1382
 20210923,423,li,liechtenstein,3336
 20210923,43,at,austria,689036
@@ -17129,7 +17131,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210921,4109,ch,zug,9882
 20210921,4110,ch,fribourg,1017
 20210921,4112,ch,basel_stadt,15523
-20210921,4119,ch,aargau,55590
+20210921,4119,ch,aargau,55585
 20210921,4120,ch,thurgau,1372
 20210921,423,li,liechtenstein,3327
 20210921,43,at,austria,685330
@@ -17591,7 +17593,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210918,4109,ch,zug,9795
 20210918,4110,ch,fribourg,1016
 20210918,4112,ch,basel_stadt,15395
-20210918,4119,ch,aargau,54930
+20210918,4119,ch,aargau,54925
 20210918,4120,ch,thurgau,1361
 20210918,43,at,austria,679637
 20210918,4301,at,wien,144807
@@ -18051,7 +18053,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210915,4109,ch,zug,9710
 20210915,4110,ch,fribourg,1010
 20210915,4112,ch,basel_stadt,15265
-20210915,4119,ch,aargau,54145
+20210915,4119,ch,aargau,54140
 20210915,4120,ch,thurgau,1351
 20210915,423,li,liechtenstein,3288
 20210915,43,at,austria,674619
@@ -18205,7 +18207,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210914,4109,ch,zug,9669
 20210914,4110,ch,fribourg,1009
 20210914,4112,ch,basel_stadt,15232
-20210914,4119,ch,aargau,53845
+20210914,4119,ch,aargau,53840
 20210914,4120,ch,thurgau,1346
 20210914,423,li,liechtenstein,3279
 20210914,43,at,austria,673136
@@ -19588,7 +19590,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210905,4109,ch,zug,9318
 20210905,4110,ch,fribourg,993
 20210905,4112,ch,basel_stadt,14810
-20210905,4119,ch,aargau,51475
+20210905,4119,ch,aargau,51470
 20210905,4120,ch,thurgau,1304
 20210905,423,li,liechtenstein,3205
 20210905,43,at,austria,660699
@@ -20510,7 +20512,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210830,4109,ch,zug,9166
 20210830,4110,ch,fribourg,978
 20210830,4112,ch,basel_stadt,14417
-20210830,4119,ch,aargau,49955
+20210830,4119,ch,aargau,49950
 20210830,4120,ch,thurgau,1285
 20210830,423,li,liechtenstein,3177
 20210830,43,at,austria,653882
@@ -20664,7 +20666,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210829,4109,ch,zug,9126
 20210829,4110,ch,fribourg,977
 20210829,4112,ch,basel_stadt,14372
-20210829,4119,ch,aargau,49730
+20210829,4119,ch,aargau,49725
 20210829,4120,ch,thurgau,1276
 20210829,423,li,liechtenstein,3166
 20210829,43,at,austria,653072
@@ -20818,7 +20820,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210828,4109,ch,zug,9097
 20210828,4110,ch,fribourg,975
 20210828,4112,ch,basel_stadt,14286
-20210828,4119,ch,aargau,49620
+20210828,4119,ch,aargau,49615
 20210828,4120,ch,thurgau,1275
 20210828,43,at,austria,652253
 20210828,4301,at,wien,138431
@@ -21124,7 +21126,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210826,4109,ch,zug,9022
 20210826,4110,ch,fribourg,973
 20210826,4112,ch,basel_stadt,14107
-20210826,4119,ch,aargau,49205
+20210826,4119,ch,aargau,49200
 20210826,4120,ch,thurgau,1261
 20210826,423,li,liechtenstein,3136
 20210826,43,at,austria,650381
@@ -21432,7 +21434,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210824,4109,ch,zug,8965
 20210824,4110,ch,fribourg,972
 20210824,4112,ch,basel_stadt,13978
-20210824,4119,ch,aargau,48795
+20210824,4119,ch,aargau,48790
 20210824,4120,ch,thurgau,1252
 20210824,423,li,liechtenstein,3120
 20210824,43,at,austria,648802
@@ -21740,7 +21742,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210822,4109,ch,zug,8919
 20210822,4110,ch,fribourg,969
 20210822,4112,ch,basel_stadt,13826
-20210822,4119,ch,aargau,48500
+20210822,4119,ch,aargau,48495
 20210822,4120,ch,thurgau,1236
 20210822,423,li,liechtenstein,3104
 20210822,43,at,austria,647230
@@ -21894,7 +21896,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210821,4109,ch,zug,8891
 20210821,4110,ch,fribourg,968
 20210821,4112,ch,basel_stadt,13784
-20210821,4119,ch,aargau,48405
+20210821,4119,ch,aargau,48400
 20210821,4120,ch,thurgau,1234
 20210821,43,at,austria,646572
 20210821,4301,at,wien,137486
@@ -22200,7 +22202,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210819,4109,ch,zug,8859
 20210819,4110,ch,fribourg,968
 20210819,4112,ch,basel_stadt,13661
-20210819,4119,ch,aargau,48205
+20210819,4119,ch,aargau,48200
 20210819,4120,ch,thurgau,1225
 20210819,423,li,liechtenstein,3076
 20210819,43,at,austria,645212
@@ -22508,7 +22510,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210817,4109,ch,zug,8830
 20210817,4110,ch,fribourg,968
 20210817,4112,ch,basel_stadt,13586
-20210817,4119,ch,aargau,48060
+20210817,4119,ch,aargau,48055
 20210817,4120,ch,thurgau,1212
 20210817,423,li,liechtenstein,3065
 20210817,43,at,austria,644007
@@ -23432,7 +23434,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210811,4109,ch,zug,8719
 20210811,4110,ch,fribourg,962
 20210811,4112,ch,basel_stadt,13337
-20210811,4119,ch,aargau,47695
+20210811,4119,ch,aargau,47690
 20210811,4120,ch,thurgau,1193
 20210811,423,li,liechtenstein,3028
 20210811,43,at,austria,641251
@@ -23897,7 +23899,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210808,4109,ch,zug,8675
 20210808,4110,ch,fribourg,962
 20210808,4112,ch,basel_stadt,13247
-20210808,4119,ch,aargau,47570
+20210808,4119,ch,aargau,47565
 20210808,4120,ch,thurgau,1190
 20210808,423,li,liechtenstein,3024
 20210808,43,at,austria,639895
@@ -24052,7 +24054,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210807,4109,ch,zug,8674
 20210807,4110,ch,fribourg,962
 20210807,4112,ch,basel_stadt,13212
-20210807,4119,ch,aargau,47560
+20210807,4119,ch,aargau,47555
 20210807,4120,ch,thurgau,1190
 20210807,43,at,austria,639517
 20210807,4301,at,wien,135855
@@ -24206,7 +24208,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210806,4109,ch,zug,8667
 20210806,4110,ch,fribourg,962
 20210806,4112,ch,basel_stadt,13128
-20210806,4119,ch,aargau,47515
+20210806,4119,ch,aargau,47510
 20210806,4120,ch,thurgau,1188
 20210806,43,at,austria,639107
 20210806,4301,at,wien,135757
@@ -24670,7 +24672,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210803,4109,ch,zug,8636
 20210803,4110,ch,fribourg,961
 20210803,4112,ch,basel_stadt,13061
-20210803,4119,ch,aargau,47400
+20210803,4119,ch,aargau,47395
 20210803,4120,ch,thurgau,1184
 20210803,423,li,liechtenstein,3015
 20210803,43,at,austria,637808
@@ -24825,7 +24827,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210802,4109,ch,zug,8620
 20210802,4110,ch,fribourg,961
 20210802,4112,ch,basel_stadt,13039
-20210802,4119,ch,aargau,47360
+20210802,4119,ch,aargau,47355
 20210802,4120,ch,thurgau,1183
 20210802,423,li,liechtenstein,3011
 20210802,43,at,austria,637418
@@ -24980,7 +24982,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210801,4109,ch,zug,8614
 20210801,4110,ch,fribourg,961
 20210801,4112,ch,basel_stadt,13017
-20210801,4119,ch,aargau,47330
+20210801,4119,ch,aargau,47325
 20210801,4120,ch,thurgau,1182
 20210801,423,li,liechtenstein,3010
 20210801,43,at,austria,637117
@@ -25135,7 +25137,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210731,4109,ch,zug,8601
 20210731,4110,ch,fribourg,961
 20210731,4112,ch,basel_stadt,13003
-20210731,4119,ch,aargau,47305
+20210731,4119,ch,aargau,47300
 20210731,4120,ch,thurgau,1182
 20210731,43,at,austria,636796
 20210731,4301,at,wien,135153
@@ -25754,7 +25756,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210727,4109,ch,zug,8556
 20210727,4110,ch,fribourg,960
 20210727,4112,ch,basel_stadt,12932
-20210727,4119,ch,aargau,47215
+20210727,4119,ch,aargau,47210
 20210727,4120,ch,thurgau,1178
 20210727,423,li,liechtenstein,3003
 20210727,43,at,austria,635481
@@ -25909,7 +25911,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210726,4109,ch,zug,8546
 20210726,4110,ch,fribourg,960
 20210726,4112,ch,basel_stadt,12919
-20210726,4119,ch,aargau,47175
+20210726,4119,ch,aargau,47170
 20210726,4120,ch,thurgau,1178
 20210726,423,li,liechtenstein,3002
 20210726,43,at,austria,635200
@@ -26064,7 +26066,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210725,4109,ch,zug,8531
 20210725,4110,ch,fribourg,960
 20210725,4112,ch,basel_stadt,12911
-20210725,4119,ch,aargau,47155
+20210725,4119,ch,aargau,47150
 20210725,4120,ch,thurgau,1178
 20210725,423,li,liechtenstein,3000
 20210725,43,at,austria,634943
@@ -26994,7 +26996,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210719,4109,ch,zug,8459
 20210719,4110,ch,fribourg,960
 20210719,4112,ch,basel_stadt,12817
-20210719,4119,ch,aargau,47050
+20210719,4119,ch,aargau,47045
 20210719,4120,ch,thurgau,1178
 20210719,423,li,liechtenstein,2994
 20210719,43,at,austria,633737
@@ -27458,7 +27460,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210716,4109,ch,zug,8427
 20210716,4110,ch,fribourg,958
 20210716,4112,ch,basel_stadt,12797
-20210716,4119,ch,aargau,47010
+20210716,4119,ch,aargau,47005
 20210716,4120,ch,thurgau,1176
 20210716,43,at,austria,633381
 20210716,4301,at,wien,134301
@@ -28232,7 +28234,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210711,4109,ch,zug,8372
 20210711,4110,ch,fribourg,957
 20210711,4112,ch,basel_stadt,12765
-20210711,4119,ch,aargau,46975
+20210711,4119,ch,aargau,46970
 20210711,4120,ch,thurgau,1172
 20210711,423,li,liechtenstein,2977
 20210711,43,at,austria,632879
@@ -28541,7 +28543,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210709,4109,ch,zug,8365
 20210709,4110,ch,fribourg,957
 20210709,4112,ch,basel_stadt,12758
-20210709,4119,ch,aargau,46965
+20210709,4119,ch,aargau,46960
 20210709,4120,ch,thurgau,1172
 20210709,43,at,austria,632710
 20210709,4301,at,wien,133954
@@ -28695,7 +28697,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210708,4109,ch,zug,8361
 20210708,4110,ch,fribourg,957
 20210708,4112,ch,basel_stadt,12752
-20210708,4119,ch,aargau,46960
+20210708,4119,ch,aargau,46955
 20210708,4120,ch,thurgau,1172
 20210708,43,at,austria,632605
 20210708,4301,at,wien,133898
@@ -29619,7 +29621,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210702,4109,ch,zug,8324
 20210702,4110,ch,fribourg,956
 20210702,4112,ch,basel_stadt,12737
-20210702,4119,ch,aargau,46910
+20210702,4119,ch,aargau,46905
 20210702,4120,ch,thurgau,1168
 20210702,43,at,austria,631830
 20210702,4301,at,wien,133497
@@ -29773,7 +29775,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210701,4109,ch,zug,8331
 20210701,4110,ch,fribourg,954
 20210701,4112,ch,basel_stadt,12736
-20210701,4119,ch,aargau,46900
+20210701,4119,ch,aargau,46895
 20210701,4120,ch,thurgau,1167
 20210701,423,li,liechtenstein,2964
 20210701,43,at,austria,631701
@@ -30238,7 +30240,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210628,4109,ch,zug,8318
 20210628,4110,ch,fribourg,954
 20210628,4112,ch,basel_stadt,12730
-20210628,4119,ch,aargau,46865
+20210628,4119,ch,aargau,46860
 20210628,4120,ch,thurgau,1163
 20210628,423,li,liechtenstein,2959
 20210628,43,at,austria,631201
@@ -30548,7 +30550,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210626,4109,ch,zug,8318
 20210626,4110,ch,fribourg,954
 20210626,4112,ch,basel_stadt,12724
-20210626,4119,ch,aargau,46840
+20210626,4119,ch,aargau,46835
 20210626,4120,ch,thurgau,1162
 20210626,43,at,austria,630872
 20210626,4301,at,wien,133008
@@ -30702,7 +30704,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210625,4109,ch,zug,8313
 20210625,4110,ch,fribourg,949
 20210625,4112,ch,basel_stadt,12718
-20210625,4119,ch,aargau,46825
+20210625,4119,ch,aargau,46820
 20210625,4120,ch,thurgau,1162
 20210625,43,at,austria,630706
 20210625,4301,at,wien,132925
@@ -31166,7 +31168,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210622,4109,ch,zug,8299
 20210622,4110,ch,fribourg,948
 20210622,4112,ch,basel_stadt,12650
-20210622,4119,ch,aargau,46765
+20210622,4119,ch,aargau,46760
 20210622,4120,ch,thurgau,1161
 20210622,423,li,liechtenstein,2957
 20210622,43,at,austria,630131
@@ -31475,7 +31477,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210620,4109,ch,zug,8291
 20210620,4110,ch,fribourg,947
 20210620,4112,ch,basel_stadt,12644
-20210620,4119,ch,aargau,46700
+20210620,4119,ch,aargau,46695
 20210620,4120,ch,thurgau,1161
 20210620,43,at,austria,629622
 20210620,4301,at,wien,132539
@@ -31629,7 +31631,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210619,4109,ch,zug,8291
 20210619,4110,ch,fribourg,947
 20210619,4112,ch,basel_stadt,12642
-20210619,4119,ch,aargau,46690
+20210619,4119,ch,aargau,46685
 20210619,4120,ch,thurgau,1161
 20210619,43,at,austria,629404
 20210619,4301,at,wien,132492
@@ -31783,7 +31785,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210618,4109,ch,zug,8283
 20210618,4110,ch,fribourg,947
 20210618,4112,ch,basel_stadt,12639
-20210618,4119,ch,aargau,46660
+20210618,4119,ch,aargau,46655
 20210618,4120,ch,thurgau,1161
 20210618,423,li,liechtenstein,2955
 20210618,43,at,austria,629103
@@ -32250,7 +32252,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210615,4110,ch,fribourg,945
 20210615,4112,ch,basel_stadt,12618
 20210615,4113,ch,basel_landschaft,17697
-20210615,4119,ch,aargau,46585
+20210615,4119,ch,aargau,46580
 20210615,4120,ch,thurgau,1157
 20210615,423,li,liechtenstein,2954
 20210615,43,at,austria,628020
@@ -33028,7 +33030,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210610,4110,ch,fribourg,942
 20210610,4112,ch,basel_stadt,12572
 20210610,4113,ch,basel_landschaft,17616
-20210610,4119,ch,aargau,46420
+20210610,4119,ch,aargau,46415
 20210610,4120,ch,thurgau,1151
 20210610,423,li,liechtenstein,2948
 20210610,43,at,austria,626068
@@ -33651,7 +33653,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210606,4110,ch,fribourg,938
 20210606,4112,ch,basel_stadt,12527
 20210606,4113,ch,basel_landschaft,17563
-20210606,4119,ch,aargau,46220
+20210606,4119,ch,aargau,46215
 20210606,4120,ch,thurgau,1143
 20210606,4121,ch,ticino,3411
 20210606,423,li,liechtenstein,2942
@@ -33808,7 +33810,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210605,4110,ch,fribourg,938
 20210605,4112,ch,basel_stadt,12516
 20210605,4113,ch,basel_landschaft,17538
-20210605,4119,ch,aargau,46180
+20210605,4119,ch,aargau,46175
 20210605,4120,ch,thurgau,1142
 20210605,4121,ch,ticino,3410
 20210605,43,at,austria,623649
@@ -34276,7 +34278,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210602,4110,ch,fribourg,937
 20210602,4112,ch,basel_stadt,12470
 20210602,4113,ch,basel_landschaft,17478
-20210602,4119,ch,aargau,46005
+20210602,4119,ch,aargau,46000
 20210602,4120,ch,thurgau,1137
 20210602,4121,ch,ticino,3402
 20210602,43,at,austria,622062
@@ -34432,7 +34434,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210601,4110,ch,fribourg,936
 20210601,4112,ch,basel_stadt,12460
 20210601,4113,ch,basel_landschaft,17468
-20210601,4119,ch,aargau,45910
+20210601,4119,ch,aargau,45905
 20210601,4120,ch,thurgau,1134
 20210601,4121,ch,ticino,3402
 20210601,423,li,liechtenstein,2934
@@ -34902,7 +34904,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210529,4110,ch,fribourg,933
 20210529,4112,ch,basel_stadt,12417
 20210529,4113,ch,basel_landschaft,17368
-20210529,4119,ch,aargau,45655
+20210529,4119,ch,aargau,45650
 20210529,4120,ch,thurgau,1128
 20210529,4121,ch,ticino,3400
 20210529,43,at,austria,619248
@@ -36467,7 +36469,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210519,4110,ch,fribourg,926
 20210519,4112,ch,basel_stadt,12193
 20210519,4113,ch,basel_landschaft,17028
-20210519,4119,ch,aargau,44655
+20210519,4119,ch,aargau,44650
 20210519,4120,ch,thurgau,1110
 20210519,4121,ch,ticino,3374
 20210519,423,li,liechtenstein,2909
@@ -36624,7 +36626,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210518,4110,ch,fribourg,925
 20210518,4112,ch,basel_stadt,12156
 20210518,4113,ch,basel_landschaft,16993
-20210518,4119,ch,aargau,44505
+20210518,4119,ch,aargau,44500
 20210518,4120,ch,thurgau,1105
 20210518,4121,ch,ticino,3373
 20210518,423,li,liechtenstein,2906
@@ -36938,7 +36940,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210516,4110,ch,fribourg,924
 20210516,4112,ch,basel_stadt,12085
 20210516,4113,ch,basel_landschaft,16875
-20210516,4119,ch,aargau,44230
+20210516,4119,ch,aargau,44225
 20210516,4120,ch,thurgau,1099
 20210516,4121,ch,ticino,3370
 20210516,423,li,liechtenstein,2902
@@ -37720,7 +37722,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210511,4110,ch,fribourg,912
 20210511,4112,ch,basel_stadt,11872
 20210511,4113,ch,basel_landschaft,16606
-20210511,4119,ch,aargau,43630
+20210511,4119,ch,aargau,43625
 20210511,4120,ch,thurgau,1087
 20210511,4121,ch,ticino,3350
 20210511,423,li,liechtenstein,2887
@@ -37877,7 +37879,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210510,4110,ch,fribourg,912
 20210510,4112,ch,basel_stadt,11816
 20210510,4113,ch,basel_landschaft,16534
-20210510,4119,ch,aargau,43440
+20210510,4119,ch,aargau,43435
 20210510,4120,ch,thurgau,1085
 20210510,4121,ch,ticino,3340
 20210510,423,li,liechtenstein,2887
@@ -38347,7 +38349,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210507,4110,ch,fribourg,911
 20210507,4112,ch,basel_stadt,11701
 20210507,4113,ch,basel_landschaft,16284
-20210507,4119,ch,aargau,43080
+20210507,4119,ch,aargau,43075
 20210507,4120,ch,thurgau,1081
 20210507,4121,ch,ticino,3333
 20210507,43,at,austria,587642
@@ -38660,7 +38662,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210505,4110,ch,fribourg,905
 20210505,4112,ch,basel_stadt,11594
 20210505,4113,ch,basel_landschaft,16167
-20210505,4119,ch,aargau,42715
+20210505,4119,ch,aargau,42710
 20210505,4120,ch,thurgau,1075
 20210505,4121,ch,ticino,3324
 20210505,43,at,austria,582997
@@ -39443,7 +39445,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210430,4110,ch,fribourg,902
 20210430,4112,ch,basel_stadt,11342
 20210430,4113,ch,basel_landschaft,15765
-20210430,4119,ch,aargau,41955
+20210430,4119,ch,aargau,41950
 20210430,4120,ch,thurgau,1051
 20210430,4121,ch,ticino,3299
 20210430,43,at,austria,571546
@@ -39755,7 +39757,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210428,4110,ch,fribourg,901
 20210428,4112,ch,basel_stadt,11245
 20210428,4113,ch,basel_landschaft,15650
-20210428,4119,ch,aargau,41630
+20210428,4119,ch,aargau,41625
 20210428,4120,ch,thurgau,1038
 20210428,4121,ch,ticino,3286
 20210428,43,at,austria,566658
@@ -40382,7 +40384,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210424,4110,ch,fribourg,900
 20210424,4112,ch,basel_stadt,11019
 20210424,4113,ch,basel_landschaft,15405
-20210424,4119,ch,aargau,40995
+20210424,4119,ch,aargau,40990
 20210424,4120,ch,thurgau,1016
 20210424,4121,ch,ticino,3253
 20210424,43,at,austria,557165
@@ -40538,7 +40540,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210423,4110,ch,fribourg,900
 20210423,4112,ch,basel_stadt,10988
 20210423,4113,ch,basel_landschaft,15348
-20210423,4119,ch,aargau,40825
+20210423,4119,ch,aargau,40820
 20210423,4120,ch,thurgau,1014
 20210423,4121,ch,ticino,3244
 20210423,43,at,austria,554717
@@ -41008,7 +41010,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210420,4110,ch,fribourg,889
 20210420,4112,ch,basel_stadt,10863
 20210420,4113,ch,basel_landschaft,15206
-20210420,4119,ch,aargau,40215
+20210420,4119,ch,aargau,40210
 20210420,4120,ch,thurgau,1001
 20210420,4121,ch,ticino,3225
 20210420,423,li,liechtenstein,2708
@@ -41322,7 +41324,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210418,4110,ch,fribourg,888
 20210418,4112,ch,basel_stadt,10788
 20210418,4113,ch,basel_landschaft,15078
-20210418,4119,ch,aargau,39935
+20210418,4119,ch,aargau,39930
 20210418,4120,ch,thurgau,993
 20210418,4121,ch,ticino,3219
 20210418,423,li,liechtenstein,2693
@@ -41948,7 +41950,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210414,4110,ch,fribourg,881
 20210414,4112,ch,basel_stadt,10658
 20210414,4113,ch,basel_landschaft,14867
-20210414,4119,ch,aargau,39455
+20210414,4119,ch,aargau,39450
 20210414,4120,ch,thurgau,985
 20210414,4121,ch,ticino,3190
 20210414,423,li,liechtenstein,2657
@@ -42262,7 +42264,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210412,4110,ch,fribourg,874
 20210412,4112,ch,basel_stadt,10578
 20210412,4113,ch,basel_landschaft,14800
-20210412,4119,ch,aargau,39125
+20210412,4119,ch,aargau,39120
 20210412,4120,ch,thurgau,979
 20210412,4121,ch,ticino,3179
 20210412,423,li,liechtenstein,2634
@@ -42419,7 +42421,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210411,4110,ch,fribourg,874
 20210411,4112,ch,basel_stadt,10547
 20210411,4113,ch,basel_landschaft,14742
-20210411,4119,ch,aargau,39000
+20210411,4119,ch,aargau,38995
 20210411,4120,ch,thurgau,976
 20210411,4121,ch,ticino,3179
 20210411,423,li,liechtenstein,2625
@@ -42576,7 +42578,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210410,4110,ch,fribourg,874
 20210410,4112,ch,basel_stadt,10516
 20210410,4113,ch,basel_landschaft,14685
-20210410,4119,ch,aargau,38945
+20210410,4119,ch,aargau,38940
 20210410,4120,ch,thurgau,975
 20210410,4121,ch,ticino,3172
 20210410,43,at,austria,517949
@@ -42732,7 +42734,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210409,4110,ch,fribourg,873
 20210409,4112,ch,basel_stadt,10482
 20210409,4113,ch,basel_landschaft,14621
-20210409,4119,ch,aargau,38795
+20210409,4119,ch,aargau,38790
 20210409,4120,ch,thurgau,974
 20210409,4121,ch,ticino,3161
 20210409,43,at,austria,514936
@@ -43359,7 +43361,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210405,4110,ch,fribourg,866
 20210405,4112,ch,basel_stadt,10330
 20210405,4113,ch,basel_landschaft,14431
-20210405,4119,ch,aargau,38105
+20210405,4119,ch,aargau,38100
 20210405,4120,ch,thurgau,959
 20210405,4121,ch,ticino,3132
 20210405,423,li,liechtenstein,2594
@@ -44769,7 +44771,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210327,4110,ch,fribourg,852
 20210327,4112,ch,basel_stadt,10017
 20210327,4113,ch,basel_landschaft,13998
-20210327,4119,ch,aargau,36930
+20210327,4119,ch,aargau,36925
 20210327,4120,ch,thurgau,943
 20210327,4121,ch,ticino,3073
 20210327,43,at,austria,476125
@@ -44925,7 +44927,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210326,4110,ch,fribourg,848
 20210326,4112,ch,basel_stadt,9992
 20210326,4113,ch,basel_landschaft,13925
-20210326,4119,ch,aargau,36845
+20210326,4119,ch,aargau,36840
 20210326,4120,ch,thurgau,941
 20210326,4121,ch,ticino,3067
 20210326,43,at,austria,473347
@@ -45238,7 +45240,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210324,4110,ch,fribourg,847
 20210324,4112,ch,basel_stadt,9956
 20210324,4113,ch,basel_landschaft,13817
-20210324,4119,ch,aargau,36600
+20210324,4119,ch,aargau,36595
 20210324,4120,ch,thurgau,934
 20210324,4121,ch,ticino,3051
 20210324,423,li,liechtenstein,2549
@@ -46022,7 +46024,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210319,4110,ch,fribourg,843
 20210319,4112,ch,basel_stadt,9821
 20210319,4113,ch,basel_landschaft,13617
-20210319,4119,ch,aargau,36205
+20210319,4119,ch,aargau,36200
 20210319,4120,ch,thurgau,923
 20210319,4121,ch,ticino,3017
 20210319,43,at,austria,457550
@@ -46178,7 +46180,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210318,4110,ch,fribourg,843
 20210318,4112,ch,basel_stadt,9806
 20210318,4113,ch,basel_landschaft,13569
-20210318,4119,ch,aargau,36130
+20210318,4119,ch,aargau,36125
 20210318,4120,ch,thurgau,922
 20210318,4121,ch,ticino,3011
 20210318,423,li,liechtenstein,2526
@@ -46335,7 +46337,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210317,4110,ch,fribourg,841
 20210317,4112,ch,basel_stadt,9793
 20210317,4113,ch,basel_landschaft,13550
-20210317,4119,ch,aargau,36060
+20210317,4119,ch,aargau,36055
 20210317,4120,ch,thurgau,920
 20210317,4121,ch,ticino,3008
 20210317,423,li,liechtenstein,2526
@@ -46806,7 +46808,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210314,4110,ch,fribourg,838
 20210314,4112,ch,basel_stadt,9746
 20210314,4113,ch,basel_landschaft,13442
-20210314,4119,ch,aargau,35840
+20210314,4119,ch,aargau,35835
 20210314,4120,ch,thurgau,916
 20210314,4121,ch,ticino,3000
 20210314,423,li,liechtenstein,2521
@@ -46963,7 +46965,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210313,4110,ch,fribourg,837
 20210313,4112,ch,basel_stadt,9722
 20210313,4113,ch,basel_landschaft,13403
-20210313,4119,ch,aargau,35800
+20210313,4119,ch,aargau,35795
 20210313,4120,ch,thurgau,916
 20210313,4121,ch,ticino,2997
 20210313,43,at,austria,444784
@@ -47276,7 +47278,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210311,4110,ch,fribourg,828
 20210311,4112,ch,basel_stadt,9680
 20210311,4113,ch,basel_landschaft,13345
-20210311,4119,ch,aargau,35640
+20210311,4119,ch,aargau,35635
 20210311,4120,ch,thurgau,911
 20210311,4121,ch,ticino,2989
 20210311,423,li,liechtenstein,2519
@@ -48061,7 +48063,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210306,4110,ch,fribourg,819
 20210306,4112,ch,basel_stadt,9601
 20210306,4113,ch,basel_landschaft,13206
-20210306,4119,ch,aargau,35315
+20210306,4119,ch,aargau,35310
 20210306,4120,ch,thurgau,900
 20210306,4121,ch,ticino,2974
 20210306,43,at,austria,431854
@@ -48217,7 +48219,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210305,4110,ch,fribourg,819
 20210305,4112,ch,basel_stadt,9578
 20210305,4113,ch,basel_landschaft,13184
-20210305,4119,ch,aargau,35275
+20210305,4119,ch,aargau,35270
 20210305,4120,ch,thurgau,900
 20210305,4121,ch,ticino,2967
 20210305,423,li,liechtenstein,2488
@@ -48688,7 +48690,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210302,4110,ch,fribourg,814
 20210302,4112,ch,basel_stadt,9526
 20210302,4113,ch,basel_landschaft,13120
-20210302,4119,ch,aargau,35050
+20210302,4119,ch,aargau,35045
 20210302,4120,ch,thurgau,896
 20210302,4121,ch,ticino,2949
 20210302,423,li,liechtenstein,2486
@@ -49001,7 +49003,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210228,4109,ch,zug,6297
 20210228,4110,ch,fribourg,810
 20210228,4113,ch,basel_landschaft,13047
-20210228,4119,ch,aargau,34910
+20210228,4119,ch,aargau,34905
 20210228,4120,ch,thurgau,885
 20210228,4121,ch,ticino,2941
 20210228,423,li,liechtenstein,2484
@@ -49627,7 +49629,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210224,4110,ch,fribourg,803
 20210224,4112,ch,basel_stadt,9453
 20210224,4113,ch,basel_landschaft,12928
-20210224,4119,ch,aargau,34655
+20210224,4119,ch,aargau,34650
 20210224,4120,ch,thurgau,882
 20210224,4121,ch,ticino,2922
 20210224,423,li,liechtenstein,2484
@@ -50098,7 +50100,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210221,4110,ch,fribourg,799
 20210221,4112,ch,basel_stadt,9410
 20210221,4113,ch,basel_landschaft,12825
-20210221,4119,ch,aargau,34395
+20210221,4119,ch,aargau,34390
 20210221,4120,ch,thurgau,871
 20210221,4121,ch,ticino,2912
 20210221,423,li,liechtenstein,2484
@@ -50255,7 +50257,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210220,4110,ch,fribourg,798
 20210220,4112,ch,basel_stadt,9402
 20210220,4113,ch,basel_landschaft,12786
-20210220,4119,ch,aargau,34365
+20210220,4119,ch,aargau,34360
 20210220,4120,ch,thurgau,871
 20210220,4121,ch,ticino,2912
 20210220,43,at,austria,410990
@@ -50882,7 +50884,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210216,4110,ch,fribourg,789
 20210216,4112,ch,basel_stadt,9326
 20210216,4113,ch,basel_landschaft,12638
-20210216,4119,ch,aargau,33920
+20210216,4119,ch,aargau,33915
 20210216,4120,ch,thurgau,866
 20210216,4121,ch,ticino,2890
 20210216,423,li,liechtenstein,2482
@@ -51039,7 +51041,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210215,4110,ch,fribourg,786
 20210215,4112,ch,basel_stadt,9304
 20210215,4113,ch,basel_landschaft,12590
-20210215,4119,ch,aargau,33770
+20210215,4119,ch,aargau,33765
 20210215,4120,ch,thurgau,864
 20210215,4121,ch,ticino,2881
 20210215,423,li,liechtenstein,2470
@@ -51666,7 +51668,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210211,4110,ch,fribourg,781
 20210211,4112,ch,basel_stadt,9177
 20210211,4113,ch,basel_landschaft,12401
-20210211,4119,ch,aargau,33350
+20210211,4119,ch,aargau,33345
 20210211,4120,ch,thurgau,856
 20210211,4121,ch,ticino,2854
 20210211,423,li,liechtenstein,2457
@@ -51980,7 +51982,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210209,4110,ch,fribourg,778
 20210209,4112,ch,basel_stadt,9143
 20210209,4113,ch,basel_landschaft,12343
-20210209,4119,ch,aargau,33065
+20210209,4119,ch,aargau,33060
 20210209,4120,ch,thurgau,850
 20210209,4121,ch,ticino,2837
 20210209,423,li,liechtenstein,2457
@@ -52294,7 +52296,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210207,4110,ch,fribourg,777
 20210207,4112,ch,basel_stadt,9095
 20210207,4113,ch,basel_landschaft,12257
-20210207,4119,ch,aargau,32760
+20210207,4119,ch,aargau,32755
 20210207,4120,ch,thurgau,846
 20210207,4121,ch,ticino,2821
 20210207,423,li,liechtenstein,2425
@@ -52451,7 +52453,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210206,4110,ch,fribourg,776
 20210206,4112,ch,basel_stadt,9061
 20210206,4113,ch,basel_landschaft,12213
-20210206,4119,ch,aargau,32720
+20210206,4119,ch,aargau,32715
 20210206,4120,ch,thurgau,846
 20210206,4121,ch,ticino,2814
 20210206,43,at,austria,392682
@@ -52607,7 +52609,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210205,4110,ch,fribourg,774
 20210205,4112,ch,basel_stadt,9035
 20210205,4113,ch,basel_landschaft,12166
-20210205,4119,ch,aargau,32560
+20210205,4119,ch,aargau,32555
 20210205,4120,ch,thurgau,844
 20210205,4121,ch,ticino,2798
 20210205,423,li,liechtenstein,2424
@@ -52921,7 +52923,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210203,4110,ch,fribourg,767
 20210203,4112,ch,basel_stadt,8990
 20210203,4113,ch,basel_landschaft,12079
-20210203,4119,ch,aargau,32175
+20210203,4119,ch,aargau,32170
 20210203,4120,ch,thurgau,837
 20210203,4121,ch,ticino,2773
 20210203,423,li,liechtenstein,2413
@@ -53235,7 +53237,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210201,4110,ch,fribourg,760
 20210201,4112,ch,basel_stadt,8938
 20210201,4113,ch,basel_landschaft,12004
-20210201,4119,ch,aargau,31760
+20210201,4119,ch,aargau,31755
 20210201,4120,ch,thurgau,831
 20210201,4121,ch,ticino,2738
 20210201,423,li,liechtenstein,2376
@@ -53862,7 +53864,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210128,4110,ch,fribourg,748
 20210128,4112,ch,basel_stadt,8824
 20210128,4113,ch,basel_landschaft,11748
-20210128,4119,ch,aargau,31170
+20210128,4119,ch,aargau,31165
 20210128,4120,ch,thurgau,820
 20210128,4121,ch,ticino,2699
 20210128,423,li,liechtenstein,2352
@@ -54019,7 +54021,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210127,4110,ch,fribourg,744
 20210127,4112,ch,basel_stadt,8772
 20210127,4113,ch,basel_landschaft,11716
-20210127,4119,ch,aargau,30910
+20210127,4119,ch,aargau,30905
 20210127,4120,ch,thurgau,817
 20210127,4121,ch,ticino,2682
 20210127,423,li,liechtenstein,2352
@@ -54176,7 +54178,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210126,4110,ch,fribourg,743
 20210126,4112,ch,basel_stadt,8749
 20210126,4113,ch,basel_landschaft,11672
-20210126,4119,ch,aargau,30705
+20210126,4119,ch,aargau,30700
 20210126,4120,ch,thurgau,813
 20210126,4121,ch,ticino,2662
 20210126,423,li,liechtenstein,2328
@@ -55117,7 +55119,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210120,4110,ch,fribourg,732
 20210120,4112,ch,basel_stadt,8550
 20210120,4113,ch,basel_landschaft,11289
-20210120,4119,ch,aargau,29425
+20210120,4119,ch,aargau,29420
 20210120,4120,ch,thurgau,786
 20210120,4121,ch,ticino,2593
 20210120,423,li,liechtenstein,2322
@@ -55745,7 +55747,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210116,4110,ch,fribourg,727
 20210116,4112,ch,basel_stadt,8395
 20210116,4113,ch,basel_landschaft,11010
-20210116,4119,ch,aargau,28245
+20210116,4119,ch,aargau,28240
 20210116,4120,ch,thurgau,770
 20210116,4121,ch,ticino,2531
 20210116,43,at,austria,360214
@@ -56058,7 +56060,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210114,4110,ch,fribourg,722
 20210114,4112,ch,basel_stadt,8259
 20210114,4113,ch,basel_landschaft,10773
-20210114,4119,ch,aargau,27865
+20210114,4119,ch,aargau,27860
 20210114,4120,ch,thurgau,755
 20210114,4121,ch,ticino,2485
 20210114,423,li,liechtenstein,2264
@@ -56372,7 +56374,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210112,4110,ch,fribourg,713
 20210112,4112,ch,basel_stadt,8143
 20210112,4113,ch,basel_landschaft,10633
-20210112,4119,ch,aargau,27085
+20210112,4119,ch,aargau,27080
 20210112,4120,ch,thurgau,735
 20210112,4121,ch,ticino,2438
 20210112,423,li,liechtenstein,2211
@@ -56686,7 +56688,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210110,4110,ch,fribourg,710
 20210110,4112,ch,basel_stadt,8020
 20210110,4113,ch,basel_landschaft,10492
-20210110,4119,ch,aargau,26250
+20210110,4119,ch,aargau,26245
 20210110,4120,ch,thurgau,720
 20210110,4121,ch,ticino,2402
 20210110,423,li,liechtenstein,2182
@@ -56843,7 +56845,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210109,4110,ch,fribourg,708
 20210109,4112,ch,basel_stadt,7939
 20210109,4113,ch,basel_landschaft,10375
-20210109,4119,ch,aargau,26090
+20210109,4119,ch,aargau,26085
 20210109,4120,ch,thurgau,719
 20210109,4121,ch,ticino,2387
 20210109,43,at,austria,345803
@@ -57156,7 +57158,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210107,4110,ch,fribourg,707
 20210107,4112,ch,basel_stadt,7815
 20210107,4113,ch,basel_landschaft,10106
-20210107,4119,ch,aargau,25725
+20210107,4119,ch,aargau,25720
 20210107,4120,ch,thurgau,703
 20210107,4121,ch,ticino,2325
 20210107,423,li,liechtenstein,2108
@@ -57313,7 +57315,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210106,4110,ch,fribourg,706
 20210106,4112,ch,basel_stadt,7764
 20210106,4113,ch,basel_landschaft,10030
-20210106,4119,ch,aargau,25265
+20210106,4119,ch,aargau,25260
 20210106,4120,ch,thurgau,691
 20210106,4121,ch,ticino,2308
 20210106,423,li,liechtenstein,2084
@@ -57470,7 +57472,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210105,4110,ch,fribourg,703
 20210105,4112,ch,basel_stadt,7688
 20210105,4113,ch,basel_landschaft,9953
-20210105,4119,ch,aargau,24785
+20210105,4119,ch,aargau,24780
 20210105,4120,ch,thurgau,679
 20210105,4121,ch,ticino,2273
 20210105,423,li,liechtenstein,2005
@@ -57627,7 +57629,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210104,4110,ch,fribourg,697
 20210104,4112,ch,basel_stadt,7611
 20210104,4113,ch,basel_landschaft,9883
-20210104,4119,ch,aargau,24195
+20210104,4119,ch,aargau,24190
 20210104,4120,ch,thurgau,669
 20210104,4121,ch,ticino,2250
 20210104,423,li,liechtenstein,1979
@@ -58097,7 +58099,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20210101,4110,ch,fribourg,697
 20210101,4112,ch,basel_stadt,7436
 20210101,4113,ch,basel_landschaft,9483
-20210101,4119,ch,aargau,23410
+20210101,4119,ch,aargau,23405
 20210101,4120,ch,thurgau,650
 20210101,4121,ch,ticino,2215
 20210101,43,at,austria,328617
@@ -58566,7 +58568,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201229,4110,ch,fribourg,689
 20201229,4112,ch,basel_stadt,7243
 20201229,4113,ch,basel_landschaft,9110
-20201229,4119,ch,aargau,21900
+20201229,4119,ch,aargau,21895
 20201229,4120,ch,thurgau,617
 20201229,4121,ch,ticino,2127
 20201229,423,li,liechtenstein,1764
@@ -58723,7 +58725,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201228,4110,ch,fribourg,685
 20201228,4112,ch,basel_stadt,7123
 20201228,4113,ch,basel_landschaft,8977
-20201228,4119,ch,aargau,21350
+20201228,4119,ch,aargau,21345
 20201228,4120,ch,thurgau,607
 20201228,4121,ch,ticino,2112
 20201228,423,li,liechtenstein,1734
@@ -59036,7 +59038,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201226,4110,ch,fribourg,683
 20201226,4112,ch,basel_stadt,6934
 20201226,4113,ch,basel_landschaft,8677
-20201226,4119,ch,aargau,20855
+20201226,4119,ch,aargau,20850
 20201226,4120,ch,thurgau,592
 20201226,4121,ch,ticino,2090
 20201226,43,at,austria,315965
@@ -59192,7 +59194,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201225,4110,ch,fribourg,680
 20201225,4112,ch,basel_stadt,6872
 20201225,4113,ch,basel_landschaft,8513
-20201225,4119,ch,aargau,20475
+20201225,4119,ch,aargau,20470
 20201225,4120,ch,thurgau,584
 20201225,4121,ch,ticino,2079
 20201225,43,at,austria,314027
@@ -59504,7 +59506,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201223,4110,ch,fribourg,675
 20201223,4112,ch,basel_stadt,6655
 20201223,4113,ch,basel_landschaft,8235
-20201223,4119,ch,aargau,19570
+20201223,4119,ch,aargau,19565
 20201223,4120,ch,thurgau,557
 20201223,4121,ch,ticino,2018
 20201223,423,li,liechtenstein,1591
@@ -61542,7 +61544,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201210,4110,ch,fribourg,639
 20201210,4112,ch,basel_stadt,5362
 20201210,4113,ch,basel_landschaft,6282
-20201210,4119,ch,aargau,15260
+20201210,4119,ch,aargau,15255
 20201210,4120,ch,thurgau,427
 20201210,4121,ch,ticino,1761
 20201210,423,li,liechtenstein,1296
@@ -61699,7 +61701,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201209,4110,ch,fribourg,635
 20201209,4112,ch,basel_stadt,5312
 20201209,4113,ch,basel_landschaft,6197
-20201209,4119,ch,aargau,14970
+20201209,4119,ch,aargau,14965
 20201209,4120,ch,thurgau,414
 20201209,4121,ch,ticino,1732
 20201209,423,li,liechtenstein,1282
@@ -62013,7 +62015,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201207,4110,ch,fribourg,627
 20201207,4112,ch,basel_stadt,5143
 20201207,4113,ch,basel_landschaft,5960
-20201207,4119,ch,aargau,14075
+20201207,4119,ch,aargau,14070
 20201207,4120,ch,thurgau,395
 20201207,4121,ch,ticino,1684
 20201207,423,li,liechtenstein,1235
@@ -62483,7 +62485,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201204,4110,ch,fribourg,615
 20201204,4112,ch,basel_stadt,4798
 20201204,4113,ch,basel_landschaft,5491
-20201204,4119,ch,aargau,13460
+20201204,4119,ch,aargau,13455
 20201204,4120,ch,thurgau,385
 20201204,4121,ch,ticino,1643
 20201204,423,li,liechtenstein,1183
@@ -62954,7 +62956,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201201,4110,ch,fribourg,599
 20201201,4112,ch,basel_stadt,4565
 20201201,4113,ch,basel_landschaft,5156
-20201201,4119,ch,aargau,12270
+20201201,4119,ch,aargau,12265
 20201201,4120,ch,thurgau,352
 20201201,4121,ch,ticino,1576
 20201201,423,li,liechtenstein,1110
@@ -63111,7 +63113,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201130,4110,ch,fribourg,589
 20201130,4112,ch,basel_stadt,4441
 20201130,4113,ch,basel_landschaft,5013
-20201130,4119,ch,aargau,11850
+20201130,4119,ch,aargau,11845
 20201130,4120,ch,thurgau,346
 20201130,4121,ch,ticino,1547
 20201130,423,li,liechtenstein,1088
@@ -63268,7 +63270,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201129,4110,ch,fribourg,589
 20201129,4112,ch,basel_stadt,4351
 20201129,4113,ch,basel_landschaft,4882
-20201129,4119,ch,aargau,11645
+20201129,4119,ch,aargau,11640
 20201129,4120,ch,thurgau,334
 20201129,4121,ch,ticino,1543
 20201129,43,at,austria,214957
@@ -63737,7 +63739,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201126,4110,ch,fribourg,556
 20201126,4112,ch,basel_stadt,4016
 20201126,4113,ch,basel_landschaft,4430
-20201126,4119,ch,aargau,10940
+20201126,4119,ch,aargau,10935
 20201126,4120,ch,thurgau,327
 20201126,4121,ch,ticino,1464
 20201126,423,li,liechtenstein,1010
@@ -63894,7 +63896,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201125,4110,ch,fribourg,547
 20201125,4112,ch,basel_stadt,3953
 20201125,4113,ch,basel_landschaft,4362
-20201125,4119,ch,aargau,10610
+20201125,4119,ch,aargau,10605
 20201125,4120,ch,thurgau,322
 20201125,4121,ch,ticino,1442
 20201125,423,li,liechtenstein,985
@@ -64208,7 +64210,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201123,4110,ch,fribourg,529
 20201123,4112,ch,basel_stadt,3759
 20201123,4113,ch,basel_landschaft,4141
-20201123,4119,ch,aargau,9830
+20201123,4119,ch,aargau,9825
 20201123,4120,ch,thurgau,310
 20201123,4121,ch,ticino,1368
 20201123,423,li,liechtenstein,952
@@ -64678,7 +64680,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201120,4110,ch,fribourg,511
 20201120,4112,ch,basel_stadt,3424
 20201120,4113,ch,basel_landschaft,3757
-20201120,4119,ch,aargau,9155
+20201120,4119,ch,aargau,9150
 20201120,4120,ch,thurgau,286
 20201120,4121,ch,ticino,1307
 20201120,423,li,liechtenstein,883
@@ -64835,7 +64837,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201119,4110,ch,fribourg,500
 20201119,4112,ch,basel_stadt,3274
 20201119,4113,ch,basel_landschaft,3612
-20201119,4119,ch,aargau,8750
+20201119,4119,ch,aargau,8745
 20201119,4120,ch,thurgau,278
 20201119,4121,ch,ticino,1291
 20201119,423,li,liechtenstein,883
@@ -65463,7 +65465,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201115,4110,ch,fribourg,458
 20201115,4112,ch,basel_stadt,2943
 20201115,4113,ch,basel_landschaft,3277
-20201115,4119,ch,aargau,7100
+20201115,4119,ch,aargau,7095
 20201115,4120,ch,thurgau,234
 20201115,4121,ch,ticino,1202
 20201115,423,li,liechtenstein,763
@@ -65620,7 +65622,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201114,4110,ch,fribourg,452
 20201114,4112,ch,basel_stadt,2845
 20201114,4113,ch,basel_landschaft,3110
-20201114,4119,ch,aargau,6815
+20201114,4119,ch,aargau,6810
 20201114,4120,ch,thurgau,233
 20201114,4121,ch,ticino,1191
 20201114,43,at,austria,122633
@@ -65933,7 +65935,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201112,4110,ch,fribourg,417
 20201112,4112,ch,basel_stadt,2693
 20201112,4113,ch,basel_landschaft,2879
-20201112,4119,ch,aargau,6065
+20201112,4119,ch,aargau,6060
 20201112,4120,ch,thurgau,222
 20201112,4121,ch,ticino,1142
 20201112,423,li,liechtenstein,682
@@ -66090,7 +66092,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201111,4110,ch,fribourg,397
 20201111,4112,ch,basel_stadt,2607
 20201111,4113,ch,basel_landschaft,2739
-20201111,4119,ch,aargau,5670
+20201111,4119,ch,aargau,5665
 20201111,4120,ch,thurgau,218
 20201111,4121,ch,ticino,1126
 20201111,423,li,liechtenstein,656
@@ -66718,7 +66720,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201107,4110,ch,fribourg,348
 20201107,4112,ch,basel_stadt,2332
 20201107,4113,ch,basel_landschaft,2253
-20201107,4119,ch,aargau,4340
+20201107,4119,ch,aargau,4335
 20201107,4120,ch,thurgau,197
 20201107,4121,ch,ticino,1074
 20201107,43,at,austria,87908
@@ -67031,7 +67033,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201105,4110,ch,fribourg,316
 20201105,4112,ch,basel_stadt,2108
 20201105,4113,ch,basel_landschaft,2070
-20201105,4119,ch,aargau,3750
+20201105,4119,ch,aargau,3745
 20201105,4120,ch,thurgau,184
 20201105,4121,ch,ticino,1049
 20201105,423,li,liechtenstein,481
@@ -67345,7 +67347,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201103,4110,ch,fribourg,285
 20201103,4112,ch,basel_stadt,1906
 20201103,4113,ch,basel_landschaft,1932
-20201103,4119,ch,aargau,3205
+20201103,4119,ch,aargau,3200
 20201103,4120,ch,thurgau,170
 20201103,4121,ch,ticino,1026
 20201103,423,li,liechtenstein,423
@@ -67659,7 +67661,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201101,4110,ch,fribourg,269
 20201101,4112,ch,basel_stadt,1800
 20201101,4113,ch,basel_landschaft,1736
-20201101,4119,ch,aargau,2910
+20201101,4119,ch,aargau,2905
 20201101,4120,ch,thurgau,158
 20201101,4121,ch,ticino,1002
 20201101,423,li,liechtenstein,355
@@ -67816,7 +67818,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201031,4110,ch,fribourg,265
 20201031,4112,ch,basel_stadt,1730
 20201031,4113,ch,basel_landschaft,1673
-20201031,4119,ch,aargau,2820
+20201031,4119,ch,aargau,2815
 20201031,4120,ch,thurgau,158
 20201031,4121,ch,ticino,990
 20201031,43,at,austria,67519
@@ -68601,7 +68603,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201026,4110,ch,fribourg,218
 20201026,4112,ch,basel_stadt,1519
 20201026,4113,ch,basel_landschaft,1429
-20201026,4119,ch,aargau,2135
+20201026,4119,ch,aargau,2130
 20201026,4120,ch,thurgau,130
 20201026,4121,ch,ticino,959
 20201026,4123,ch,valais,384
@@ -68759,7 +68761,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201025,4110,ch,fribourg,217
 20201025,4112,ch,basel_stadt,1480
 20201025,4113,ch,basel_landschaft,1382
-20201025,4119,ch,aargau,2110
+20201025,4119,ch,aargau,2105
 20201025,4120,ch,thurgau,123
 20201025,4121,ch,ticino,958
 20201025,4123,ch,valais,380
@@ -69706,7 +69708,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201019,4110,ch,fribourg,191
 20201019,4112,ch,basel_stadt,1364
 20201019,4113,ch,basel_landschaft,1215
-20201019,4119,ch,aargau,1815
+20201019,4119,ch,aargau,1810
 20201019,4120,ch,thurgau,104
 20201019,4121,ch,ticino,940
 20201019,4123,ch,valais,354
@@ -69864,7 +69866,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201018,4110,ch,fribourg,191
 20201018,4112,ch,basel_stadt,1341
 20201018,4113,ch,basel_landschaft,1199
-20201018,4119,ch,aargau,1810
+20201018,4119,ch,aargau,1805
 20201018,4120,ch,thurgau,101
 20201018,4121,ch,ticino,940
 20201018,4123,ch,valais,347
@@ -70022,7 +70024,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201017,4110,ch,fribourg,190
 20201017,4112,ch,basel_stadt,1327
 20201017,4113,ch,basel_landschaft,1187
-20201017,4119,ch,aargau,1800
+20201017,4119,ch,aargau,1795
 20201017,4120,ch,thurgau,100
 20201017,4121,ch,ticino,938
 20201017,4123,ch,valais,343
@@ -70179,7 +70181,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201016,4110,ch,fribourg,189
 20201016,4112,ch,basel_stadt,1308
 20201016,4113,ch,basel_landschaft,1175
-20201016,4119,ch,aargau,1775
+20201016,4119,ch,aargau,1770
 20201016,4120,ch,thurgau,99
 20201016,4121,ch,ticino,937
 20201016,4123,ch,valais,342
@@ -70337,7 +70339,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201015,4110,ch,fribourg,185
 20201015,4112,ch,basel_stadt,1306
 20201015,4113,ch,basel_landschaft,1165
-20201015,4119,ch,aargau,1760
+20201015,4119,ch,aargau,1755
 20201015,4120,ch,thurgau,97
 20201015,4121,ch,ticino,937
 20201015,4123,ch,valais,340
@@ -70495,7 +70497,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201014,4110,ch,fribourg,183
 20201014,4112,ch,basel_stadt,1297
 20201014,4113,ch,basel_landschaft,1162
-20201014,4119,ch,aargau,1745
+20201014,4119,ch,aargau,1740
 20201014,4120,ch,thurgau,96
 20201014,4121,ch,ticino,936
 20201014,4123,ch,valais,340
@@ -71441,7 +71443,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201008,4110,ch,fribourg,177
 20201008,4112,ch,basel_stadt,1255
 20201008,4113,ch,basel_landschaft,1134
-20201008,4119,ch,aargau,1700
+20201008,4119,ch,aargau,1695
 20201008,4120,ch,thurgau,92
 20201008,4121,ch,ticino,933
 20201008,4123,ch,valais,332
@@ -71757,7 +71759,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201006,4110,ch,fribourg,177
 20201006,4112,ch,basel_stadt,1248
 20201006,4113,ch,basel_landschaft,1131
-20201006,4119,ch,aargau,1675
+20201006,4119,ch,aargau,1670
 20201006,4120,ch,thurgau,91
 20201006,4121,ch,ticino,932
 20201006,4123,ch,valais,331
@@ -72073,7 +72075,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201004,4110,ch,fribourg,176
 20201004,4112,ch,basel_stadt,1244
 20201004,4113,ch,basel_landschaft,1122
-20201004,4119,ch,aargau,1640
+20201004,4119,ch,aargau,1635
 20201004,4120,ch,thurgau,89
 20201004,4123,ch,valais,328
 20201004,423,li,liechtenstein,116
@@ -72230,7 +72232,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201003,4110,ch,fribourg,176
 20201003,4112,ch,basel_stadt,1240
 20201003,4113,ch,basel_landschaft,1119
-20201003,4119,ch,aargau,1625
+20201003,4119,ch,aargau,1620
 20201003,4120,ch,thurgau,89
 20201003,4123,ch,valais,328
 20201003,423,li,liechtenstein,116
@@ -72545,7 +72547,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20201001,4110,ch,fribourg,174
 20201001,4112,ch,basel_stadt,1234
 20201001,4113,ch,basel_landschaft,1114
-20201001,4119,ch,aargau,1585
+20201001,4119,ch,aargau,1580
 20201001,4120,ch,thurgau,89
 20201001,4121,ch,ticino,931
 20201001,4123,ch,valais,328
@@ -73019,7 +73021,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200928,4110,ch,fribourg,173
 20200928,4112,ch,basel_stadt,1227
 20200928,4113,ch,basel_landschaft,1110
-20200928,4119,ch,aargau,1495
+20200928,4119,ch,aargau,1490
 20200928,4120,ch,thurgau,88
 20200928,4121,ch,ticino,930
 20200928,4123,ch,valais,327
@@ -73177,7 +73179,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200927,4110,ch,fribourg,173
 20200927,4112,ch,basel_stadt,1226
 20200927,4113,ch,basel_landschaft,1108
-20200927,4119,ch,aargau,1490
+20200927,4119,ch,aargau,1485
 20200927,4120,ch,thurgau,87
 20200927,4123,ch,valais,326
 20200927,423,li,liechtenstein,112
@@ -74123,7 +74125,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200921,4110,ch,fribourg,171
 20200921,4112,ch,basel_stadt,1201
 20200921,4113,ch,basel_landschaft,1086
-20200921,4119,ch,aargau,1370
+20200921,4119,ch,aargau,1365
 20200921,4120,ch,thurgau,85
 20200921,4121,ch,ticino,929
 20200921,4123,ch,valais,325
@@ -74753,7 +74755,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200917,4110,ch,fribourg,166
 20200917,4112,ch,basel_stadt,1184
 20200917,4113,ch,basel_landschaft,1061
-20200917,4119,ch,aargau,1305
+20200917,4119,ch,aargau,1300
 20200917,4120,ch,thurgau,84
 20200917,4121,ch,ticino,929
 20200917,4123,ch,valais,324
@@ -74911,7 +74913,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200916,4110,ch,fribourg,166
 20200916,4112,ch,basel_stadt,1181
 20200916,4113,ch,basel_landschaft,1061
-20200916,4119,ch,aargau,1280
+20200916,4119,ch,aargau,1275
 20200916,4120,ch,thurgau,84
 20200916,4121,ch,ticino,929
 20200916,4123,ch,valais,322
@@ -75227,7 +75229,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200914,4110,ch,fribourg,164
 20200914,4112,ch,basel_stadt,1174
 20200914,4113,ch,basel_landschaft,1053
-20200914,4119,ch,aargau,1235
+20200914,4119,ch,aargau,1230
 20200914,4120,ch,thurgau,84
 20200914,4121,ch,ticino,929
 20200914,4123,ch,valais,321
@@ -75699,7 +75701,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200911,4110,ch,fribourg,164
 20200911,4112,ch,basel_stadt,1165
 20200911,4113,ch,basel_landschaft,1040
-20200911,4119,ch,aargau,1200
+20200911,4119,ch,aargau,1195
 20200911,4120,ch,thurgau,84
 20200911,4121,ch,ticino,929
 20200911,4123,ch,valais,321
@@ -76489,7 +76491,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200906,4110,ch,fribourg,164
 20200906,4112,ch,basel_stadt,1148
 20200906,4113,ch,basel_landschaft,1018
-20200906,4119,ch,aargau,1080
+20200906,4119,ch,aargau,1075
 20200906,4120,ch,thurgau,83
 20200906,4123,ch,valais,320
 20200906,423,li,liechtenstein,105
@@ -76646,7 +76648,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200905,4110,ch,fribourg,164
 20200905,4112,ch,basel_stadt,1137
 20200905,4113,ch,basel_landschaft,1014
-20200905,4119,ch,aargau,1065
+20200905,4119,ch,aargau,1060
 20200905,4120,ch,thurgau,83
 20200905,4123,ch,valais,320
 20200905,423,li,liechtenstein,104
@@ -76803,7 +76805,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200904,4110,ch,fribourg,163
 20200904,4112,ch,basel_stadt,1130
 20200904,4113,ch,basel_landschaft,1008
-20200904,4119,ch,aargau,1045
+20200904,4119,ch,aargau,1040
 20200904,4120,ch,thurgau,83
 20200904,4121,ch,ticino,928
 20200904,4123,ch,valais,320
@@ -77277,7 +77279,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200901,4110,ch,fribourg,163
 20200901,4112,ch,basel_stadt,1126
 20200901,4113,ch,basel_landschaft,1001
-20200901,4119,ch,aargau,985
+20200901,4119,ch,aargau,980
 20200901,4120,ch,thurgau,82
 20200901,4121,ch,ticino,928
 20200901,4123,ch,valais,320
@@ -78065,7 +78067,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200827,4110,ch,fribourg,160
 20200827,4112,ch,basel_stadt,1088
 20200827,4113,ch,basel_landschaft,973
-20200827,4119,ch,aargau,905
+20200827,4119,ch,aargau,900
 20200827,4120,ch,thurgau,81
 20200827,4121,ch,ticino,926
 20200827,4123,ch,valais,320
@@ -78540,7 +78542,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200824,4110,ch,fribourg,160
 20200824,4112,ch,basel_stadt,1066
 20200824,4113,ch,basel_landschaft,961
-20200824,4119,ch,aargau,830
+20200824,4119,ch,aargau,825
 20200824,4120,ch,thurgau,81
 20200824,4121,ch,ticino,926
 20200824,4123,ch,valais,318
@@ -79013,7 +79015,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200821,4110,ch,fribourg,160
 20200821,4112,ch,basel_stadt,1039
 20200821,4113,ch,basel_landschaft,951
-20200821,4119,ch,aargau,810
+20200821,4119,ch,aargau,805
 20200821,4120,ch,thurgau,79
 20200821,4121,ch,ticino,925
 20200821,4123,ch,valais,316
@@ -79172,7 +79174,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200820,4110,ch,fribourg,160
 20200820,4112,ch,basel_stadt,1036
 20200820,4113,ch,basel_landschaft,943
-20200820,4119,ch,aargau,800
+20200820,4119,ch,aargau,795
 20200820,4120,ch,thurgau,79
 20200820,4121,ch,ticino,925
 20200820,4123,ch,valais,315
@@ -79649,7 +79651,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200817,4110,ch,fribourg,158
 20200817,4112,ch,basel_stadt,1028
 20200817,4113,ch,basel_landschaft,942
-20200817,4119,ch,aargau,745
+20200817,4119,ch,aargau,740
 20200817,4120,ch,thurgau,79
 20200817,4121,ch,ticino,924
 20200817,4123,ch,valais,314
@@ -80123,7 +80125,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200814,4110,ch,fribourg,158
 20200814,4112,ch,basel_stadt,1022
 20200814,4113,ch,basel_landschaft,933
-20200814,4119,ch,aargau,725
+20200814,4119,ch,aargau,720
 20200814,4120,ch,thurgau,79
 20200814,4121,ch,ticino,924
 20200814,4123,ch,valais,314
@@ -80441,7 +80443,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200812,4110,ch,fribourg,158
 20200812,4112,ch,basel_stadt,1013
 20200812,4113,ch,basel_landschaft,925
-20200812,4119,ch,aargau,690
+20200812,4119,ch,aargau,685
 20200812,4120,ch,thurgau,78
 20200812,4121,ch,ticino,924
 20200812,4123,ch,valais,314
@@ -81232,7 +81234,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200807,4110,ch,fribourg,158
 20200807,4112,ch,basel_stadt,988
 20200807,4113,ch,basel_landschaft,915
-20200807,4119,ch,aargau,655
+20200807,4119,ch,aargau,650
 20200807,4120,ch,thurgau,78
 20200807,4121,ch,ticino,923
 20200807,4123,ch,valais,314
@@ -81391,7 +81393,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200806,4110,ch,fribourg,158
 20200806,4112,ch,basel_stadt,984
 20200806,4113,ch,basel_landschaft,912
-20200806,4119,ch,aargau,640
+20200806,4119,ch,aargau,635
 20200806,4120,ch,thurgau,78
 20200806,4121,ch,ticino,922
 20200806,4123,ch,valais,314
@@ -81550,7 +81552,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200805,4110,ch,fribourg,158
 20200805,4112,ch,basel_stadt,981
 20200805,4113,ch,basel_landschaft,912
-20200805,4119,ch,aargau,625
+20200805,4119,ch,aargau,620
 20200805,4120,ch,thurgau,78
 20200805,4121,ch,ticino,922
 20200805,4123,ch,valais,314
@@ -81709,7 +81711,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200804,4110,ch,fribourg,158
 20200804,4112,ch,basel_stadt,975
 20200804,4113,ch,basel_landschaft,912
-20200804,4119,ch,aargau,610
+20200804,4119,ch,aargau,605
 20200804,4120,ch,thurgau,78
 20200804,4121,ch,ticino,922
 20200804,4123,ch,valais,314
@@ -81868,7 +81870,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200803,4110,ch,fribourg,158
 20200803,4112,ch,basel_stadt,975
 20200803,4113,ch,basel_landschaft,909
-20200803,4119,ch,aargau,595
+20200803,4119,ch,aargau,590
 20200803,4120,ch,thurgau,78
 20200803,4121,ch,ticino,922
 20200803,4123,ch,valais,314
@@ -82184,7 +82186,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200801,4110,ch,fribourg,157
 20200801,4112,ch,basel_stadt,973
 20200801,4113,ch,basel_landschaft,905
-20200801,4119,ch,aargau,585
+20200801,4119,ch,aargau,580
 20200801,4120,ch,thurgau,78
 20200801,4123,ch,valais,314
 20200801,423,li,liechtenstein,85
@@ -82500,7 +82502,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200730,4110,ch,fribourg,157
 20200730,4112,ch,basel_stadt,972
 20200730,4113,ch,basel_landschaft,900
-20200730,4119,ch,aargau,565
+20200730,4119,ch,aargau,560
 20200730,4120,ch,thurgau,78
 20200730,4121,ch,ticino,921
 20200730,4123,ch,valais,313
@@ -82817,7 +82819,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200728,4110,ch,fribourg,157
 20200728,4112,ch,basel_stadt,971
 20200728,4113,ch,basel_landschaft,899
-20200728,4119,ch,aargau,545
+20200728,4119,ch,aargau,540
 20200728,4120,ch,thurgau,78
 20200728,4121,ch,ticino,920
 20200728,4123,ch,valais,313
@@ -83292,7 +83294,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200725,4110,ch,fribourg,157
 20200725,4112,ch,basel_stadt,969
 20200725,4113,ch,basel_landschaft,896
-20200725,4119,ch,aargau,525
+20200725,4119,ch,aargau,520
 20200725,4120,ch,thurgau,77
 20200725,4123,ch,valais,312
 20200725,423,li,liechtenstein,83
@@ -83449,7 +83451,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200724,4110,ch,fribourg,156
 20200724,4112,ch,basel_stadt,968
 20200724,4113,ch,basel_landschaft,893
-20200724,4119,ch,aargau,510
+20200724,4119,ch,aargau,505
 20200724,4120,ch,thurgau,77
 20200724,4121,ch,ticino,917
 20200724,4123,ch,valais,311
@@ -83608,7 +83610,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200723,4110,ch,fribourg,156
 20200723,4112,ch,basel_stadt,964
 20200723,4113,ch,basel_landschaft,890
-20200723,4119,ch,aargau,495
+20200723,4119,ch,aargau,490
 20200723,4120,ch,thurgau,76
 20200723,4121,ch,ticino,917
 20200723,4123,ch,valais,311
@@ -83926,7 +83928,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200721,4110,ch,fribourg,156
 20200721,4112,ch,basel_stadt,963
 20200721,4113,ch,basel_landschaft,883
-20200721,4119,ch,aargau,485
+20200721,4119,ch,aargau,480
 20200721,4120,ch,thurgau,75
 20200721,4121,ch,ticino,917
 20200721,4123,ch,valais,311
@@ -84401,7 +84403,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200718,4110,ch,fribourg,155
 20200718,4112,ch,basel_stadt,956
 20200718,4113,ch,basel_landschaft,876
-20200718,4119,ch,aargau,470
+20200718,4119,ch,aargau,465
 20200718,4120,ch,thurgau,72
 20200718,4123,ch,valais,311
 20200718,423,li,liechtenstein,83
@@ -84717,7 +84719,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200716,4110,ch,fribourg,155
 20200716,4112,ch,basel_stadt,943
 20200716,4113,ch,basel_landschaft,871
-20200716,4119,ch,aargau,460
+20200716,4119,ch,aargau,455
 20200716,4120,ch,thurgau,72
 20200716,4121,ch,ticino,916
 20200716,4123,ch,valais,308
@@ -85035,7 +85037,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200714,4110,ch,fribourg,155
 20200714,4112,ch,basel_stadt,940
 20200714,4113,ch,basel_landschaft,869
-20200714,4119,ch,aargau,435
+20200714,4119,ch,aargau,430
 20200714,4120,ch,thurgau,72
 20200714,4121,ch,ticino,916
 20200714,4123,ch,valais,308
@@ -85511,7 +85513,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200711,4110,ch,fribourg,155
 20200711,4112,ch,basel_stadt,937
 20200711,4113,ch,basel_landschaft,860
-20200711,4119,ch,aargau,405
+20200711,4119,ch,aargau,400
 20200711,4120,ch,thurgau,71
 20200711,4121,ch,ticino,916
 20200711,4123,ch,valais,307
@@ -85669,7 +85671,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200710,4110,ch,fribourg,153
 20200710,4112,ch,basel_stadt,935
 20200710,4113,ch,basel_landschaft,859
-20200710,4119,ch,aargau,400
+20200710,4119,ch,aargau,395
 20200710,4120,ch,thurgau,71
 20200710,4121,ch,ticino,915
 20200710,4123,ch,valais,307
@@ -85987,7 +85989,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200708,4110,ch,fribourg,152
 20200708,4112,ch,basel_stadt,935
 20200708,4113,ch,basel_landschaft,858
-20200708,4119,ch,aargau,380
+20200708,4119,ch,aargau,375
 20200708,4120,ch,thurgau,71
 20200708,4121,ch,ticino,915
 20200708,4123,ch,valais,305
@@ -86146,7 +86148,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200707,4110,ch,fribourg,152
 20200707,4112,ch,basel_stadt,935
 20200707,4113,ch,basel_landschaft,857
-20200707,4119,ch,aargau,375
+20200707,4119,ch,aargau,370
 20200707,4120,ch,thurgau,71
 20200707,4121,ch,ticino,915
 20200707,4123,ch,valais,305
@@ -86305,7 +86307,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200706,4110,ch,fribourg,152
 20200706,4112,ch,basel_stadt,935
 20200706,4113,ch,basel_landschaft,855
-20200706,4119,ch,aargau,375
+20200706,4119,ch,aargau,370
 20200706,4120,ch,thurgau,71
 20200706,4121,ch,ticino,915
 20200706,4123,ch,valais,302
@@ -86464,7 +86466,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200705,4110,ch,fribourg,152
 20200705,4112,ch,basel_stadt,935
 20200705,4113,ch,basel_landschaft,853
-20200705,4119,ch,aargau,375
+20200705,4119,ch,aargau,370
 20200705,4120,ch,thurgau,71
 20200705,4121,ch,ticino,915
 20200705,4123,ch,valais,302
@@ -86622,7 +86624,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200704,4110,ch,fribourg,152
 20200704,4112,ch,basel_stadt,935
 20200704,4113,ch,basel_landschaft,852
-20200704,4119,ch,aargau,375
+20200704,4119,ch,aargau,370
 20200704,4120,ch,thurgau,71
 20200704,4121,ch,ticino,915
 20200704,4123,ch,valais,302
@@ -87416,7 +87418,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200629,4110,ch,fribourg,152
 20200629,4112,ch,basel_stadt,934
 20200629,4113,ch,basel_landschaft,849
-20200629,4119,ch,aargau,365
+20200629,4119,ch,aargau,360
 20200629,4120,ch,thurgau,70
 20200629,4121,ch,ticino,912
 20200629,4123,ch,valais,299
@@ -87575,7 +87577,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200628,4110,ch,fribourg,152
 20200628,4112,ch,basel_stadt,934
 20200628,4113,ch,basel_landschaft,849
-20200628,4119,ch,aargau,365
+20200628,4119,ch,aargau,360
 20200628,4120,ch,thurgau,70
 20200628,4121,ch,ticino,912
 20200628,4123,ch,valais,298
@@ -88050,7 +88052,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200625,4110,ch,fribourg,152
 20200625,4112,ch,basel_stadt,934
 20200625,4113,ch,basel_landschaft,848
-20200625,4119,ch,aargau,360
+20200625,4119,ch,aargau,355
 20200625,4120,ch,thurgau,70
 20200625,4121,ch,ticino,910
 20200625,4123,ch,valais,297
@@ -89321,7 +89323,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200617,4110,ch,fribourg,151
 20200617,4112,ch,basel_stadt,932
 20200617,4113,ch,basel_landschaft,846
-20200617,4119,ch,aargau,350
+20200617,4119,ch,aargau,345
 20200617,4120,ch,thurgau,70
 20200617,4121,ch,ticino,908
 20200617,4123,ch,valais,291
@@ -89480,7 +89482,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200616,4110,ch,fribourg,150
 20200616,4112,ch,basel_stadt,932
 20200616,4113,ch,basel_landschaft,846
-20200616,4119,ch,aargau,350
+20200616,4119,ch,aargau,345
 20200616,4120,ch,thurgau,70
 20200616,4121,ch,ticino,908
 20200616,4123,ch,valais,291
@@ -89640,7 +89642,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200615,4112,ch,basel_stadt,932
 20200615,4113,ch,basel_landschaft,846
 20200615,4117,ch,st_gallen,223
-20200615,4119,ch,aargau,350
+20200615,4119,ch,aargau,345
 20200615,4120,ch,thurgau,70
 20200615,4121,ch,ticino,908
 20200615,4123,ch,valais,290
@@ -89799,7 +89801,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200614,4110,ch,fribourg,150
 20200614,4112,ch,basel_stadt,932
 20200614,4113,ch,basel_landschaft,845
-20200614,4119,ch,aargau,350
+20200614,4119,ch,aargau,345
 20200614,4120,ch,thurgau,70
 20200614,4121,ch,ticino,908
 20200614,4123,ch,valais,290
@@ -90592,7 +90594,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200609,4110,ch,fribourg,150
 20200609,4112,ch,basel_stadt,928
 20200609,4113,ch,basel_landschaft,842
-20200609,4119,ch,aargau,335
+20200609,4119,ch,aargau,330
 20200609,4120,ch,thurgau,70
 20200609,4121,ch,ticino,906
 20200609,4123,ch,valais,287
@@ -90752,7 +90754,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200608,4112,ch,basel_stadt,928
 20200608,4113,ch,basel_landschaft,841
 20200608,4117,ch,st_gallen,223
-20200608,4119,ch,aargau,335
+20200608,4119,ch,aargau,330
 20200608,4120,ch,thurgau,70
 20200608,4121,ch,ticino,905
 20200608,4123,ch,valais,287
@@ -90910,7 +90912,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200607,4110,ch,fribourg,150
 20200607,4112,ch,basel_stadt,926
 20200607,4113,ch,basel_landschaft,841
-20200607,4119,ch,aargau,335
+20200607,4119,ch,aargau,330
 20200607,4120,ch,thurgau,70
 20200607,4121,ch,ticino,904
 20200607,4123,ch,valais,287
@@ -91068,7 +91070,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200606,4110,ch,fribourg,150
 20200606,4112,ch,basel_stadt,926
 20200606,4113,ch,basel_landschaft,840
-20200606,4119,ch,aargau,335
+20200606,4119,ch,aargau,330
 20200606,4120,ch,thurgau,70
 20200606,4121,ch,ticino,903
 20200606,4123,ch,valais,287
@@ -92021,7 +92023,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200531,4110,ch,fribourg,150
 20200531,4112,ch,basel_stadt,923
 20200531,4113,ch,basel_landschaft,839
-20200531,4119,ch,aargau,320
+20200531,4119,ch,aargau,315
 20200531,4120,ch,thurgau,70
 20200531,4121,ch,ticino,895
 20200531,4123,ch,valais,285
@@ -92337,7 +92339,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200529,4110,ch,fribourg,149
 20200529,4112,ch,basel_stadt,923
 20200529,4113,ch,basel_landschaft,839
-20200529,4119,ch,aargau,315
+20200529,4119,ch,aargau,310
 20200529,4120,ch,thurgau,70
 20200529,4121,ch,ticino,892
 20200529,4123,ch,valais,283
@@ -92655,7 +92657,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200527,4110,ch,fribourg,148
 20200527,4112,ch,basel_stadt,923
 20200527,4113,ch,basel_landschaft,839
-20200527,4119,ch,aargau,305
+20200527,4119,ch,aargau,300
 20200527,4120,ch,thurgau,68
 20200527,4121,ch,ticino,889
 20200527,4123,ch,valais,281
@@ -92814,7 +92816,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200526,4110,ch,fribourg,148
 20200526,4112,ch,basel_stadt,922
 20200526,4113,ch,basel_landschaft,839
-20200526,4119,ch,aargau,300
+20200526,4119,ch,aargau,295
 20200526,4120,ch,thurgau,68
 20200526,4121,ch,ticino,888
 20200526,4123,ch,valais,280
@@ -93132,7 +93134,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200524,4110,ch,fribourg,147
 20200524,4112,ch,basel_stadt,916
 20200524,4113,ch,basel_landschaft,838
-20200524,4119,ch,aargau,290
+20200524,4119,ch,aargau,285
 20200524,4120,ch,thurgau,66
 20200524,4121,ch,ticino,888
 20200524,4123,ch,valais,278
@@ -93609,7 +93611,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200521,4110,ch,fribourg,146
 20200521,4112,ch,basel_stadt,916
 20200521,4113,ch,basel_landschaft,835
-20200521,4119,ch,aargau,275
+20200521,4119,ch,aargau,270
 20200521,4120,ch,thurgau,65
 20200521,4121,ch,ticino,885
 20200521,4123,ch,valais,277
@@ -94088,7 +94090,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200518,4112,ch,basel_stadt,904
 20200518,4113,ch,basel_landschaft,832
 20200518,4117,ch,st_gallen,217
-20200518,4119,ch,aargau,265
+20200518,4119,ch,aargau,260
 20200518,4120,ch,thurgau,65
 20200518,4121,ch,ticino,874
 20200518,4123,ch,valais,273
@@ -94406,7 +94408,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200516,4110,ch,fribourg,143
 20200516,4112,ch,basel_stadt,904
 20200516,4113,ch,basel_landschaft,828
-20200516,4119,ch,aargau,255
+20200516,4119,ch,aargau,250
 20200516,4120,ch,thurgau,65
 20200516,4121,ch,ticino,870
 20200516,4123,ch,valais,271
@@ -94566,7 +94568,7 @@ dateId,areaCode,country,areaName,recoveredCases
 20200515,4112,ch,basel_stadt,897
 20200515,4113,ch,basel_landschaft,828
 20200515,4117,ch,st_gallen,216
-20200515,4119,ch,aargau,250
+20200515,4119,ch,aargau,245
 20200515,4120,ch,thurgau,65
 20200515,4121,ch,ticino,864
 20200515,4123,ch,valais,271
