@@ -158,12 +158,16 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220110,4111,ch,solothurn,33
 20220110,4112,ch,basel_stadt,90
 20220110,4113,ch,basel_landschaft,46
+20220110,4114,ch,schaffhausen,11
 20220110,4117,ch,st_gallen,66
 20220110,4118,ch,graubunden,31
 20220110,4120,ch,thurgau,36
 20220110,4121,ch,ticino,178
 20220110,4123,ch,valais,123
-20220110,4126,ch,jura_ch,40
+20220110,4124,ch,neuchatel,76
+20220110,4125,ch,geneve,246
+20220110,4126,ch,jura_ch,45
+20220110,423,li,liechtenstein,4
 20220110,43,at,austria,693
 20220110,4301,at,wien,201
 20220110,4302,at,niederosterreich,84
@@ -333,8 +337,9 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220109,4120,ch,thurgau,36
 20220109,4121,ch,ticino,166
 20220109,4123,ch,valais,118
+20220109,4124,ch,neuchatel,71
 20220109,4125,ch,geneve,240
-20220109,4126,ch,jura_ch,40
+20220109,4126,ch,jura_ch,39
 20220109,423,li,liechtenstein,5
 20220109,43,at,austria,639
 20220109,4301,at,wien,194
@@ -503,8 +508,9 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220108,4120,ch,thurgau,36
 20220108,4121,ch,ticino,156
 20220108,4123,ch,valais,110
+20220108,4124,ch,neuchatel,70
 20220108,4125,ch,geneve,230
-20220108,4126,ch,jura_ch,42
+20220108,4126,ch,jura_ch,41
 20220108,43,at,austria,629
 20220108,4301,at,wien,184
 20220108,4302,at,niederosterreich,94
@@ -680,7 +686,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220107,4123,ch,valais,110
 20220107,4124,ch,neuchatel,78
 20220107,4125,ch,geneve,228
-20220107,4126,ch,jura_ch,45
+20220107,4126,ch,jura_ch,44
 20220107,43,at,austria,641
 20220107,4301,at,wien,171
 20220107,4302,at,niederosterreich,100
@@ -859,7 +865,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220106,4123,ch,valais,106
 20220106,4124,ch,neuchatel,68
 20220106,4125,ch,geneve,201
-20220106,4126,ch,jura_ch,46
+20220106,4126,ch,jura_ch,45
 20220106,423,li,liechtenstein,5
 20220106,43,at,austria,655
 20220106,4301,at,wien,187
@@ -1039,7 +1045,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220105,4123,ch,valais,108
 20220105,4124,ch,neuchatel,68
 20220105,4125,ch,geneve,217
-20220105,4126,ch,jura_ch,44
+20220105,4126,ch,jura_ch,43
 20220105,43,at,austria,698
 20220105,4301,at,wien,190
 20220105,4302,at,niederosterreich,116
