@@ -220,6 +220,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220112,4121,ch,ticino,168
 20220112,4123,ch,valais,162
 20220112,4124,ch,neuchatel,58
+20220112,4125,ch,geneve,433
 20220112,4126,ch,jura_ch,39
 20220112,423,li,liechtenstein,5
 20220112,43,at,austria,652
@@ -397,7 +398,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220111,4121,ch,ticino,178
 20220111,4123,ch,valais,137
 20220111,4124,ch,neuchatel,69
-20220111,4125,ch,geneve,252
+20220111,4125,ch,geneve,438
 20220111,4126,ch,jura_ch,41
 20220111,423,li,liechtenstein,5
 20220111,43,at,austria,653
@@ -576,7 +577,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220110,4121,ch,ticino,178
 20220110,4123,ch,valais,126
 20220110,4124,ch,neuchatel,76
-20220110,4125,ch,geneve,248
+20220110,4125,ch,geneve,427
 20220110,4126,ch,jura_ch,44
 20220110,423,li,liechtenstein,4
 20220110,43,at,austria,693
@@ -750,7 +751,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220109,4122,ch,vaud,315
 20220109,4123,ch,valais,121
 20220109,4124,ch,neuchatel,71
-20220109,4125,ch,geneve,240
+20220109,4125,ch,geneve,409
 20220109,4126,ch,jura_ch,39
 20220109,423,li,liechtenstein,5
 20220109,43,at,austria,639
@@ -921,7 +922,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220108,4121,ch,ticino,156
 20220108,4123,ch,valais,110
 20220108,4124,ch,neuchatel,70
-20220108,4125,ch,geneve,230
+20220108,4125,ch,geneve,408
 20220108,4126,ch,jura_ch,41
 20220108,43,at,austria,629
 20220108,4301,at,wien,184
@@ -1097,7 +1098,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220107,4121,ch,ticino,153
 20220107,4123,ch,valais,110
 20220107,4124,ch,neuchatel,78
-20220107,4125,ch,geneve,228
+20220107,4125,ch,geneve,404
 20220107,4126,ch,jura_ch,44
 20220107,43,at,austria,641
 20220107,4301,at,wien,171
@@ -1276,7 +1277,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220106,4121,ch,ticino,149
 20220106,4123,ch,valais,106
 20220106,4124,ch,neuchatel,68
-20220106,4125,ch,geneve,201
+20220106,4125,ch,geneve,374
 20220106,4126,ch,jura_ch,45
 20220106,423,li,liechtenstein,5
 20220106,43,at,austria,655
@@ -1456,7 +1457,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220105,4121,ch,ticino,158
 20220105,4123,ch,valais,107
 20220105,4124,ch,neuchatel,68
-20220105,4125,ch,geneve,217
+20220105,4125,ch,geneve,374
 20220105,4126,ch,jura_ch,43
 20220105,43,at,austria,698
 20220105,4301,at,wien,190
@@ -1634,7 +1635,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220104,4121,ch,ticino,160
 20220104,4123,ch,valais,108
 20220104,4124,ch,neuchatel,66
-20220104,4125,ch,geneve,208
+20220104,4125,ch,geneve,349
 20220104,4126,ch,jura_ch,46
 20220104,423,li,liechtenstein,8
 20220104,43,at,austria,708
@@ -1814,7 +1815,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220103,4121,ch,ticino,152
 20220103,4123,ch,valais,101
 20220103,4124,ch,neuchatel,63
-20220103,4125,ch,geneve,195
+20220103,4125,ch,geneve,334
 20220103,4126,ch,jura_ch,45
 20220103,423,li,liechtenstein,9
 20220103,43,at,austria,707
@@ -1988,7 +1989,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220102,4122,ch,vaud,268
 20220102,4123,ch,valais,90
 20220102,4124,ch,neuchatel,59
-20220102,4125,ch,geneve,190
+20220102,4125,ch,geneve,320
 20220102,4126,ch,jura_ch,44
 20220102,423,li,liechtenstein,10
 20220102,43,at,austria,647
@@ -2159,7 +2160,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220101,4121,ch,ticino,130
 20220101,4123,ch,valais,92
 20220101,4124,ch,neuchatel,64
-20220101,4125,ch,geneve,173
+20220101,4125,ch,geneve,300
 20220101,4126,ch,jura_ch,43
 20220101,43,at,austria,672
 20220101,4301,at,wien,190
@@ -2334,7 +2335,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211231,4121,ch,ticino,131
 20211231,4123,ch,valais,85
 20211231,4124,ch,neuchatel,64
-20211231,4125,ch,geneve,164
+20211231,4125,ch,geneve,283
 20211231,4126,ch,jura_ch,39
 20211231,43,at,austria,712
 20211231,4301,at,wien,201
@@ -2513,7 +2514,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211230,4121,ch,ticino,135
 20211230,4123,ch,valais,80
 20211230,4124,ch,neuchatel,58
-20211230,4125,ch,geneve,182
+20211230,4125,ch,geneve,292
 20211230,4126,ch,jura_ch,43
 20211230,423,li,liechtenstein,12
 20211230,43,at,austria,755
@@ -2694,7 +2695,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211229,4121,ch,ticino,123
 20211229,4123,ch,valais,83
 20211229,4124,ch,neuchatel,55
-20211229,4125,ch,geneve,179
+20211229,4125,ch,geneve,278
 20211229,4126,ch,jura_ch,42
 20211229,423,li,liechtenstein,12
 20211229,43,at,austria,779
@@ -2875,7 +2876,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211228,4121,ch,ticino,110
 20211228,4123,ch,valais,77
 20211228,4124,ch,neuchatel,59
-20211228,4125,ch,geneve,185
+20211228,4125,ch,geneve,284
 20211228,4126,ch,jura_ch,40
 20211228,423,li,liechtenstein,15
 20211228,43,at,austria,799
@@ -3056,7 +3057,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211227,4121,ch,ticino,107
 20211227,4123,ch,valais,84
 20211227,4124,ch,neuchatel,54
-20211227,4125,ch,geneve,181
+20211227,4125,ch,geneve,268
 20211227,4126,ch,jura_ch,38
 20211227,423,li,liechtenstein,14
 20211227,43,at,austria,826
@@ -3229,7 +3230,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211226,4120,ch,thurgau,55
 20211226,4123,ch,valais,76
 20211226,4124,ch,neuchatel,56
-20211226,4125,ch,geneve,172
+20211226,4125,ch,geneve,247
 20211226,4126,ch,jura_ch,40
 20211226,423,li,liechtenstein,10
 20211226,43,at,austria,819
@@ -3400,7 +3401,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211225,4120,ch,thurgau,55
 20211225,4123,ch,valais,72
 20211225,4124,ch,neuchatel,51
-20211225,4125,ch,geneve,164
+20211225,4125,ch,geneve,237
 20211225,4126,ch,jura_ch,36
 20211225,43,at,austria,817
 20211225,4301,at,wien,207
@@ -3575,7 +3576,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211224,4121,ch,ticino,103
 20211224,4123,ch,valais,71
 20211224,4124,ch,neuchatel,50
-20211224,4125,ch,geneve,157
+20211224,4125,ch,geneve,237
 20211224,4126,ch,jura_ch,28
 20211224,43,at,austria,885
 20211224,4301,at,wien,236
@@ -3754,7 +3755,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211223,4121,ch,ticino,99
 20211223,4123,ch,valais,77
 20211223,4124,ch,neuchatel,55
-20211223,4125,ch,geneve,143
+20211223,4125,ch,geneve,224
 20211223,4126,ch,jura_ch,26
 20211223,43,at,austria,1010
 20211223,4301,at,wien,238
@@ -3934,7 +3935,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211222,4121,ch,ticino,106
 20211222,4123,ch,valais,76
 20211222,4124,ch,neuchatel,51
-20211222,4125,ch,geneve,141
+20211222,4125,ch,geneve,216
 20211222,4126,ch,jura_ch,27
 20211222,423,li,liechtenstein,17
 20211222,43,at,austria,1084
@@ -4115,7 +4116,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211221,4121,ch,ticino,109
 20211221,4123,ch,valais,85
 20211221,4124,ch,neuchatel,54
-20211221,4125,ch,geneve,133
+20211221,4125,ch,geneve,215
 20211221,4126,ch,jura_ch,24
 20211221,423,li,liechtenstein,16
 20211221,43,at,austria,1183
@@ -4296,7 +4297,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211220,4121,ch,ticino,104
 20211220,4123,ch,valais,84
 20211220,4124,ch,neuchatel,51
-20211220,4125,ch,geneve,137
+20211220,4125,ch,geneve,216
 20211220,4126,ch,jura_ch,25
 20211220,423,li,liechtenstein,18
 20211220,43,at,austria,1273
@@ -4470,7 +4471,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211219,4122,ch,vaud,259
 20211219,4123,ch,valais,84
 20211219,4124,ch,neuchatel,46
-20211219,4125,ch,geneve,132
+20211219,4125,ch,geneve,208
 20211219,4126,ch,jura_ch,25
 20211219,423,li,liechtenstein,14
 20211219,43,at,austria,1283
@@ -4641,7 +4642,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211218,4120,ch,thurgau,54
 20211218,4123,ch,valais,80
 20211218,4124,ch,neuchatel,39
-20211218,4125,ch,geneve,138
+20211218,4125,ch,geneve,214
 20211218,4126,ch,jura_ch,29
 20211218,43,at,austria,1294
 20211218,4301,at,wien,280
@@ -4819,7 +4820,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211217,4121,ch,ticino,95
 20211217,4123,ch,valais,79
 20211217,4124,ch,neuchatel,31
-20211217,4125,ch,geneve,130
+20211217,4125,ch,geneve,207
 20211217,4126,ch,jura_ch,29
 20211217,43,at,austria,1440
 20211217,4301,at,wien,296
@@ -4999,7 +5000,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211216,4121,ch,ticino,102
 20211216,4123,ch,valais,77
 20211216,4124,ch,neuchatel,28
-20211216,4125,ch,geneve,139
+20211216,4125,ch,geneve,205
 20211216,4126,ch,jura_ch,25
 20211216,423,li,liechtenstein,18
 20211216,43,at,austria,1516
@@ -5179,7 +5180,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211215,4121,ch,ticino,102
 20211215,4123,ch,valais,78
 20211215,4124,ch,neuchatel,34
-20211215,4125,ch,geneve,144
+20211215,4125,ch,geneve,209
 20211215,4126,ch,jura_ch,24
 20211215,423,li,liechtenstein,20
 20211215,43,at,austria,1655
@@ -5360,7 +5361,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211214,4121,ch,ticino,97
 20211214,4123,ch,valais,80
 20211214,4124,ch,neuchatel,33
-20211214,4125,ch,geneve,148
+20211214,4125,ch,geneve,215
 20211214,4126,ch,jura_ch,29
 20211214,423,li,liechtenstein,22
 20211214,43,at,austria,1776
@@ -5541,7 +5542,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211213,4121,ch,ticino,101
 20211213,4123,ch,valais,83
 20211213,4124,ch,neuchatel,39
-20211213,4125,ch,geneve,147
+20211213,4125,ch,geneve,211
 20211213,4126,ch,jura_ch,29
 20211213,423,li,liechtenstein,19
 20211213,43,at,austria,1872
@@ -5715,7 +5716,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211212,4122,ch,vaud,235
 20211212,4123,ch,valais,84
 20211212,4124,ch,neuchatel,42
-20211212,4125,ch,geneve,142
+20211212,4125,ch,geneve,208
 20211212,4126,ch,jura_ch,30
 20211212,423,li,liechtenstein,15
 20211212,43,at,austria,1866
@@ -5886,7 +5887,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211211,4120,ch,thurgau,59
 20211211,4123,ch,valais,76
 20211211,4124,ch,neuchatel,36
-20211211,4125,ch,geneve,134
+20211211,4125,ch,geneve,203
 20211211,4126,ch,jura_ch,31
 20211211,43,at,austria,1883
 20211211,4301,at,wien,343
@@ -6064,7 +6065,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211210,4121,ch,ticino,93
 20211210,4123,ch,valais,81
 20211210,4124,ch,neuchatel,35
-20211210,4125,ch,geneve,120
+20211210,4125,ch,geneve,191
 20211210,4126,ch,jura_ch,32
 20211210,43,at,austria,2049
 20211210,4301,at,wien,357
@@ -6244,7 +6245,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211209,4121,ch,ticino,98
 20211209,4123,ch,valais,79
 20211209,4124,ch,neuchatel,34
-20211209,4125,ch,geneve,117
+20211209,4125,ch,geneve,189
 20211209,4126,ch,jura_ch,31
 20211209,423,li,liechtenstein,11
 20211209,43,at,austria,2169
@@ -6422,7 +6423,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211208,4120,ch,thurgau,64
 20211208,4123,ch,valais,77
 20211208,4124,ch,neuchatel,34
-20211208,4125,ch,geneve,116
+20211208,4125,ch,geneve,186
 20211208,4126,ch,jura_ch,35
 20211208,423,li,liechtenstein,15
 20211208,43,at,austria,2236
@@ -6603,7 +6604,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211207,4121,ch,ticino,83
 20211207,4123,ch,valais,77
 20211207,4124,ch,neuchatel,29
-20211207,4125,ch,geneve,120
+20211207,4125,ch,geneve,184
 20211207,4126,ch,jura_ch,38
 20211207,43,at,austria,2377
 20211207,4301,at,wien,404
@@ -6782,7 +6783,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211206,4121,ch,ticino,77
 20211206,4123,ch,valais,81
 20211206,4124,ch,neuchatel,26
-20211206,4125,ch,geneve,117
+20211206,4125,ch,geneve,180
 20211206,4126,ch,jura_ch,39
 20211206,423,li,liechtenstein,18
 20211206,43,at,austria,2465
@@ -6957,7 +6958,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211205,4122,ch,vaud,183
 20211205,4123,ch,valais,84
 20211205,4124,ch,neuchatel,23
-20211205,4125,ch,geneve,110
+20211205,4125,ch,geneve,172
 20211205,4126,ch,jura_ch,37
 20211205,423,li,liechtenstein,11
 20211205,43,at,austria,2402
@@ -7128,7 +7129,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211204,4120,ch,thurgau,54
 20211204,4123,ch,valais,85
 20211204,4124,ch,neuchatel,17
-20211204,4125,ch,geneve,95
+20211204,4125,ch,geneve,160
 20211204,4126,ch,jura_ch,33
 20211204,43,at,austria,2424
 20211204,4301,at,wien,418
@@ -7305,7 +7306,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211203,4121,ch,ticino,67
 20211203,4123,ch,valais,76
 20211203,4124,ch,neuchatel,19
-20211203,4125,ch,geneve,87
+20211203,4125,ch,geneve,149
 20211203,4126,ch,jura_ch,30
 20211203,43,at,austria,2530
 20211203,4301,at,wien,427
@@ -7485,7 +7486,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211202,4121,ch,ticino,64
 20211202,4123,ch,valais,71
 20211202,4124,ch,neuchatel,23
-20211202,4125,ch,geneve,83
+20211202,4125,ch,geneve,144
 20211202,4126,ch,jura_ch,32
 20211202,423,li,liechtenstein,11
 20211202,43,at,austria,2547
@@ -7666,7 +7667,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211201,4121,ch,ticino,72
 20211201,4123,ch,valais,67
 20211201,4124,ch,neuchatel,22
-20211201,4125,ch,geneve,87
+20211201,4125,ch,geneve,139
 20211201,4126,ch,jura_ch,30
 20211201,423,li,liechtenstein,11
 20211201,43,at,austria,2651
@@ -7846,7 +7847,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211130,4121,ch,ticino,70
 20211130,4123,ch,valais,72
 20211130,4124,ch,neuchatel,17
-20211130,4125,ch,geneve,81
+20211130,4125,ch,geneve,136
 20211130,4126,ch,jura_ch,28
 20211130,423,li,liechtenstein,7
 20211130,43,at,austria,2769
@@ -8026,7 +8027,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211129,4121,ch,ticino,70
 20211129,4123,ch,valais,64
 20211129,4124,ch,neuchatel,20
-20211129,4125,ch,geneve,76
+20211129,4125,ch,geneve,118
 20211129,4126,ch,jura_ch,27
 20211129,423,li,liechtenstein,9
 20211129,43,at,austria,2767
@@ -8199,7 +8200,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211128,4122,ch,vaud,137
 20211128,4123,ch,valais,69
 20211128,4124,ch,neuchatel,19
-20211128,4125,ch,geneve,70
+20211128,4125,ch,geneve,107
 20211128,4126,ch,jura_ch,25
 20211128,423,li,liechtenstein,8
 20211128,43,at,austria,2624
@@ -8370,7 +8371,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211127,4120,ch,thurgau,46
 20211127,4123,ch,valais,63
 20211127,4124,ch,neuchatel,16
-20211127,4125,ch,geneve,66
+20211127,4125,ch,geneve,106
 20211127,4126,ch,jura_ch,22
 20211127,43,at,austria,2606
 20211127,4301,at,wien,413
@@ -8548,7 +8549,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211126,4121,ch,ticino,66
 20211126,4123,ch,valais,59
 20211126,4124,ch,neuchatel,13
-20211126,4125,ch,geneve,51
+20211126,4125,ch,geneve,100
 20211126,4126,ch,jura_ch,19
 20211126,43,at,austria,2658
 20211126,4301,at,wien,392
@@ -8727,7 +8728,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211125,4121,ch,ticino,56
 20211125,4123,ch,valais,59
 20211125,4124,ch,neuchatel,16
-20211125,4125,ch,geneve,47
+20211125,4125,ch,geneve,93
 20211125,4126,ch,jura_ch,11
 20211125,423,li,liechtenstein,8
 20211125,43,at,austria,2658
@@ -8906,7 +8907,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211124,4121,ch,ticino,52
 20211124,4123,ch,valais,59
 20211124,4124,ch,neuchatel,16
-20211124,4125,ch,geneve,50
+20211124,4125,ch,geneve,100
 20211124,4126,ch,jura_ch,12
 20211124,423,li,liechtenstein,7
 20211124,43,at,austria,2639
@@ -9087,7 +9088,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211123,4121,ch,ticino,50
 20211123,4123,ch,valais,56
 20211123,4124,ch,neuchatel,14
-20211123,4125,ch,geneve,48
+20211123,4125,ch,geneve,95
 20211123,4126,ch,jura_ch,9
 20211123,423,li,liechtenstein,5
 20211123,43,at,austria,2570
@@ -9268,7 +9269,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211122,4121,ch,ticino,40
 20211122,4123,ch,valais,47
 20211122,4124,ch,neuchatel,12
-20211122,4125,ch,geneve,43
+20211122,4125,ch,geneve,91
 20211122,4126,ch,jura_ch,9
 20211122,423,li,liechtenstein,6
 20211122,43,at,austria,2561
@@ -9442,7 +9443,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211121,4122,ch,vaud,75
 20211121,4123,ch,valais,47
 20211121,4124,ch,neuchatel,13
-20211121,4125,ch,geneve,45
+20211121,4125,ch,geneve,91
 20211121,4126,ch,jura_ch,8
 20211121,423,li,liechtenstein,3
 20211121,43,at,austria,2425
@@ -9613,7 +9614,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211120,4120,ch,thurgau,38
 20211120,4123,ch,valais,45
 20211120,4124,ch,neuchatel,12
-20211120,4125,ch,geneve,42
+20211120,4125,ch,geneve,85
 20211120,4126,ch,jura_ch,8
 20211120,43,at,austria,2347
 20211120,4301,at,wien,343
@@ -9791,7 +9792,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211119,4121,ch,ticino,30
 20211119,4123,ch,valais,37
 20211119,4124,ch,neuchatel,14
-20211119,4125,ch,geneve,36
+20211119,4125,ch,geneve,86
 20211119,4126,ch,jura_ch,7
 20211119,43,at,austria,2364
 20211119,4301,at,wien,331
@@ -9971,7 +9972,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211118,4121,ch,ticino,30
 20211118,4123,ch,valais,39
 20211118,4124,ch,neuchatel,17
-20211118,4125,ch,geneve,34
+20211118,4125,ch,geneve,80
 20211118,4126,ch,jura_ch,7
 20211118,423,li,liechtenstein,3
 20211118,43,at,austria,2329
@@ -10152,7 +10153,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211117,4121,ch,ticino,28
 20211117,4123,ch,valais,35
 20211117,4124,ch,neuchatel,14
-20211117,4125,ch,geneve,34
+20211117,4125,ch,geneve,85
 20211117,4126,ch,jura_ch,6
 20211117,423,li,liechtenstein,3
 20211117,43,at,austria,2258
@@ -10333,7 +10334,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211116,4121,ch,ticino,26
 20211116,4123,ch,valais,28
 20211116,4124,ch,neuchatel,14
-20211116,4125,ch,geneve,32
+20211116,4125,ch,geneve,83
 20211116,4126,ch,jura_ch,5
 20211116,423,li,liechtenstein,2
 20211116,43,at,austria,2118
@@ -10514,7 +10515,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211115,4121,ch,ticino,24
 20211115,4123,ch,valais,24
 20211115,4124,ch,neuchatel,14
-20211115,4125,ch,geneve,30
+20211115,4125,ch,geneve,78
 20211115,4126,ch,jura_ch,6
 20211115,423,li,liechtenstein,4
 20211115,43,at,austria,2069
@@ -10688,7 +10689,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211114,4122,ch,vaud,59
 20211114,4123,ch,valais,23
 20211114,4124,ch,neuchatel,13
-20211114,4125,ch,geneve,34
+20211114,4125,ch,geneve,80
 20211114,4126,ch,jura_ch,5
 20211114,423,li,liechtenstein,4
 20211114,43,at,austria,1919
@@ -10859,7 +10860,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211113,4120,ch,thurgau,22
 20211113,4123,ch,valais,21
 20211113,4124,ch,neuchatel,9
-20211113,4125,ch,geneve,33
+20211113,4125,ch,geneve,82
 20211113,4126,ch,jura_ch,5
 20211113,43,at,austria,1877
 20211113,4301,at,wien,304
@@ -11036,7 +11037,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211112,4121,ch,ticino,18
 20211112,4123,ch,valais,21
 20211112,4124,ch,neuchatel,9
-20211112,4125,ch,geneve,31
+20211112,4125,ch,geneve,77
 20211112,4126,ch,jura_ch,3
 20211112,43,at,austria,1896
 20211112,4301,at,wien,309
@@ -11216,7 +11217,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211111,4121,ch,ticino,17
 20211111,4123,ch,valais,19
 20211111,4124,ch,neuchatel,13
-20211111,4125,ch,geneve,33
+20211111,4125,ch,geneve,80
 20211111,4126,ch,jura_ch,3
 20211111,423,li,liechtenstein,5
 20211111,43,at,austria,1851
@@ -11396,7 +11397,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211110,4121,ch,ticino,15
 20211110,4123,ch,valais,16
 20211110,4124,ch,neuchatel,11
-20211110,4125,ch,geneve,25
+20211110,4125,ch,geneve,77
 20211110,4126,ch,jura_ch,3
 20211110,423,li,liechtenstein,5
 20211110,43,at,austria,1808
@@ -11577,7 +11578,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211109,4121,ch,ticino,12
 20211109,4123,ch,valais,16
 20211109,4124,ch,neuchatel,11
-20211109,4125,ch,geneve,28
+20211109,4125,ch,geneve,75
 20211109,4126,ch,jura_ch,2
 20211109,423,li,liechtenstein,5
 20211109,43,at,austria,1768
@@ -11758,7 +11759,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211108,4121,ch,ticino,11
 20211108,4123,ch,valais,15
 20211108,4124,ch,neuchatel,13
-20211108,4125,ch,geneve,33
+20211108,4125,ch,geneve,80
 20211108,4126,ch,jura_ch,2
 20211108,423,li,liechtenstein,4
 20211108,43,at,austria,1664
@@ -11933,7 +11934,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211107,4122,ch,vaud,53
 20211107,4123,ch,valais,13
 20211107,4124,ch,neuchatel,13
-20211107,4125,ch,geneve,31
+20211107,4125,ch,geneve,78
 20211107,4126,ch,jura_ch,1
 20211107,423,li,liechtenstein,4
 20211107,43,at,austria,1570
@@ -12104,7 +12105,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211106,4120,ch,thurgau,17
 20211106,4123,ch,valais,11
 20211106,4124,ch,neuchatel,13
-20211106,4125,ch,geneve,31
+20211106,4125,ch,geneve,79
 20211106,4126,ch,jura_ch,1
 20211106,43,at,austria,1520
 20211106,4301,at,wien,270
@@ -12281,7 +12282,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211105,4121,ch,ticino,12
 20211105,4123,ch,valais,11
 20211105,4124,ch,neuchatel,11
-20211105,4125,ch,geneve,34
+20211105,4125,ch,geneve,78
 20211105,4126,ch,jura_ch,0
 20211105,43,at,austria,1483
 20211105,4301,at,wien,255
@@ -12461,7 +12462,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211104,4121,ch,ticino,8
 20211104,4123,ch,valais,15
 20211104,4124,ch,neuchatel,11
-20211104,4125,ch,geneve,34
+20211104,4125,ch,geneve,80
 20211104,4126,ch,jura_ch,0
 20211104,423,li,liechtenstein,3
 20211104,43,at,austria,1475
@@ -12642,7 +12643,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211103,4121,ch,ticino,10
 20211103,4123,ch,valais,15
 20211103,4124,ch,neuchatel,12
-20211103,4125,ch,geneve,32
+20211103,4125,ch,geneve,77
 20211103,4126,ch,jura_ch,1
 20211103,423,li,liechtenstein,3
 20211103,43,at,austria,1436
@@ -12823,7 +12824,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211102,4121,ch,ticino,9
 20211102,4123,ch,valais,16
 20211102,4124,ch,neuchatel,14
-20211102,4125,ch,geneve,28
+20211102,4125,ch,geneve,72
 20211102,4126,ch,jura_ch,1
 20211102,423,li,liechtenstein,1
 20211102,43,at,austria,1372
@@ -12999,7 +13000,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211101,4120,ch,thurgau,22
 20211101,4123,ch,valais,12
 20211101,4124,ch,neuchatel,12
-20211101,4125,ch,geneve,27
+20211101,4125,ch,geneve,70
 20211101,4126,ch,jura_ch,2
 20211101,423,li,liechtenstein,1
 20211101,43,at,austria,1260
@@ -13174,7 +13175,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211031,4122,ch,vaud,57
 20211031,4123,ch,valais,14
 20211031,4124,ch,neuchatel,11
-20211031,4125,ch,geneve,23
+20211031,4125,ch,geneve,65
 20211031,4126,ch,jura_ch,2
 20211031,43,at,austria,1181
 20211031,4301,at,wien,221
@@ -13344,7 +13345,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211030,4120,ch,thurgau,19
 20211030,4123,ch,valais,12
 20211030,4124,ch,neuchatel,9
-20211030,4125,ch,geneve,22
+20211030,4125,ch,geneve,62
 20211030,4126,ch,jura_ch,2
 20211030,43,at,austria,1121
 20211030,4301,at,wien,211
@@ -13520,7 +13521,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211029,4121,ch,ticino,8
 20211029,4123,ch,valais,10
 20211029,4124,ch,neuchatel,8
-20211029,4125,ch,geneve,18
+20211029,4125,ch,geneve,60
 20211029,4126,ch,jura_ch,1
 20211029,43,at,austria,1101
 20211029,4301,at,wien,197
@@ -13700,7 +13701,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211028,4121,ch,ticino,8
 20211028,4123,ch,valais,7
 20211028,4124,ch,neuchatel,8
-20211028,4125,ch,geneve,15
+20211028,4125,ch,geneve,60
 20211028,4126,ch,jura_ch,1
 20211028,423,li,liechtenstein,0
 20211028,43,at,austria,1044
@@ -13880,7 +13881,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211027,4121,ch,ticino,8
 20211027,4123,ch,valais,9
 20211027,4124,ch,neuchatel,7
-20211027,4125,ch,geneve,13
+20211027,4125,ch,geneve,57
 20211027,4126,ch,jura_ch,1
 20211027,423,li,liechtenstein,0
 20211027,43,at,austria,1007
@@ -14061,7 +14062,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211026,4121,ch,ticino,9
 20211026,4123,ch,valais,8
 20211026,4124,ch,neuchatel,6
-20211026,4125,ch,geneve,18
+20211026,4125,ch,geneve,62
 20211026,4126,ch,jura_ch,1
 20211026,423,li,liechtenstein,1
 20211026,43,at,austria,941
@@ -14242,7 +14243,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211025,4121,ch,ticino,9
 20211025,4123,ch,valais,9
 20211025,4124,ch,neuchatel,6
-20211025,4125,ch,geneve,13
+20211025,4125,ch,geneve,56
 20211025,4126,ch,jura_ch,2
 20211025,423,li,liechtenstein,2
 20211025,43,at,austria,903
@@ -14417,7 +14418,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211024,4122,ch,vaud,49
 20211024,4123,ch,valais,10
 20211024,4124,ch,neuchatel,6
-20211024,4125,ch,geneve,14
+20211024,4125,ch,geneve,57
 20211024,4126,ch,jura_ch,2
 20211024,423,li,liechtenstein,2
 20211024,43,at,austria,832
@@ -14588,7 +14589,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211023,4120,ch,thurgau,15
 20211023,4123,ch,valais,11
 20211023,4124,ch,neuchatel,5
-20211023,4125,ch,geneve,12
+20211023,4125,ch,geneve,56
 20211023,4126,ch,jura_ch,1
 20211023,43,at,austria,809
 20211023,4301,at,wien,183
@@ -14764,7 +14765,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211022,4121,ch,ticino,11
 20211022,4123,ch,valais,11
 20211022,4124,ch,neuchatel,6
-20211022,4125,ch,geneve,13
+20211022,4125,ch,geneve,57
 20211022,4126,ch,jura_ch,1
 20211022,43,at,austria,795
 20211022,4301,at,wien,181
@@ -14942,7 +14943,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211021,4121,ch,ticino,9
 20211021,4123,ch,valais,11
 20211021,4124,ch,neuchatel,8
-20211021,4125,ch,geneve,14
+20211021,4125,ch,geneve,59
 20211021,4126,ch,jura_ch,1
 20211021,423,li,liechtenstein,2
 20211021,43,at,austria,767
@@ -15122,7 +15123,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211020,4121,ch,ticino,9
 20211020,4123,ch,valais,10
 20211020,4124,ch,neuchatel,6
-20211020,4125,ch,geneve,14
+20211020,4125,ch,geneve,62
 20211020,4126,ch,jura_ch,2
 20211020,423,li,liechtenstein,2
 20211020,43,at,austria,745
@@ -15302,7 +15303,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211019,4121,ch,ticino,7
 20211019,4123,ch,valais,11
 20211019,4124,ch,neuchatel,8
-20211019,4125,ch,geneve,15
+20211019,4125,ch,geneve,62
 20211019,4126,ch,jura_ch,2
 20211019,423,li,liechtenstein,2
 20211019,43,at,austria,730
@@ -15482,7 +15483,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211018,4121,ch,ticino,7
 20211018,4123,ch,valais,11
 20211018,4124,ch,neuchatel,7
-20211018,4125,ch,geneve,19
+20211018,4125,ch,geneve,68
 20211018,4126,ch,jura_ch,2
 20211018,423,li,liechtenstein,1
 20211018,43,at,austria,697
@@ -15655,7 +15656,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211017,4122,ch,vaud,46
 20211017,4123,ch,valais,9
 20211017,4124,ch,neuchatel,9
-20211017,4125,ch,geneve,20
+20211017,4125,ch,geneve,69
 20211017,4126,ch,jura_ch,2
 20211017,423,li,liechtenstein,1
 20211017,43,at,austria,653
@@ -15825,7 +15826,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211016,4120,ch,thurgau,22
 20211016,4123,ch,valais,8
 20211016,4124,ch,neuchatel,8
-20211016,4125,ch,geneve,18
+20211016,4125,ch,geneve,66
 20211016,4126,ch,jura_ch,1
 20211016,43,at,austria,658
 20211016,4301,at,wien,179
@@ -16001,7 +16002,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211015,4121,ch,ticino,9
 20211015,4123,ch,valais,8
 20211015,4124,ch,neuchatel,8
-20211015,4125,ch,geneve,19
+20211015,4125,ch,geneve,70
 20211015,4126,ch,jura_ch,1
 20211015,43,at,austria,659
 20211015,4301,at,wien,183
@@ -16179,7 +16180,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211014,4121,ch,ticino,8
 20211014,4123,ch,valais,8
 20211014,4124,ch,neuchatel,9
-20211014,4125,ch,geneve,16
+20211014,4125,ch,geneve,66
 20211014,4126,ch,jura_ch,1
 20211014,423,li,liechtenstein,1
 20211014,43,at,austria,656
@@ -16358,7 +16359,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211013,4121,ch,ticino,7
 20211013,4123,ch,valais,9
 20211013,4124,ch,neuchatel,9
-20211013,4125,ch,geneve,23
+20211013,4125,ch,geneve,70
 20211013,4126,ch,jura_ch,1
 20211013,423,li,liechtenstein,1
 20211013,43,at,austria,649
@@ -16537,7 +16538,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211012,4121,ch,ticino,4
 20211012,4123,ch,valais,9
 20211012,4124,ch,neuchatel,8
-20211012,4125,ch,geneve,21
+20211012,4125,ch,geneve,66
 20211012,4126,ch,jura_ch,1
 20211012,423,li,liechtenstein,1
 20211012,43,at,austria,662
@@ -16715,7 +16716,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211011,4121,ch,ticino,5
 20211011,4123,ch,valais,9
 20211011,4124,ch,neuchatel,9
-20211011,4125,ch,geneve,22
+20211011,4125,ch,geneve,67
 20211011,4126,ch,jura_ch,1
 20211011,423,li,liechtenstein,0
 20211011,43,at,austria,637
@@ -16889,7 +16890,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211010,4122,ch,vaud,44
 20211010,4123,ch,valais,9
 20211010,4124,ch,neuchatel,5
-20211010,4125,ch,geneve,19
+20211010,4125,ch,geneve,65
 20211010,4126,ch,jura_ch,1
 20211010,423,li,liechtenstein,1
 20211010,43,at,austria,601
@@ -17059,7 +17060,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211009,4120,ch,thurgau,23
 20211009,4123,ch,valais,8
 20211009,4124,ch,neuchatel,6
-20211009,4125,ch,geneve,20
+20211009,4125,ch,geneve,66
 20211009,4126,ch,jura_ch,1
 20211009,43,at,austria,603
 20211009,4301,at,wien,184
@@ -17235,7 +17236,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211008,4121,ch,ticino,10
 20211008,4123,ch,valais,10
 20211008,4124,ch,neuchatel,6
-20211008,4125,ch,geneve,19
+20211008,4125,ch,geneve,67
 20211008,4126,ch,jura_ch,1
 20211008,43,at,austria,624
 20211008,4301,at,wien,191
@@ -17414,7 +17415,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211007,4121,ch,ticino,12
 20211007,4123,ch,valais,10
 20211007,4124,ch,neuchatel,8
-20211007,4125,ch,geneve,21
+20211007,4125,ch,geneve,72
 20211007,4126,ch,jura_ch,1
 20211007,423,li,liechtenstein,1
 20211007,43,at,austria,624
@@ -17594,7 +17595,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211006,4121,ch,ticino,14
 20211006,4123,ch,valais,8
 20211006,4124,ch,neuchatel,9
-20211006,4125,ch,geneve,23
+20211006,4125,ch,geneve,72
 20211006,4126,ch,jura_ch,1
 20211006,423,li,liechtenstein,2
 20211006,43,at,austria,634
@@ -17774,7 +17775,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211005,4121,ch,ticino,17
 20211005,4123,ch,valais,13
 20211005,4124,ch,neuchatel,8
-20211005,4125,ch,geneve,22
+20211005,4125,ch,geneve,74
 20211005,4126,ch,jura_ch,2
 20211005,423,li,liechtenstein,3
 20211005,43,at,austria,631
@@ -17954,7 +17955,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211004,4121,ch,ticino,19
 20211004,4123,ch,valais,17
 20211004,4124,ch,neuchatel,10
-20211004,4125,ch,geneve,27
+20211004,4125,ch,geneve,79
 20211004,4126,ch,jura_ch,2
 20211004,423,li,liechtenstein,2
 20211004,43,at,austria,619
@@ -18129,7 +18130,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211003,4122,ch,vaud,51
 20211003,4123,ch,valais,16
 20211003,4124,ch,neuchatel,11
-20211003,4125,ch,geneve,27
+20211003,4125,ch,geneve,76
 20211003,4126,ch,jura_ch,3
 20211003,423,li,liechtenstein,2
 20211003,43,at,austria,599
@@ -18300,7 +18301,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211002,4120,ch,thurgau,24
 20211002,4123,ch,valais,17
 20211002,4124,ch,neuchatel,11
-20211002,4125,ch,geneve,28
+20211002,4125,ch,geneve,77
 20211002,4126,ch,jura_ch,4
 20211002,43,at,austria,611
 20211002,4301,at,wien,203
@@ -18477,7 +18478,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211001,4121,ch,ticino,19
 20211001,4123,ch,valais,18
 20211001,4124,ch,neuchatel,8
-20211001,4125,ch,geneve,30
+20211001,4125,ch,geneve,81
 20211001,4126,ch,jura_ch,3
 20211001,43,at,austria,628
 20211001,4301,at,wien,203
@@ -18657,7 +18658,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210930,4121,ch,ticino,20
 20210930,4123,ch,valais,16
 20210930,4124,ch,neuchatel,6
-20210930,4125,ch,geneve,30
+20210930,4125,ch,geneve,81
 20210930,4126,ch,jura_ch,3
 20210930,423,li,liechtenstein,2
 20210930,43,at,austria,630
@@ -18838,7 +18839,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210929,4121,ch,ticino,18
 20210929,4123,ch,valais,16
 20210929,4124,ch,neuchatel,4
-20210929,4125,ch,geneve,29
+20210929,4125,ch,geneve,82
 20210929,4126,ch,jura_ch,1
 20210929,423,li,liechtenstein,2
 20210929,43,at,austria,648
@@ -19018,7 +19019,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210928,4121,ch,ticino,18
 20210928,4123,ch,valais,15
 20210928,4124,ch,neuchatel,6
-20210928,4125,ch,geneve,32
+20210928,4125,ch,geneve,84
 20210928,4126,ch,jura_ch,1
 20210928,423,li,liechtenstein,2
 20210928,43,at,austria,648
@@ -19198,7 +19199,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210927,4121,ch,ticino,18
 20210927,4123,ch,valais,14
 20210927,4124,ch,neuchatel,8
-20210927,4125,ch,geneve,36
+20210927,4125,ch,geneve,83
 20210927,4126,ch,jura_ch,1
 20210927,423,li,liechtenstein,2
 20210927,43,at,austria,648
@@ -19373,7 +19374,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210926,4122,ch,vaud,66
 20210926,4123,ch,valais,16
 20210926,4124,ch,neuchatel,8
-20210926,4125,ch,geneve,35
+20210926,4125,ch,geneve,81
 20210926,4126,ch,jura_ch,0
 20210926,423,li,liechtenstein,2
 20210926,43,at,austria,636
@@ -19544,7 +19545,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210925,4120,ch,thurgau,41
 20210925,4123,ch,valais,15
 20210925,4124,ch,neuchatel,8
-20210925,4125,ch,geneve,38
+20210925,4125,ch,geneve,81
 20210925,4126,ch,jura_ch,0
 20210925,43,at,austria,623
 20210925,4301,at,wien,218
@@ -19721,7 +19722,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210924,4121,ch,ticino,19
 20210924,4123,ch,valais,16
 20210924,4124,ch,neuchatel,6
-20210924,4125,ch,geneve,41
+20210924,4125,ch,geneve,80
 20210924,4126,ch,jura_ch,0
 20210924,43,at,austria,642
 20210924,4301,at,wien,217
@@ -19901,7 +19902,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210923,4121,ch,ticino,16
 20210923,4123,ch,valais,17
 20210923,4124,ch,neuchatel,8
-20210923,4125,ch,geneve,39
+20210923,4125,ch,geneve,81
 20210923,4126,ch,jura_ch,1
 20210923,423,li,liechtenstein,1
 20210923,43,at,austria,636
@@ -20082,7 +20083,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210922,4121,ch,ticino,14
 20210922,4123,ch,valais,18
 20210922,4124,ch,neuchatel,8
-20210922,4125,ch,geneve,39
+20210922,4125,ch,geneve,84
 20210922,4126,ch,jura_ch,2
 20210922,423,li,liechtenstein,1
 20210922,43,at,austria,643
@@ -20263,7 +20264,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210921,4121,ch,ticino,18
 20210921,4123,ch,valais,20
 20210921,4124,ch,neuchatel,8
-20210921,4125,ch,geneve,41
+20210921,4125,ch,geneve,85
 20210921,4126,ch,jura_ch,2
 20210921,423,li,liechtenstein,1
 20210921,43,at,austria,664
@@ -20443,7 +20444,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210920,4121,ch,ticino,19
 20210920,4123,ch,valais,20
 20210920,4124,ch,neuchatel,7
-20210920,4125,ch,geneve,47
+20210920,4125,ch,geneve,99
 20210920,4126,ch,jura_ch,2
 20210920,423,li,liechtenstein,2
 20210920,43,at,austria,664
@@ -20617,7 +20618,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210919,4122,ch,vaud,91
 20210919,4123,ch,valais,19
 20210919,4124,ch,neuchatel,6
-20210919,4125,ch,geneve,45
+20210919,4125,ch,geneve,95
 20210919,4126,ch,jura_ch,2
 20210919,423,li,liechtenstein,2
 20210919,43,at,austria,644
@@ -20787,7 +20788,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210918,4120,ch,thurgau,47
 20210918,4123,ch,valais,16
 20210918,4124,ch,neuchatel,8
-20210918,4125,ch,geneve,45
+20210918,4125,ch,geneve,94
 20210918,4126,ch,jura_ch,3
 20210918,43,at,austria,652
 20210918,4301,at,wien,222
@@ -20962,7 +20963,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210917,4121,ch,ticino,19
 20210917,4123,ch,valais,18
 20210917,4124,ch,neuchatel,8
-20210917,4125,ch,geneve,44
+20210917,4125,ch,geneve,93
 20210917,4126,ch,jura_ch,5
 20210917,43,at,austria,644
 20210917,4301,at,wien,221
@@ -21140,7 +21141,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210916,4121,ch,ticino,20
 20210916,4123,ch,valais,19
 20210916,4124,ch,neuchatel,5
-20210916,4125,ch,geneve,48
+20210916,4125,ch,geneve,102
 20210916,4126,ch,jura_ch,5
 20210916,423,li,liechtenstein,1
 20210916,43,at,austria,621
@@ -21319,7 +21320,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210915,4121,ch,ticino,20
 20210915,4123,ch,valais,19
 20210915,4124,ch,neuchatel,7
-20210915,4125,ch,geneve,43
+20210915,4125,ch,geneve,97
 20210915,4126,ch,jura_ch,6
 20210915,423,li,liechtenstein,2
 20210915,43,at,austria,618
@@ -21498,7 +21499,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210914,4121,ch,ticino,19
 20210914,4123,ch,valais,22
 20210914,4124,ch,neuchatel,10
-20210914,4125,ch,geneve,45
+20210914,4125,ch,geneve,94
 20210914,4126,ch,jura_ch,8
 20210914,423,li,liechtenstein,1
 20210914,43,at,austria,604
@@ -21677,7 +21678,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210913,4121,ch,ticino,22
 20210913,4123,ch,valais,27
 20210913,4124,ch,neuchatel,10
-20210913,4125,ch,geneve,60
+20210913,4125,ch,geneve,105
 20210913,4126,ch,jura_ch,11
 20210913,423,li,liechtenstein,1
 20210913,43,at,austria,570
@@ -21849,7 +21850,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210912,4122,ch,vaud,110
 20210912,4123,ch,valais,26
 20210912,4124,ch,neuchatel,14
-20210912,4125,ch,geneve,61
+20210912,4125,ch,geneve,107
 20210912,4126,ch,jura_ch,9
 20210912,423,li,liechtenstein,1
 20210912,43,at,austria,528
@@ -22018,7 +22019,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210911,4120,ch,thurgau,48
 20210911,4123,ch,valais,25
 20210911,4124,ch,neuchatel,13
-20210911,4125,ch,geneve,59
+20210911,4125,ch,geneve,109
 20210911,4126,ch,jura_ch,8
 20210911,43,at,austria,512
 20210911,4301,at,wien,161
@@ -22194,7 +22195,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210910,4121,ch,ticino,22
 20210910,4123,ch,valais,23
 20210910,4124,ch,neuchatel,12
-20210910,4125,ch,geneve,58
+20210910,4125,ch,geneve,105
 20210910,4126,ch,jura_ch,8
 20210910,43,at,austria,497
 20210910,4301,at,wien,146
@@ -22371,7 +22372,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210909,4121,ch,ticino,23
 20210909,4123,ch,valais,25
 20210909,4124,ch,neuchatel,12
-20210909,4125,ch,geneve,62
+20210909,4125,ch,geneve,109
 20210909,4126,ch,jura_ch,8
 20210909,423,li,liechtenstein,1
 20210909,43,at,austria,471
@@ -22549,7 +22550,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210908,4121,ch,ticino,20
 20210908,4123,ch,valais,24
 20210908,4124,ch,neuchatel,11
-20210908,4125,ch,geneve,63
+20210908,4125,ch,geneve,108
 20210908,4126,ch,jura_ch,8
 20210908,423,li,liechtenstein,1
 20210908,43,at,austria,468
@@ -22727,7 +22728,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210907,4121,ch,ticino,25
 20210907,4123,ch,valais,27
 20210907,4124,ch,neuchatel,12
-20210907,4125,ch,geneve,64
+20210907,4125,ch,geneve,108
 20210907,4126,ch,jura_ch,7
 20210907,43,at,austria,456
 20210907,4301,at,wien,138
@@ -22902,7 +22903,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210906,4121,ch,ticino,27
 20210906,4123,ch,valais,27
 20210906,4124,ch,neuchatel,11
-20210906,4125,ch,geneve,73
+20210906,4125,ch,geneve,104
 20210906,4126,ch,jura_ch,6
 20210906,423,li,liechtenstein,1
 20210906,43,at,austria,413
@@ -23073,7 +23074,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210905,4122,ch,vaud,102
 20210905,4123,ch,valais,25
 20210905,4124,ch,neuchatel,9
-20210905,4125,ch,geneve,72
+20210905,4125,ch,geneve,105
 20210905,4126,ch,jura_ch,7
 20210905,423,li,liechtenstein,2
 20210905,43,at,austria,395
@@ -23240,7 +23241,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210904,4120,ch,thurgau,42
 20210904,4123,ch,valais,24
 20210904,4124,ch,neuchatel,9
-20210904,4125,ch,geneve,69
+20210904,4125,ch,geneve,103
 20210904,4126,ch,jura_ch,6
 20210904,43,at,austria,395
 20210904,4301,at,wien,118
@@ -23413,7 +23414,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210903,4121,ch,ticino,30
 20210903,4123,ch,valais,27
 20210903,4124,ch,neuchatel,11
-20210903,4125,ch,geneve,72
+20210903,4125,ch,geneve,106
 20210903,4126,ch,jura_ch,8
 20210903,43,at,austria,396
 20210903,4301,at,wien,113
@@ -23585,7 +23586,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210902,4121,ch,ticino,31
 20210902,4123,ch,valais,26
 20210902,4124,ch,neuchatel,9
-20210902,4125,ch,geneve,71
+20210902,4125,ch,geneve,107
 20210902,4126,ch,jura_ch,9
 20210902,423,li,liechtenstein,2
 20210902,43,at,austria,396
@@ -23759,7 +23760,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210901,4121,ch,ticino,32
 20210901,4123,ch,valais,28
 20210901,4124,ch,neuchatel,11
-20210901,4125,ch,geneve,68
+20210901,4125,ch,geneve,105
 20210901,4126,ch,jura_ch,8
 20210901,423,li,liechtenstein,2
 20210901,43,at,austria,401
@@ -23933,7 +23934,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210831,4121,ch,ticino,34
 20210831,4123,ch,valais,28
 20210831,4124,ch,neuchatel,9
-20210831,4125,ch,geneve,67
+20210831,4125,ch,geneve,105
 20210831,4126,ch,jura_ch,5
 20210831,423,li,liechtenstein,2
 20210831,43,at,austria,393
@@ -24106,7 +24107,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210830,4121,ch,ticino,33
 20210830,4123,ch,valais,28
 20210830,4124,ch,neuchatel,9
-20210830,4125,ch,geneve,62
+20210830,4125,ch,geneve,99
 20210830,4126,ch,jura_ch,6
 20210830,423,li,liechtenstein,3
 20210830,43,at,austria,355
@@ -24274,7 +24275,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210829,4122,ch,vaud,87
 20210829,4123,ch,valais,26
 20210829,4124,ch,neuchatel,8
-20210829,4125,ch,geneve,59
+20210829,4125,ch,geneve,95
 20210829,4126,ch,jura_ch,5
 20210829,423,li,liechtenstein,3
 20210829,43,at,austria,343
@@ -24438,7 +24439,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210828,4120,ch,thurgau,42
 20210828,4123,ch,valais,25
 20210828,4124,ch,neuchatel,7
-20210828,4125,ch,geneve,56
+20210828,4125,ch,geneve,94
 20210828,4126,ch,jura_ch,5
 20210828,43,at,austria,315
 20210828,4301,at,wien,87
@@ -24608,7 +24609,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210827,4121,ch,ticino,41
 20210827,4123,ch,valais,22
 20210827,4124,ch,neuchatel,6
-20210827,4125,ch,geneve,54
+20210827,4125,ch,geneve,94
 20210827,4126,ch,jura_ch,6
 20210827,43,at,austria,316
 20210827,4301,at,wien,89
@@ -24779,7 +24780,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210826,4121,ch,ticino,38
 20210826,4123,ch,valais,27
 20210826,4124,ch,neuchatel,5
-20210826,4125,ch,geneve,58
+20210826,4125,ch,geneve,96
 20210826,4126,ch,jura_ch,5
 20210826,423,li,liechtenstein,3
 20210826,43,at,austria,315
@@ -24952,7 +24953,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210825,4121,ch,ticino,32
 20210825,4123,ch,valais,31
 20210825,4124,ch,neuchatel,7
-20210825,4125,ch,geneve,56
+20210825,4125,ch,geneve,101
 20210825,4126,ch,jura_ch,4
 20210825,423,li,liechtenstein,5
 20210825,43,at,austria,332
@@ -25125,7 +25126,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210824,4121,ch,ticino,33
 20210824,4123,ch,valais,27
 20210824,4124,ch,neuchatel,5
-20210824,4125,ch,geneve,60
+20210824,4125,ch,geneve,101
 20210824,4126,ch,jura_ch,4
 20210824,423,li,liechtenstein,4
 20210824,43,at,austria,317
@@ -25298,7 +25299,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210823,4121,ch,ticino,32
 20210823,4123,ch,valais,22
 20210823,4124,ch,neuchatel,7
-20210823,4125,ch,geneve,58
+20210823,4125,ch,geneve,98
 20210823,4126,ch,jura_ch,4
 20210823,423,li,liechtenstein,4
 20210823,43,at,austria,306
@@ -25463,6 +25464,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210822,4122,ch,vaud,83
 20210822,4123,ch,valais,21
 20210822,4124,ch,neuchatel,6
+20210822,4125,ch,geneve,39
 20210822,4126,ch,jura_ch,3
 20210822,423,li,liechtenstein,4
 20210822,43,at,austria,278
@@ -25624,7 +25626,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210821,4120,ch,thurgau,42
 20210821,4123,ch,valais,19
 20210821,4124,ch,neuchatel,6
-20210821,4125,ch,geneve,52
+20210821,4125,ch,geneve,95
 20210821,4126,ch,jura_ch,3
 20210821,43,at,austria,260
 20210821,4301,at,wien,76
@@ -25791,7 +25793,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210820,4121,ch,ticino,19
 20210820,4123,ch,valais,20
 20210820,4124,ch,neuchatel,4
-20210820,4125,ch,geneve,53
+20210820,4125,ch,geneve,95
 20210820,4126,ch,jura_ch,3
 20210820,43,at,austria,246
 20210820,4301,at,wien,67
@@ -25961,7 +25963,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210819,4121,ch,ticino,17
 20210819,4123,ch,valais,18
 20210819,4124,ch,neuchatel,3
-20210819,4125,ch,geneve,49
+20210819,4125,ch,geneve,91
 20210819,4126,ch,jura_ch,4
 20210819,423,li,liechtenstein,3
 20210819,43,at,austria,219
@@ -26131,7 +26133,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210818,4121,ch,ticino,17
 20210818,4123,ch,valais,21
 20210818,4124,ch,neuchatel,3
-20210818,4125,ch,geneve,52
+20210818,4125,ch,geneve,95
 20210818,4126,ch,jura_ch,5
 20210818,423,li,liechtenstein,3
 20210818,43,at,austria,226
@@ -26302,7 +26304,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210817,4121,ch,ticino,18
 20210817,4123,ch,valais,22
 20210817,4124,ch,neuchatel,4
-20210817,4125,ch,geneve,49
+20210817,4125,ch,geneve,91
 20210817,4126,ch,jura_ch,5
 20210817,423,li,liechtenstein,2
 20210817,43,at,austria,214
@@ -26473,7 +26475,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210816,4121,ch,ticino,18
 20210816,4123,ch,valais,24
 20210816,4124,ch,neuchatel,4
-20210816,4125,ch,geneve,46
+20210816,4125,ch,geneve,83
 20210816,4126,ch,jura_ch,7
 20210816,423,li,liechtenstein,1
 20210816,43,at,austria,193
@@ -26639,6 +26641,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210815,4122,ch,vaud,52
 20210815,4123,ch,valais,23
 20210815,4124,ch,neuchatel,1
+20210815,4125,ch,geneve,36
 20210815,4126,ch,jura_ch,5
 20210815,423,li,liechtenstein,1
 20210815,43,at,austria,182
@@ -26800,6 +26803,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210814,4120,ch,thurgau,27
 20210814,4123,ch,valais,20
 20210814,4124,ch,neuchatel,1
+20210814,4125,ch,geneve,39
 20210814,4126,ch,jura_ch,3
 20210814,43,at,austria,167
 20210814,4301,at,wien,46
@@ -26966,7 +26970,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210813,4121,ch,ticino,15
 20210813,4123,ch,valais,18
 20210813,4124,ch,neuchatel,0
-20210813,4125,ch,geneve,33
+20210813,4125,ch,geneve,72
 20210813,4126,ch,jura_ch,3
 20210813,43,at,austria,158
 20210813,4301,at,wien,46
@@ -27137,7 +27141,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210812,4121,ch,ticino,16
 20210812,4123,ch,valais,16
 20210812,4124,ch,neuchatel,1
-20210812,4125,ch,geneve,30
+20210812,4125,ch,geneve,66
 20210812,4126,ch,jura_ch,2
 20210812,423,li,liechtenstein,1
 20210812,43,at,austria,150
@@ -27309,7 +27313,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210811,4121,ch,ticino,16
 20210811,4123,ch,valais,15
 20210811,4124,ch,neuchatel,2
-20210811,4125,ch,geneve,31
+20210811,4125,ch,geneve,67
 20210811,4126,ch,jura_ch,3
 20210811,423,li,liechtenstein,1
 20210811,43,at,austria,146
@@ -27481,7 +27485,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210810,4121,ch,ticino,18
 20210810,4123,ch,valais,14
 20210810,4124,ch,neuchatel,3
-20210810,4125,ch,geneve,27
+20210810,4125,ch,geneve,66
 20210810,4126,ch,jura_ch,5
 20210810,423,li,liechtenstein,2
 20210810,43,at,austria,146
@@ -27653,7 +27657,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210809,4121,ch,ticino,16
 20210809,4123,ch,valais,9
 20210809,4124,ch,neuchatel,4
-20210809,4125,ch,geneve,29
+20210809,4125,ch,geneve,70
 20210809,4126,ch,jura_ch,4
 20210809,423,li,liechtenstein,1
 20210809,43,at,austria,134
@@ -27818,6 +27822,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210808,4120,ch,thurgau,9
 20210808,4123,ch,valais,7
 20210808,4124,ch,neuchatel,4
+20210808,4125,ch,geneve,41
 20210808,4126,ch,jura_ch,2
 20210808,423,li,liechtenstein,1
 20210808,43,at,austria,119
@@ -27980,6 +27985,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210807,4120,ch,thurgau,7
 20210807,4123,ch,valais,6
 20210807,4124,ch,neuchatel,4
+20210807,4125,ch,geneve,41
 20210807,4126,ch,jura_ch,3
 20210807,43,at,austria,110
 20210807,4301,at,wien,37
@@ -28147,7 +28153,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210806,4121,ch,ticino,13
 20210806,4123,ch,valais,5
 20210806,4124,ch,neuchatel,1
-20210806,4125,ch,geneve,25
+20210806,4125,ch,geneve,66
 20210806,4126,ch,jura_ch,3
 20210806,43,at,austria,112
 20210806,4301,at,wien,42
@@ -28318,7 +28324,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210805,4121,ch,ticino,11
 20210805,4123,ch,valais,6
 20210805,4124,ch,neuchatel,3
-20210805,4125,ch,geneve,25
+20210805,4125,ch,geneve,67
 20210805,4126,ch,jura_ch,3
 20210805,423,li,liechtenstein,1
 20210805,43,at,austria,95
@@ -28489,7 +28495,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210804,4121,ch,ticino,10
 20210804,4123,ch,valais,5
 20210804,4124,ch,neuchatel,5
-20210804,4125,ch,geneve,28
+20210804,4125,ch,geneve,65
 20210804,4126,ch,jura_ch,4
 20210804,423,li,liechtenstein,1
 20210804,43,at,austria,96
@@ -28661,7 +28667,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210803,4121,ch,ticino,9
 20210803,4123,ch,valais,4
 20210803,4124,ch,neuchatel,3
-20210803,4125,ch,geneve,26
+20210803,4125,ch,geneve,65
 20210803,4126,ch,jura_ch,4
 20210803,423,li,liechtenstein,1
 20210803,43,at,austria,102
@@ -28833,6 +28839,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210802,4121,ch,ticino,10
 20210802,4123,ch,valais,5
 20210802,4124,ch,neuchatel,5
+20210802,4125,ch,geneve,39
 20210802,4126,ch,jura_ch,3
 20210802,423,li,liechtenstein,1
 20210802,43,at,austria,99
@@ -28998,6 +29005,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210801,4120,ch,thurgau,7
 20210801,4123,ch,valais,5
 20210801,4124,ch,neuchatel,5
+20210801,4125,ch,geneve,39
 20210801,4126,ch,jura_ch,1
 20210801,423,li,liechtenstein,1
 20210801,43,at,austria,96
@@ -29161,6 +29169,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210731,4120,ch,thurgau,6
 20210731,4123,ch,valais,4
 20210731,4124,ch,neuchatel,5
+20210731,4125,ch,geneve,39
 20210731,4126,ch,jura_ch,0
 20210731,43,at,austria,90
 20210731,4301,at,wien,44
@@ -29329,7 +29338,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210730,4121,ch,ticino,10
 20210730,4123,ch,valais,4
 20210730,4124,ch,neuchatel,4
-20210730,4125,ch,geneve,14
+20210730,4125,ch,geneve,54
 20210730,4126,ch,jura_ch,1
 20210730,43,at,austria,81
 20210730,4301,at,wien,38
@@ -29500,7 +29509,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210729,4121,ch,ticino,9
 20210729,4123,ch,valais,4
 20210729,4124,ch,neuchatel,5
-20210729,4125,ch,geneve,18
+20210729,4125,ch,geneve,61
 20210729,4126,ch,jura_ch,1
 20210729,423,li,liechtenstein,1
 20210729,43,at,austria,83
@@ -29672,7 +29681,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210728,4121,ch,ticino,12
 20210728,4123,ch,valais,5
 20210728,4124,ch,neuchatel,4
-20210728,4125,ch,geneve,18
+20210728,4125,ch,geneve,63
 20210728,4126,ch,jura_ch,0
 20210728,423,li,liechtenstein,2
 20210728,43,at,austria,75
@@ -29844,7 +29853,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210727,4121,ch,ticino,12
 20210727,4123,ch,valais,3
 20210727,4124,ch,neuchatel,5
-20210727,4125,ch,geneve,18
+20210727,4125,ch,geneve,63
 20210727,4126,ch,jura_ch,0
 20210727,423,li,liechtenstein,2
 20210727,43,at,austria,80
@@ -30016,7 +30025,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210726,4121,ch,ticino,12
 20210726,4123,ch,valais,4
 20210726,4124,ch,neuchatel,5
-20210726,4125,ch,geneve,19
+20210726,4125,ch,geneve,62
 20210726,4126,ch,jura_ch,1
 20210726,423,li,liechtenstein,2
 20210726,43,at,austria,85
@@ -30182,6 +30191,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210725,4120,ch,thurgau,4
 20210725,4123,ch,valais,3
 20210725,4124,ch,neuchatel,4
+20210725,4125,ch,geneve,41
 20210725,4126,ch,jura_ch,1
 20210725,423,li,liechtenstein,2
 20210725,43,at,austria,78
@@ -30344,6 +30354,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210724,4120,ch,thurgau,4
 20210724,4123,ch,valais,3
 20210724,4124,ch,neuchatel,4
+20210724,4125,ch,geneve,40
 20210724,4126,ch,jura_ch,1
 20210724,423,li,liechtenstein,2
 20210724,43,at,austria,80
@@ -30513,7 +30524,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210723,4121,ch,ticino,11
 20210723,4123,ch,valais,4
 20210723,4124,ch,neuchatel,4
-20210723,4125,ch,geneve,14
+20210723,4125,ch,geneve,54
 20210723,4126,ch,jura_ch,1
 20210723,423,li,liechtenstein,2
 20210723,43,at,austria,74
@@ -30685,7 +30696,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210722,4121,ch,ticino,8
 20210722,4123,ch,valais,4
 20210722,4124,ch,neuchatel,3
-20210722,4125,ch,geneve,13
+20210722,4125,ch,geneve,54
 20210722,4126,ch,jura_ch,0
 20210722,423,li,liechtenstein,2
 20210722,43,at,austria,78
@@ -30857,7 +30868,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210721,4121,ch,ticino,8
 20210721,4123,ch,valais,3
 20210721,4124,ch,neuchatel,2
-20210721,4125,ch,geneve,11
+20210721,4125,ch,geneve,52
 20210721,4126,ch,jura_ch,0
 20210721,423,li,liechtenstein,2
 20210721,43,at,austria,81
@@ -31029,7 +31040,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210720,4121,ch,ticino,7
 20210720,4123,ch,valais,3
 20210720,4124,ch,neuchatel,2
-20210720,4125,ch,geneve,10
+20210720,4125,ch,geneve,53
 20210720,4126,ch,jura_ch,0
 20210720,423,li,liechtenstein,2
 20210720,43,at,austria,82
@@ -31201,7 +31212,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210719,4121,ch,ticino,7
 20210719,4123,ch,valais,3
 20210719,4124,ch,neuchatel,2
-20210719,4125,ch,geneve,9
+20210719,4125,ch,geneve,57
 20210719,4126,ch,jura_ch,1
 20210719,423,li,liechtenstein,2
 20210719,43,at,austria,80
@@ -31366,6 +31377,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210718,4120,ch,thurgau,4
 20210718,4123,ch,valais,3
 20210718,4124,ch,neuchatel,3
+20210718,4125,ch,geneve,48
 20210718,4126,ch,jura_ch,1
 20210718,423,li,liechtenstein,2
 20210718,43,at,austria,77
@@ -31528,6 +31540,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210717,4120,ch,thurgau,4
 20210717,4123,ch,valais,3
 20210717,4124,ch,neuchatel,2
+20210717,4125,ch,geneve,48
 20210717,4126,ch,jura_ch,1
 20210717,43,at,austria,80
 20210717,4301,at,wien,36
@@ -31696,7 +31709,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210716,4121,ch,ticino,5
 20210716,4123,ch,valais,4
 20210716,4124,ch,neuchatel,3
-20210716,4125,ch,geneve,4
+20210716,4125,ch,geneve,53
 20210716,4126,ch,jura_ch,1
 20210716,43,at,austria,71
 20210716,4301,at,wien,31
@@ -31867,7 +31880,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210715,4121,ch,ticino,5
 20210715,4123,ch,valais,4
 20210715,4124,ch,neuchatel,2
-20210715,4125,ch,geneve,4
+20210715,4125,ch,geneve,54
 20210715,4126,ch,jura_ch,1
 20210715,423,li,liechtenstein,2
 20210715,43,at,austria,77
@@ -32038,7 +32051,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210714,4121,ch,ticino,5
 20210714,4123,ch,valais,5
 20210714,4124,ch,neuchatel,2
-20210714,4125,ch,geneve,4
+20210714,4125,ch,geneve,59
 20210714,4126,ch,jura_ch,0
 20210714,423,li,liechtenstein,4
 20210714,43,at,austria,78
@@ -32210,7 +32223,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210713,4121,ch,ticino,3
 20210713,4123,ch,valais,5
 20210713,4124,ch,neuchatel,1
-20210713,4125,ch,geneve,4
+20210713,4125,ch,geneve,59
 20210713,4126,ch,jura_ch,0
 20210713,423,li,liechtenstein,4
 20210713,43,at,austria,75
@@ -32382,7 +32395,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210712,4121,ch,ticino,2
 20210712,4123,ch,valais,6
 20210712,4124,ch,neuchatel,1
-20210712,4125,ch,geneve,4
+20210712,4125,ch,geneve,59
 20210712,4126,ch,jura_ch,0
 20210712,423,li,liechtenstein,4
 20210712,43,at,austria,67
@@ -32547,6 +32560,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210711,4120,ch,thurgau,4
 20210711,4123,ch,valais,6
 20210711,4124,ch,neuchatel,1
+20210711,4125,ch,geneve,52
 20210711,4126,ch,jura_ch,0
 20210711,423,li,liechtenstein,4
 20210711,43,at,austria,62
@@ -32709,6 +32723,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210710,4120,ch,thurgau,4
 20210710,4123,ch,valais,7
 20210710,4124,ch,neuchatel,1
+20210710,4125,ch,geneve,55
 20210710,4126,ch,jura_ch,0
 20210710,43,at,austria,61
 20210710,4301,at,wien,33
@@ -32878,7 +32893,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210709,4121,ch,ticino,0
 20210709,4123,ch,valais,6
 20210709,4124,ch,neuchatel,1
-20210709,4125,ch,geneve,5
+20210709,4125,ch,geneve,65
 20210709,4126,ch,jura_ch,0
 20210709,43,at,austria,67
 20210709,4301,at,wien,35
@@ -33051,7 +33066,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210708,4121,ch,ticino,0
 20210708,4123,ch,valais,6
 20210708,4124,ch,neuchatel,1
-20210708,4125,ch,geneve,5
+20210708,4125,ch,geneve,65
 20210708,4126,ch,jura_ch,0
 20210708,423,li,liechtenstein,4
 20210708,43,at,austria,69
@@ -33225,7 +33240,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210707,4121,ch,ticino,0
 20210707,4123,ch,valais,5
 20210707,4124,ch,neuchatel,1
-20210707,4125,ch,geneve,5
+20210707,4125,ch,geneve,65
 20210707,4126,ch,jura_ch,0
 20210707,423,li,liechtenstein,4
 20210707,43,at,austria,72
@@ -33399,7 +33414,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210706,4121,ch,ticino,0
 20210706,4123,ch,valais,6
 20210706,4124,ch,neuchatel,1
-20210706,4125,ch,geneve,5
+20210706,4125,ch,geneve,65
 20210706,4126,ch,jura_ch,0
 20210706,423,li,liechtenstein,4
 20210706,43,at,austria,78
@@ -33573,7 +33588,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210705,4121,ch,ticino,0
 20210705,4123,ch,valais,8
 20210705,4124,ch,neuchatel,2
-20210705,4125,ch,geneve,5
+20210705,4125,ch,geneve,65
 20210705,4126,ch,jura_ch,0
 20210705,423,li,liechtenstein,4
 20210705,43,at,austria,83
@@ -33740,6 +33755,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210704,4120,ch,thurgau,4
 20210704,4123,ch,valais,7
 20210704,4124,ch,neuchatel,1
+20210704,4125,ch,geneve,58
 20210704,4126,ch,jura_ch,0
 20210704,423,li,liechtenstein,4
 20210704,43,at,austria,89
@@ -33905,6 +33921,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210703,4120,ch,thurgau,3
 20210703,4123,ch,valais,7
 20210703,4124,ch,neuchatel,1
+20210703,4125,ch,geneve,57
 20210703,4126,ch,jura_ch,0
 20210703,43,at,austria,97
 20210703,4301,at,wien,50
@@ -34073,7 +34090,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210702,4121,ch,ticino,1
 20210702,4123,ch,valais,7
 20210702,4124,ch,neuchatel,1
-20210702,4125,ch,geneve,5
+20210702,4125,ch,geneve,63
 20210702,4126,ch,jura_ch,0
 20210702,43,at,austria,101
 20210702,4301,at,wien,53
@@ -34246,7 +34263,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210701,4121,ch,ticino,0
 20210701,4123,ch,valais,7
 20210701,4124,ch,neuchatel,1
-20210701,4125,ch,geneve,5
+20210701,4125,ch,geneve,66
 20210701,4126,ch,jura_ch,0
 20210701,423,li,liechtenstein,4
 20210701,43,at,austria,112
@@ -34420,7 +34437,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210630,4121,ch,ticino,0
 20210630,4123,ch,valais,6
 20210630,4124,ch,neuchatel,1
-20210630,4125,ch,geneve,4
+20210630,4125,ch,geneve,65
 20210630,4126,ch,jura_ch,0
 20210630,423,li,liechtenstein,4
 20210630,43,at,austria,112
@@ -34594,7 +34611,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210629,4122,ch,vaud,27
 20210629,4123,ch,valais,5
 20210629,4124,ch,neuchatel,0
-20210629,4125,ch,geneve,5
+20210629,4125,ch,geneve,65
 20210629,4126,ch,jura_ch,0
 20210629,423,li,liechtenstein,4
 20210629,43,at,austria,129
@@ -34769,7 +34786,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210628,4122,ch,vaud,28
 20210628,4123,ch,valais,6
 20210628,4124,ch,neuchatel,0
-20210628,4125,ch,geneve,5
+20210628,4125,ch,geneve,63
 20210628,4126,ch,jura_ch,0
 20210628,423,li,liechtenstein,4
 20210628,43,at,austria,118
@@ -34937,6 +34954,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210627,4122,ch,vaud,27
 20210627,4123,ch,valais,6
 20210627,4124,ch,neuchatel,0
+20210627,4125,ch,geneve,57
 20210627,4126,ch,jura_ch,2
 20210627,423,li,liechtenstein,4
 20210627,43,at,austria,122
@@ -35102,6 +35120,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210626,4122,ch,vaud,28
 20210626,4123,ch,valais,6
 20210626,4124,ch,neuchatel,0
+20210626,4125,ch,geneve,59
 20210626,4126,ch,jura_ch,2
 20210626,43,at,austria,128
 20210626,4301,at,wien,71
@@ -35273,7 +35292,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210625,4122,ch,vaud,29
 20210625,4123,ch,valais,7
 20210625,4124,ch,neuchatel,0
-20210625,4125,ch,geneve,4
+20210625,4125,ch,geneve,64
 20210625,4126,ch,jura_ch,2
 20210625,43,at,austria,127
 20210625,4301,at,wien,66
@@ -35447,7 +35466,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210624,4122,ch,vaud,27
 20210624,4123,ch,valais,6
 20210624,4124,ch,neuchatel,1
-20210624,4125,ch,geneve,4
+20210624,4125,ch,geneve,65
 20210624,4126,ch,jura_ch,2
 20210624,423,li,liechtenstein,3
 20210624,43,at,austria,146
@@ -35622,7 +35641,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210623,4122,ch,vaud,29
 20210623,4123,ch,valais,6
 20210623,4124,ch,neuchatel,1
-20210623,4125,ch,geneve,5
+20210623,4125,ch,geneve,68
 20210623,4126,ch,jura_ch,3
 20210623,423,li,liechtenstein,3
 20210623,43,at,austria,157
@@ -35797,7 +35816,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210622,4122,ch,vaud,32
 20210622,4123,ch,valais,5
 20210622,4124,ch,neuchatel,0
-20210622,4125,ch,geneve,7
+20210622,4125,ch,geneve,70
 20210622,4126,ch,jura_ch,2
 20210622,423,li,liechtenstein,3
 20210622,43,at,austria,169
@@ -35972,7 +35991,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210621,4122,ch,vaud,32
 20210621,4123,ch,valais,6
 20210621,4124,ch,neuchatel,0
-20210621,4125,ch,geneve,2
+20210621,4125,ch,geneve,68
 20210621,4126,ch,jura_ch,2
 20210621,423,li,liechtenstein,2
 20210621,43,at,austria,164
@@ -36140,7 +36159,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210620,4122,ch,vaud,34
 20210620,4123,ch,valais,5
 20210620,4124,ch,neuchatel,2
-20210620,4125,ch,geneve,1
+20210620,4125,ch,geneve,61
 20210620,4126,ch,jura_ch,3
 20210620,423,li,liechtenstein,2
 20210620,43,at,austria,164
@@ -36306,7 +36325,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210619,4122,ch,vaud,33
 20210619,4123,ch,valais,5
 20210619,4124,ch,neuchatel,2
-20210619,4125,ch,geneve,1
+20210619,4125,ch,geneve,62
 20210619,4126,ch,jura_ch,3
 20210619,43,at,austria,164
 20210619,4301,at,wien,82
@@ -36478,7 +36497,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210618,4122,ch,vaud,30
 20210618,4123,ch,valais,5
 20210618,4124,ch,neuchatel,2
-20210618,4125,ch,geneve,0
+20210618,4125,ch,geneve,61
 20210618,4126,ch,jura_ch,3
 20210618,423,li,liechtenstein,2
 20210618,43,at,austria,175
@@ -41055,6 +41074,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210523,4122,ch,vaud,79
 20210523,4123,ch,valais,24
 20210523,4124,ch,neuchatel,13
+20210523,4125,ch,geneve,0
 20210523,4126,ch,jura_ch,6
 20210523,43,at,austria,386
 20210523,4301,at,wien,108
@@ -41224,6 +41244,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210522,4122,ch,vaud,75
 20210522,4123,ch,valais,27
 20210522,4124,ch,neuchatel,10
+20210522,4125,ch,geneve,0
 20210522,4126,ch,jura_ch,6
 20210522,43,at,austria,406
 20210522,4301,at,wien,119
@@ -42123,7 +42144,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210517,4122,ch,vaud,89
 20210517,4123,ch,valais,25
 20210517,4124,ch,neuchatel,13
-20210517,4125,ch,geneve,39
+20210517,4125,ch,geneve,40
 20210517,4126,ch,jura_ch,6
 20210517,423,li,liechtenstein,3
 20210517,43,at,austria,624
@@ -42823,7 +42844,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210513,4122,ch,vaud,93
 20210513,4123,ch,valais,22
 20210513,4124,ch,neuchatel,15
-20210513,4125,ch,geneve,49
+20210513,4125,ch,geneve,50
 20210513,4126,ch,jura_ch,4
 20210513,423,li,liechtenstein,3
 20210513,43,at,austria,695
@@ -43006,7 +43027,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210512,4122,ch,vaud,96
 20210512,4123,ch,valais,26
 20210512,4124,ch,neuchatel,14
-20210512,4125,ch,geneve,54
+20210512,4125,ch,geneve,55
 20210512,4126,ch,jura_ch,6
 20210512,43,at,austria,797
 20210512,4301,at,wien,201
@@ -43189,7 +43210,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210511,4122,ch,vaud,103
 20210511,4123,ch,valais,29
 20210511,4124,ch,neuchatel,13
-20210511,4125,ch,geneve,54
+20210511,4125,ch,geneve,55
 20210511,4126,ch,jura_ch,9
 20210511,423,li,liechtenstein,4
 20210511,43,at,austria,857
@@ -43372,7 +43393,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210510,4122,ch,vaud,107
 20210510,4123,ch,valais,29
 20210510,4124,ch,neuchatel,14
-20210510,4125,ch,geneve,53
+20210510,4125,ch,geneve,54
 20210510,4126,ch,jura_ch,8
 20210510,423,li,liechtenstein,3
 20210510,43,at,austria,863
@@ -43547,7 +43568,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210509,4122,ch,vaud,111
 20210509,4123,ch,valais,27
 20210509,4124,ch,neuchatel,17
-20210509,4125,ch,geneve,57
+20210509,4125,ch,geneve,58
 20210509,4126,ch,jura_ch,8
 20210509,423,li,liechtenstein,4
 20210509,43,at,austria,865
@@ -43721,7 +43742,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210508,4122,ch,vaud,105
 20210508,4123,ch,valais,26
 20210508,4124,ch,neuchatel,17
-20210508,4125,ch,geneve,60
+20210508,4125,ch,geneve,61
 20210508,4126,ch,jura_ch,8
 20210508,43,at,austria,886
 20210508,4301,at,wien,244
@@ -43902,7 +43923,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210507,4122,ch,vaud,103
 20210507,4123,ch,valais,31
 20210507,4124,ch,neuchatel,17
-20210507,4125,ch,geneve,61
+20210507,4125,ch,geneve,62
 20210507,4126,ch,jura_ch,6
 20210507,43,at,austria,959
 20210507,4301,at,wien,264
@@ -44084,7 +44105,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210506,4122,ch,vaud,106
 20210506,4123,ch,valais,30
 20210506,4124,ch,neuchatel,17
-20210506,4125,ch,geneve,56
+20210506,4125,ch,geneve,57
 20210506,4126,ch,jura_ch,8
 20210506,423,li,liechtenstein,5
 20210506,43,at,austria,1017
@@ -44268,7 +44289,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210505,4122,ch,vaud,110
 20210505,4123,ch,valais,29
 20210505,4124,ch,neuchatel,18
-20210505,4125,ch,geneve,54
+20210505,4125,ch,geneve,55
 20210505,4126,ch,jura_ch,7
 20210505,423,li,liechtenstein,7
 20210505,43,at,austria,1107
@@ -44452,7 +44473,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210504,4122,ch,vaud,122
 20210504,4123,ch,valais,33
 20210504,4124,ch,neuchatel,18
-20210504,4125,ch,geneve,63
+20210504,4125,ch,geneve,70
 20210504,4126,ch,jura_ch,8
 20210504,423,li,liechtenstein,7
 20210504,43,at,austria,1155
@@ -44635,7 +44656,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210503,4122,ch,vaud,137
 20210503,4123,ch,valais,40
 20210503,4124,ch,neuchatel,19
-20210503,4125,ch,geneve,70
+20210503,4125,ch,geneve,76
 20210503,4126,ch,jura_ch,9
 20210503,423,li,liechtenstein,7
 20210503,43,at,austria,1139
@@ -44810,7 +44831,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210502,4122,ch,vaud,138
 20210502,4123,ch,valais,35
 20210502,4124,ch,neuchatel,24
-20210502,4125,ch,geneve,72
+20210502,4125,ch,geneve,77
 20210502,4126,ch,jura_ch,11
 20210502,423,li,liechtenstein,7
 20210502,43,at,austria,1087
@@ -44984,7 +45005,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210501,4122,ch,vaud,131
 20210501,4123,ch,valais,34
 20210501,4124,ch,neuchatel,22
-20210501,4125,ch,geneve,74
+20210501,4125,ch,geneve,80
 20210501,4126,ch,jura_ch,10
 20210501,43,at,austria,1081
 20210501,4301,at,wien,301
@@ -45165,7 +45186,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210430,4122,ch,vaud,122
 20210430,4123,ch,valais,31
 20210430,4124,ch,neuchatel,22
-20210430,4125,ch,geneve,69
+20210430,4125,ch,geneve,74
 20210430,4126,ch,jura_ch,10
 20210430,43,at,austria,1154
 20210430,4301,at,wien,324
@@ -45347,7 +45368,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210429,4122,ch,vaud,131
 20210429,4123,ch,valais,29
 20210429,4124,ch,neuchatel,20
-20210429,4125,ch,geneve,75
+20210429,4125,ch,geneve,81
 20210429,4126,ch,jura_ch,10
 20210429,423,li,liechtenstein,6
 20210429,43,at,austria,1233
@@ -45531,7 +45552,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210428,4122,ch,vaud,138
 20210428,4123,ch,valais,34
 20210428,4124,ch,neuchatel,17
-20210428,4125,ch,geneve,85
+20210428,4125,ch,geneve,91
 20210428,4126,ch,jura_ch,8
 20210428,423,li,liechtenstein,6
 20210428,43,at,austria,1270
@@ -45715,7 +45736,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210427,4122,ch,vaud,134
 20210427,4123,ch,valais,36
 20210427,4124,ch,neuchatel,20
-20210427,4125,ch,geneve,83
+20210427,4125,ch,geneve,89
 20210427,4126,ch,jura_ch,6
 20210427,423,li,liechtenstein,6
 20210427,43,at,austria,1392
@@ -45897,7 +45918,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210426,4122,ch,vaud,141
 20210426,4123,ch,valais,35
 20210426,4124,ch,neuchatel,24
-20210426,4125,ch,geneve,93
+20210426,4125,ch,geneve,96
 20210426,4126,ch,jura_ch,7
 20210426,423,li,liechtenstein,6
 20210426,43,at,austria,1333
@@ -46072,7 +46093,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210425,4122,ch,vaud,141
 20210425,4123,ch,valais,36
 20210425,4124,ch,neuchatel,19
-20210425,4125,ch,geneve,88
+20210425,4125,ch,geneve,92
 20210425,4126,ch,jura_ch,7
 20210425,423,li,liechtenstein,8
 20210425,43,at,austria,1279
@@ -46246,7 +46267,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210424,4122,ch,vaud,136
 20210424,4123,ch,valais,34
 20210424,4124,ch,neuchatel,15
-20210424,4125,ch,geneve,85
+20210424,4125,ch,geneve,89
 20210424,4126,ch,jura_ch,7
 20210424,43,at,austria,1309
 20210424,4301,at,wien,445
@@ -46427,7 +46448,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210423,4122,ch,vaud,130
 20210423,4123,ch,valais,37
 20210423,4124,ch,neuchatel,17
-20210423,4125,ch,geneve,74
+20210423,4125,ch,geneve,78
 20210423,4126,ch,jura_ch,7
 20210423,43,at,austria,1356
 20210423,4301,at,wien,427
@@ -46609,7 +46630,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210422,4122,ch,vaud,125
 20210422,4123,ch,valais,39
 20210422,4124,ch,neuchatel,15
-20210422,4125,ch,geneve,77
+20210422,4125,ch,geneve,81
 20210422,4126,ch,jura_ch,6
 20210422,423,li,liechtenstein,7
 20210422,43,at,austria,1403
@@ -46793,7 +46814,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210421,4122,ch,vaud,130
 20210421,4123,ch,valais,48
 20210421,4124,ch,neuchatel,16
-20210421,4125,ch,geneve,73
+20210421,4125,ch,geneve,76
 20210421,4126,ch,jura_ch,8
 20210421,423,li,liechtenstein,7
 20210421,43,at,austria,1417
@@ -46977,7 +46998,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210420,4122,ch,vaud,135
 20210420,4123,ch,valais,45
 20210420,4124,ch,neuchatel,17
-20210420,4125,ch,geneve,70
+20210420,4125,ch,geneve,74
 20210420,4126,ch,jura_ch,8
 20210420,423,li,liechtenstein,7
 20210420,43,at,austria,1531
@@ -47160,7 +47181,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210419,4122,ch,vaud,147
 20210419,4123,ch,valais,47
 20210419,4124,ch,neuchatel,15
-20210419,4125,ch,geneve,80
+20210419,4125,ch,geneve,83
 20210419,4126,ch,jura_ch,8
 20210419,423,li,liechtenstein,7
 20210419,43,at,austria,1554
@@ -47335,7 +47356,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210418,4122,ch,vaud,159
 20210418,4123,ch,valais,40
 20210418,4124,ch,neuchatel,20
-20210418,4125,ch,geneve,83
+20210418,4125,ch,geneve,86
 20210418,4126,ch,jura_ch,9
 20210418,423,li,liechtenstein,5
 20210418,43,at,austria,1475
@@ -47509,7 +47530,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210417,4122,ch,vaud,159
 20210417,4123,ch,valais,33
 20210417,4124,ch,neuchatel,20
-20210417,4125,ch,geneve,79
+20210417,4125,ch,geneve,82
 20210417,4126,ch,jura_ch,8
 20210417,43,at,austria,1507
 20210417,4301,at,wien,499
@@ -47690,7 +47711,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210416,4122,ch,vaud,157
 20210416,4123,ch,valais,37
 20210416,4124,ch,neuchatel,16
-20210416,4125,ch,geneve,74
+20210416,4125,ch,geneve,77
 20210416,4126,ch,jura_ch,6
 20210416,43,at,austria,1550
 20210416,4301,at,wien,500
@@ -47872,7 +47893,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210415,4122,ch,vaud,164
 20210415,4123,ch,valais,37
 20210415,4124,ch,neuchatel,15
-20210415,4125,ch,geneve,75
+20210415,4125,ch,geneve,79
 20210415,4126,ch,jura_ch,6
 20210415,423,li,liechtenstein,3
 20210415,43,at,austria,1586
@@ -48056,7 +48077,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210414,4122,ch,vaud,162
 20210414,4123,ch,valais,43
 20210414,4124,ch,neuchatel,15
-20210414,4125,ch,geneve,78
+20210414,4125,ch,geneve,83
 20210414,4126,ch,jura_ch,7
 20210414,423,li,liechtenstein,5
 20210414,43,at,austria,1687
@@ -48240,7 +48261,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210413,4122,ch,vaud,166
 20210413,4123,ch,valais,47
 20210413,4124,ch,neuchatel,15
-20210413,4125,ch,geneve,88
+20210413,4125,ch,geneve,93
 20210413,4126,ch,jura_ch,3
 20210413,423,li,liechtenstein,5
 20210413,43,at,austria,1752
@@ -48422,7 +48443,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210412,4122,ch,vaud,168
 20210412,4123,ch,valais,41
 20210412,4124,ch,neuchatel,15
-20210412,4125,ch,geneve,93
+20210412,4125,ch,geneve,101
 20210412,4126,ch,jura_ch,4
 20210412,423,li,liechtenstein,5
 20210412,43,at,austria,1799
@@ -48597,7 +48618,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210411,4122,ch,vaud,188
 20210411,4123,ch,valais,37
 20210411,4124,ch,neuchatel,19
-20210411,4125,ch,geneve,97
+20210411,4125,ch,geneve,104
 20210411,4126,ch,jura_ch,5
 20210411,423,li,liechtenstein,5
 20210411,43,at,austria,1705
@@ -48771,7 +48792,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210410,4122,ch,vaud,184
 20210410,4123,ch,valais,37
 20210410,4124,ch,neuchatel,17
-20210410,4125,ch,geneve,91
+20210410,4125,ch,geneve,98
 20210410,4126,ch,jura_ch,3
 20210410,43,at,austria,1734
 20210410,4301,at,wien,524
@@ -48952,7 +48973,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210409,4122,ch,vaud,179
 20210409,4123,ch,valais,30
 20210409,4124,ch,neuchatel,14
-20210409,4125,ch,geneve,94
+20210409,4125,ch,geneve,102
 20210409,4126,ch,jura_ch,4
 20210409,43,at,austria,1802
 20210409,4301,at,wien,536
@@ -49133,7 +49154,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210408,4122,ch,vaud,186
 20210408,4123,ch,valais,34
 20210408,4124,ch,neuchatel,16
-20210408,4125,ch,geneve,91
+20210408,4125,ch,geneve,98
 20210408,4126,ch,jura_ch,5
 20210408,423,li,liechtenstein,4
 20210408,43,at,austria,1807
@@ -49317,7 +49338,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210407,4122,ch,vaud,198
 20210407,4123,ch,valais,39
 20210407,4124,ch,neuchatel,13
-20210407,4125,ch,geneve,103
+20210407,4125,ch,geneve,110
 20210407,4126,ch,jura_ch,5
 20210407,423,li,liechtenstein,4
 20210407,43,at,austria,1877
@@ -49501,7 +49522,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210406,4122,ch,vaud,203
 20210406,4123,ch,valais,40
 20210406,4124,ch,neuchatel,17
-20210406,4125,ch,geneve,103
+20210406,4125,ch,geneve,111
 20210406,4126,ch,jura_ch,4
 20210406,423,li,liechtenstein,4
 20210406,43,at,austria,1854
@@ -49677,7 +49698,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210405,4122,ch,vaud,189
 20210405,4123,ch,valais,38
 20210405,4124,ch,neuchatel,18
-20210405,4125,ch,geneve,107
+20210405,4125,ch,geneve,115
 20210405,4126,ch,jura_ch,4
 20210405,423,li,liechtenstein,4
 20210405,43,at,austria,1771
@@ -49851,7 +49872,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210404,4122,ch,vaud,182
 20210404,4123,ch,valais,40
 20210404,4124,ch,neuchatel,17
-20210404,4125,ch,geneve,103
+20210404,4125,ch,geneve,109
 20210404,4126,ch,jura_ch,4
 20210404,43,at,austria,1671
 20210404,4301,at,wien,488
@@ -50024,7 +50045,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210403,4122,ch,vaud,174
 20210403,4123,ch,valais,35
 20210403,4124,ch,neuchatel,15
-20210403,4125,ch,geneve,87
+20210403,4125,ch,geneve,93
 20210403,4126,ch,jura_ch,3
 20210403,43,at,austria,1655
 20210403,4301,at,wien,491
@@ -50197,7 +50218,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210402,4122,ch,vaud,180
 20210402,4123,ch,valais,28
 20210402,4124,ch,neuchatel,13
-20210402,4125,ch,geneve,75
+20210402,4125,ch,geneve,81
 20210402,4126,ch,jura_ch,3
 20210402,43,at,austria,1753
 20210402,4301,at,wien,509
@@ -50378,7 +50399,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210401,4122,ch,vaud,178
 20210401,4123,ch,valais,22
 20210401,4124,ch,neuchatel,12
-20210401,4125,ch,geneve,70
+20210401,4125,ch,geneve,73
 20210401,4126,ch,jura_ch,3
 20210401,423,li,liechtenstein,1
 20210401,43,at,austria,1765
@@ -50561,7 +50582,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210331,4122,ch,vaud,176
 20210331,4123,ch,valais,27
 20210331,4124,ch,neuchatel,13
-20210331,4125,ch,geneve,79
+20210331,4125,ch,geneve,83
 20210331,4126,ch,jura_ch,2
 20210331,423,li,liechtenstein,1
 20210331,43,at,austria,1787
@@ -50744,7 +50765,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210330,4122,ch,vaud,163
 20210330,4123,ch,valais,31
 20210330,4124,ch,neuchatel,13
-20210330,4125,ch,geneve,77
+20210330,4125,ch,geneve,81
 20210330,4126,ch,jura_ch,2
 20210330,423,li,liechtenstein,1
 20210330,43,at,austria,1770
@@ -50926,7 +50947,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210329,4122,ch,vaud,166
 20210329,4123,ch,valais,32
 20210329,4124,ch,neuchatel,11
-20210329,4125,ch,geneve,76
+20210329,4125,ch,geneve,81
 20210329,4126,ch,jura_ch,1
 20210329,423,li,liechtenstein,1
 20210329,43,at,austria,1710
@@ -51100,7 +51121,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210328,4122,ch,vaud,167
 20210328,4123,ch,valais,29
 20210328,4124,ch,neuchatel,12
-20210328,4125,ch,geneve,79
+20210328,4125,ch,geneve,83
 20210328,4126,ch,jura_ch,0
 20210328,423,li,liechtenstein,2
 20210328,43,at,austria,1636
@@ -51273,7 +51294,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210327,4122,ch,vaud,161
 20210327,4123,ch,valais,29
 20210327,4124,ch,neuchatel,15
-20210327,4125,ch,geneve,74
+20210327,4125,ch,geneve,78
 20210327,4126,ch,jura_ch,0
 20210327,43,at,austria,1651
 20210327,4301,at,wien,473
@@ -51452,7 +51473,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210326,4122,ch,vaud,159
 20210326,4123,ch,valais,37
 20210326,4124,ch,neuchatel,15
-20210326,4125,ch,geneve,66
+20210326,4125,ch,geneve,70
 20210326,4126,ch,jura_ch,0
 20210326,43,at,austria,1693
 20210326,4301,at,wien,483
@@ -51632,7 +51653,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210325,4122,ch,vaud,163
 20210325,4123,ch,valais,39
 20210325,4124,ch,neuchatel,19
-20210325,4125,ch,geneve,76
+20210325,4125,ch,geneve,79
 20210325,4126,ch,jura_ch,0
 20210325,423,li,liechtenstein,1
 20210325,43,at,austria,1641
@@ -51814,7 +51835,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210324,4122,ch,vaud,167
 20210324,4123,ch,valais,34
 20210324,4124,ch,neuchatel,20
-20210324,4125,ch,geneve,78
+20210324,4125,ch,geneve,82
 20210324,4126,ch,jura_ch,1
 20210324,423,li,liechtenstein,1
 20210324,43,at,austria,1635
@@ -51996,7 +52017,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210323,4122,ch,vaud,173
 20210323,4123,ch,valais,45
 20210323,4124,ch,neuchatel,15
-20210323,4125,ch,geneve,74
+20210323,4125,ch,geneve,78
 20210323,4126,ch,jura_ch,1
 20210323,423,li,liechtenstein,2
 20210323,43,at,austria,1614
@@ -52176,7 +52197,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210322,4122,ch,vaud,179
 20210322,4123,ch,valais,45
 20210322,4124,ch,neuchatel,22
-20210322,4125,ch,geneve,72
+20210322,4125,ch,geneve,76
 20210322,4126,ch,jura_ch,2
 20210322,423,li,liechtenstein,2
 20210322,43,at,austria,1573
@@ -52349,7 +52370,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210321,4122,ch,vaud,175
 20210321,4123,ch,valais,41
 20210321,4124,ch,neuchatel,20
-20210321,4125,ch,geneve,68
+20210321,4125,ch,geneve,72
 20210321,4126,ch,jura_ch,4
 20210321,423,li,liechtenstein,0
 20210321,43,at,austria,1495
@@ -52521,7 +52542,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210320,4122,ch,vaud,170
 20210320,4123,ch,valais,35
 20210320,4124,ch,neuchatel,18
-20210320,4125,ch,geneve,61
+20210320,4125,ch,geneve,65
 20210320,4126,ch,jura_ch,6
 20210320,43,at,austria,1438
 20210320,4301,at,wien,390
@@ -52699,7 +52720,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210319,4122,ch,vaud,169
 20210319,4123,ch,valais,34
 20210319,4124,ch,neuchatel,16
-20210319,4125,ch,geneve,66
+20210319,4125,ch,geneve,72
 20210319,4126,ch,jura_ch,5
 20210319,43,at,austria,1462
 20210319,4301,at,wien,406
@@ -52879,7 +52900,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210318,4122,ch,vaud,166
 20210318,4123,ch,valais,32
 20210318,4124,ch,neuchatel,17
-20210318,4125,ch,geneve,65
+20210318,4125,ch,geneve,72
 20210318,4126,ch,jura_ch,4
 20210318,423,li,liechtenstein,0
 20210318,43,at,austria,1451
@@ -53060,7 +53081,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210317,4122,ch,vaud,163
 20210317,4123,ch,valais,30
 20210317,4124,ch,neuchatel,17
-20210317,4125,ch,geneve,65
+20210317,4125,ch,geneve,72
 20210317,4126,ch,jura_ch,4
 20210317,423,li,liechtenstein,0
 20210317,43,at,austria,1449
@@ -53242,7 +53263,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210316,4122,ch,vaud,172
 20210316,4123,ch,valais,37
 20210316,4124,ch,neuchatel,21
-20210316,4125,ch,geneve,63
+20210316,4125,ch,geneve,72
 20210316,4126,ch,jura_ch,4
 20210316,423,li,liechtenstein,0
 20210316,43,at,austria,1438
@@ -53423,7 +53444,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210315,4122,ch,vaud,165
 20210315,4123,ch,valais,31
 20210315,4124,ch,neuchatel,19
-20210315,4125,ch,geneve,64
+20210315,4125,ch,geneve,72
 20210315,4126,ch,jura_ch,6
 20210315,423,li,liechtenstein,1
 20210315,43,at,austria,1406
@@ -53596,7 +53617,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210314,4122,ch,vaud,168
 20210314,4123,ch,valais,31
 20210314,4124,ch,neuchatel,25
-20210314,4125,ch,geneve,61
+20210314,4125,ch,geneve,69
 20210314,4126,ch,jura_ch,7
 20210314,423,li,liechtenstein,2
 20210314,43,at,austria,1322
@@ -53768,7 +53789,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210313,4122,ch,vaud,163
 20210313,4123,ch,valais,30
 20210313,4124,ch,neuchatel,22
-20210313,4125,ch,geneve,56
+20210313,4125,ch,geneve,65
 20210313,4126,ch,jura_ch,6
 20210313,43,at,austria,1285
 20210313,4301,at,wien,343
@@ -53947,7 +53968,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210312,4122,ch,vaud,158
 20210312,4123,ch,valais,35
 20210312,4124,ch,neuchatel,23
-20210312,4125,ch,geneve,52
+20210312,4125,ch,geneve,60
 20210312,4126,ch,jura_ch,7
 20210312,423,li,liechtenstein,0
 20210312,43,at,austria,1269
@@ -54128,7 +54149,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210311,4122,ch,vaud,166
 20210311,4123,ch,valais,36
 20210311,4124,ch,neuchatel,30
-20210311,4125,ch,geneve,52
+20210311,4125,ch,geneve,59
 20210311,4126,ch,jura_ch,7
 20210311,423,li,liechtenstein,0
 20210311,43,at,austria,1242
@@ -54311,7 +54332,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210310,4122,ch,vaud,172
 20210310,4123,ch,valais,43
 20210310,4124,ch,neuchatel,25
-20210310,4125,ch,geneve,52
+20210310,4125,ch,geneve,58
 20210310,4126,ch,jura_ch,8
 20210310,423,li,liechtenstein,0
 20210310,43,at,austria,1273
@@ -54494,7 +54515,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210309,4122,ch,vaud,178
 20210309,4123,ch,valais,46
 20210309,4124,ch,neuchatel,31
-20210309,4125,ch,geneve,52
+20210309,4125,ch,geneve,57
 20210309,4126,ch,jura_ch,8
 20210309,423,li,liechtenstein,1
 20210309,43,at,austria,1287
@@ -54678,7 +54699,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210308,4122,ch,vaud,183
 20210308,4123,ch,valais,46
 20210308,4124,ch,neuchatel,34
-20210308,4125,ch,geneve,51
+20210308,4125,ch,geneve,55
 20210308,4126,ch,jura_ch,5
 20210308,423,li,liechtenstein,2
 20210308,43,at,austria,1226
@@ -54854,7 +54875,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210307,4122,ch,vaud,184
 20210307,4123,ch,valais,36
 20210307,4124,ch,neuchatel,39
-20210307,4125,ch,geneve,56
+20210307,4125,ch,geneve,64
 20210307,4126,ch,jura_ch,4
 20210307,423,li,liechtenstein,2
 20210307,43,at,austria,1155
@@ -55028,7 +55049,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210306,4122,ch,vaud,182
 20210306,4123,ch,valais,32
 20210306,4124,ch,neuchatel,41
-20210306,4125,ch,geneve,55
+20210306,4125,ch,geneve,63
 20210306,4126,ch,jura_ch,4
 20210306,43,at,austria,1138
 20210306,4301,at,wien,285
@@ -55210,7 +55231,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210305,4122,ch,vaud,180
 20210305,4123,ch,valais,31
 20210305,4124,ch,neuchatel,41
-20210305,4125,ch,geneve,52
+20210305,4125,ch,geneve,62
 20210305,4126,ch,jura_ch,4
 20210305,423,li,liechtenstein,1
 20210305,43,at,austria,1114
@@ -55394,7 +55415,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210304,4122,ch,vaud,187
 20210304,4123,ch,valais,38
 20210304,4124,ch,neuchatel,46
-20210304,4125,ch,geneve,48
+20210304,4125,ch,geneve,61
 20210304,4126,ch,jura_ch,7
 20210304,423,li,liechtenstein,1
 20210304,43,at,austria,1142
@@ -55578,7 +55599,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210303,4122,ch,vaud,215
 20210303,4123,ch,valais,34
 20210303,4124,ch,neuchatel,54
-20210303,4125,ch,geneve,52
+20210303,4125,ch,geneve,65
 20210303,4126,ch,jura_ch,7
 20210303,423,li,liechtenstein,2
 20210303,43,at,austria,1097
@@ -55762,7 +55783,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210302,4122,ch,vaud,218
 20210302,4123,ch,valais,33
 20210302,4124,ch,neuchatel,50
-20210302,4125,ch,geneve,48
+20210302,4125,ch,geneve,58
 20210302,4126,ch,jura_ch,8
 20210302,423,li,liechtenstein,1
 20210302,43,at,austria,1124
@@ -55946,7 +55967,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210301,4122,ch,vaud,218
 20210301,4123,ch,valais,34
 20210301,4124,ch,neuchatel,54
-20210301,4125,ch,geneve,51
+20210301,4125,ch,geneve,63
 20210301,4126,ch,jura_ch,7
 20210301,423,li,liechtenstein,1
 20210301,43,at,austria,1073
@@ -56122,7 +56143,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210228,4122,ch,vaud,249
 20210228,4123,ch,valais,34
 20210228,4124,ch,neuchatel,48
-20210228,4125,ch,geneve,54
+20210228,4125,ch,geneve,66
 20210228,4126,ch,jura_ch,9
 20210228,423,li,liechtenstein,4
 20210228,43,at,austria,1022
@@ -56296,7 +56317,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210227,4122,ch,vaud,243
 20210227,4123,ch,valais,37
 20210227,4124,ch,neuchatel,44
-20210227,4125,ch,geneve,56
+20210227,4125,ch,geneve,67
 20210227,4126,ch,jura_ch,11
 20210227,43,at,austria,988
 20210227,4301,at,wien,250
@@ -56478,7 +56499,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210226,4122,ch,vaud,246
 20210226,4123,ch,valais,35
 20210226,4124,ch,neuchatel,43
-20210226,4125,ch,geneve,56
+20210226,4125,ch,geneve,67
 20210226,4126,ch,jura_ch,10
 20210226,423,li,liechtenstein,3
 20210226,43,at,austria,1018
@@ -56662,7 +56683,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210225,4122,ch,vaud,254
 20210225,4123,ch,valais,37
 20210225,4124,ch,neuchatel,48
-20210225,4125,ch,geneve,59
+20210225,4125,ch,geneve,70
 20210225,4126,ch,jura_ch,10
 20210225,423,li,liechtenstein,3
 20210225,43,at,austria,1041
@@ -56846,7 +56867,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210224,4122,ch,vaud,236
 20210224,4123,ch,valais,34
 20210224,4124,ch,neuchatel,51
-20210224,4125,ch,geneve,61
+20210224,4125,ch,geneve,73
 20210224,4126,ch,jura_ch,12
 20210224,423,li,liechtenstein,5
 20210224,43,at,austria,1064
@@ -57030,7 +57051,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210223,4122,ch,vaud,242
 20210223,4123,ch,valais,41
 20210223,4124,ch,neuchatel,51
-20210223,4125,ch,geneve,67
+20210223,4125,ch,geneve,80
 20210223,4126,ch,jura_ch,15
 20210223,423,li,liechtenstein,3
 20210223,43,at,austria,1077
@@ -57214,7 +57235,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210222,4122,ch,vaud,244
 20210222,4123,ch,valais,40
 20210222,4124,ch,neuchatel,51
-20210222,4125,ch,geneve,84
+20210222,4125,ch,geneve,98
 20210222,4126,ch,jura_ch,19
 20210222,423,li,liechtenstein,4
 20210222,43,at,austria,1085
@@ -57390,7 +57411,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210221,4122,ch,vaud,247
 20210221,4123,ch,valais,40
 20210221,4124,ch,neuchatel,49
-20210221,4125,ch,geneve,77
+20210221,4125,ch,geneve,93
 20210221,4126,ch,jura_ch,20
 20210221,423,li,liechtenstein,4
 20210221,43,at,austria,1018
@@ -57564,7 +57585,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210220,4122,ch,vaud,237
 20210220,4123,ch,valais,37
 20210220,4124,ch,neuchatel,51
-20210220,4125,ch,geneve,69
+20210220,4125,ch,geneve,85
 20210220,4126,ch,jura_ch,20
 20210220,43,at,austria,999
 20210220,4301,at,wien,256
@@ -57746,7 +57767,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210219,4122,ch,vaud,233
 20210219,4123,ch,valais,40
 20210219,4124,ch,neuchatel,48
-20210219,4125,ch,geneve,65
+20210219,4125,ch,geneve,81
 20210219,4126,ch,jura_ch,21
 20210219,423,li,liechtenstein,3
 20210219,43,at,austria,1030
@@ -57929,7 +57950,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210218,4122,ch,vaud,234
 20210218,4123,ch,valais,48
 20210218,4124,ch,neuchatel,45
-20210218,4125,ch,geneve,74
+20210218,4125,ch,geneve,90
 20210218,4126,ch,jura_ch,20
 20210218,423,li,liechtenstein,3
 20210218,43,at,austria,1027
@@ -58112,7 +58133,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210217,4122,ch,vaud,228
 20210217,4123,ch,valais,46
 20210217,4124,ch,neuchatel,39
-20210217,4125,ch,geneve,74
+20210217,4125,ch,geneve,89
 20210217,4126,ch,jura_ch,19
 20210217,423,li,liechtenstein,2
 20210217,43,at,austria,1069
@@ -58295,7 +58316,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210216,4122,ch,vaud,224
 20210216,4123,ch,valais,51
 20210216,4124,ch,neuchatel,33
-20210216,4125,ch,geneve,77
+20210216,4125,ch,geneve,87
 20210216,4126,ch,jura_ch,22
 20210216,423,li,liechtenstein,4
 20210216,43,at,austria,1089
@@ -58478,7 +58499,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210215,4122,ch,vaud,220
 20210215,4123,ch,valais,74
 20210215,4124,ch,neuchatel,32
-20210215,4125,ch,geneve,87
+20210215,4125,ch,geneve,96
 20210215,4126,ch,jura_ch,23
 20210215,423,li,liechtenstein,2
 20210215,43,at,austria,1104
@@ -58654,7 +58675,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210214,4122,ch,vaud,215
 20210214,4123,ch,valais,77
 20210214,4124,ch,neuchatel,36
-20210214,4125,ch,geneve,81
+20210214,4125,ch,geneve,90
 20210214,4126,ch,jura_ch,20
 20210214,423,li,liechtenstein,2
 20210214,43,at,austria,1056
@@ -58828,7 +58849,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210213,4122,ch,vaud,203
 20210213,4123,ch,valais,76
 20210213,4124,ch,neuchatel,38
-20210213,4125,ch,geneve,75
+20210213,4125,ch,geneve,84
 20210213,4126,ch,jura_ch,21
 20210213,43,at,austria,1062
 20210213,4301,at,wien,259
@@ -59009,7 +59030,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210212,4122,ch,vaud,201
 20210212,4123,ch,valais,85
 20210212,4124,ch,neuchatel,38
-20210212,4125,ch,geneve,75
+20210212,4125,ch,geneve,85
 20210212,4126,ch,jura_ch,21
 20210212,423,li,liechtenstein,2
 20210212,43,at,austria,1151
@@ -59192,7 +59213,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210211,4122,ch,vaud,207
 20210211,4123,ch,valais,92
 20210211,4124,ch,neuchatel,37
-20210211,4125,ch,geneve,78
+20210211,4125,ch,geneve,87
 20210211,4126,ch,jura_ch,21
 20210211,423,li,liechtenstein,2
 20210211,43,at,austria,1212
@@ -59376,7 +59397,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210210,4122,ch,vaud,224
 20210210,4123,ch,valais,95
 20210210,4124,ch,neuchatel,32
-20210210,4125,ch,geneve,83
+20210210,4125,ch,geneve,93
 20210210,4126,ch,jura_ch,22
 20210210,423,li,liechtenstein,2
 20210210,43,at,austria,1262
@@ -59560,7 +59581,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210209,4122,ch,vaud,215
 20210209,4123,ch,valais,107
 20210209,4124,ch,neuchatel,31
-20210209,4125,ch,geneve,95
+20210209,4125,ch,geneve,104
 20210209,4126,ch,jura_ch,22
 20210209,423,li,liechtenstein,7
 20210209,43,at,austria,1318
@@ -59744,7 +59765,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210208,4122,ch,vaud,227
 20210208,4123,ch,valais,121
 20210208,4124,ch,neuchatel,31
-20210208,4125,ch,geneve,109
+20210208,4125,ch,geneve,117
 20210208,4126,ch,jura_ch,21
 20210208,423,li,liechtenstein,6
 20210208,43,at,austria,1299
@@ -59920,7 +59941,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210207,4122,ch,vaud,239
 20210207,4123,ch,valais,120
 20210207,4124,ch,neuchatel,29
-20210207,4125,ch,geneve,103
+20210207,4125,ch,geneve,112
 20210207,4126,ch,jura_ch,25
 20210207,423,li,liechtenstein,3
 20210207,43,at,austria,1275
@@ -60094,7 +60115,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210206,4122,ch,vaud,235
 20210206,4123,ch,valais,119
 20210206,4124,ch,neuchatel,29
-20210206,4125,ch,geneve,96
+20210206,4125,ch,geneve,105
 20210206,4126,ch,jura_ch,24
 20210206,423,li,liechtenstein,4
 20210206,43,at,austria,1289
@@ -60277,7 +60298,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210205,4122,ch,vaud,232
 20210205,4123,ch,valais,121
 20210205,4124,ch,neuchatel,29
-20210205,4125,ch,geneve,104
+20210205,4125,ch,geneve,112
 20210205,4126,ch,jura_ch,22
 20210205,423,li,liechtenstein,4
 20210205,43,at,austria,1304
@@ -60461,7 +60482,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210204,4122,ch,vaud,242
 20210204,4123,ch,valais,126
 20210204,4124,ch,neuchatel,32
-20210204,4125,ch,geneve,101
+20210204,4125,ch,geneve,110
 20210204,4126,ch,jura_ch,22
 20210204,423,li,liechtenstein,4
 20210204,43,at,austria,1342
@@ -60645,7 +60666,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210203,4122,ch,vaud,250
 20210203,4123,ch,valais,129
 20210203,4124,ch,neuchatel,32
-20210203,4125,ch,geneve,101
+20210203,4125,ch,geneve,111
 20210203,4126,ch,jura_ch,17
 20210203,423,li,liechtenstein,8
 20210203,43,at,austria,1383
@@ -60829,7 +60850,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210202,4122,ch,vaud,258
 20210202,4123,ch,valais,136
 20210202,4124,ch,neuchatel,30
-20210202,4125,ch,geneve,103
+20210202,4125,ch,geneve,112
 20210202,4126,ch,jura_ch,19
 20210202,423,li,liechtenstein,3
 20210202,43,at,austria,1429
@@ -61013,7 +61034,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210201,4122,ch,vaud,265
 20210201,4123,ch,valais,132
 20210201,4124,ch,neuchatel,28
-20210201,4125,ch,geneve,115
+20210201,4125,ch,geneve,126
 20210201,4126,ch,jura_ch,18
 20210201,423,li,liechtenstein,5
 20210201,43,at,austria,1433
@@ -61189,7 +61210,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210131,4122,ch,vaud,259
 20210131,4123,ch,valais,126
 20210131,4124,ch,neuchatel,24
-20210131,4125,ch,geneve,111
+20210131,4125,ch,geneve,122
 20210131,4126,ch,jura_ch,17
 20210131,423,li,liechtenstein,5
 20210131,43,at,austria,1387
@@ -61363,7 +61384,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210130,4122,ch,vaud,259
 20210130,4123,ch,valais,117
 20210130,4124,ch,neuchatel,25
-20210130,4125,ch,geneve,102
+20210130,4125,ch,geneve,113
 20210130,4126,ch,jura_ch,12
 20210130,43,at,austria,1385
 20210130,4301,at,wien,367
@@ -61545,7 +61566,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210129,4122,ch,vaud,259
 20210129,4123,ch,valais,120
 20210129,4124,ch,neuchatel,25
-20210129,4125,ch,geneve,107
+20210129,4125,ch,geneve,120
 20210129,4126,ch,jura_ch,16
 20210129,423,li,liechtenstein,4
 20210129,43,at,austria,1428
@@ -61729,7 +61750,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210128,4122,ch,vaud,254
 20210128,4123,ch,valais,125
 20210128,4124,ch,neuchatel,19
-20210128,4125,ch,geneve,114
+20210128,4125,ch,geneve,127
 20210128,4126,ch,jura_ch,17
 20210128,423,li,liechtenstein,4
 20210128,43,at,austria,1478
@@ -61913,7 +61934,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210127,4122,ch,vaud,249
 20210127,4123,ch,valais,146
 20210127,4124,ch,neuchatel,24
-20210127,4125,ch,geneve,115
+20210127,4125,ch,geneve,128
 20210127,4126,ch,jura_ch,14
 20210127,423,li,liechtenstein,4
 20210127,43,at,austria,1526
@@ -62097,7 +62118,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210126,4122,ch,vaud,263
 20210126,4123,ch,valais,149
 20210126,4124,ch,neuchatel,25
-20210126,4125,ch,geneve,104
+20210126,4125,ch,geneve,118
 20210126,4126,ch,jura_ch,16
 20210126,423,li,liechtenstein,5
 20210126,43,at,austria,1583
@@ -62281,7 +62302,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210125,4122,ch,vaud,273
 20210125,4123,ch,valais,147
 20210125,4124,ch,neuchatel,24
-20210125,4125,ch,geneve,110
+20210125,4125,ch,geneve,124
 20210125,4126,ch,jura_ch,15
 20210125,423,li,liechtenstein,6
 20210125,43,at,austria,1548
@@ -62457,7 +62478,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210124,4122,ch,vaud,270
 20210124,4123,ch,valais,137
 20210124,4124,ch,neuchatel,23
-20210124,4125,ch,geneve,113
+20210124,4125,ch,geneve,128
 20210124,4126,ch,jura_ch,15
 20210124,423,li,liechtenstein,6
 20210124,43,at,austria,1518
@@ -62631,7 +62652,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210123,4122,ch,vaud,273
 20210123,4123,ch,valais,123
 20210123,4124,ch,neuchatel,24
-20210123,4125,ch,geneve,107
+20210123,4125,ch,geneve,122
 20210123,4126,ch,jura_ch,13
 20210123,43,at,austria,1525
 20210123,4301,at,wien,346
@@ -62814,7 +62835,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210122,4122,ch,vaud,258
 20210122,4123,ch,valais,129
 20210122,4124,ch,neuchatel,26
-20210122,4125,ch,geneve,110
+20210122,4125,ch,geneve,125
 20210122,4126,ch,jura_ch,15
 20210122,423,li,liechtenstein,6
 20210122,43,at,austria,1586
@@ -62999,7 +63020,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210121,4122,ch,vaud,254
 20210121,4123,ch,valais,127
 20210121,4124,ch,neuchatel,27
-20210121,4125,ch,geneve,104
+20210121,4125,ch,geneve,117
 20210121,4126,ch,jura_ch,17
 20210121,423,li,liechtenstein,6
 20210121,43,at,austria,1606
@@ -63184,7 +63205,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210120,4122,ch,vaud,257
 20210120,4123,ch,valais,125
 20210120,4124,ch,neuchatel,25
-20210120,4125,ch,geneve,103
+20210120,4125,ch,geneve,116
 20210120,4126,ch,jura_ch,18
 20210120,423,li,liechtenstein,6
 20210120,43,at,austria,1683
@@ -63369,7 +63390,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210119,4122,ch,vaud,277
 20210119,4123,ch,valais,140
 20210119,4124,ch,neuchatel,30
-20210119,4125,ch,geneve,101
+20210119,4125,ch,geneve,114
 20210119,4126,ch,jura_ch,22
 20210119,423,li,liechtenstein,6
 20210119,43,at,austria,1729
@@ -63554,7 +63575,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210118,4122,ch,vaud,281
 20210118,4123,ch,valais,124
 20210118,4124,ch,neuchatel,29
-20210118,4125,ch,geneve,99
+20210118,4125,ch,geneve,113
 20210118,4126,ch,jura_ch,19
 20210118,423,li,liechtenstein,7
 20210118,43,at,austria,1673
@@ -63731,7 +63752,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210117,4122,ch,vaud,281
 20210117,4123,ch,valais,123
 20210117,4124,ch,neuchatel,34
-20210117,4125,ch,geneve,99
+20210117,4125,ch,geneve,114
 20210117,4126,ch,jura_ch,17
 20210117,423,li,liechtenstein,6
 20210117,43,at,austria,1635
@@ -63905,7 +63926,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210116,4122,ch,vaud,279
 20210116,4123,ch,valais,130
 20210116,4124,ch,neuchatel,32
-20210116,4125,ch,geneve,99
+20210116,4125,ch,geneve,114
 20210116,4126,ch,jura_ch,15
 20210116,43,at,austria,1668
 20210116,4301,at,wien,332
@@ -64087,7 +64108,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210115,4122,ch,vaud,272
 20210115,4123,ch,valais,137
 20210115,4124,ch,neuchatel,31
-20210115,4125,ch,geneve,103
+20210115,4125,ch,geneve,115
 20210115,4126,ch,jura_ch,15
 20210115,423,li,liechtenstein,9
 20210115,43,at,austria,1705
@@ -64272,7 +64293,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210114,4122,ch,vaud,271
 20210114,4123,ch,valais,127
 20210114,4124,ch,neuchatel,38
-20210114,4125,ch,geneve,115
+20210114,4125,ch,geneve,128
 20210114,4126,ch,jura_ch,17
 20210114,423,li,liechtenstein,9
 20210114,43,at,austria,1725
@@ -64457,7 +64478,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210113,4122,ch,vaud,282
 20210113,4123,ch,valais,112
 20210113,4124,ch,neuchatel,41
-20210113,4125,ch,geneve,106
+20210113,4125,ch,geneve,118
 20210113,4126,ch,jura_ch,20
 20210113,423,li,liechtenstein,13
 20210113,43,at,austria,1825
@@ -64642,7 +64663,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210112,4122,ch,vaud,290
 20210112,4123,ch,valais,110
 20210112,4124,ch,neuchatel,40
-20210112,4125,ch,geneve,110
+20210112,4125,ch,geneve,121
 20210112,4126,ch,jura_ch,23
 20210112,423,li,liechtenstein,13
 20210112,43,at,austria,1923
@@ -64827,7 +64848,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210111,4122,ch,vaud,310
 20210111,4123,ch,valais,97
 20210111,4124,ch,neuchatel,39
-20210111,4125,ch,geneve,121
+20210111,4125,ch,geneve,132
 20210111,4126,ch,jura_ch,25
 20210111,423,li,liechtenstein,13
 20210111,43,at,austria,1918
@@ -65003,7 +65024,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210110,4122,ch,vaud,322
 20210110,4123,ch,valais,98
 20210110,4124,ch,neuchatel,44
-20210110,4125,ch,geneve,112
+20210110,4125,ch,geneve,123
 20210110,4126,ch,jura_ch,24
 20210110,423,li,liechtenstein,14
 20210110,43,at,austria,1874
@@ -65177,7 +65198,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210109,4122,ch,vaud,316
 20210109,4123,ch,valais,94
 20210109,4124,ch,neuchatel,42
-20210109,4125,ch,geneve,106
+20210109,4125,ch,geneve,117
 20210109,4126,ch,jura_ch,23
 20210109,43,at,austria,1957
 20210109,4301,at,wien,403
@@ -65360,7 +65381,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210108,4122,ch,vaud,303
 20210108,4123,ch,valais,94
 20210108,4124,ch,neuchatel,36
-20210108,4125,ch,geneve,112
+20210108,4125,ch,geneve,124
 20210108,4126,ch,jura_ch,23
 20210108,423,li,liechtenstein,14
 20210108,43,at,austria,2000
@@ -65545,7 +65566,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210107,4122,ch,vaud,302
 20210107,4123,ch,valais,92
 20210107,4124,ch,neuchatel,41
-20210107,4125,ch,geneve,107
+20210107,4125,ch,geneve,117
 20210107,4126,ch,jura_ch,25
 20210107,423,li,liechtenstein,14
 20210107,43,at,austria,1981
@@ -65729,7 +65750,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210106,4122,ch,vaud,310
 20210106,4123,ch,valais,83
 20210106,4124,ch,neuchatel,42
-20210106,4125,ch,geneve,112
+20210106,4125,ch,geneve,120
 20210106,4126,ch,jura_ch,22
 20210106,423,li,liechtenstein,18
 20210106,43,at,austria,2022
@@ -65914,7 +65935,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210105,4122,ch,vaud,311
 20210105,4123,ch,valais,79
 20210105,4124,ch,neuchatel,51
-20210105,4125,ch,geneve,122
+20210105,4125,ch,geneve,127
 20210105,4126,ch,jura_ch,21
 20210105,423,li,liechtenstein,16
 20210105,43,at,austria,2033
@@ -66099,7 +66120,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210104,4122,ch,vaud,328
 20210104,4123,ch,valais,84
 20210104,4124,ch,neuchatel,49
-20210104,4125,ch,geneve,127
+20210104,4125,ch,geneve,135
 20210104,4126,ch,jura_ch,26
 20210104,423,li,liechtenstein,13
 20210104,43,at,austria,1953
@@ -66275,7 +66296,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210103,4122,ch,vaud,301
 20210103,4123,ch,valais,77
 20210103,4124,ch,neuchatel,47
-20210103,4125,ch,geneve,123
+20210103,4125,ch,geneve,131
 20210103,4126,ch,jura_ch,29
 20210103,423,li,liechtenstein,13
 20210103,43,at,austria,1864
@@ -66450,7 +66471,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210102,4122,ch,vaud,290
 20210102,4123,ch,valais,73
 20210102,4124,ch,neuchatel,43
-20210102,4125,ch,geneve,115
+20210102,4125,ch,geneve,123
 20210102,4126,ch,jura_ch,29
 20210102,43,at,austria,1858
 20210102,4301,at,wien,366
@@ -66627,7 +66648,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210101,4122,ch,vaud,289
 20210101,4123,ch,valais,75
 20210101,4124,ch,neuchatel,40
-20210101,4125,ch,geneve,110
+20210101,4125,ch,geneve,120
 20210101,4126,ch,jura_ch,32
 20210101,43,at,austria,1858
 20210101,4301,at,wien,366
@@ -66809,7 +66830,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201231,4122,ch,vaud,274
 20201231,4123,ch,valais,78
 20201231,4124,ch,neuchatel,41
-20201231,4125,ch,geneve,113
+20201231,4125,ch,geneve,122
 20201231,4126,ch,jura_ch,32
 20201231,43,at,austria,1946
 20201231,4301,at,wien,392
@@ -66991,7 +67012,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201230,4122,ch,vaud,291
 20201230,4123,ch,valais,72
 20201230,4124,ch,neuchatel,43
-20201230,4125,ch,geneve,123
+20201230,4125,ch,geneve,138
 20201230,4126,ch,jura_ch,35
 20201230,423,li,liechtenstein,16
 20201230,43,at,austria,2012
@@ -67175,7 +67196,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201229,4122,ch,vaud,302
 20201229,4123,ch,valais,66
 20201229,4124,ch,neuchatel,41
-20201229,4125,ch,geneve,130
+20201229,4125,ch,geneve,146
 20201229,4126,ch,jura_ch,34
 20201229,423,li,liechtenstein,21
 20201229,43,at,austria,2116
@@ -67360,7 +67381,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201228,4122,ch,vaud,303
 20201228,4123,ch,valais,64
 20201228,4124,ch,neuchatel,40
-20201228,4125,ch,geneve,129
+20201228,4125,ch,geneve,144
 20201228,4126,ch,jura_ch,34
 20201228,423,li,liechtenstein,24
 20201228,43,at,austria,2089
@@ -67537,7 +67558,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201227,4122,ch,vaud,295
 20201227,4123,ch,valais,61
 20201227,4124,ch,neuchatel,41
-20201227,4125,ch,geneve,129
+20201227,4125,ch,geneve,144
 20201227,4126,ch,jura_ch,32
 20201227,43,at,austria,2043
 20201227,4301,at,wien,395
@@ -67713,7 +67734,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201226,4122,ch,vaud,287
 20201226,4123,ch,valais,63
 20201226,4124,ch,neuchatel,39
-20201226,4125,ch,geneve,126
+20201226,4125,ch,geneve,141
 20201226,4126,ch,jura_ch,30
 20201226,43,at,austria,2024
 20201226,4301,at,wien,389
@@ -67891,7 +67912,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201225,4122,ch,vaud,280
 20201225,4123,ch,valais,63
 20201225,4124,ch,neuchatel,40
-20201225,4125,ch,geneve,120
+20201225,4125,ch,geneve,133
 20201225,4126,ch,jura_ch,30
 20201225,43,at,austria,2045
 20201225,4301,at,wien,395
@@ -68073,7 +68094,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201224,4122,ch,vaud,281
 20201224,4123,ch,valais,63
 20201224,4124,ch,neuchatel,42
-20201224,4125,ch,geneve,122
+20201224,4125,ch,geneve,134
 20201224,4126,ch,jura_ch,28
 20201224,43,at,austria,2203
 20201224,4301,at,wien,417
@@ -68257,7 +68278,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201223,4122,ch,vaud,294
 20201223,4123,ch,valais,75
 20201223,4124,ch,neuchatel,39
-20201223,4125,ch,geneve,126
+20201223,4125,ch,geneve,137
 20201223,4126,ch,jura_ch,31
 20201223,423,li,liechtenstein,19
 20201223,43,at,austria,2303
@@ -68442,7 +68463,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201222,4122,ch,vaud,309
 20201222,4123,ch,valais,78
 20201222,4124,ch,neuchatel,44
-20201222,4125,ch,geneve,128
+20201222,4125,ch,geneve,139
 20201222,4126,ch,jura_ch,29
 20201222,423,li,liechtenstein,17
 20201222,43,at,austria,2435
@@ -68627,7 +68648,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201221,4122,ch,vaud,321
 20201221,4123,ch,valais,86
 20201221,4124,ch,neuchatel,51
-20201221,4125,ch,geneve,140
+20201221,4125,ch,geneve,150
 20201221,4126,ch,jura_ch,28
 20201221,423,li,liechtenstein,15
 20201221,43,at,austria,2393
@@ -68804,7 +68825,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201220,4122,ch,vaud,344
 20201220,4123,ch,valais,79
 20201220,4124,ch,neuchatel,52
-20201220,4125,ch,geneve,137
+20201220,4125,ch,geneve,147
 20201220,4126,ch,jura_ch,30
 20201220,43,at,austria,2412
 20201220,4301,at,wien,442
@@ -68978,7 +68999,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201219,4122,ch,vaud,337
 20201219,4123,ch,valais,75
 20201219,4124,ch,neuchatel,51
-20201219,4125,ch,geneve,143
+20201219,4125,ch,geneve,153
 20201219,4126,ch,jura_ch,25
 20201219,43,at,austria,2475
 20201219,4301,at,wien,447
@@ -69161,7 +69182,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201218,4122,ch,vaud,336
 20201218,4123,ch,valais,90
 20201218,4124,ch,neuchatel,53
-20201218,4125,ch,geneve,146
+20201218,4125,ch,geneve,156
 20201218,4126,ch,jura_ch,23
 20201218,423,li,liechtenstein,16
 20201218,43,at,austria,2578
@@ -69346,7 +69367,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201217,4122,ch,vaud,356
 20201217,4123,ch,valais,92
 20201217,4124,ch,neuchatel,56
-20201217,4125,ch,geneve,152
+20201217,4125,ch,geneve,163
 20201217,4126,ch,jura_ch,23
 20201217,423,li,liechtenstein,16
 20201217,43,at,austria,2690
@@ -69530,7 +69551,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201216,4122,ch,vaud,361
 20201216,4123,ch,valais,103
 20201216,4124,ch,neuchatel,71
-20201216,4125,ch,geneve,179
+20201216,4125,ch,geneve,190
 20201216,4126,ch,jura_ch,18
 20201216,423,li,liechtenstein,16
 20201216,43,at,austria,2862
@@ -69714,7 +69735,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201215,4122,ch,vaud,395
 20201215,4123,ch,valais,112
 20201215,4124,ch,neuchatel,65
-20201215,4125,ch,geneve,183
+20201215,4125,ch,geneve,197
 20201215,4126,ch,jura_ch,15
 20201215,423,li,liechtenstein,16
 20201215,43,at,austria,2951
@@ -69898,7 +69919,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201214,4122,ch,vaud,409
 20201214,4123,ch,valais,97
 20201214,4124,ch,neuchatel,71
-20201214,4125,ch,geneve,198
+20201214,4125,ch,geneve,212
 20201214,4126,ch,jura_ch,14
 20201214,423,li,liechtenstein,17
 20201214,43,at,austria,2885
@@ -70075,7 +70096,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201213,4122,ch,vaud,417
 20201213,4123,ch,valais,102
 20201213,4124,ch,neuchatel,81
-20201213,4125,ch,geneve,190
+20201213,4125,ch,geneve,203
 20201213,4126,ch,jura_ch,13
 20201213,423,li,liechtenstein,16
 20201213,43,at,austria,2867
@@ -70251,7 +70272,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201212,4122,ch,vaud,419
 20201212,4123,ch,valais,102
 20201212,4124,ch,neuchatel,81
-20201212,4125,ch,geneve,188
+20201212,4125,ch,geneve,201
 20201212,4126,ch,jura_ch,15
 20201212,43,at,austria,3008
 20201212,4301,at,wien,524
@@ -70433,7 +70454,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201211,4122,ch,vaud,407
 20201211,4123,ch,valais,112
 20201211,4124,ch,neuchatel,96
-20201211,4125,ch,geneve,184
+20201211,4125,ch,geneve,198
 20201211,4126,ch,jura_ch,16
 20201211,423,li,liechtenstein,21
 20201211,43,at,austria,3079
@@ -70617,7 +70638,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201210,4122,ch,vaud,414
 20201210,4123,ch,valais,113
 20201210,4124,ch,neuchatel,97
-20201210,4125,ch,geneve,185
+20201210,4125,ch,geneve,198
 20201210,4126,ch,jura_ch,18
 20201210,423,li,liechtenstein,21
 20201210,43,at,austria,3195
@@ -70801,7 +70822,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201209,4122,ch,vaud,451
 20201209,4123,ch,valais,120
 20201209,4124,ch,neuchatel,103
-20201209,4125,ch,geneve,203
+20201209,4125,ch,geneve,217
 20201209,4126,ch,jura_ch,18
 20201209,423,li,liechtenstein,20
 20201209,43,at,austria,3244
@@ -70984,7 +71005,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201208,4122,ch,vaud,468
 20201208,4123,ch,valais,122
 20201208,4124,ch,neuchatel,111
-20201208,4125,ch,geneve,208
+20201208,4125,ch,geneve,223
 20201208,4126,ch,jura_ch,20
 20201208,423,li,liechtenstein,20
 20201208,43,at,austria,3308
@@ -71168,7 +71189,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201207,4122,ch,vaud,497
 20201207,4123,ch,valais,124
 20201207,4124,ch,neuchatel,113
-20201207,4125,ch,geneve,224
+20201207,4125,ch,geneve,241
 20201207,4126,ch,jura_ch,23
 20201207,423,li,liechtenstein,21
 20201207,43,at,austria,3269
@@ -71345,7 +71366,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201206,4122,ch,vaud,503
 20201206,4123,ch,valais,133
 20201206,4124,ch,neuchatel,112
-20201206,4125,ch,geneve,227
+20201206,4125,ch,geneve,242
 20201206,4126,ch,jura_ch,24
 20201206,423,li,liechtenstein,21
 20201206,43,at,austria,3170
@@ -71520,7 +71541,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201205,4122,ch,vaud,487
 20201205,4123,ch,valais,132
 20201205,4124,ch,neuchatel,110
-20201205,4125,ch,geneve,228
+20201205,4125,ch,geneve,243
 20201205,4126,ch,jura_ch,21
 20201205,43,at,austria,3231
 20201205,4301,at,wien,529
@@ -71702,7 +71723,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201204,4122,ch,vaud,482
 20201204,4123,ch,valais,132
 20201204,4124,ch,neuchatel,107
-20201204,4125,ch,geneve,241
+20201204,4125,ch,geneve,259
 20201204,4126,ch,jura_ch,24
 20201204,423,li,liechtenstein,16
 20201204,43,at,austria,3338
@@ -71885,7 +71906,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201203,4122,ch,vaud,493
 20201203,4123,ch,valais,131
 20201203,4124,ch,neuchatel,120
-20201203,4125,ch,geneve,267
+20201203,4125,ch,geneve,290
 20201203,4126,ch,jura_ch,23
 20201203,423,li,liechtenstein,15
 20201203,43,at,austria,3414
@@ -72069,7 +72090,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201202,4122,ch,vaud,522
 20201202,4123,ch,valais,147
 20201202,4124,ch,neuchatel,121
-20201202,4125,ch,geneve,281
+20201202,4125,ch,geneve,310
 20201202,4126,ch,jura_ch,26
 20201202,423,li,liechtenstein,16
 20201202,43,at,austria,3571
@@ -72253,7 +72274,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201201,4122,ch,vaud,521
 20201201,4123,ch,valais,160
 20201201,4124,ch,neuchatel,128
-20201201,4125,ch,geneve,284
+20201201,4125,ch,geneve,313
 20201201,4126,ch,jura_ch,23
 20201201,423,li,liechtenstein,15
 20201201,43,at,austria,3791
@@ -72437,7 +72458,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201130,4122,ch,vaud,525
 20201130,4123,ch,valais,180
 20201130,4124,ch,neuchatel,127
-20201130,4125,ch,geneve,302
+20201130,4125,ch,geneve,344
 20201130,4126,ch,jura_ch,23
 20201130,423,li,liechtenstein,11
 20201130,43,at,austria,3639
@@ -72614,7 +72635,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201129,4122,ch,vaud,544
 20201129,4123,ch,valais,173
 20201129,4124,ch,neuchatel,121
-20201129,4125,ch,geneve,295
+20201129,4125,ch,geneve,337
 20201129,4126,ch,jura_ch,26
 20201129,43,at,austria,3560
 20201129,4301,at,wien,518
@@ -72788,7 +72809,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201128,4122,ch,vaud,531
 20201128,4123,ch,valais,178
 20201128,4124,ch,neuchatel,145
-20201128,4125,ch,geneve,295
+20201128,4125,ch,geneve,337
 20201128,4126,ch,jura_ch,27
 20201128,43,at,austria,3591
 20201128,4301,at,wien,527
@@ -72970,7 +72991,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201127,4122,ch,vaud,532
 20201127,4123,ch,valais,188
 20201127,4124,ch,neuchatel,123
-20201127,4125,ch,geneve,311
+20201127,4125,ch,geneve,355
 20201127,4126,ch,jura_ch,25
 20201127,423,li,liechtenstein,10
 20201127,43,at,austria,3702
@@ -73154,7 +73175,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201126,4122,ch,vaud,545
 20201126,4123,ch,valais,196
 20201126,4124,ch,neuchatel,125
-20201126,4125,ch,geneve,329
+20201126,4125,ch,geneve,373
 20201126,4126,ch,jura_ch,30
 20201126,423,li,liechtenstein,12
 20201126,43,at,austria,3756
@@ -73338,7 +73359,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201125,4122,ch,vaud,563
 20201125,4123,ch,valais,214
 20201125,4124,ch,neuchatel,127
-20201125,4125,ch,geneve,372
+20201125,4125,ch,geneve,418
 20201125,4126,ch,jura_ch,35
 20201125,423,li,liechtenstein,12
 20201125,43,at,austria,3867
@@ -73522,7 +73543,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201124,4122,ch,vaud,591
 20201124,4123,ch,valais,219
 20201124,4124,ch,neuchatel,139
-20201124,4125,ch,geneve,396
+20201124,4125,ch,geneve,445
 20201124,4126,ch,jura_ch,34
 20201124,423,li,liechtenstein,12
 20201124,43,at,austria,3985
@@ -73705,7 +73726,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201123,4122,ch,vaud,618
 20201123,4123,ch,valais,227
 20201123,4124,ch,neuchatel,145
-20201123,4125,ch,geneve,417
+20201123,4125,ch,geneve,460
 20201123,4126,ch,jura_ch,35
 20201123,423,li,liechtenstein,13
 20201123,43,at,austria,3863
@@ -73882,7 +73903,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201122,4122,ch,vaud,638
 20201122,4123,ch,valais,220
 20201122,4124,ch,neuchatel,145
-20201122,4125,ch,geneve,419
+20201122,4125,ch,geneve,461
 20201122,4126,ch,jura_ch,38
 20201122,423,li,liechtenstein,13
 20201122,43,at,austria,3775
@@ -74057,7 +74078,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201121,4122,ch,vaud,622
 20201121,4123,ch,valais,221
 20201121,4124,ch,neuchatel,141
-20201121,4125,ch,geneve,419
+20201121,4125,ch,geneve,465
 20201121,4126,ch,jura_ch,38
 20201121,43,at,austria,3900
 20201121,4301,at,wien,591
@@ -74239,7 +74260,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201120,4122,ch,vaud,618
 20201120,4123,ch,valais,237
 20201120,4124,ch,neuchatel,137
-20201120,4125,ch,geneve,446
+20201120,4125,ch,geneve,497
 20201120,4126,ch,jura_ch,38
 20201120,423,li,liechtenstein,11
 20201120,43,at,austria,3942
@@ -74422,7 +74443,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201119,4122,ch,vaud,621
 20201119,4123,ch,valais,249
 20201119,4124,ch,neuchatel,141
-20201119,4125,ch,geneve,480
+20201119,4125,ch,geneve,533
 20201119,4126,ch,jura_ch,43
 20201119,423,li,liechtenstein,11
 20201119,43,at,austria,3931
@@ -74606,7 +74627,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201118,4122,ch,vaud,641
 20201118,4123,ch,valais,261
 20201118,4124,ch,neuchatel,135
-20201118,4125,ch,geneve,509
+20201118,4125,ch,geneve,568
 20201118,4126,ch,jura_ch,45
 20201118,423,li,liechtenstein,11
 20201118,43,at,austria,3910
@@ -74790,7 +74811,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201117,4122,ch,vaud,659
 20201117,4123,ch,valais,278
 20201117,4124,ch,neuchatel,146
-20201117,4125,ch,geneve,547
+20201117,4125,ch,geneve,606
 20201117,4126,ch,jura_ch,50
 20201117,423,li,liechtenstein,7
 20201117,43,at,austria,3867
@@ -74975,7 +74996,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201116,4122,ch,vaud,669
 20201116,4123,ch,valais,284
 20201116,4124,ch,neuchatel,152
-20201116,4125,ch,geneve,585
+20201116,4125,ch,geneve,642
 20201116,4126,ch,jura_ch,53
 20201116,423,li,liechtenstein,8
 20201116,43,at,austria,3685
@@ -75153,7 +75174,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201115,4122,ch,vaud,651
 20201115,4123,ch,valais,284
 20201115,4124,ch,neuchatel,167
-20201115,4125,ch,geneve,582
+20201115,4125,ch,geneve,639
 20201115,4126,ch,jura_ch,63
 20201115,423,li,liechtenstein,12
 20201115,43,at,austria,3579
@@ -75328,7 +75349,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201114,4122,ch,vaud,631
 20201114,4123,ch,valais,284
 20201114,4124,ch,neuchatel,160
-20201114,4125,ch,geneve,581
+20201114,4125,ch,geneve,635
 20201114,4126,ch,jura_ch,61
 20201114,43,at,austria,3425
 20201114,4301,at,wien,550
@@ -75510,7 +75531,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201113,4122,ch,vaud,604
 20201113,4123,ch,valais,298
 20201113,4124,ch,neuchatel,156
-20201113,4125,ch,geneve,580
+20201113,4125,ch,geneve,629
 20201113,4126,ch,jura_ch,62
 20201113,423,li,liechtenstein,12
 20201113,43,at,austria,3355
@@ -75693,7 +75714,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201112,4122,ch,vaud,610
 20201112,4123,ch,valais,310
 20201112,4124,ch,neuchatel,155
-20201112,4125,ch,geneve,590
+20201112,4125,ch,geneve,630
 20201112,4126,ch,jura_ch,61
 20201112,423,li,liechtenstein,12
 20201112,43,at,austria,3265
@@ -75877,7 +75898,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201111,4122,ch,vaud,612
 20201111,4123,ch,valais,331
 20201111,4124,ch,neuchatel,150
-20201111,4125,ch,geneve,585
+20201111,4125,ch,geneve,620
 20201111,4126,ch,jura_ch,60
 20201111,423,li,liechtenstein,15
 20201111,43,at,austria,3183
@@ -76061,7 +76082,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201110,4122,ch,vaud,605
 20201110,4123,ch,valais,332
 20201110,4124,ch,neuchatel,152
-20201110,4125,ch,geneve,601
+20201110,4125,ch,geneve,638
 20201110,4126,ch,jura_ch,72
 20201110,423,li,liechtenstein,14
 20201110,43,at,austria,3054
@@ -76246,7 +76267,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201109,4122,ch,vaud,593
 20201109,4123,ch,valais,338
 20201109,4124,ch,neuchatel,140
-20201109,4125,ch,geneve,600
+20201109,4125,ch,geneve,631
 20201109,4126,ch,jura_ch,74
 20201109,423,li,liechtenstein,14
 20201109,43,at,austria,2755
@@ -76424,7 +76445,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201108,4122,ch,vaud,585
 20201108,4123,ch,valais,346
 20201108,4124,ch,neuchatel,136
-20201108,4125,ch,geneve,580
+20201108,4125,ch,geneve,608
 20201108,4126,ch,jura_ch,74
 20201108,423,li,liechtenstein,17
 20201108,43,at,austria,2533
@@ -76600,7 +76621,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201107,4122,ch,vaud,561
 20201107,4123,ch,valais,329
 20201107,4124,ch,neuchatel,123
-20201107,4125,ch,geneve,554
+20201107,4125,ch,geneve,582
 20201107,4126,ch,jura_ch,73
 20201107,43,at,austria,2574
 20201107,4301,at,wien,416
@@ -76782,7 +76803,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201106,4122,ch,vaud,551
 20201106,4123,ch,valais,340
 20201106,4124,ch,neuchatel,123
-20201106,4125,ch,geneve,545
+20201106,4125,ch,geneve,572
 20201106,4126,ch,jura_ch,77
 20201106,423,li,liechtenstein,15
 20201106,43,at,austria,2504
@@ -76966,7 +76987,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201105,4122,ch,vaud,549
 20201105,4123,ch,valais,333
 20201105,4124,ch,neuchatel,125
-20201105,4125,ch,geneve,551
+20201105,4125,ch,geneve,559
 20201105,4126,ch,jura_ch,85
 20201105,423,li,liechtenstein,15
 20201105,43,at,austria,2330
@@ -77150,7 +77171,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20201104,4122,ch,vaud,536
 20201104,4123,ch,valais,319
 20201104,4124,ch,neuchatel,120
-20201104,4125,ch,geneve,540
+20201104,4125,ch,geneve,542
 20201104,4126,ch,jura_ch,88
 20201104,423,li,liechtenstein,14
 20201104,43,at,austria,2201
@@ -103328,7 +103349,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200607,4122,ch,vaud,28
 20200607,4123,ch,valais,16
 20200607,4124,ch,neuchatel,1
-20200607,4125,ch,geneve,3
+20200607,4125,ch,geneve,0
 20200607,4126,ch,jura_ch,2
 20200607,43,at,austria,52
 20200607,4301,at,wien,37
@@ -103495,7 +103516,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20200606,4122,ch,vaud,28
 20200606,4123,ch,valais,16
 20200606,4124,ch,neuchatel,1
-20200606,4125,ch,geneve,3
+20200606,4125,ch,geneve,0
 20200606,4126,ch,jura_ch,2
 20200606,43,at,austria,55
 20200606,4301,at,wien,37
