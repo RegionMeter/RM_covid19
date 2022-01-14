@@ -1,7 +1,9 @@
 dateId,areaCode,country,areaName,deathCases
 20220114,4104,ch,uri,59
 20220114,4105,ch,schwyz,338
+20220114,4108,ch,glarus,101
 20220114,4109,ch,zug,152
+20220114,4120,ch,thurgau,580
 20220114,4121,ch,ticino,1076
 20220113,3301,fr,ile_de_france,22982
 20220113,330101,fr,paris,5105
@@ -167,7 +169,7 @@ dateId,areaCode,country,areaName,deathCases
 20220113,4116,ch,appenzell_innerrhoden,22
 20220113,4117,ch,st_gallen,814
 20220113,4118,ch,graubunden,237
-20220113,4120,ch,thurgau,578
+20220113,4120,ch,thurgau,580
 20220113,4121,ch,ticino,1074
 20220113,4123,ch,valais,732
 20220113,4124,ch,neuchatel,423
@@ -8532,7 +8534,7 @@ dateId,areaCode,country,areaName,deathCases
 20211128,4117,ch,st_gallen,764
 20211128,4118,ch,graubunden,207
 20211128,4119,ch,aargau,764
-20211128,4120,ch,thurgau,518
+20211128,4120,ch,thurgau,519
 20211128,4123,ch,valais,699
 20211128,4124,ch,neuchatel,416
 20211128,4125,ch,geneve,761
@@ -8710,7 +8712,7 @@ dateId,areaCode,country,areaName,deathCases
 20211127,4114,ch,schaffhausen,93
 20211127,4118,ch,graubunden,206
 20211127,4119,ch,aargau,761
-20211127,4120,ch,thurgau,516
+20211127,4120,ch,thurgau,517
 20211127,4123,ch,valais,698
 20211127,4124,ch,neuchatel,416
 20211127,4125,ch,geneve,761
@@ -8892,7 +8894,7 @@ dateId,areaCode,country,areaName,deathCases
 20211126,4116,ch,appenzell_innerrhoden,20
 20211126,4118,ch,graubunden,206
 20211126,4119,ch,aargau,758
-20211126,4120,ch,thurgau,515
+20211126,4120,ch,thurgau,516
 20211126,4121,ch,ticino,1010
 20211126,4123,ch,valais,698
 20211126,4124,ch,neuchatel,416
@@ -9076,7 +9078,7 @@ dateId,areaCode,country,areaName,deathCases
 20211125,4117,ch,st_gallen,763
 20211125,4118,ch,graubunden,206
 20211125,4119,ch,aargau,756
-20211125,4120,ch,thurgau,514
+20211125,4120,ch,thurgau,515
 20211125,4121,ch,ticino,1008
 20211125,4123,ch,valais,698
 20211125,4124,ch,neuchatel,416
@@ -9260,7 +9262,7 @@ dateId,areaCode,country,areaName,deathCases
 20211124,4117,ch,st_gallen,762
 20211124,4118,ch,graubunden,206
 20211124,4119,ch,aargau,756
-20211124,4120,ch,thurgau,513
+20211124,4120,ch,thurgau,514
 20211124,4121,ch,ticino,1008
 20211124,4123,ch,valais,697
 20211124,4124,ch,neuchatel,415
@@ -9444,7 +9446,7 @@ dateId,areaCode,country,areaName,deathCases
 20211123,4117,ch,st_gallen,760
 20211123,4118,ch,graubunden,206
 20211123,4119,ch,aargau,756
-20211123,4120,ch,thurgau,513
+20211123,4120,ch,thurgau,514
 20211123,4121,ch,ticino,1008
 20211123,4123,ch,valais,696
 20211123,4124,ch,neuchatel,415
@@ -9628,7 +9630,7 @@ dateId,areaCode,country,areaName,deathCases
 20211122,4117,ch,st_gallen,759
 20211122,4118,ch,graubunden,206
 20211122,4119,ch,aargau,756
-20211122,4120,ch,thurgau,512
+20211122,4120,ch,thurgau,513
 20211122,4121,ch,ticino,1008
 20211122,4123,ch,valais,695
 20211122,4124,ch,neuchatel,415
@@ -9808,7 +9810,7 @@ dateId,areaCode,country,areaName,deathCases
 20211121,4117,ch,st_gallen,757
 20211121,4118,ch,graubunden,205
 20211121,4119,ch,aargau,754
-20211121,4120,ch,thurgau,512
+20211121,4120,ch,thurgau,513
 20211121,4123,ch,valais,695
 20211121,4124,ch,neuchatel,415
 20211121,4125,ch,geneve,761
@@ -9985,7 +9987,7 @@ dateId,areaCode,country,areaName,deathCases
 20211120,4114,ch,schaffhausen,92
 20211120,4118,ch,graubunden,205
 20211120,4119,ch,aargau,753
-20211120,4120,ch,thurgau,512
+20211120,4120,ch,thurgau,513
 20211120,4123,ch,valais,692
 20211120,4124,ch,neuchatel,414
 20211120,4125,ch,geneve,761
@@ -10167,7 +10169,7 @@ dateId,areaCode,country,areaName,deathCases
 20211119,4116,ch,appenzell_innerrhoden,19
 20211119,4118,ch,graubunden,205
 20211119,4119,ch,aargau,752
-20211119,4120,ch,thurgau,512
+20211119,4120,ch,thurgau,513
 20211119,4121,ch,ticino,1008
 20211119,4123,ch,valais,690
 20211119,4124,ch,neuchatel,414
@@ -10350,7 +10352,7 @@ dateId,areaCode,country,areaName,deathCases
 20211118,4117,ch,st_gallen,757
 20211118,4118,ch,graubunden,205
 20211118,4119,ch,aargau,752
-20211118,4120,ch,thurgau,512
+20211118,4120,ch,thurgau,513
 20211118,4121,ch,ticino,1008
 20211118,4123,ch,valais,689
 20211118,4124,ch,neuchatel,414
@@ -10534,7 +10536,7 @@ dateId,areaCode,country,areaName,deathCases
 20211117,4117,ch,st_gallen,757
 20211117,4118,ch,graubunden,205
 20211117,4119,ch,aargau,752
-20211117,4120,ch,thurgau,512
+20211117,4120,ch,thurgau,513
 20211117,4121,ch,ticino,1008
 20211117,4123,ch,valais,685
 20211117,4124,ch,neuchatel,413
@@ -10718,7 +10720,7 @@ dateId,areaCode,country,areaName,deathCases
 20211116,4117,ch,st_gallen,756
 20211116,4118,ch,graubunden,205
 20211116,4119,ch,aargau,749
-20211116,4120,ch,thurgau,508
+20211116,4120,ch,thurgau,509
 20211116,4121,ch,ticino,1008
 20211116,4123,ch,valais,685
 20211116,4124,ch,neuchatel,413
@@ -10902,7 +10904,7 @@ dateId,areaCode,country,areaName,deathCases
 20211115,4117,ch,st_gallen,756
 20211115,4118,ch,graubunden,205
 20211115,4119,ch,aargau,748
-20211115,4120,ch,thurgau,508
+20211115,4120,ch,thurgau,509
 20211115,4121,ch,ticino,1008
 20211115,4123,ch,valais,681
 20211115,4124,ch,neuchatel,413
@@ -11082,7 +11084,7 @@ dateId,areaCode,country,areaName,deathCases
 20211114,4117,ch,st_gallen,756
 20211114,4118,ch,graubunden,204
 20211114,4119,ch,aargau,748
-20211114,4120,ch,thurgau,508
+20211114,4120,ch,thurgau,509
 20211114,4123,ch,valais,681
 20211114,4124,ch,neuchatel,413
 20211114,4125,ch,geneve,756
@@ -11259,7 +11261,7 @@ dateId,areaCode,country,areaName,deathCases
 20211113,4114,ch,schaffhausen,91
 20211113,4118,ch,graubunden,204
 20211113,4119,ch,aargau,747
-20211113,4120,ch,thurgau,507
+20211113,4120,ch,thurgau,508
 20211113,4123,ch,valais,680
 20211113,4124,ch,neuchatel,413
 20211113,4125,ch,geneve,756
@@ -11440,7 +11442,7 @@ dateId,areaCode,country,areaName,deathCases
 20211112,4116,ch,appenzell_innerrhoden,18
 20211112,4118,ch,graubunden,204
 20211112,4119,ch,aargau,745
-20211112,4120,ch,thurgau,506
+20211112,4120,ch,thurgau,507
 20211112,4121,ch,ticino,1008
 20211112,4123,ch,valais,680
 20211112,4124,ch,neuchatel,413
@@ -11624,7 +11626,7 @@ dateId,areaCode,country,areaName,deathCases
 20211111,4117,ch,st_gallen,755
 20211111,4118,ch,graubunden,204
 20211111,4119,ch,aargau,745
-20211111,4120,ch,thurgau,505
+20211111,4120,ch,thurgau,506
 20211111,4121,ch,ticino,1007
 20211111,4123,ch,valais,680
 20211111,4124,ch,neuchatel,413
@@ -11807,7 +11809,7 @@ dateId,areaCode,country,areaName,deathCases
 20211110,4117,ch,st_gallen,755
 20211110,4118,ch,graubunden,204
 20211110,4119,ch,aargau,743
-20211110,4120,ch,thurgau,505
+20211110,4120,ch,thurgau,506
 20211110,4121,ch,ticino,1007
 20211110,4123,ch,valais,680
 20211110,4124,ch,neuchatel,413
@@ -11992,7 +11994,7 @@ dateId,areaCode,country,areaName,deathCases
 20211109,4117,ch,st_gallen,755
 20211109,4118,ch,graubunden,204
 20211109,4119,ch,aargau,743
-20211109,4120,ch,thurgau,505
+20211109,4120,ch,thurgau,506
 20211109,4121,ch,ticino,1007
 20211109,4123,ch,valais,680
 20211109,4124,ch,neuchatel,413
@@ -12176,7 +12178,7 @@ dateId,areaCode,country,areaName,deathCases
 20211108,4117,ch,st_gallen,753
 20211108,4118,ch,graubunden,203
 20211108,4119,ch,aargau,743
-20211108,4120,ch,thurgau,504
+20211108,4120,ch,thurgau,505
 20211108,4121,ch,ticino,1007
 20211108,4123,ch,valais,680
 20211108,4124,ch,neuchatel,413
@@ -12355,7 +12357,7 @@ dateId,areaCode,country,areaName,deathCases
 20211107,4117,ch,st_gallen,753
 20211107,4118,ch,graubunden,203
 20211107,4119,ch,aargau,743
-20211107,4120,ch,thurgau,504
+20211107,4120,ch,thurgau,505
 20211107,4123,ch,valais,680
 20211107,4124,ch,neuchatel,413
 20211107,4125,ch,geneve,756
@@ -12532,7 +12534,7 @@ dateId,areaCode,country,areaName,deathCases
 20211106,4114,ch,schaffhausen,86
 20211106,4118,ch,graubunden,203
 20211106,4119,ch,aargau,743
-20211106,4120,ch,thurgau,503
+20211106,4120,ch,thurgau,504
 20211106,4123,ch,valais,680
 20211106,4124,ch,neuchatel,413
 20211106,4125,ch,geneve,756
@@ -12713,7 +12715,7 @@ dateId,areaCode,country,areaName,deathCases
 20211105,4116,ch,appenzell_innerrhoden,18
 20211105,4118,ch,graubunden,203
 20211105,4119,ch,aargau,743
-20211105,4120,ch,thurgau,503
+20211105,4120,ch,thurgau,504
 20211105,4121,ch,ticino,1007
 20211105,4123,ch,valais,680
 20211105,4124,ch,neuchatel,413
@@ -12896,7 +12898,7 @@ dateId,areaCode,country,areaName,deathCases
 20211104,4117,ch,st_gallen,753
 20211104,4118,ch,graubunden,203
 20211104,4119,ch,aargau,742
-20211104,4120,ch,thurgau,503
+20211104,4120,ch,thurgau,504
 20211104,4121,ch,ticino,1007
 20211104,4123,ch,valais,680
 20211104,4124,ch,neuchatel,412
@@ -13080,7 +13082,7 @@ dateId,areaCode,country,areaName,deathCases
 20211103,4117,ch,st_gallen,753
 20211103,4118,ch,graubunden,203
 20211103,4119,ch,aargau,742
-20211103,4120,ch,thurgau,502
+20211103,4120,ch,thurgau,503
 20211103,4121,ch,ticino,1007
 20211103,4123,ch,valais,679
 20211103,4124,ch,neuchatel,412
@@ -13264,7 +13266,7 @@ dateId,areaCode,country,areaName,deathCases
 20211102,4117,ch,st_gallen,753
 20211102,4118,ch,graubunden,203
 20211102,4119,ch,aargau,742
-20211102,4120,ch,thurgau,502
+20211102,4120,ch,thurgau,503
 20211102,4121,ch,ticino,1007
 20211102,4123,ch,valais,679
 20211102,4124,ch,neuchatel,412
@@ -13444,7 +13446,7 @@ dateId,areaCode,country,areaName,deathCases
 20211101,4117,ch,st_gallen,753
 20211101,4118,ch,graubunden,203
 20211101,4119,ch,aargau,740
-20211101,4120,ch,thurgau,502
+20211101,4120,ch,thurgau,503
 20211101,4123,ch,valais,679
 20211101,4124,ch,neuchatel,411
 20211101,4125,ch,geneve,756
@@ -13622,7 +13624,7 @@ dateId,areaCode,country,areaName,deathCases
 20211031,4117,ch,st_gallen,752
 20211031,4118,ch,graubunden,203
 20211031,4119,ch,aargau,740
-20211031,4120,ch,thurgau,499
+20211031,4120,ch,thurgau,500
 20211031,4123,ch,valais,679
 20211031,4124,ch,neuchatel,411
 20211031,4125,ch,geneve,756
@@ -13798,7 +13800,7 @@ dateId,areaCode,country,areaName,deathCases
 20211030,4114,ch,schaffhausen,83
 20211030,4118,ch,graubunden,203
 20211030,4119,ch,aargau,738
-20211030,4120,ch,thurgau,499
+20211030,4120,ch,thurgau,500
 20211030,4123,ch,valais,679
 20211030,4124,ch,neuchatel,411
 20211030,4125,ch,geneve,756
@@ -13979,7 +13981,7 @@ dateId,areaCode,country,areaName,deathCases
 20211029,4116,ch,appenzell_innerrhoden,18
 20211029,4118,ch,graubunden,203
 20211029,4119,ch,aargau,737
-20211029,4120,ch,thurgau,498
+20211029,4120,ch,thurgau,499
 20211029,4121,ch,ticino,1007
 20211029,4123,ch,valais,679
 20211029,4124,ch,neuchatel,411
@@ -14162,7 +14164,7 @@ dateId,areaCode,country,areaName,deathCases
 20211028,4117,ch,st_gallen,748
 20211028,4118,ch,graubunden,203
 20211028,4119,ch,aargau,737
-20211028,4120,ch,thurgau,498
+20211028,4120,ch,thurgau,499
 20211028,4121,ch,ticino,1007
 20211028,4123,ch,valais,678
 20211028,4124,ch,neuchatel,411
@@ -14347,7 +14349,7 @@ dateId,areaCode,country,areaName,deathCases
 20211027,4117,ch,st_gallen,747
 20211027,4118,ch,graubunden,203
 20211027,4119,ch,aargau,736
-20211027,4120,ch,thurgau,498
+20211027,4120,ch,thurgau,499
 20211027,4121,ch,ticino,1007
 20211027,4123,ch,valais,678
 20211027,4124,ch,neuchatel,411
@@ -14532,7 +14534,7 @@ dateId,areaCode,country,areaName,deathCases
 20211026,4117,ch,st_gallen,746
 20211026,4118,ch,graubunden,203
 20211026,4119,ch,aargau,735
-20211026,4120,ch,thurgau,497
+20211026,4120,ch,thurgau,498
 20211026,4121,ch,ticino,1007
 20211026,4123,ch,valais,678
 20211026,4124,ch,neuchatel,411
@@ -14715,7 +14717,7 @@ dateId,areaCode,country,areaName,deathCases
 20211025,4117,ch,st_gallen,746
 20211025,4118,ch,graubunden,203
 20211025,4119,ch,aargau,735
-20211025,4120,ch,thurgau,496
+20211025,4120,ch,thurgau,497
 20211025,4121,ch,ticino,1007
 20211025,4123,ch,valais,678
 20211025,4124,ch,neuchatel,410
@@ -14894,7 +14896,7 @@ dateId,areaCode,country,areaName,deathCases
 20211024,4117,ch,st_gallen,746
 20211024,4118,ch,graubunden,202
 20211024,4119,ch,aargau,734
-20211024,4120,ch,thurgau,495
+20211024,4120,ch,thurgau,496
 20211024,4123,ch,valais,678
 20211024,4124,ch,neuchatel,410
 20211024,4125,ch,geneve,755
@@ -15071,7 +15073,7 @@ dateId,areaCode,country,areaName,deathCases
 20211023,4114,ch,schaffhausen,80
 20211023,4118,ch,graubunden,201
 20211023,4119,ch,aargau,734
-20211023,4120,ch,thurgau,494
+20211023,4120,ch,thurgau,495
 20211023,4123,ch,valais,678
 20211023,4124,ch,neuchatel,410
 20211023,4125,ch,geneve,755
@@ -15253,7 +15255,7 @@ dateId,areaCode,country,areaName,deathCases
 20211022,4116,ch,appenzell_innerrhoden,18
 20211022,4118,ch,graubunden,201
 20211022,4119,ch,aargau,734
-20211022,4120,ch,thurgau,494
+20211022,4120,ch,thurgau,495
 20211022,4121,ch,ticino,1007
 20211022,4123,ch,valais,678
 20211022,4124,ch,neuchatel,410
@@ -15435,7 +15437,7 @@ dateId,areaCode,country,areaName,deathCases
 20211021,4117,ch,st_gallen,744
 20211021,4118,ch,graubunden,201
 20211021,4119,ch,aargau,734
-20211021,4120,ch,thurgau,494
+20211021,4120,ch,thurgau,495
 20211021,4121,ch,ticino,1007
 20211021,4123,ch,valais,678
 20211021,4124,ch,neuchatel,410
@@ -15619,7 +15621,7 @@ dateId,areaCode,country,areaName,deathCases
 20211020,4117,ch,st_gallen,744
 20211020,4118,ch,graubunden,201
 20211020,4119,ch,aargau,734
-20211020,4120,ch,thurgau,493
+20211020,4120,ch,thurgau,494
 20211020,4121,ch,ticino,1007
 20211020,4123,ch,valais,678
 20211020,4124,ch,neuchatel,410
@@ -15804,7 +15806,7 @@ dateId,areaCode,country,areaName,deathCases
 20211019,4117,ch,st_gallen,742
 20211019,4118,ch,graubunden,201
 20211019,4119,ch,aargau,734
-20211019,4120,ch,thurgau,493
+20211019,4120,ch,thurgau,494
 20211019,4121,ch,ticino,1007
 20211019,4123,ch,valais,678
 20211019,4124,ch,neuchatel,410
@@ -15988,7 +15990,7 @@ dateId,areaCode,country,areaName,deathCases
 20211018,4117,ch,st_gallen,742
 20211018,4118,ch,graubunden,201
 20211018,4119,ch,aargau,733
-20211018,4120,ch,thurgau,492
+20211018,4120,ch,thurgau,493
 20211018,4121,ch,ticino,1007
 20211018,4123,ch,valais,678
 20211018,4124,ch,neuchatel,410
@@ -16166,7 +16168,7 @@ dateId,areaCode,country,areaName,deathCases
 20211017,4114,ch,schaffhausen,80
 20211017,4118,ch,graubunden,201
 20211017,4119,ch,aargau,733
-20211017,4120,ch,thurgau,492
+20211017,4120,ch,thurgau,493
 20211017,4123,ch,valais,678
 20211017,4124,ch,neuchatel,409
 20211017,4125,ch,geneve,753
@@ -16343,7 +16345,7 @@ dateId,areaCode,country,areaName,deathCases
 20211016,4114,ch,schaffhausen,80
 20211016,4118,ch,graubunden,200
 20211016,4119,ch,aargau,733
-20211016,4120,ch,thurgau,492
+20211016,4120,ch,thurgau,493
 20211016,4123,ch,valais,678
 20211016,4124,ch,neuchatel,409
 20211016,4125,ch,geneve,753
@@ -16524,7 +16526,7 @@ dateId,areaCode,country,areaName,deathCases
 20211015,4116,ch,appenzell_innerrhoden,17
 20211015,4118,ch,graubunden,200
 20211015,4119,ch,aargau,733
-20211015,4120,ch,thurgau,492
+20211015,4120,ch,thurgau,493
 20211015,4121,ch,ticino,1007
 20211015,4123,ch,valais,678
 20211015,4124,ch,neuchatel,409
@@ -16707,7 +16709,7 @@ dateId,areaCode,country,areaName,deathCases
 20211014,4116,ch,appenzell_innerrhoden,17
 20211014,4118,ch,graubunden,200
 20211014,4119,ch,aargau,733
-20211014,4120,ch,thurgau,492
+20211014,4120,ch,thurgau,493
 20211014,4121,ch,ticino,1007
 20211014,4123,ch,valais,678
 20211014,4124,ch,neuchatel,409
@@ -16891,7 +16893,7 @@ dateId,areaCode,country,areaName,deathCases
 20211013,4116,ch,appenzell_innerrhoden,17
 20211013,4118,ch,graubunden,199
 20211013,4119,ch,aargau,732
-20211013,4120,ch,thurgau,491
+20211013,4120,ch,thurgau,492
 20211013,4121,ch,ticino,1007
 20211013,4123,ch,valais,678
 20211013,4124,ch,neuchatel,409
@@ -17074,7 +17076,7 @@ dateId,areaCode,country,areaName,deathCases
 20211012,4116,ch,appenzell_innerrhoden,17
 20211012,4118,ch,graubunden,199
 20211012,4119,ch,aargau,732
-20211012,4120,ch,thurgau,491
+20211012,4120,ch,thurgau,492
 20211012,4121,ch,ticino,1007
 20211012,4123,ch,valais,678
 20211012,4124,ch,neuchatel,409
@@ -17258,7 +17260,7 @@ dateId,areaCode,country,areaName,deathCases
 20211011,4116,ch,appenzell_innerrhoden,17
 20211011,4118,ch,graubunden,199
 20211011,4119,ch,aargau,732
-20211011,4120,ch,thurgau,491
+20211011,4120,ch,thurgau,492
 20211011,4121,ch,ticino,1007
 20211011,4123,ch,valais,678
 20211011,4124,ch,neuchatel,409
@@ -17438,7 +17440,7 @@ dateId,areaCode,country,areaName,deathCases
 20211010,4117,ch,st_gallen,740
 20211010,4118,ch,graubunden,198
 20211010,4119,ch,aargau,732
-20211010,4120,ch,thurgau,490
+20211010,4120,ch,thurgau,491
 20211010,4123,ch,valais,677
 20211010,4124,ch,neuchatel,409
 20211010,4125,ch,geneve,753
@@ -17615,7 +17617,7 @@ dateId,areaCode,country,areaName,deathCases
 20211009,4114,ch,schaffhausen,80
 20211009,4118,ch,graubunden,198
 20211009,4119,ch,aargau,731
-20211009,4120,ch,thurgau,490
+20211009,4120,ch,thurgau,491
 20211009,4123,ch,valais,677
 20211009,4124,ch,neuchatel,409
 20211009,4125,ch,geneve,753
@@ -17796,7 +17798,7 @@ dateId,areaCode,country,areaName,deathCases
 20211008,4116,ch,appenzell_innerrhoden,17
 20211008,4118,ch,graubunden,198
 20211008,4119,ch,aargau,731
-20211008,4120,ch,thurgau,489
+20211008,4120,ch,thurgau,490
 20211008,4121,ch,ticino,1007
 20211008,4123,ch,valais,677
 20211008,4124,ch,neuchatel,408
@@ -17980,7 +17982,7 @@ dateId,areaCode,country,areaName,deathCases
 20211007,4117,ch,st_gallen,739
 20211007,4118,ch,graubunden,198
 20211007,4119,ch,aargau,731
-20211007,4120,ch,thurgau,489
+20211007,4120,ch,thurgau,490
 20211007,4121,ch,ticino,1007
 20211007,4123,ch,valais,677
 20211007,4124,ch,neuchatel,408
@@ -18164,7 +18166,7 @@ dateId,areaCode,country,areaName,deathCases
 20211006,4117,ch,st_gallen,739
 20211006,4118,ch,graubunden,197
 20211006,4119,ch,aargau,730
-20211006,4120,ch,thurgau,489
+20211006,4120,ch,thurgau,490
 20211006,4121,ch,ticino,1007
 20211006,4123,ch,valais,677
 20211006,4124,ch,neuchatel,408
@@ -18349,7 +18351,7 @@ dateId,areaCode,country,areaName,deathCases
 20211005,4117,ch,st_gallen,739
 20211005,4118,ch,graubunden,197
 20211005,4119,ch,aargau,730
-20211005,4120,ch,thurgau,489
+20211005,4120,ch,thurgau,490
 20211005,4121,ch,ticino,1006
 20211005,4123,ch,valais,677
 20211005,4124,ch,neuchatel,408
@@ -18533,7 +18535,7 @@ dateId,areaCode,country,areaName,deathCases
 20211004,4117,ch,st_gallen,739
 20211004,4118,ch,graubunden,197
 20211004,4119,ch,aargau,729
-20211004,4120,ch,thurgau,488
+20211004,4120,ch,thurgau,489
 20211004,4121,ch,ticino,1006
 20211004,4123,ch,valais,677
 20211004,4124,ch,neuchatel,408
@@ -18712,7 +18714,7 @@ dateId,areaCode,country,areaName,deathCases
 20211003,4117,ch,st_gallen,740
 20211003,4118,ch,graubunden,197
 20211003,4119,ch,aargau,729
-20211003,4120,ch,thurgau,488
+20211003,4120,ch,thurgau,489
 20211003,4123,ch,valais,677
 20211003,4124,ch,neuchatel,408
 20211003,4125,ch,geneve,753
@@ -18889,7 +18891,7 @@ dateId,areaCode,country,areaName,deathCases
 20211002,4114,ch,schaffhausen,80
 20211002,4118,ch,graubunden,197
 20211002,4119,ch,aargau,729
-20211002,4120,ch,thurgau,488
+20211002,4120,ch,thurgau,489
 20211002,4123,ch,valais,677
 20211002,4124,ch,neuchatel,408
 20211002,4125,ch,geneve,753
@@ -19070,7 +19072,7 @@ dateId,areaCode,country,areaName,deathCases
 20211001,4116,ch,appenzell_innerrhoden,17
 20211001,4118,ch,graubunden,197
 20211001,4119,ch,aargau,728
-20211001,4120,ch,thurgau,488
+20211001,4120,ch,thurgau,489
 20211001,4121,ch,ticino,1006
 20211001,4123,ch,valais,676
 20211001,4124,ch,neuchatel,408
@@ -19253,7 +19255,7 @@ dateId,areaCode,country,areaName,deathCases
 20210930,4117,ch,st_gallen,740
 20210930,4118,ch,graubunden,197
 20210930,4119,ch,aargau,728
-20210930,4120,ch,thurgau,487
+20210930,4120,ch,thurgau,488
 20210930,4121,ch,ticino,1005
 20210930,4123,ch,valais,676
 20210930,4124,ch,neuchatel,408
@@ -19437,7 +19439,7 @@ dateId,areaCode,country,areaName,deathCases
 20210929,4117,ch,st_gallen,740
 20210929,4118,ch,graubunden,196
 20210929,4119,ch,aargau,728
-20210929,4120,ch,thurgau,487
+20210929,4120,ch,thurgau,488
 20210929,4121,ch,ticino,1005
 20210929,4123,ch,valais,676
 20210929,4124,ch,neuchatel,408
@@ -19622,7 +19624,7 @@ dateId,areaCode,country,areaName,deathCases
 20210928,4117,ch,st_gallen,740
 20210928,4118,ch,graubunden,196
 20210928,4119,ch,aargau,728
-20210928,4120,ch,thurgau,484
+20210928,4120,ch,thurgau,485
 20210928,4121,ch,ticino,1004
 20210928,4123,ch,valais,676
 20210928,4124,ch,neuchatel,408
@@ -19807,7 +19809,7 @@ dateId,areaCode,country,areaName,deathCases
 20210927,4117,ch,st_gallen,740
 20210927,4118,ch,graubunden,196
 20210927,4119,ch,aargau,727
-20210927,4120,ch,thurgau,484
+20210927,4120,ch,thurgau,485
 20210927,4121,ch,ticino,1004
 20210927,4123,ch,valais,676
 20210927,4124,ch,neuchatel,408
@@ -19986,7 +19988,7 @@ dateId,areaCode,country,areaName,deathCases
 20210926,4117,ch,st_gallen,738
 20210926,4118,ch,graubunden,196
 20210926,4119,ch,aargau,727
-20210926,4120,ch,thurgau,484
+20210926,4120,ch,thurgau,485
 20210926,4123,ch,valais,676
 20210926,4124,ch,neuchatel,408
 20210926,4125,ch,geneve,752
@@ -20163,7 +20165,7 @@ dateId,areaCode,country,areaName,deathCases
 20210925,4114,ch,schaffhausen,80
 20210925,4118,ch,graubunden,196
 20210925,4119,ch,aargau,726
-20210925,4120,ch,thurgau,482
+20210925,4120,ch,thurgau,483
 20210925,4123,ch,valais,676
 20210925,4124,ch,neuchatel,408
 20210925,4125,ch,geneve,752
@@ -20344,7 +20346,7 @@ dateId,areaCode,country,areaName,deathCases
 20210924,4116,ch,appenzell_innerrhoden,17
 20210924,4118,ch,graubunden,196
 20210924,4119,ch,aargau,726
-20210924,4120,ch,thurgau,481
+20210924,4120,ch,thurgau,482
 20210924,4121,ch,ticino,1004
 20210924,4123,ch,valais,676
 20210924,4124,ch,neuchatel,407
@@ -20527,7 +20529,7 @@ dateId,areaCode,country,areaName,deathCases
 20210923,4117,ch,st_gallen,736
 20210923,4118,ch,graubunden,196
 20210923,4119,ch,aargau,726
-20210923,4120,ch,thurgau,479
+20210923,4120,ch,thurgau,480
 20210923,4121,ch,ticino,1004
 20210923,4123,ch,valais,676
 20210923,4124,ch,neuchatel,407
@@ -20711,7 +20713,7 @@ dateId,areaCode,country,areaName,deathCases
 20210922,4117,ch,st_gallen,736
 20210922,4118,ch,graubunden,196
 20210922,4119,ch,aargau,724
-20210922,4120,ch,thurgau,479
+20210922,4120,ch,thurgau,480
 20210922,4121,ch,ticino,1003
 20210922,4123,ch,valais,676
 20210922,4124,ch,neuchatel,407
@@ -20895,7 +20897,7 @@ dateId,areaCode,country,areaName,deathCases
 20210921,4117,ch,st_gallen,735
 20210921,4118,ch,graubunden,196
 20210921,4119,ch,aargau,723
-20210921,4120,ch,thurgau,478
+20210921,4120,ch,thurgau,479
 20210921,4121,ch,ticino,1002
 20210921,4123,ch,valais,676
 20210921,4124,ch,neuchatel,407
@@ -21079,7 +21081,7 @@ dateId,areaCode,country,areaName,deathCases
 20210920,4117,ch,st_gallen,734
 20210920,4118,ch,graubunden,196
 20210920,4119,ch,aargau,723
-20210920,4120,ch,thurgau,478
+20210920,4120,ch,thurgau,479
 20210920,4121,ch,ticino,1002
 20210920,4123,ch,valais,675
 20210920,4124,ch,neuchatel,407
@@ -21258,7 +21260,7 @@ dateId,areaCode,country,areaName,deathCases
 20210919,4117,ch,st_gallen,733
 20210919,4118,ch,graubunden,196
 20210919,4119,ch,aargau,723
-20210919,4120,ch,thurgau,476
+20210919,4120,ch,thurgau,477
 20210919,4123,ch,valais,675
 20210919,4124,ch,neuchatel,407
 20210919,4125,ch,geneve,750
@@ -21435,7 +21437,7 @@ dateId,areaCode,country,areaName,deathCases
 20210918,4114,ch,schaffhausen,80
 20210918,4118,ch,graubunden,196
 20210918,4119,ch,aargau,721
-20210918,4120,ch,thurgau,474
+20210918,4120,ch,thurgau,475
 20210918,4123,ch,valais,675
 20210918,4124,ch,neuchatel,407
 20210918,4125,ch,geneve,749
@@ -21617,7 +21619,7 @@ dateId,areaCode,country,areaName,deathCases
 20210917,4116,ch,appenzell_innerrhoden,16
 20210917,4118,ch,graubunden,196
 20210917,4119,ch,aargau,721
-20210917,4120,ch,thurgau,474
+20210917,4120,ch,thurgau,475
 20210917,4121,ch,ticino,1001
 20210917,4123,ch,valais,675
 20210917,4124,ch,neuchatel,407
@@ -21800,7 +21802,7 @@ dateId,areaCode,country,areaName,deathCases
 20210916,4117,ch,st_gallen,732
 20210916,4118,ch,graubunden,196
 20210916,4119,ch,aargau,721
-20210916,4120,ch,thurgau,474
+20210916,4120,ch,thurgau,475
 20210916,4121,ch,ticino,1001
 20210916,4123,ch,valais,674
 20210916,4124,ch,neuchatel,407
@@ -21984,7 +21986,7 @@ dateId,areaCode,country,areaName,deathCases
 20210915,4117,ch,st_gallen,732
 20210915,4118,ch,graubunden,196
 20210915,4119,ch,aargau,721
-20210915,4120,ch,thurgau,472
+20210915,4120,ch,thurgau,473
 20210915,4121,ch,ticino,1001
 20210915,4123,ch,valais,673
 20210915,4124,ch,neuchatel,407
@@ -22168,7 +22170,7 @@ dateId,areaCode,country,areaName,deathCases
 20210914,4117,ch,st_gallen,731
 20210914,4118,ch,graubunden,196
 20210914,4119,ch,aargau,721
-20210914,4120,ch,thurgau,470
+20210914,4120,ch,thurgau,471
 20210914,4121,ch,ticino,1001
 20210914,4123,ch,valais,673
 20210914,4124,ch,neuchatel,407
@@ -22352,7 +22354,7 @@ dateId,areaCode,country,areaName,deathCases
 20210913,4117,ch,st_gallen,730
 20210913,4118,ch,graubunden,196
 20210913,4119,ch,aargau,721
-20210913,4120,ch,thurgau,470
+20210913,4120,ch,thurgau,471
 20210913,4121,ch,ticino,1001
 20210913,4123,ch,valais,673
 20210913,4124,ch,neuchatel,407
@@ -22532,7 +22534,7 @@ dateId,areaCode,country,areaName,deathCases
 20210912,4117,ch,st_gallen,729
 20210912,4118,ch,graubunden,196
 20210912,4119,ch,aargau,721
-20210912,4120,ch,thurgau,469
+20210912,4120,ch,thurgau,470
 20210912,4123,ch,valais,673
 20210912,4124,ch,neuchatel,406
 20210912,4125,ch,geneve,747
@@ -22709,7 +22711,7 @@ dateId,areaCode,country,areaName,deathCases
 20210911,4114,ch,schaffhausen,80
 20210911,4118,ch,graubunden,196
 20210911,4119,ch,aargau,721
-20210911,4120,ch,thurgau,467
+20210911,4120,ch,thurgau,468
 20210911,4123,ch,valais,673
 20210911,4124,ch,neuchatel,406
 20210911,4125,ch,geneve,747
@@ -22890,7 +22892,7 @@ dateId,areaCode,country,areaName,deathCases
 20210910,4116,ch,appenzell_innerrhoden,16
 20210910,4118,ch,graubunden,196
 20210910,4119,ch,aargau,719
-20210910,4120,ch,thurgau,467
+20210910,4120,ch,thurgau,468
 20210910,4121,ch,ticino,999
 20210910,4123,ch,valais,672
 20210910,4124,ch,neuchatel,406
@@ -23074,7 +23076,7 @@ dateId,areaCode,country,areaName,deathCases
 20210909,4117,ch,st_gallen,729
 20210909,4118,ch,graubunden,196
 20210909,4119,ch,aargau,719
-20210909,4120,ch,thurgau,467
+20210909,4120,ch,thurgau,468
 20210909,4121,ch,ticino,999
 20210909,4123,ch,valais,672
 20210909,4124,ch,neuchatel,406
@@ -23259,7 +23261,7 @@ dateId,areaCode,country,areaName,deathCases
 20210908,4117,ch,st_gallen,728
 20210908,4118,ch,graubunden,195
 20210908,4119,ch,aargau,718
-20210908,4120,ch,thurgau,465
+20210908,4120,ch,thurgau,466
 20210908,4121,ch,ticino,999
 20210908,4123,ch,valais,672
 20210908,4124,ch,neuchatel,405
@@ -23443,7 +23445,7 @@ dateId,areaCode,country,areaName,deathCases
 20210907,4117,ch,st_gallen,728
 20210907,4118,ch,graubunden,195
 20210907,4119,ch,aargau,718
-20210907,4120,ch,thurgau,464
+20210907,4120,ch,thurgau,465
 20210907,4121,ch,ticino,999
 20210907,4123,ch,valais,672
 20210907,4124,ch,neuchatel,404
@@ -23626,7 +23628,7 @@ dateId,areaCode,country,areaName,deathCases
 20210906,4117,ch,st_gallen,728
 20210906,4118,ch,graubunden,195
 20210906,4119,ch,aargau,718
-20210906,4120,ch,thurgau,463
+20210906,4120,ch,thurgau,464
 20210906,4121,ch,ticino,999
 20210906,4123,ch,valais,672
 20210906,4124,ch,neuchatel,404
@@ -23806,7 +23808,7 @@ dateId,areaCode,country,areaName,deathCases
 20210905,4117,ch,st_gallen,727
 20210905,4118,ch,graubunden,195
 20210905,4119,ch,aargau,718
-20210905,4120,ch,thurgau,463
+20210905,4120,ch,thurgau,464
 20210905,4123,ch,valais,672
 20210905,4124,ch,neuchatel,404
 20210905,4125,ch,geneve,747
@@ -23983,7 +23985,7 @@ dateId,areaCode,country,areaName,deathCases
 20210904,4114,ch,schaffhausen,79
 20210904,4118,ch,graubunden,195
 20210904,4119,ch,aargau,717
-20210904,4120,ch,thurgau,463
+20210904,4120,ch,thurgau,464
 20210904,4123,ch,valais,672
 20210904,4124,ch,neuchatel,404
 20210904,4125,ch,geneve,747
@@ -24163,7 +24165,7 @@ dateId,areaCode,country,areaName,deathCases
 20210903,4116,ch,appenzell_innerrhoden,16
 20210903,4118,ch,graubunden,195
 20210903,4119,ch,aargau,717
-20210903,4120,ch,thurgau,463
+20210903,4120,ch,thurgau,464
 20210903,4121,ch,ticino,999
 20210903,4123,ch,valais,672
 20210903,4124,ch,neuchatel,404
@@ -24345,7 +24347,7 @@ dateId,areaCode,country,areaName,deathCases
 20210902,4117,ch,st_gallen,726
 20210902,4118,ch,graubunden,195
 20210902,4119,ch,aargau,717
-20210902,4120,ch,thurgau,463
+20210902,4120,ch,thurgau,464
 20210902,4121,ch,ticino,999
 20210902,4123,ch,valais,672
 20210902,4124,ch,neuchatel,404
@@ -24528,7 +24530,7 @@ dateId,areaCode,country,areaName,deathCases
 20210901,4117,ch,st_gallen,726
 20210901,4118,ch,graubunden,195
 20210901,4119,ch,aargau,716
-20210901,4120,ch,thurgau,463
+20210901,4120,ch,thurgau,464
 20210901,4121,ch,ticino,999
 20210901,4123,ch,valais,672
 20210901,4124,ch,neuchatel,404
@@ -24711,7 +24713,7 @@ dateId,areaCode,country,areaName,deathCases
 20210831,4117,ch,st_gallen,726
 20210831,4118,ch,graubunden,195
 20210831,4119,ch,aargau,715
-20210831,4120,ch,thurgau,463
+20210831,4120,ch,thurgau,464
 20210831,4121,ch,ticino,999
 20210831,4123,ch,valais,672
 20210831,4124,ch,neuchatel,404
@@ -24894,7 +24896,7 @@ dateId,areaCode,country,areaName,deathCases
 20210830,4117,ch,st_gallen,726
 20210830,4118,ch,graubunden,195
 20210830,4119,ch,aargau,715
-20210830,4120,ch,thurgau,462
+20210830,4120,ch,thurgau,463
 20210830,4121,ch,ticino,998
 20210830,4123,ch,valais,672
 20210830,4124,ch,neuchatel,404
@@ -25074,7 +25076,7 @@ dateId,areaCode,country,areaName,deathCases
 20210829,4117,ch,st_gallen,724
 20210829,4118,ch,graubunden,194
 20210829,4119,ch,aargau,714
-20210829,4120,ch,thurgau,461
+20210829,4120,ch,thurgau,462
 20210829,4123,ch,valais,672
 20210829,4124,ch,neuchatel,404
 20210829,4125,ch,geneve,747
@@ -25251,7 +25253,7 @@ dateId,areaCode,country,areaName,deathCases
 20210828,4114,ch,schaffhausen,78
 20210828,4118,ch,graubunden,194
 20210828,4119,ch,aargau,714
-20210828,4120,ch,thurgau,461
+20210828,4120,ch,thurgau,462
 20210828,4123,ch,valais,672
 20210828,4124,ch,neuchatel,404
 20210828,4125,ch,geneve,747
@@ -25431,7 +25433,7 @@ dateId,areaCode,country,areaName,deathCases
 20210827,4116,ch,appenzell_innerrhoden,16
 20210827,4118,ch,graubunden,194
 20210827,4119,ch,aargau,714
-20210827,4120,ch,thurgau,460
+20210827,4120,ch,thurgau,461
 20210827,4121,ch,ticino,997
 20210827,4123,ch,valais,672
 20210827,4124,ch,neuchatel,404
@@ -25614,7 +25616,7 @@ dateId,areaCode,country,areaName,deathCases
 20210826,4117,ch,st_gallen,724
 20210826,4118,ch,graubunden,194
 20210826,4119,ch,aargau,713
-20210826,4120,ch,thurgau,460
+20210826,4120,ch,thurgau,461
 20210826,4121,ch,ticino,997
 20210826,4123,ch,valais,672
 20210826,4124,ch,neuchatel,404
@@ -25797,7 +25799,7 @@ dateId,areaCode,country,areaName,deathCases
 20210825,4117,ch,st_gallen,723
 20210825,4118,ch,graubunden,194
 20210825,4119,ch,aargau,711
-20210825,4120,ch,thurgau,459
+20210825,4120,ch,thurgau,460
 20210825,4121,ch,ticino,997
 20210825,4123,ch,valais,672
 20210825,4124,ch,neuchatel,404
@@ -25980,7 +25982,7 @@ dateId,areaCode,country,areaName,deathCases
 20210824,4117,ch,st_gallen,723
 20210824,4118,ch,graubunden,194
 20210824,4119,ch,aargau,710
-20210824,4120,ch,thurgau,459
+20210824,4120,ch,thurgau,460
 20210824,4121,ch,ticino,997
 20210824,4123,ch,valais,672
 20210824,4124,ch,neuchatel,404
@@ -26163,7 +26165,7 @@ dateId,areaCode,country,areaName,deathCases
 20210823,4117,ch,st_gallen,721
 20210823,4118,ch,graubunden,194
 20210823,4119,ch,aargau,709
-20210823,4120,ch,thurgau,459
+20210823,4120,ch,thurgau,460
 20210823,4121,ch,ticino,997
 20210823,4123,ch,valais,672
 20210823,4124,ch,neuchatel,404
@@ -26342,7 +26344,7 @@ dateId,areaCode,country,areaName,deathCases
 20210822,4117,ch,st_gallen,721
 20210822,4118,ch,graubunden,194
 20210822,4119,ch,aargau,709
-20210822,4120,ch,thurgau,458
+20210822,4120,ch,thurgau,459
 20210822,4123,ch,valais,672
 20210822,4124,ch,neuchatel,404
 20210822,4125,ch,geneve,747
@@ -26519,7 +26521,7 @@ dateId,areaCode,country,areaName,deathCases
 20210821,4114,ch,schaffhausen,78
 20210821,4118,ch,graubunden,194
 20210821,4119,ch,aargau,709
-20210821,4120,ch,thurgau,458
+20210821,4120,ch,thurgau,459
 20210821,4123,ch,valais,672
 20210821,4124,ch,neuchatel,404
 20210821,4125,ch,geneve,747
@@ -26699,7 +26701,7 @@ dateId,areaCode,country,areaName,deathCases
 20210820,4116,ch,appenzell_innerrhoden,16
 20210820,4118,ch,graubunden,194
 20210820,4119,ch,aargau,708
-20210820,4120,ch,thurgau,457
+20210820,4120,ch,thurgau,458
 20210820,4121,ch,ticino,997
 20210820,4123,ch,valais,672
 20210820,4124,ch,neuchatel,404
@@ -26881,7 +26883,7 @@ dateId,areaCode,country,areaName,deathCases
 20210819,4117,ch,st_gallen,721
 20210819,4118,ch,graubunden,192
 20210819,4119,ch,aargau,706
-20210819,4120,ch,thurgau,457
+20210819,4120,ch,thurgau,458
 20210819,4121,ch,ticino,997
 20210819,4123,ch,valais,672
 20210819,4124,ch,neuchatel,404
@@ -27064,7 +27066,7 @@ dateId,areaCode,country,areaName,deathCases
 20210818,4117,ch,st_gallen,720
 20210818,4118,ch,graubunden,192
 20210818,4119,ch,aargau,706
-20210818,4120,ch,thurgau,457
+20210818,4120,ch,thurgau,458
 20210818,4121,ch,ticino,997
 20210818,4123,ch,valais,672
 20210818,4124,ch,neuchatel,404
@@ -27247,7 +27249,7 @@ dateId,areaCode,country,areaName,deathCases
 20210817,4117,ch,st_gallen,720
 20210817,4118,ch,graubunden,192
 20210817,4119,ch,aargau,706
-20210817,4120,ch,thurgau,457
+20210817,4120,ch,thurgau,458
 20210817,4121,ch,ticino,997
 20210817,4123,ch,valais,672
 20210817,4124,ch,neuchatel,404
@@ -27430,7 +27432,7 @@ dateId,areaCode,country,areaName,deathCases
 20210816,4117,ch,st_gallen,720
 20210816,4118,ch,graubunden,192
 20210816,4119,ch,aargau,706
-20210816,4120,ch,thurgau,457
+20210816,4120,ch,thurgau,458
 20210816,4121,ch,ticino,997
 20210816,4123,ch,valais,672
 20210816,4124,ch,neuchatel,404
@@ -27609,7 +27611,7 @@ dateId,areaCode,country,areaName,deathCases
 20210815,4117,ch,st_gallen,720
 20210815,4118,ch,graubunden,192
 20210815,4119,ch,aargau,706
-20210815,4120,ch,thurgau,457
+20210815,4120,ch,thurgau,458
 20210815,4123,ch,valais,672
 20210815,4124,ch,neuchatel,404
 20210815,4125,ch,geneve,746
@@ -27787,7 +27789,7 @@ dateId,areaCode,country,areaName,deathCases
 20210814,4114,ch,schaffhausen,78
 20210814,4118,ch,graubunden,192
 20210814,4119,ch,aargau,706
-20210814,4120,ch,thurgau,457
+20210814,4120,ch,thurgau,458
 20210814,4123,ch,valais,672
 20210814,4124,ch,neuchatel,404
 20210814,4125,ch,geneve,746
@@ -27967,7 +27969,7 @@ dateId,areaCode,country,areaName,deathCases
 20210813,4116,ch,appenzell_innerrhoden,16
 20210813,4118,ch,graubunden,192
 20210813,4119,ch,aargau,706
-20210813,4120,ch,thurgau,457
+20210813,4120,ch,thurgau,458
 20210813,4121,ch,ticino,997
 20210813,4123,ch,valais,672
 20210813,4124,ch,neuchatel,404
@@ -28150,7 +28152,7 @@ dateId,areaCode,country,areaName,deathCases
 20210812,4117,ch,st_gallen,719
 20210812,4118,ch,graubunden,192
 20210812,4119,ch,aargau,706
-20210812,4120,ch,thurgau,457
+20210812,4120,ch,thurgau,458
 20210812,4121,ch,ticino,997
 20210812,4123,ch,valais,672
 20210812,4124,ch,neuchatel,404
@@ -28335,7 +28337,7 @@ dateId,areaCode,country,areaName,deathCases
 20210811,4117,ch,st_gallen,718
 20210811,4118,ch,graubunden,192
 20210811,4119,ch,aargau,706
-20210811,4120,ch,thurgau,457
+20210811,4120,ch,thurgau,458
 20210811,4121,ch,ticino,996
 20210811,4123,ch,valais,672
 20210811,4124,ch,neuchatel,404
@@ -28520,7 +28522,7 @@ dateId,areaCode,country,areaName,deathCases
 20210810,4117,ch,st_gallen,718
 20210810,4118,ch,graubunden,192
 20210810,4119,ch,aargau,706
-20210810,4120,ch,thurgau,457
+20210810,4120,ch,thurgau,458
 20210810,4121,ch,ticino,996
 20210810,4123,ch,valais,672
 20210810,4124,ch,neuchatel,404
@@ -28704,7 +28706,7 @@ dateId,areaCode,country,areaName,deathCases
 20210809,4117,ch,st_gallen,718
 20210809,4118,ch,graubunden,192
 20210809,4119,ch,aargau,706
-20210809,4120,ch,thurgau,457
+20210809,4120,ch,thurgau,458
 20210809,4121,ch,ticino,996
 20210809,4123,ch,valais,672
 20210809,4124,ch,neuchatel,404
@@ -28884,7 +28886,7 @@ dateId,areaCode,country,areaName,deathCases
 20210808,4117,ch,st_gallen,718
 20210808,4118,ch,graubunden,192
 20210808,4119,ch,aargau,706
-20210808,4120,ch,thurgau,457
+20210808,4120,ch,thurgau,458
 20210808,4123,ch,valais,672
 20210808,4124,ch,neuchatel,404
 20210808,4125,ch,geneve,746
@@ -29062,7 +29064,7 @@ dateId,areaCode,country,areaName,deathCases
 20210807,4114,ch,schaffhausen,78
 20210807,4118,ch,graubunden,192
 20210807,4119,ch,aargau,706
-20210807,4120,ch,thurgau,457
+20210807,4120,ch,thurgau,458
 20210807,4123,ch,valais,672
 20210807,4124,ch,neuchatel,404
 20210807,4125,ch,geneve,746
@@ -29242,7 +29244,7 @@ dateId,areaCode,country,areaName,deathCases
 20210806,4114,ch,schaffhausen,78
 20210806,4118,ch,graubunden,192
 20210806,4119,ch,aargau,706
-20210806,4120,ch,thurgau,457
+20210806,4120,ch,thurgau,458
 20210806,4121,ch,ticino,996
 20210806,4123,ch,valais,672
 20210806,4124,ch,neuchatel,404
@@ -29425,7 +29427,7 @@ dateId,areaCode,country,areaName,deathCases
 20210805,4117,ch,st_gallen,718
 20210805,4118,ch,graubunden,192
 20210805,4119,ch,aargau,706
-20210805,4120,ch,thurgau,457
+20210805,4120,ch,thurgau,458
 20210805,4121,ch,ticino,996
 20210805,4123,ch,valais,672
 20210805,4124,ch,neuchatel,404
@@ -29608,7 +29610,7 @@ dateId,areaCode,country,areaName,deathCases
 20210804,4117,ch,st_gallen,718
 20210804,4118,ch,graubunden,192
 20210804,4119,ch,aargau,706
-20210804,4120,ch,thurgau,457
+20210804,4120,ch,thurgau,458
 20210804,4121,ch,ticino,996
 20210804,4123,ch,valais,672
 20210804,4124,ch,neuchatel,404
@@ -29792,7 +29794,7 @@ dateId,areaCode,country,areaName,deathCases
 20210803,4117,ch,st_gallen,718
 20210803,4118,ch,graubunden,192
 20210803,4119,ch,aargau,706
-20210803,4120,ch,thurgau,457
+20210803,4120,ch,thurgau,458
 20210803,4121,ch,ticino,996
 20210803,4123,ch,valais,672
 20210803,4124,ch,neuchatel,404
@@ -29975,7 +29977,7 @@ dateId,areaCode,country,areaName,deathCases
 20210802,4117,ch,st_gallen,718
 20210802,4118,ch,graubunden,192
 20210802,4119,ch,aargau,705
-20210802,4120,ch,thurgau,457
+20210802,4120,ch,thurgau,458
 20210802,4121,ch,ticino,996
 20210802,4123,ch,valais,672
 20210802,4124,ch,neuchatel,404
@@ -30155,7 +30157,7 @@ dateId,areaCode,country,areaName,deathCases
 20210801,4117,ch,st_gallen,718
 20210801,4118,ch,graubunden,192
 20210801,4119,ch,aargau,705
-20210801,4120,ch,thurgau,457
+20210801,4120,ch,thurgau,458
 20210801,4123,ch,valais,672
 20210801,4124,ch,neuchatel,404
 20210801,4125,ch,geneve,745
@@ -30333,7 +30335,7 @@ dateId,areaCode,country,areaName,deathCases
 20210731,4114,ch,schaffhausen,78
 20210731,4118,ch,graubunden,192
 20210731,4119,ch,aargau,705
-20210731,4120,ch,thurgau,457
+20210731,4120,ch,thurgau,458
 20210731,4123,ch,valais,672
 20210731,4124,ch,neuchatel,404
 20210731,4125,ch,geneve,745
@@ -30514,7 +30516,7 @@ dateId,areaCode,country,areaName,deathCases
 20210730,4116,ch,appenzell_innerrhoden,15
 20210730,4118,ch,graubunden,192
 20210730,4119,ch,aargau,705
-20210730,4120,ch,thurgau,457
+20210730,4120,ch,thurgau,458
 20210730,4121,ch,ticino,996
 20210730,4123,ch,valais,672
 20210730,4124,ch,neuchatel,404
@@ -30697,7 +30699,7 @@ dateId,areaCode,country,areaName,deathCases
 20210729,4117,ch,st_gallen,718
 20210729,4118,ch,graubunden,192
 20210729,4119,ch,aargau,705
-20210729,4120,ch,thurgau,457
+20210729,4120,ch,thurgau,458
 20210729,4121,ch,ticino,996
 20210729,4123,ch,valais,672
 20210729,4124,ch,neuchatel,404
@@ -30881,7 +30883,7 @@ dateId,areaCode,country,areaName,deathCases
 20210728,4117,ch,st_gallen,718
 20210728,4118,ch,graubunden,192
 20210728,4119,ch,aargau,705
-20210728,4120,ch,thurgau,457
+20210728,4120,ch,thurgau,458
 20210728,4121,ch,ticino,995
 20210728,4123,ch,valais,672
 20210728,4124,ch,neuchatel,404
@@ -31066,7 +31068,7 @@ dateId,areaCode,country,areaName,deathCases
 20210727,4117,ch,st_gallen,718
 20210727,4118,ch,graubunden,192
 20210727,4119,ch,aargau,705
-20210727,4120,ch,thurgau,457
+20210727,4120,ch,thurgau,458
 20210727,4121,ch,ticino,995
 20210727,4123,ch,valais,672
 20210727,4124,ch,neuchatel,404
@@ -31249,7 +31251,7 @@ dateId,areaCode,country,areaName,deathCases
 20210726,4117,ch,st_gallen,718
 20210726,4118,ch,graubunden,192
 20210726,4119,ch,aargau,704
-20210726,4120,ch,thurgau,457
+20210726,4120,ch,thurgau,458
 20210726,4121,ch,ticino,995
 20210726,4123,ch,valais,672
 20210726,4124,ch,neuchatel,404
@@ -31429,7 +31431,7 @@ dateId,areaCode,country,areaName,deathCases
 20210725,4117,ch,st_gallen,717
 20210725,4118,ch,graubunden,192
 20210725,4119,ch,aargau,704
-20210725,4120,ch,thurgau,457
+20210725,4120,ch,thurgau,458
 20210725,4123,ch,valais,672
 20210725,4124,ch,neuchatel,404
 20210725,4125,ch,geneve,745
@@ -31608,7 +31610,7 @@ dateId,areaCode,country,areaName,deathCases
 20210724,4114,ch,schaffhausen,78
 20210724,4118,ch,graubunden,192
 20210724,4119,ch,aargau,704
-20210724,4120,ch,thurgau,457
+20210724,4120,ch,thurgau,458
 20210724,4123,ch,valais,672
 20210724,4124,ch,neuchatel,404
 20210724,4125,ch,geneve,745
@@ -31790,7 +31792,7 @@ dateId,areaCode,country,areaName,deathCases
 20210723,4116,ch,appenzell_innerrhoden,15
 20210723,4118,ch,graubunden,192
 20210723,4119,ch,aargau,704
-20210723,4120,ch,thurgau,457
+20210723,4120,ch,thurgau,458
 20210723,4121,ch,ticino,995
 20210723,4123,ch,valais,672
 20210723,4124,ch,neuchatel,404
@@ -31974,7 +31976,7 @@ dateId,areaCode,country,areaName,deathCases
 20210722,4117,ch,st_gallen,717
 20210722,4118,ch,graubunden,192
 20210722,4119,ch,aargau,704
-20210722,4120,ch,thurgau,457
+20210722,4120,ch,thurgau,458
 20210722,4121,ch,ticino,995
 20210722,4123,ch,valais,672
 20210722,4124,ch,neuchatel,404
@@ -32158,7 +32160,7 @@ dateId,areaCode,country,areaName,deathCases
 20210721,4117,ch,st_gallen,717
 20210721,4118,ch,graubunden,192
 20210721,4119,ch,aargau,704
-20210721,4120,ch,thurgau,457
+20210721,4120,ch,thurgau,458
 20210721,4121,ch,ticino,995
 20210721,4123,ch,valais,672
 20210721,4124,ch,neuchatel,404
@@ -32342,7 +32344,7 @@ dateId,areaCode,country,areaName,deathCases
 20210720,4117,ch,st_gallen,717
 20210720,4118,ch,graubunden,192
 20210720,4119,ch,aargau,704
-20210720,4120,ch,thurgau,457
+20210720,4120,ch,thurgau,458
 20210720,4121,ch,ticino,995
 20210720,4123,ch,valais,672
 20210720,4124,ch,neuchatel,404
@@ -32526,7 +32528,7 @@ dateId,areaCode,country,areaName,deathCases
 20210719,4117,ch,st_gallen,717
 20210719,4118,ch,graubunden,192
 20210719,4119,ch,aargau,704
-20210719,4120,ch,thurgau,457
+20210719,4120,ch,thurgau,458
 20210719,4121,ch,ticino,995
 20210719,4123,ch,valais,672
 20210719,4124,ch,neuchatel,404
@@ -32706,7 +32708,7 @@ dateId,areaCode,country,areaName,deathCases
 20210718,4117,ch,st_gallen,717
 20210718,4118,ch,graubunden,192
 20210718,4119,ch,aargau,704
-20210718,4120,ch,thurgau,457
+20210718,4120,ch,thurgau,458
 20210718,4123,ch,valais,672
 20210718,4124,ch,neuchatel,404
 20210718,4125,ch,geneve,745
@@ -32884,7 +32886,7 @@ dateId,areaCode,country,areaName,deathCases
 20210717,4114,ch,schaffhausen,78
 20210717,4118,ch,graubunden,192
 20210717,4119,ch,aargau,704
-20210717,4120,ch,thurgau,457
+20210717,4120,ch,thurgau,458
 20210717,4123,ch,valais,672
 20210717,4124,ch,neuchatel,404
 20210717,4125,ch,geneve,745
@@ -33065,7 +33067,7 @@ dateId,areaCode,country,areaName,deathCases
 20210716,4116,ch,appenzell_innerrhoden,15
 20210716,4118,ch,graubunden,192
 20210716,4119,ch,aargau,704
-20210716,4120,ch,thurgau,457
+20210716,4120,ch,thurgau,458
 20210716,4121,ch,ticino,995
 20210716,4123,ch,valais,672
 20210716,4124,ch,neuchatel,404
@@ -33248,7 +33250,7 @@ dateId,areaCode,country,areaName,deathCases
 20210715,4117,ch,st_gallen,717
 20210715,4118,ch,graubunden,192
 20210715,4119,ch,aargau,704
-20210715,4120,ch,thurgau,457
+20210715,4120,ch,thurgau,458
 20210715,4121,ch,ticino,995
 20210715,4123,ch,valais,672
 20210715,4124,ch,neuchatel,404
@@ -33431,7 +33433,7 @@ dateId,areaCode,country,areaName,deathCases
 20210714,4117,ch,st_gallen,717
 20210714,4118,ch,graubunden,192
 20210714,4119,ch,aargau,704
-20210714,4120,ch,thurgau,457
+20210714,4120,ch,thurgau,458
 20210714,4121,ch,ticino,995
 20210714,4123,ch,valais,672
 20210714,4124,ch,neuchatel,404
@@ -33615,7 +33617,7 @@ dateId,areaCode,country,areaName,deathCases
 20210713,4117,ch,st_gallen,717
 20210713,4118,ch,graubunden,192
 20210713,4119,ch,aargau,704
-20210713,4120,ch,thurgau,457
+20210713,4120,ch,thurgau,458
 20210713,4121,ch,ticino,995
 20210713,4123,ch,valais,672
 20210713,4124,ch,neuchatel,404
@@ -33799,7 +33801,7 @@ dateId,areaCode,country,areaName,deathCases
 20210712,4117,ch,st_gallen,717
 20210712,4118,ch,graubunden,192
 20210712,4119,ch,aargau,704
-20210712,4120,ch,thurgau,456
+20210712,4120,ch,thurgau,457
 20210712,4121,ch,ticino,995
 20210712,4123,ch,valais,672
 20210712,4124,ch,neuchatel,404
@@ -33979,7 +33981,7 @@ dateId,areaCode,country,areaName,deathCases
 20210711,4117,ch,st_gallen,717
 20210711,4118,ch,graubunden,192
 20210711,4119,ch,aargau,704
-20210711,4120,ch,thurgau,456
+20210711,4120,ch,thurgau,457
 20210711,4123,ch,valais,672
 20210711,4124,ch,neuchatel,404
 20210711,4125,ch,geneve,745
@@ -34157,7 +34159,7 @@ dateId,areaCode,country,areaName,deathCases
 20210710,4114,ch,schaffhausen,78
 20210710,4118,ch,graubunden,192
 20210710,4119,ch,aargau,704
-20210710,4120,ch,thurgau,456
+20210710,4120,ch,thurgau,457
 20210710,4123,ch,valais,672
 20210710,4124,ch,neuchatel,404
 20210710,4125,ch,geneve,745
@@ -34338,7 +34340,7 @@ dateId,areaCode,country,areaName,deathCases
 20210709,4116,ch,appenzell_innerrhoden,15
 20210709,4118,ch,graubunden,192
 20210709,4119,ch,aargau,704
-20210709,4120,ch,thurgau,456
+20210709,4120,ch,thurgau,457
 20210709,4121,ch,ticino,995
 20210709,4123,ch,valais,672
 20210709,4124,ch,neuchatel,404
@@ -34521,7 +34523,7 @@ dateId,areaCode,country,areaName,deathCases
 20210708,4117,ch,st_gallen,716
 20210708,4118,ch,graubunden,192
 20210708,4119,ch,aargau,704
-20210708,4120,ch,thurgau,456
+20210708,4120,ch,thurgau,457
 20210708,4121,ch,ticino,995
 20210708,4123,ch,valais,672
 20210708,4124,ch,neuchatel,404
@@ -34705,7 +34707,7 @@ dateId,areaCode,country,areaName,deathCases
 20210707,4117,ch,st_gallen,716
 20210707,4118,ch,graubunden,192
 20210707,4119,ch,aargau,704
-20210707,4120,ch,thurgau,456
+20210707,4120,ch,thurgau,457
 20210707,4121,ch,ticino,995
 20210707,4123,ch,valais,672
 20210707,4124,ch,neuchatel,404
@@ -34889,7 +34891,7 @@ dateId,areaCode,country,areaName,deathCases
 20210706,4117,ch,st_gallen,716
 20210706,4118,ch,graubunden,192
 20210706,4119,ch,aargau,704
-20210706,4120,ch,thurgau,456
+20210706,4120,ch,thurgau,457
 20210706,4121,ch,ticino,995
 20210706,4123,ch,valais,672
 20210706,4124,ch,neuchatel,404
@@ -35073,7 +35075,7 @@ dateId,areaCode,country,areaName,deathCases
 20210705,4117,ch,st_gallen,716
 20210705,4118,ch,graubunden,192
 20210705,4119,ch,aargau,704
-20210705,4120,ch,thurgau,456
+20210705,4120,ch,thurgau,457
 20210705,4121,ch,ticino,995
 20210705,4123,ch,valais,672
 20210705,4124,ch,neuchatel,404
@@ -35253,7 +35255,7 @@ dateId,areaCode,country,areaName,deathCases
 20210704,4117,ch,st_gallen,716
 20210704,4118,ch,graubunden,192
 20210704,4119,ch,aargau,704
-20210704,4120,ch,thurgau,456
+20210704,4120,ch,thurgau,457
 20210704,4123,ch,valais,672
 20210704,4124,ch,neuchatel,404
 20210704,4125,ch,geneve,745
@@ -35432,7 +35434,7 @@ dateId,areaCode,country,areaName,deathCases
 20210703,4114,ch,schaffhausen,78
 20210703,4118,ch,graubunden,192
 20210703,4119,ch,aargau,704
-20210703,4120,ch,thurgau,456
+20210703,4120,ch,thurgau,457
 20210703,4123,ch,valais,672
 20210703,4124,ch,neuchatel,404
 20210703,4125,ch,geneve,745
@@ -35612,7 +35614,7 @@ dateId,areaCode,country,areaName,deathCases
 20210702,4116,ch,appenzell_innerrhoden,15
 20210702,4118,ch,graubunden,192
 20210702,4119,ch,aargau,704
-20210702,4120,ch,thurgau,456
+20210702,4120,ch,thurgau,457
 20210702,4121,ch,ticino,995
 20210702,4123,ch,valais,672
 20210702,4124,ch,neuchatel,404
@@ -35796,7 +35798,7 @@ dateId,areaCode,country,areaName,deathCases
 20210701,4117,ch,st_gallen,715
 20210701,4118,ch,graubunden,192
 20210701,4119,ch,aargau,704
-20210701,4120,ch,thurgau,456
+20210701,4120,ch,thurgau,457
 20210701,4121,ch,ticino,995
 20210701,4123,ch,valais,672
 20210701,4124,ch,neuchatel,404
@@ -35980,7 +35982,7 @@ dateId,areaCode,country,areaName,deathCases
 20210630,4117,ch,st_gallen,715
 20210630,4118,ch,graubunden,192
 20210630,4119,ch,aargau,704
-20210630,4120,ch,thurgau,456
+20210630,4120,ch,thurgau,457
 20210630,4121,ch,ticino,995
 20210630,4123,ch,valais,672
 20210630,4124,ch,neuchatel,404
@@ -36165,7 +36167,7 @@ dateId,areaCode,country,areaName,deathCases
 20210629,4117,ch,st_gallen,715
 20210629,4118,ch,graubunden,192
 20210629,4119,ch,aargau,704
-20210629,4120,ch,thurgau,456
+20210629,4120,ch,thurgau,457
 20210629,4122,ch,vaud,1019
 20210629,4123,ch,valais,672
 20210629,4124,ch,neuchatel,404
@@ -36349,7 +36351,7 @@ dateId,areaCode,country,areaName,deathCases
 20210628,4117,ch,st_gallen,715
 20210628,4118,ch,graubunden,192
 20210628,4119,ch,aargau,704
-20210628,4120,ch,thurgau,455
+20210628,4120,ch,thurgau,456
 20210628,4121,ch,ticino,995
 20210628,4122,ch,vaud,1019
 20210628,4123,ch,valais,672
@@ -36530,7 +36532,7 @@ dateId,areaCode,country,areaName,deathCases
 20210627,4117,ch,st_gallen,715
 20210627,4118,ch,graubunden,192
 20210627,4119,ch,aargau,704
-20210627,4120,ch,thurgau,455
+20210627,4120,ch,thurgau,456
 20210627,4122,ch,vaud,1019
 20210627,4123,ch,valais,672
 20210627,4124,ch,neuchatel,404
@@ -36709,7 +36711,7 @@ dateId,areaCode,country,areaName,deathCases
 20210626,4114,ch,schaffhausen,78
 20210626,4118,ch,graubunden,192
 20210626,4119,ch,aargau,704
-20210626,4120,ch,thurgau,455
+20210626,4120,ch,thurgau,456
 20210626,4122,ch,vaud,1018
 20210626,4123,ch,valais,672
 20210626,4124,ch,neuchatel,404
@@ -36891,7 +36893,7 @@ dateId,areaCode,country,areaName,deathCases
 20210625,4116,ch,appenzell_innerrhoden,15
 20210625,4118,ch,graubunden,192
 20210625,4119,ch,aargau,704
-20210625,4120,ch,thurgau,455
+20210625,4120,ch,thurgau,456
 20210625,4121,ch,ticino,995
 20210625,4122,ch,vaud,1018
 20210625,4123,ch,valais,672
@@ -37076,7 +37078,7 @@ dateId,areaCode,country,areaName,deathCases
 20210624,4117,ch,st_gallen,715
 20210624,4118,ch,graubunden,192
 20210624,4119,ch,aargau,704
-20210624,4120,ch,thurgau,455
+20210624,4120,ch,thurgau,456
 20210624,4121,ch,ticino,995
 20210624,4122,ch,vaud,1018
 20210624,4123,ch,valais,672
@@ -37261,7 +37263,7 @@ dateId,areaCode,country,areaName,deathCases
 20210623,4117,ch,st_gallen,715
 20210623,4118,ch,graubunden,192
 20210623,4119,ch,aargau,704
-20210623,4120,ch,thurgau,455
+20210623,4120,ch,thurgau,456
 20210623,4121,ch,ticino,995
 20210623,4122,ch,vaud,1018
 20210623,4123,ch,valais,672
@@ -37446,7 +37448,7 @@ dateId,areaCode,country,areaName,deathCases
 20210622,4117,ch,st_gallen,715
 20210622,4118,ch,graubunden,192
 20210622,4119,ch,aargau,704
-20210622,4120,ch,thurgau,455
+20210622,4120,ch,thurgau,456
 20210622,4121,ch,ticino,995
 20210622,4122,ch,vaud,1018
 20210622,4123,ch,valais,672
@@ -37631,7 +37633,7 @@ dateId,areaCode,country,areaName,deathCases
 20210621,4117,ch,st_gallen,714
 20210621,4118,ch,graubunden,192
 20210621,4119,ch,aargau,704
-20210621,4120,ch,thurgau,455
+20210621,4120,ch,thurgau,456
 20210621,4121,ch,ticino,995
 20210621,4122,ch,vaud,1018
 20210621,4123,ch,valais,672
@@ -37812,7 +37814,7 @@ dateId,areaCode,country,areaName,deathCases
 20210620,4117,ch,st_gallen,714
 20210620,4118,ch,graubunden,192
 20210620,4119,ch,aargau,704
-20210620,4120,ch,thurgau,455
+20210620,4120,ch,thurgau,456
 20210620,4122,ch,vaud,1018
 20210620,4123,ch,valais,672
 20210620,4124,ch,neuchatel,404
@@ -37991,7 +37993,7 @@ dateId,areaCode,country,areaName,deathCases
 20210619,4114,ch,schaffhausen,78
 20210619,4118,ch,graubunden,192
 20210619,4119,ch,aargau,704
-20210619,4120,ch,thurgau,455
+20210619,4120,ch,thurgau,456
 20210619,4122,ch,vaud,1018
 20210619,4123,ch,valais,672
 20210619,4124,ch,neuchatel,404
@@ -38173,7 +38175,7 @@ dateId,areaCode,country,areaName,deathCases
 20210618,4116,ch,appenzell_innerrhoden,15
 20210618,4118,ch,graubunden,192
 20210618,4119,ch,aargau,704
-20210618,4120,ch,thurgau,455
+20210618,4120,ch,thurgau,456
 20210618,4121,ch,ticino,995
 20210618,4122,ch,vaud,1018
 20210618,4123,ch,valais,672
@@ -38358,7 +38360,7 @@ dateId,areaCode,country,areaName,deathCases
 20210617,4117,ch,st_gallen,713
 20210617,4118,ch,graubunden,192
 20210617,4119,ch,aargau,704
-20210617,4120,ch,thurgau,454
+20210617,4120,ch,thurgau,455
 20210617,4121,ch,ticino,995
 20210617,4122,ch,vaud,1018
 20210617,4123,ch,valais,672
@@ -38543,7 +38545,7 @@ dateId,areaCode,country,areaName,deathCases
 20210616,4117,ch,st_gallen,713
 20210616,4118,ch,graubunden,192
 20210616,4119,ch,aargau,704
-20210616,4120,ch,thurgau,454
+20210616,4120,ch,thurgau,455
 20210616,4121,ch,ticino,995
 20210616,4122,ch,vaud,1017
 20210616,4123,ch,valais,672
@@ -38728,7 +38730,7 @@ dateId,areaCode,country,areaName,deathCases
 20210615,4117,ch,st_gallen,712
 20210615,4118,ch,graubunden,192
 20210615,4119,ch,aargau,704
-20210615,4120,ch,thurgau,454
+20210615,4120,ch,thurgau,455
 20210615,4121,ch,ticino,995
 20210615,4122,ch,vaud,1017
 20210615,4123,ch,valais,671
@@ -38913,7 +38915,7 @@ dateId,areaCode,country,areaName,deathCases
 20210614,4117,ch,st_gallen,712
 20210614,4118,ch,graubunden,192
 20210614,4119,ch,aargau,704
-20210614,4120,ch,thurgau,454
+20210614,4120,ch,thurgau,455
 20210614,4121,ch,ticino,995
 20210614,4122,ch,vaud,1017
 20210614,4123,ch,valais,671
@@ -39094,7 +39096,7 @@ dateId,areaCode,country,areaName,deathCases
 20210613,4117,ch,st_gallen,712
 20210613,4118,ch,graubunden,192
 20210613,4119,ch,aargau,704
-20210613,4120,ch,thurgau,454
+20210613,4120,ch,thurgau,455
 20210613,4121,ch,ticino,995
 20210613,4122,ch,vaud,1017
 20210613,4123,ch,valais,671
@@ -39274,7 +39276,7 @@ dateId,areaCode,country,areaName,deathCases
 20210612,4114,ch,schaffhausen,78
 20210612,4118,ch,graubunden,192
 20210612,4119,ch,aargau,704
-20210612,4120,ch,thurgau,454
+20210612,4120,ch,thurgau,455
 20210612,4121,ch,ticino,995
 20210612,4122,ch,vaud,1017
 20210612,4123,ch,valais,671
@@ -39457,7 +39459,7 @@ dateId,areaCode,country,areaName,deathCases
 20210611,4116,ch,appenzell_innerrhoden,15
 20210611,4118,ch,graubunden,192
 20210611,4119,ch,aargau,704
-20210611,4120,ch,thurgau,454
+20210611,4120,ch,thurgau,455
 20210611,4121,ch,ticino,995
 20210611,4122,ch,vaud,1017
 20210611,4123,ch,valais,671
@@ -39641,7 +39643,7 @@ dateId,areaCode,country,areaName,deathCases
 20210610,4117,ch,st_gallen,712
 20210610,4118,ch,graubunden,192
 20210610,4119,ch,aargau,704
-20210610,4120,ch,thurgau,454
+20210610,4120,ch,thurgau,455
 20210610,4121,ch,ticino,995
 20210610,4122,ch,vaud,1017
 20210610,4123,ch,valais,671
@@ -39826,7 +39828,7 @@ dateId,areaCode,country,areaName,deathCases
 20210609,4117,ch,st_gallen,711
 20210609,4118,ch,graubunden,192
 20210609,4119,ch,aargau,704
-20210609,4120,ch,thurgau,454
+20210609,4120,ch,thurgau,455
 20210609,4121,ch,ticino,995
 20210609,4122,ch,vaud,1017
 20210609,4123,ch,valais,671
@@ -40011,7 +40013,7 @@ dateId,areaCode,country,areaName,deathCases
 20210608,4117,ch,st_gallen,711
 20210608,4118,ch,graubunden,191
 20210608,4119,ch,aargau,704
-20210608,4120,ch,thurgau,454
+20210608,4120,ch,thurgau,455
 20210608,4121,ch,ticino,995
 20210608,4122,ch,vaud,1016
 20210608,4123,ch,valais,671
@@ -40196,7 +40198,7 @@ dateId,areaCode,country,areaName,deathCases
 20210607,4117,ch,st_gallen,710
 20210607,4118,ch,graubunden,191
 20210607,4119,ch,aargau,703
-20210607,4120,ch,thurgau,453
+20210607,4120,ch,thurgau,454
 20210607,4121,ch,ticino,995
 20210607,4122,ch,vaud,1016
 20210607,4123,ch,valais,671
@@ -40377,7 +40379,7 @@ dateId,areaCode,country,areaName,deathCases
 20210606,4117,ch,st_gallen,710
 20210606,4118,ch,graubunden,191
 20210606,4119,ch,aargau,703
-20210606,4120,ch,thurgau,453
+20210606,4120,ch,thurgau,454
 20210606,4121,ch,ticino,995
 20210606,4122,ch,vaud,1016
 20210606,4123,ch,valais,671
@@ -40557,7 +40559,7 @@ dateId,areaCode,country,areaName,deathCases
 20210605,4114,ch,schaffhausen,77
 20210605,4118,ch,graubunden,191
 20210605,4119,ch,aargau,703
-20210605,4120,ch,thurgau,452
+20210605,4120,ch,thurgau,453
 20210605,4121,ch,ticino,995
 20210605,4122,ch,vaud,1016
 20210605,4123,ch,valais,671
@@ -40739,7 +40741,7 @@ dateId,areaCode,country,areaName,deathCases
 20210604,4116,ch,appenzell_innerrhoden,15
 20210604,4118,ch,graubunden,191
 20210604,4119,ch,aargau,703
-20210604,4120,ch,thurgau,452
+20210604,4120,ch,thurgau,453
 20210604,4121,ch,ticino,995
 20210604,4122,ch,vaud,1016
 20210604,4123,ch,valais,671
@@ -40920,7 +40922,7 @@ dateId,areaCode,country,areaName,deathCases
 20210603,4117,ch,st_gallen,709
 20210603,4118,ch,graubunden,191
 20210603,4119,ch,aargau,701
-20210603,4120,ch,thurgau,452
+20210603,4120,ch,thurgau,453
 20210603,4121,ch,ticino,995
 20210603,4122,ch,vaud,1014
 20210603,4123,ch,valais,671
@@ -41104,7 +41106,7 @@ dateId,areaCode,country,areaName,deathCases
 20210602,4117,ch,st_gallen,709
 20210602,4118,ch,graubunden,191
 20210602,4119,ch,aargau,700
-20210602,4120,ch,thurgau,452
+20210602,4120,ch,thurgau,453
 20210602,4121,ch,ticino,995
 20210602,4122,ch,vaud,1014
 20210602,4123,ch,valais,671
@@ -41289,7 +41291,7 @@ dateId,areaCode,country,areaName,deathCases
 20210601,4117,ch,st_gallen,709
 20210601,4118,ch,graubunden,191
 20210601,4119,ch,aargau,700
-20210601,4120,ch,thurgau,452
+20210601,4120,ch,thurgau,453
 20210601,4121,ch,ticino,995
 20210601,4122,ch,vaud,1014
 20210601,4123,ch,valais,671
@@ -41474,7 +41476,7 @@ dateId,areaCode,country,areaName,deathCases
 20210531,4117,ch,st_gallen,709
 20210531,4118,ch,graubunden,191
 20210531,4119,ch,aargau,700
-20210531,4120,ch,thurgau,452
+20210531,4120,ch,thurgau,453
 20210531,4121,ch,ticino,995
 20210531,4122,ch,vaud,1014
 20210531,4123,ch,valais,671
@@ -41655,7 +41657,7 @@ dateId,areaCode,country,areaName,deathCases
 20210530,4117,ch,st_gallen,709
 20210530,4118,ch,graubunden,191
 20210530,4119,ch,aargau,700
-20210530,4120,ch,thurgau,452
+20210530,4120,ch,thurgau,453
 20210530,4121,ch,ticino,995
 20210530,4122,ch,vaud,1014
 20210530,4123,ch,valais,671
@@ -41836,7 +41838,7 @@ dateId,areaCode,country,areaName,deathCases
 20210529,4114,ch,schaffhausen,77
 20210529,4118,ch,graubunden,191
 20210529,4119,ch,aargau,700
-20210529,4120,ch,thurgau,452
+20210529,4120,ch,thurgau,453
 20210529,4121,ch,ticino,995
 20210529,4122,ch,vaud,1014
 20210529,4123,ch,valais,671
@@ -42019,7 +42021,7 @@ dateId,areaCode,country,areaName,deathCases
 20210528,4116,ch,appenzell_innerrhoden,15
 20210528,4118,ch,graubunden,191
 20210528,4119,ch,aargau,700
-20210528,4120,ch,thurgau,452
+20210528,4120,ch,thurgau,453
 20210528,4121,ch,ticino,995
 20210528,4122,ch,vaud,1014
 20210528,4123,ch,valais,670
@@ -42205,7 +42207,7 @@ dateId,areaCode,country,areaName,deathCases
 20210527,4117,ch,st_gallen,709
 20210527,4118,ch,graubunden,191
 20210527,4119,ch,aargau,700
-20210527,4120,ch,thurgau,452
+20210527,4120,ch,thurgau,453
 20210527,4121,ch,ticino,995
 20210527,4122,ch,vaud,1013
 20210527,4123,ch,valais,670
@@ -42392,7 +42394,7 @@ dateId,areaCode,country,areaName,deathCases
 20210526,4117,ch,st_gallen,709
 20210526,4118,ch,graubunden,190
 20210526,4119,ch,aargau,700
-20210526,4120,ch,thurgau,452
+20210526,4120,ch,thurgau,453
 20210526,4121,ch,ticino,994
 20210526,4122,ch,vaud,1012
 20210526,4123,ch,valais,669
@@ -42579,7 +42581,7 @@ dateId,areaCode,country,areaName,deathCases
 20210525,4117,ch,st_gallen,709
 20210525,4118,ch,graubunden,190
 20210525,4119,ch,aargau,700
-20210525,4120,ch,thurgau,452
+20210525,4120,ch,thurgau,453
 20210525,4121,ch,ticino,994
 20210525,4122,ch,vaud,1012
 20210525,4123,ch,valais,669
@@ -42760,7 +42762,7 @@ dateId,areaCode,country,areaName,deathCases
 20210524,4117,ch,st_gallen,709
 20210524,4118,ch,graubunden,190
 20210524,4119,ch,aargau,700
-20210524,4120,ch,thurgau,452
+20210524,4120,ch,thurgau,453
 20210524,4121,ch,ticino,994
 20210524,4122,ch,vaud,1010
 20210524,4123,ch,valais,669
@@ -42940,7 +42942,7 @@ dateId,areaCode,country,areaName,deathCases
 20210523,4114,ch,schaffhausen,77
 20210523,4118,ch,graubunden,190
 20210523,4119,ch,aargau,700
-20210523,4120,ch,thurgau,451
+20210523,4120,ch,thurgau,452
 20210523,4121,ch,ticino,994
 20210523,4122,ch,vaud,1010
 20210523,4123,ch,valais,669
@@ -43119,7 +43121,7 @@ dateId,areaCode,country,areaName,deathCases
 20210522,4114,ch,schaffhausen,76
 20210522,4118,ch,graubunden,190
 20210522,4119,ch,aargau,700
-20210522,4120,ch,thurgau,450
+20210522,4120,ch,thurgau,451
 20210522,4121,ch,ticino,994
 20210522,4122,ch,vaud,1010
 20210522,4123,ch,valais,669
@@ -43304,7 +43306,7 @@ dateId,areaCode,country,areaName,deathCases
 20210521,4116,ch,appenzell_innerrhoden,15
 20210521,4118,ch,graubunden,190
 20210521,4119,ch,aargau,700
-20210521,4120,ch,thurgau,450
+20210521,4120,ch,thurgau,451
 20210521,4121,ch,ticino,993
 20210521,4122,ch,vaud,1010
 20210521,4123,ch,valais,668
@@ -43489,7 +43491,7 @@ dateId,areaCode,country,areaName,deathCases
 20210520,4117,ch,st_gallen,709
 20210520,4118,ch,graubunden,190
 20210520,4119,ch,aargau,699
-20210520,4120,ch,thurgau,450
+20210520,4120,ch,thurgau,451
 20210520,4121,ch,ticino,993
 20210520,4122,ch,vaud,1010
 20210520,4123,ch,valais,667
@@ -43676,7 +43678,7 @@ dateId,areaCode,country,areaName,deathCases
 20210519,4117,ch,st_gallen,709
 20210519,4118,ch,graubunden,190
 20210519,4119,ch,aargau,699
-20210519,4120,ch,thurgau,450
+20210519,4120,ch,thurgau,451
 20210519,4121,ch,ticino,993
 20210519,4122,ch,vaud,1009
 20210519,4123,ch,valais,667
@@ -43862,7 +43864,7 @@ dateId,areaCode,country,areaName,deathCases
 20210518,4117,ch,st_gallen,709
 20210518,4118,ch,graubunden,189
 20210518,4119,ch,aargau,699
-20210518,4120,ch,thurgau,449
+20210518,4120,ch,thurgau,450
 20210518,4121,ch,ticino,992
 20210518,4122,ch,vaud,1009
 20210518,4123,ch,valais,667
@@ -44047,7 +44049,7 @@ dateId,areaCode,country,areaName,deathCases
 20210517,4117,ch,st_gallen,709
 20210517,4118,ch,graubunden,188
 20210517,4119,ch,aargau,698
-20210517,4120,ch,thurgau,449
+20210517,4120,ch,thurgau,450
 20210517,4121,ch,ticino,992
 20210517,4122,ch,vaud,1009
 20210517,4123,ch,valais,667
@@ -44229,7 +44231,7 @@ dateId,areaCode,country,areaName,deathCases
 20210516,4117,ch,st_gallen,709
 20210516,4118,ch,graubunden,188
 20210516,4119,ch,aargau,698
-20210516,4120,ch,thurgau,449
+20210516,4120,ch,thurgau,450
 20210516,4121,ch,ticino,991
 20210516,4122,ch,vaud,1009
 20210516,4123,ch,valais,667
@@ -44409,7 +44411,7 @@ dateId,areaCode,country,areaName,deathCases
 20210515,4114,ch,schaffhausen,76
 20210515,4118,ch,graubunden,188
 20210515,4119,ch,aargau,696
-20210515,4120,ch,thurgau,448
+20210515,4120,ch,thurgau,449
 20210515,4121,ch,ticino,991
 20210515,4122,ch,vaud,1009
 20210515,4123,ch,valais,667
@@ -44591,7 +44593,7 @@ dateId,areaCode,country,areaName,deathCases
 20210514,4114,ch,schaffhausen,76
 20210514,4118,ch,graubunden,188
 20210514,4119,ch,aargau,695
-20210514,4120,ch,thurgau,448
+20210514,4120,ch,thurgau,449
 20210514,4121,ch,ticino,991
 20210514,4122,ch,vaud,1009
 20210514,4123,ch,valais,667
@@ -44771,7 +44773,7 @@ dateId,areaCode,country,areaName,deathCases
 20210513,4117,ch,st_gallen,709
 20210513,4118,ch,graubunden,188
 20210513,4119,ch,aargau,695
-20210513,4120,ch,thurgau,448
+20210513,4120,ch,thurgau,449
 20210513,4121,ch,ticino,991
 20210513,4122,ch,vaud,1009
 20210513,4123,ch,valais,666
@@ -44956,7 +44958,7 @@ dateId,areaCode,country,areaName,deathCases
 20210512,4116,ch,appenzell_innerrhoden,15
 20210512,4118,ch,graubunden,188
 20210512,4119,ch,aargau,693
-20210512,4120,ch,thurgau,448
+20210512,4120,ch,thurgau,449
 20210512,4121,ch,ticino,991
 20210512,4122,ch,vaud,1008
 20210512,4123,ch,valais,666
@@ -45142,7 +45144,7 @@ dateId,areaCode,country,areaName,deathCases
 20210511,4117,ch,st_gallen,708
 20210511,4118,ch,graubunden,188
 20210511,4119,ch,aargau,693
-20210511,4120,ch,thurgau,448
+20210511,4120,ch,thurgau,449
 20210511,4121,ch,ticino,991
 20210511,4122,ch,vaud,1008
 20210511,4123,ch,valais,666
@@ -45328,7 +45330,7 @@ dateId,areaCode,country,areaName,deathCases
 20210510,4117,ch,st_gallen,708
 20210510,4118,ch,graubunden,188
 20210510,4119,ch,aargau,693
-20210510,4120,ch,thurgau,448
+20210510,4120,ch,thurgau,449
 20210510,4121,ch,ticino,991
 20210510,4122,ch,vaud,1008
 20210510,4123,ch,valais,666
@@ -45510,7 +45512,7 @@ dateId,areaCode,country,areaName,deathCases
 20210509,4117,ch,st_gallen,708
 20210509,4118,ch,graubunden,187
 20210509,4119,ch,aargau,693
-20210509,4120,ch,thurgau,448
+20210509,4120,ch,thurgau,449
 20210509,4121,ch,ticino,991
 20210509,4122,ch,vaud,1007
 20210509,4123,ch,valais,666
@@ -45691,7 +45693,7 @@ dateId,areaCode,country,areaName,deathCases
 20210508,4114,ch,schaffhausen,76
 20210508,4118,ch,graubunden,187
 20210508,4119,ch,aargau,693
-20210508,4120,ch,thurgau,447
+20210508,4120,ch,thurgau,448
 20210508,4121,ch,ticino,991
 20210508,4122,ch,vaud,1007
 20210508,4123,ch,valais,666
@@ -45876,7 +45878,7 @@ dateId,areaCode,country,areaName,deathCases
 20210507,4116,ch,appenzell_innerrhoden,15
 20210507,4118,ch,graubunden,187
 20210507,4119,ch,aargau,693
-20210507,4120,ch,thurgau,447
+20210507,4120,ch,thurgau,448
 20210507,4121,ch,ticino,991
 20210507,4122,ch,vaud,1007
 20210507,4123,ch,valais,666
@@ -46062,7 +46064,7 @@ dateId,areaCode,country,areaName,deathCases
 20210506,4117,ch,st_gallen,707
 20210506,4118,ch,graubunden,187
 20210506,4119,ch,aargau,692
-20210506,4120,ch,thurgau,447
+20210506,4120,ch,thurgau,448
 20210506,4121,ch,ticino,991
 20210506,4122,ch,vaud,1006
 20210506,4123,ch,valais,666
@@ -46249,7 +46251,7 @@ dateId,areaCode,country,areaName,deathCases
 20210505,4117,ch,st_gallen,707
 20210505,4118,ch,graubunden,187
 20210505,4119,ch,aargau,692
-20210505,4120,ch,thurgau,447
+20210505,4120,ch,thurgau,448
 20210505,4121,ch,ticino,991
 20210505,4122,ch,vaud,1006
 20210505,4123,ch,valais,666
@@ -46435,7 +46437,7 @@ dateId,areaCode,country,areaName,deathCases
 20210504,4117,ch,st_gallen,707
 20210504,4118,ch,graubunden,185
 20210504,4119,ch,aargau,692
-20210504,4120,ch,thurgau,445
+20210504,4120,ch,thurgau,446
 20210504,4121,ch,ticino,991
 20210504,4122,ch,vaud,1006
 20210504,4123,ch,valais,665
@@ -46621,7 +46623,7 @@ dateId,areaCode,country,areaName,deathCases
 20210503,4117,ch,st_gallen,707
 20210503,4118,ch,graubunden,185
 20210503,4119,ch,aargau,692
-20210503,4120,ch,thurgau,444
+20210503,4120,ch,thurgau,445
 20210503,4121,ch,ticino,991
 20210503,4122,ch,vaud,1005
 20210503,4123,ch,valais,665
@@ -46803,7 +46805,7 @@ dateId,areaCode,country,areaName,deathCases
 20210502,4117,ch,st_gallen,706
 20210502,4118,ch,graubunden,185
 20210502,4119,ch,aargau,692
-20210502,4120,ch,thurgau,444
+20210502,4120,ch,thurgau,445
 20210502,4121,ch,ticino,989
 20210502,4122,ch,vaud,1005
 20210502,4123,ch,valais,664
@@ -46984,7 +46986,7 @@ dateId,areaCode,country,areaName,deathCases
 20210501,4114,ch,schaffhausen,76
 20210501,4118,ch,graubunden,185
 20210501,4119,ch,aargau,692
-20210501,4120,ch,thurgau,443
+20210501,4120,ch,thurgau,444
 20210501,4121,ch,ticino,989
 20210501,4122,ch,vaud,1005
 20210501,4123,ch,valais,664
@@ -47168,7 +47170,7 @@ dateId,areaCode,country,areaName,deathCases
 20210430,4116,ch,appenzell_innerrhoden,15
 20210430,4118,ch,graubunden,185
 20210430,4119,ch,aargau,691
-20210430,4120,ch,thurgau,442
+20210430,4120,ch,thurgau,443
 20210430,4121,ch,ticino,989
 20210430,4122,ch,vaud,1004
 20210430,4123,ch,valais,664
@@ -47354,7 +47356,7 @@ dateId,areaCode,country,areaName,deathCases
 20210429,4117,ch,st_gallen,706
 20210429,4118,ch,graubunden,185
 20210429,4119,ch,aargau,686
-20210429,4120,ch,thurgau,441
+20210429,4120,ch,thurgau,442
 20210429,4121,ch,ticino,988
 20210429,4122,ch,vaud,1002
 20210429,4123,ch,valais,664
@@ -47540,7 +47542,7 @@ dateId,areaCode,country,areaName,deathCases
 20210428,4117,ch,st_gallen,706
 20210428,4118,ch,graubunden,184
 20210428,4119,ch,aargau,685
-20210428,4120,ch,thurgau,441
+20210428,4120,ch,thurgau,442
 20210428,4121,ch,ticino,986
 20210428,4122,ch,vaud,1002
 20210428,4123,ch,valais,664
@@ -47726,7 +47728,7 @@ dateId,areaCode,country,areaName,deathCases
 20210427,4117,ch,st_gallen,706
 20210427,4118,ch,graubunden,184
 20210427,4119,ch,aargau,684
-20210427,4120,ch,thurgau,441
+20210427,4120,ch,thurgau,442
 20210427,4121,ch,ticino,985
 20210427,4122,ch,vaud,1002
 20210427,4123,ch,valais,663
@@ -47912,7 +47914,7 @@ dateId,areaCode,country,areaName,deathCases
 20210426,4117,ch,st_gallen,703
 20210426,4118,ch,graubunden,184
 20210426,4119,ch,aargau,683
-20210426,4120,ch,thurgau,440
+20210426,4120,ch,thurgau,441
 20210426,4121,ch,ticino,984
 20210426,4122,ch,vaud,1002
 20210426,4123,ch,valais,662
@@ -48093,7 +48095,7 @@ dateId,areaCode,country,areaName,deathCases
 20210425,4117,ch,st_gallen,703
 20210425,4118,ch,graubunden,184
 20210425,4119,ch,aargau,681
-20210425,4120,ch,thurgau,439
+20210425,4120,ch,thurgau,440
 20210425,4121,ch,ticino,984
 20210425,4122,ch,vaud,1002
 20210425,4123,ch,valais,661
@@ -48273,7 +48275,7 @@ dateId,areaCode,country,areaName,deathCases
 20210424,4114,ch,schaffhausen,75
 20210424,4118,ch,graubunden,184
 20210424,4119,ch,aargau,681
-20210424,4120,ch,thurgau,438
+20210424,4120,ch,thurgau,439
 20210424,4121,ch,ticino,984
 20210424,4122,ch,vaud,1001
 20210424,4123,ch,valais,659
@@ -48458,7 +48460,7 @@ dateId,areaCode,country,areaName,deathCases
 20210423,4116,ch,appenzell_innerrhoden,15
 20210423,4118,ch,graubunden,184
 20210423,4119,ch,aargau,681
-20210423,4120,ch,thurgau,438
+20210423,4120,ch,thurgau,439
 20210423,4121,ch,ticino,983
 20210423,4122,ch,vaud,1001
 20210423,4123,ch,valais,659
@@ -48644,7 +48646,7 @@ dateId,areaCode,country,areaName,deathCases
 20210422,4117,ch,st_gallen,701
 20210422,4118,ch,graubunden,184
 20210422,4119,ch,aargau,680
-20210422,4120,ch,thurgau,436
+20210422,4120,ch,thurgau,437
 20210422,4121,ch,ticino,982
 20210422,4122,ch,vaud,1001
 20210422,4123,ch,valais,657
@@ -48830,7 +48832,7 @@ dateId,areaCode,country,areaName,deathCases
 20210421,4117,ch,st_gallen,701
 20210421,4118,ch,graubunden,184
 20210421,4119,ch,aargau,677
-20210421,4120,ch,thurgau,436
+20210421,4120,ch,thurgau,437
 20210421,4121,ch,ticino,982
 20210421,4122,ch,vaud,1001
 20210421,4123,ch,valais,657
@@ -49016,7 +49018,7 @@ dateId,areaCode,country,areaName,deathCases
 20210420,4117,ch,st_gallen,700
 20210420,4118,ch,graubunden,184
 20210420,4119,ch,aargau,676
-20210420,4120,ch,thurgau,436
+20210420,4120,ch,thurgau,437
 20210420,4121,ch,ticino,982
 20210420,4122,ch,vaud,1000
 20210420,4123,ch,valais,657
@@ -49203,7 +49205,7 @@ dateId,areaCode,country,areaName,deathCases
 20210419,4117,ch,st_gallen,700
 20210419,4118,ch,graubunden,184
 20210419,4119,ch,aargau,675
-20210419,4120,ch,thurgau,436
+20210419,4120,ch,thurgau,437
 20210419,4121,ch,ticino,982
 20210419,4122,ch,vaud,1000
 20210419,4123,ch,valais,656
@@ -49384,7 +49386,7 @@ dateId,areaCode,country,areaName,deathCases
 20210418,4117,ch,st_gallen,700
 20210418,4118,ch,graubunden,184
 20210418,4119,ch,aargau,675
-20210418,4120,ch,thurgau,434
+20210418,4120,ch,thurgau,435
 20210418,4121,ch,ticino,981
 20210418,4122,ch,vaud,997
 20210418,4123,ch,valais,655
@@ -49565,7 +49567,7 @@ dateId,areaCode,country,areaName,deathCases
 20210417,4114,ch,schaffhausen,75
 20210417,4118,ch,graubunden,184
 20210417,4119,ch,aargau,675
-20210417,4120,ch,thurgau,434
+20210417,4120,ch,thurgau,435
 20210417,4121,ch,ticino,980
 20210417,4122,ch,vaud,997
 20210417,4123,ch,valais,655
@@ -49749,7 +49751,7 @@ dateId,areaCode,country,areaName,deathCases
 20210416,4116,ch,appenzell_innerrhoden,15
 20210416,4118,ch,graubunden,184
 20210416,4119,ch,aargau,673
-20210416,4120,ch,thurgau,434
+20210416,4120,ch,thurgau,435
 20210416,4121,ch,ticino,980
 20210416,4122,ch,vaud,996
 20210416,4123,ch,valais,654
@@ -49935,7 +49937,7 @@ dateId,areaCode,country,areaName,deathCases
 20210415,4117,ch,st_gallen,700
 20210415,4118,ch,graubunden,184
 20210415,4119,ch,aargau,673
-20210415,4120,ch,thurgau,434
+20210415,4120,ch,thurgau,435
 20210415,4121,ch,ticino,980
 20210415,4122,ch,vaud,994
 20210415,4123,ch,valais,654
@@ -50121,7 +50123,7 @@ dateId,areaCode,country,areaName,deathCases
 20210414,4117,ch,st_gallen,700
 20210414,4118,ch,graubunden,184
 20210414,4119,ch,aargau,673
-20210414,4120,ch,thurgau,434
+20210414,4120,ch,thurgau,435
 20210414,4121,ch,ticino,980
 20210414,4122,ch,vaud,993
 20210414,4123,ch,valais,654
@@ -50307,7 +50309,7 @@ dateId,areaCode,country,areaName,deathCases
 20210413,4117,ch,st_gallen,700
 20210413,4118,ch,graubunden,184
 20210413,4119,ch,aargau,672
-20210413,4120,ch,thurgau,434
+20210413,4120,ch,thurgau,435
 20210413,4121,ch,ticino,979
 20210413,4122,ch,vaud,993
 20210413,4123,ch,valais,653
@@ -50492,7 +50494,7 @@ dateId,areaCode,country,areaName,deathCases
 20210412,4117,ch,st_gallen,700
 20210412,4118,ch,graubunden,184
 20210412,4119,ch,aargau,672
-20210412,4120,ch,thurgau,434
+20210412,4120,ch,thurgau,435
 20210412,4121,ch,ticino,979
 20210412,4122,ch,vaud,992
 20210412,4123,ch,valais,652
@@ -50673,7 +50675,7 @@ dateId,areaCode,country,areaName,deathCases
 20210411,4117,ch,st_gallen,700
 20210411,4118,ch,graubunden,184
 20210411,4119,ch,aargau,672
-20210411,4120,ch,thurgau,434
+20210411,4120,ch,thurgau,435
 20210411,4121,ch,ticino,979
 20210411,4122,ch,vaud,992
 20210411,4123,ch,valais,652
@@ -50854,7 +50856,7 @@ dateId,areaCode,country,areaName,deathCases
 20210410,4114,ch,schaffhausen,75
 20210410,4118,ch,graubunden,184
 20210410,4119,ch,aargau,672
-20210410,4120,ch,thurgau,433
+20210410,4120,ch,thurgau,434
 20210410,4121,ch,ticino,978
 20210410,4122,ch,vaud,989
 20210410,4123,ch,valais,652
@@ -51038,7 +51040,7 @@ dateId,areaCode,country,areaName,deathCases
 20210409,4116,ch,appenzell_innerrhoden,15
 20210409,4118,ch,graubunden,184
 20210409,4119,ch,aargau,672
-20210409,4120,ch,thurgau,433
+20210409,4120,ch,thurgau,434
 20210409,4121,ch,ticino,978
 20210409,4122,ch,vaud,989
 20210409,4123,ch,valais,651
@@ -51223,7 +51225,7 @@ dateId,areaCode,country,areaName,deathCases
 20210408,4117,ch,st_gallen,700
 20210408,4118,ch,graubunden,184
 20210408,4119,ch,aargau,671
-20210408,4120,ch,thurgau,433
+20210408,4120,ch,thurgau,434
 20210408,4121,ch,ticino,978
 20210408,4122,ch,vaud,987
 20210408,4123,ch,valais,651
@@ -51409,7 +51411,7 @@ dateId,areaCode,country,areaName,deathCases
 20210407,4117,ch,st_gallen,700
 20210407,4118,ch,graubunden,184
 20210407,4119,ch,aargau,670
-20210407,4120,ch,thurgau,433
+20210407,4120,ch,thurgau,434
 20210407,4121,ch,ticino,977
 20210407,4122,ch,vaud,986
 20210407,4123,ch,valais,651
@@ -51596,7 +51598,7 @@ dateId,areaCode,country,areaName,deathCases
 20210406,4117,ch,st_gallen,699
 20210406,4118,ch,graubunden,183
 20210406,4119,ch,aargau,670
-20210406,4120,ch,thurgau,431
+20210406,4120,ch,thurgau,432
 20210406,4121,ch,ticino,977
 20210406,4122,ch,vaud,984
 20210406,4123,ch,valais,651
@@ -51779,7 +51781,7 @@ dateId,areaCode,country,areaName,deathCases
 20210405,4117,ch,st_gallen,696
 20210405,4118,ch,graubunden,183
 20210405,4119,ch,aargau,670
-20210405,4120,ch,thurgau,431
+20210405,4120,ch,thurgau,432
 20210405,4121,ch,ticino,975
 20210405,4122,ch,vaud,984
 20210405,4123,ch,valais,651
@@ -51960,7 +51962,7 @@ dateId,areaCode,country,areaName,deathCases
 20210404,4114,ch,schaffhausen,75
 20210404,4118,ch,graubunden,182
 20210404,4119,ch,aargau,667
-20210404,4120,ch,thurgau,431
+20210404,4120,ch,thurgau,432
 20210404,4121,ch,ticino,975
 20210404,4122,ch,vaud,983
 20210404,4123,ch,valais,651
@@ -52140,7 +52142,7 @@ dateId,areaCode,country,areaName,deathCases
 20210403,4114,ch,schaffhausen,74
 20210403,4118,ch,graubunden,182
 20210403,4119,ch,aargau,666
-20210403,4120,ch,thurgau,431
+20210403,4120,ch,thurgau,432
 20210403,4121,ch,ticino,975
 20210403,4122,ch,vaud,982
 20210403,4123,ch,valais,651
@@ -52319,7 +52321,7 @@ dateId,areaCode,country,areaName,deathCases
 20210402,4114,ch,schaffhausen,74
 20210402,4118,ch,graubunden,181
 20210402,4119,ch,aargau,665
-20210402,4120,ch,thurgau,431
+20210402,4120,ch,thurgau,432
 20210402,4121,ch,ticino,975
 20210402,4122,ch,vaud,980
 20210402,4123,ch,valais,650
@@ -52505,7 +52507,7 @@ dateId,areaCode,country,areaName,deathCases
 20210401,4116,ch,appenzell_innerrhoden,15
 20210401,4118,ch,graubunden,180
 20210401,4119,ch,aargau,664
-20210401,4120,ch,thurgau,431
+20210401,4120,ch,thurgau,432
 20210401,4121,ch,ticino,975
 20210401,4122,ch,vaud,979
 20210401,4123,ch,valais,650
@@ -52691,7 +52693,7 @@ dateId,areaCode,country,areaName,deathCases
 20210331,4117,ch,st_gallen,691
 20210331,4118,ch,graubunden,180
 20210331,4119,ch,aargau,661
-20210331,4120,ch,thurgau,430
+20210331,4120,ch,thurgau,431
 20210331,4121,ch,ticino,975
 20210331,4122,ch,vaud,978
 20210331,4123,ch,valais,650
@@ -52877,7 +52879,7 @@ dateId,areaCode,country,areaName,deathCases
 20210330,4117,ch,st_gallen,691
 20210330,4118,ch,graubunden,180
 20210330,4119,ch,aargau,658
-20210330,4120,ch,thurgau,428
+20210330,4120,ch,thurgau,429
 20210330,4121,ch,ticino,973
 20210330,4122,ch,vaud,977
 20210330,4123,ch,valais,650
@@ -53063,7 +53065,7 @@ dateId,areaCode,country,areaName,deathCases
 20210329,4117,ch,st_gallen,688
 20210329,4118,ch,graubunden,180
 20210329,4119,ch,aargau,658
-20210329,4120,ch,thurgau,428
+20210329,4120,ch,thurgau,429
 20210329,4121,ch,ticino,973
 20210329,4122,ch,vaud,975
 20210329,4123,ch,valais,650
@@ -53244,7 +53246,7 @@ dateId,areaCode,country,areaName,deathCases
 20210328,4117,ch,st_gallen,688
 20210328,4118,ch,graubunden,180
 20210328,4119,ch,aargau,657
-20210328,4120,ch,thurgau,428
+20210328,4120,ch,thurgau,429
 20210328,4121,ch,ticino,973
 20210328,4122,ch,vaud,975
 20210328,4123,ch,valais,650
@@ -53425,7 +53427,7 @@ dateId,areaCode,country,areaName,deathCases
 20210327,4114,ch,schaffhausen,73
 20210327,4118,ch,graubunden,180
 20210327,4119,ch,aargau,654
-20210327,4120,ch,thurgau,428
+20210327,4120,ch,thurgau,429
 20210327,4121,ch,ticino,972
 20210327,4122,ch,vaud,973
 20210327,4123,ch,valais,650
@@ -53609,7 +53611,7 @@ dateId,areaCode,country,areaName,deathCases
 20210326,4116,ch,appenzell_innerrhoden,15
 20210326,4118,ch,graubunden,179
 20210326,4119,ch,aargau,653
-20210326,4120,ch,thurgau,427
+20210326,4120,ch,thurgau,428
 20210326,4121,ch,ticino,972
 20210326,4122,ch,vaud,972
 20210326,4123,ch,valais,650
@@ -53795,7 +53797,7 @@ dateId,areaCode,country,areaName,deathCases
 20210325,4117,ch,st_gallen,688
 20210325,4118,ch,graubunden,179
 20210325,4119,ch,aargau,652
-20210325,4120,ch,thurgau,427
+20210325,4120,ch,thurgau,428
 20210325,4121,ch,ticino,972
 20210325,4122,ch,vaud,972
 20210325,4123,ch,valais,650
@@ -53981,7 +53983,7 @@ dateId,areaCode,country,areaName,deathCases
 20210324,4117,ch,st_gallen,688
 20210324,4118,ch,graubunden,179
 20210324,4119,ch,aargau,650
-20210324,4120,ch,thurgau,425
+20210324,4120,ch,thurgau,426
 20210324,4121,ch,ticino,972
 20210324,4122,ch,vaud,969
 20210324,4123,ch,valais,650
@@ -54168,7 +54170,7 @@ dateId,areaCode,country,areaName,deathCases
 20210323,4117,ch,st_gallen,688
 20210323,4118,ch,graubunden,179
 20210323,4119,ch,aargau,650
-20210323,4120,ch,thurgau,425
+20210323,4120,ch,thurgau,426
 20210323,4121,ch,ticino,971
 20210323,4122,ch,vaud,968
 20210323,4123,ch,valais,649
@@ -54353,7 +54355,7 @@ dateId,areaCode,country,areaName,deathCases
 20210322,4117,ch,st_gallen,687
 20210322,4118,ch,graubunden,179
 20210322,4119,ch,aargau,650
-20210322,4120,ch,thurgau,425
+20210322,4120,ch,thurgau,426
 20210322,4121,ch,ticino,971
 20210322,4122,ch,vaud,964
 20210322,4123,ch,valais,649
@@ -54534,7 +54536,7 @@ dateId,areaCode,country,areaName,deathCases
 20210321,4117,ch,st_gallen,687
 20210321,4118,ch,graubunden,179
 20210321,4119,ch,aargau,649
-20210321,4120,ch,thurgau,425
+20210321,4120,ch,thurgau,426
 20210321,4121,ch,ticino,971
 20210321,4122,ch,vaud,963
 20210321,4123,ch,valais,649
@@ -54714,7 +54716,7 @@ dateId,areaCode,country,areaName,deathCases
 20210320,4114,ch,schaffhausen,73
 20210320,4118,ch,graubunden,179
 20210320,4119,ch,aargau,647
-20210320,4120,ch,thurgau,425
+20210320,4120,ch,thurgau,426
 20210320,4121,ch,ticino,970
 20210320,4122,ch,vaud,963
 20210320,4123,ch,valais,649
@@ -54898,7 +54900,7 @@ dateId,areaCode,country,areaName,deathCases
 20210319,4116,ch,appenzell_innerrhoden,15
 20210319,4118,ch,graubunden,178
 20210319,4119,ch,aargau,646
-20210319,4120,ch,thurgau,424
+20210319,4120,ch,thurgau,425
 20210319,4121,ch,ticino,968
 20210319,4122,ch,vaud,963
 20210319,4123,ch,valais,649
@@ -55083,7 +55085,7 @@ dateId,areaCode,country,areaName,deathCases
 20210318,4117,ch,st_gallen,685
 20210318,4118,ch,graubunden,178
 20210318,4119,ch,aargau,645
-20210318,4120,ch,thurgau,424
+20210318,4120,ch,thurgau,425
 20210318,4121,ch,ticino,967
 20210318,4122,ch,vaud,962
 20210318,4123,ch,valais,649
@@ -55268,7 +55270,7 @@ dateId,areaCode,country,areaName,deathCases
 20210317,4117,ch,st_gallen,685
 20210317,4118,ch,graubunden,178
 20210317,4119,ch,aargau,644
-20210317,4120,ch,thurgau,423
+20210317,4120,ch,thurgau,424
 20210317,4121,ch,ticino,967
 20210317,4122,ch,vaud,961
 20210317,4123,ch,valais,649
@@ -55454,7 +55456,7 @@ dateId,areaCode,country,areaName,deathCases
 20210316,4117,ch,st_gallen,685
 20210316,4118,ch,graubunden,178
 20210316,4119,ch,aargau,644
-20210316,4120,ch,thurgau,423
+20210316,4120,ch,thurgau,424
 20210316,4121,ch,ticino,967
 20210316,4122,ch,vaud,955
 20210316,4123,ch,valais,648
@@ -55640,7 +55642,7 @@ dateId,areaCode,country,areaName,deathCases
 20210315,4117,ch,st_gallen,685
 20210315,4118,ch,graubunden,177
 20210315,4119,ch,aargau,643
-20210315,4120,ch,thurgau,422
+20210315,4120,ch,thurgau,423
 20210315,4121,ch,ticino,967
 20210315,4122,ch,vaud,953
 20210315,4123,ch,valais,647
@@ -55821,7 +55823,7 @@ dateId,areaCode,country,areaName,deathCases
 20210314,4117,ch,st_gallen,685
 20210314,4118,ch,graubunden,177
 20210314,4119,ch,aargau,642
-20210314,4120,ch,thurgau,422
+20210314,4120,ch,thurgau,423
 20210314,4121,ch,ticino,967
 20210314,4122,ch,vaud,950
 20210314,4123,ch,valais,647
@@ -56001,7 +56003,7 @@ dateId,areaCode,country,areaName,deathCases
 20210313,4114,ch,schaffhausen,72
 20210313,4118,ch,graubunden,177
 20210313,4119,ch,aargau,642
-20210313,4120,ch,thurgau,422
+20210313,4120,ch,thurgau,423
 20210313,4121,ch,ticino,965
 20210313,4122,ch,vaud,948
 20210313,4123,ch,valais,647
@@ -56185,7 +56187,7 @@ dateId,areaCode,country,areaName,deathCases
 20210312,4116,ch,appenzell_innerrhoden,15
 20210312,4118,ch,graubunden,177
 20210312,4119,ch,aargau,642
-20210312,4120,ch,thurgau,420
+20210312,4120,ch,thurgau,421
 20210312,4121,ch,ticino,963
 20210312,4122,ch,vaud,945
 20210312,4123,ch,valais,647
@@ -56371,7 +56373,7 @@ dateId,areaCode,country,areaName,deathCases
 20210311,4117,ch,st_gallen,684
 20210311,4118,ch,graubunden,177
 20210311,4119,ch,aargau,642
-20210311,4120,ch,thurgau,420
+20210311,4120,ch,thurgau,421
 20210311,4121,ch,ticino,963
 20210311,4122,ch,vaud,941
 20210311,4123,ch,valais,647
@@ -56558,7 +56560,7 @@ dateId,areaCode,country,areaName,deathCases
 20210310,4117,ch,st_gallen,682
 20210310,4118,ch,graubunden,177
 20210310,4119,ch,aargau,642
-20210310,4120,ch,thurgau,420
+20210310,4120,ch,thurgau,421
 20210310,4121,ch,ticino,963
 20210310,4122,ch,vaud,940
 20210310,4123,ch,valais,646
@@ -56744,7 +56746,7 @@ dateId,areaCode,country,areaName,deathCases
 20210309,4117,ch,st_gallen,682
 20210309,4118,ch,graubunden,175
 20210309,4119,ch,aargau,641
-20210309,4120,ch,thurgau,420
+20210309,4120,ch,thurgau,421
 20210309,4121,ch,ticino,962
 20210309,4122,ch,vaud,940
 20210309,4123,ch,valais,646
@@ -56930,7 +56932,7 @@ dateId,areaCode,country,areaName,deathCases
 20210308,4117,ch,st_gallen,682
 20210308,4118,ch,graubunden,175
 20210308,4119,ch,aargau,641
-20210308,4120,ch,thurgau,420
+20210308,4120,ch,thurgau,421
 20210308,4121,ch,ticino,961
 20210308,4122,ch,vaud,936
 20210308,4123,ch,valais,646
@@ -57111,7 +57113,7 @@ dateId,areaCode,country,areaName,deathCases
 20210307,4117,ch,st_gallen,682
 20210307,4118,ch,graubunden,175
 20210307,4119,ch,aargau,641
-20210307,4120,ch,thurgau,420
+20210307,4120,ch,thurgau,421
 20210307,4121,ch,ticino,961
 20210307,4122,ch,vaud,936
 20210307,4123,ch,valais,646
@@ -57291,7 +57293,7 @@ dateId,areaCode,country,areaName,deathCases
 20210306,4114,ch,schaffhausen,68
 20210306,4118,ch,graubunden,175
 20210306,4119,ch,aargau,641
-20210306,4120,ch,thurgau,420
+20210306,4120,ch,thurgau,421
 20210306,4121,ch,ticino,961
 20210306,4122,ch,vaud,933
 20210306,4123,ch,valais,646
@@ -57475,7 +57477,7 @@ dateId,areaCode,country,areaName,deathCases
 20210305,4116,ch,appenzell_innerrhoden,15
 20210305,4118,ch,graubunden,175
 20210305,4119,ch,aargau,641
-20210305,4120,ch,thurgau,420
+20210305,4120,ch,thurgau,421
 20210305,4121,ch,ticino,959
 20210305,4122,ch,vaud,932
 20210305,4123,ch,valais,646
@@ -57661,7 +57663,7 @@ dateId,areaCode,country,areaName,deathCases
 20210304,4117,ch,st_gallen,681
 20210304,4118,ch,graubunden,175
 20210304,4119,ch,aargau,641
-20210304,4120,ch,thurgau,420
+20210304,4120,ch,thurgau,421
 20210304,4121,ch,ticino,958
 20210304,4122,ch,vaud,930
 20210304,4123,ch,valais,645
@@ -57847,7 +57849,7 @@ dateId,areaCode,country,areaName,deathCases
 20210303,4117,ch,st_gallen,681
 20210303,4118,ch,graubunden,174
 20210303,4119,ch,aargau,641
-20210303,4120,ch,thurgau,420
+20210303,4120,ch,thurgau,421
 20210303,4121,ch,ticino,957
 20210303,4122,ch,vaud,930
 20210303,4123,ch,valais,644
@@ -58033,7 +58035,7 @@ dateId,areaCode,country,areaName,deathCases
 20210302,4117,ch,st_gallen,680
 20210302,4118,ch,graubunden,174
 20210302,4119,ch,aargau,641
-20210302,4120,ch,thurgau,420
+20210302,4120,ch,thurgau,421
 20210302,4121,ch,ticino,957
 20210302,4122,ch,vaud,927
 20210302,4123,ch,valais,643
@@ -58219,7 +58221,7 @@ dateId,areaCode,country,areaName,deathCases
 20210301,4117,ch,st_gallen,679
 20210301,4118,ch,graubunden,174
 20210301,4119,ch,aargau,641
-20210301,4120,ch,thurgau,418
+20210301,4120,ch,thurgau,419
 20210301,4121,ch,ticino,957
 20210301,4122,ch,vaud,927
 20210301,4123,ch,valais,643
@@ -58400,7 +58402,7 @@ dateId,areaCode,country,areaName,deathCases
 20210228,4117,ch,st_gallen,677
 20210228,4118,ch,graubunden,174
 20210228,4119,ch,aargau,641
-20210228,4120,ch,thurgau,417
+20210228,4120,ch,thurgau,418
 20210228,4121,ch,ticino,957
 20210228,4122,ch,vaud,927
 20210228,4123,ch,valais,643
@@ -58580,7 +58582,7 @@ dateId,areaCode,country,areaName,deathCases
 20210227,4114,ch,schaffhausen,67
 20210227,4118,ch,graubunden,174
 20210227,4119,ch,aargau,641
-20210227,4120,ch,thurgau,416
+20210227,4120,ch,thurgau,417
 20210227,4121,ch,ticino,957
 20210227,4122,ch,vaud,926
 20210227,4123,ch,valais,642
@@ -58764,7 +58766,7 @@ dateId,areaCode,country,areaName,deathCases
 20210226,4116,ch,appenzell_innerrhoden,15
 20210226,4118,ch,graubunden,174
 20210226,4119,ch,aargau,640
-20210226,4120,ch,thurgau,416
+20210226,4120,ch,thurgau,417
 20210226,4121,ch,ticino,956
 20210226,4122,ch,vaud,924
 20210226,4123,ch,valais,642
@@ -58950,7 +58952,7 @@ dateId,areaCode,country,areaName,deathCases
 20210225,4117,ch,st_gallen,675
 20210225,4118,ch,graubunden,174
 20210225,4119,ch,aargau,638
-20210225,4120,ch,thurgau,416
+20210225,4120,ch,thurgau,417
 20210225,4121,ch,ticino,956
 20210225,4122,ch,vaud,923
 20210225,4123,ch,valais,642
@@ -59136,7 +59138,7 @@ dateId,areaCode,country,areaName,deathCases
 20210224,4117,ch,st_gallen,675
 20210224,4118,ch,graubunden,174
 20210224,4119,ch,aargau,638
-20210224,4120,ch,thurgau,415
+20210224,4120,ch,thurgau,416
 20210224,4121,ch,ticino,956
 20210224,4122,ch,vaud,921
 20210224,4123,ch,valais,641
@@ -59322,7 +59324,7 @@ dateId,areaCode,country,areaName,deathCases
 20210223,4117,ch,st_gallen,675
 20210223,4118,ch,graubunden,174
 20210223,4119,ch,aargau,638
-20210223,4120,ch,thurgau,414
+20210223,4120,ch,thurgau,415
 20210223,4121,ch,ticino,954
 20210223,4122,ch,vaud,920
 20210223,4123,ch,valais,640
@@ -59508,7 +59510,7 @@ dateId,areaCode,country,areaName,deathCases
 20210222,4117,ch,st_gallen,675
 20210222,4118,ch,graubunden,174
 20210222,4119,ch,aargau,636
-20210222,4120,ch,thurgau,413
+20210222,4120,ch,thurgau,414
 20210222,4121,ch,ticino,953
 20210222,4122,ch,vaud,920
 20210222,4123,ch,valais,639
@@ -59689,7 +59691,7 @@ dateId,areaCode,country,areaName,deathCases
 20210221,4117,ch,st_gallen,674
 20210221,4118,ch,graubunden,174
 20210221,4119,ch,aargau,636
-20210221,4120,ch,thurgau,413
+20210221,4120,ch,thurgau,414
 20210221,4121,ch,ticino,952
 20210221,4122,ch,vaud,918
 20210221,4123,ch,valais,639
@@ -59869,7 +59871,7 @@ dateId,areaCode,country,areaName,deathCases
 20210220,4114,ch,schaffhausen,66
 20210220,4118,ch,graubunden,173
 20210220,4119,ch,aargau,636
-20210220,4120,ch,thurgau,412
+20210220,4120,ch,thurgau,413
 20210220,4121,ch,ticino,952
 20210220,4122,ch,vaud,918
 20210220,4123,ch,valais,639
@@ -60054,7 +60056,7 @@ dateId,areaCode,country,areaName,deathCases
 20210219,4116,ch,appenzell_innerrhoden,15
 20210219,4118,ch,graubunden,172
 20210219,4119,ch,aargau,635
-20210219,4120,ch,thurgau,411
+20210219,4120,ch,thurgau,412
 20210219,4121,ch,ticino,952
 20210219,4122,ch,vaud,915
 20210219,4123,ch,valais,638
@@ -60240,7 +60242,7 @@ dateId,areaCode,country,areaName,deathCases
 20210218,4117,ch,st_gallen,673
 20210218,4118,ch,graubunden,172
 20210218,4119,ch,aargau,634
-20210218,4120,ch,thurgau,411
+20210218,4120,ch,thurgau,412
 20210218,4121,ch,ticino,952
 20210218,4122,ch,vaud,915
 20210218,4123,ch,valais,635
@@ -60426,7 +60428,7 @@ dateId,areaCode,country,areaName,deathCases
 20210217,4117,ch,st_gallen,673
 20210217,4118,ch,graubunden,172
 20210217,4119,ch,aargau,633
-20210217,4120,ch,thurgau,411
+20210217,4120,ch,thurgau,412
 20210217,4121,ch,ticino,952
 20210217,4122,ch,vaud,912
 20210217,4123,ch,valais,633
@@ -60613,7 +60615,7 @@ dateId,areaCode,country,areaName,deathCases
 20210216,4117,ch,st_gallen,666
 20210216,4118,ch,graubunden,172
 20210216,4119,ch,aargau,631
-20210216,4120,ch,thurgau,411
+20210216,4120,ch,thurgau,412
 20210216,4121,ch,ticino,952
 20210216,4122,ch,vaud,912
 20210216,4123,ch,valais,633
@@ -60799,7 +60801,7 @@ dateId,areaCode,country,areaName,deathCases
 20210215,4117,ch,st_gallen,664
 20210215,4118,ch,graubunden,171
 20210215,4119,ch,aargau,631
-20210215,4120,ch,thurgau,411
+20210215,4120,ch,thurgau,412
 20210215,4121,ch,ticino,951
 20210215,4122,ch,vaud,910
 20210215,4123,ch,valais,632
@@ -60980,7 +60982,7 @@ dateId,areaCode,country,areaName,deathCases
 20210214,4117,ch,st_gallen,662
 20210214,4118,ch,graubunden,171
 20210214,4119,ch,aargau,630
-20210214,4120,ch,thurgau,408
+20210214,4120,ch,thurgau,409
 20210214,4121,ch,ticino,951
 20210214,4122,ch,vaud,910
 20210214,4123,ch,valais,629
@@ -61161,7 +61163,7 @@ dateId,areaCode,country,areaName,deathCases
 20210213,4114,ch,schaffhausen,66
 20210213,4118,ch,graubunden,171
 20210213,4119,ch,aargau,629
-20210213,4120,ch,thurgau,407
+20210213,4120,ch,thurgau,408
 20210213,4121,ch,ticino,950
 20210213,4122,ch,vaud,907
 20210213,4123,ch,valais,628
@@ -61345,7 +61347,7 @@ dateId,areaCode,country,areaName,deathCases
 20210212,4116,ch,appenzell_innerrhoden,15
 20210212,4118,ch,graubunden,171
 20210212,4119,ch,aargau,629
-20210212,4120,ch,thurgau,407
+20210212,4120,ch,thurgau,408
 20210212,4121,ch,ticino,950
 20210212,4122,ch,vaud,907
 20210212,4123,ch,valais,626
@@ -61531,7 +61533,7 @@ dateId,areaCode,country,areaName,deathCases
 20210211,4117,ch,st_gallen,661
 20210211,4118,ch,graubunden,171
 20210211,4119,ch,aargau,628
-20210211,4120,ch,thurgau,407
+20210211,4120,ch,thurgau,408
 20210211,4121,ch,ticino,949
 20210211,4122,ch,vaud,906
 20210211,4123,ch,valais,624
@@ -61718,7 +61720,7 @@ dateId,areaCode,country,areaName,deathCases
 20210210,4117,ch,st_gallen,660
 20210210,4118,ch,graubunden,170
 20210210,4119,ch,aargau,627
-20210210,4120,ch,thurgau,405
+20210210,4120,ch,thurgau,406
 20210210,4121,ch,ticino,949
 20210210,4122,ch,vaud,903
 20210210,4123,ch,valais,623
@@ -61904,7 +61906,7 @@ dateId,areaCode,country,areaName,deathCases
 20210209,4117,ch,st_gallen,658
 20210209,4118,ch,graubunden,170
 20210209,4119,ch,aargau,625
-20210209,4120,ch,thurgau,404
+20210209,4120,ch,thurgau,405
 20210209,4121,ch,ticino,948
 20210209,4122,ch,vaud,903
 20210209,4123,ch,valais,621
@@ -62091,7 +62093,7 @@ dateId,areaCode,country,areaName,deathCases
 20210208,4117,ch,st_gallen,657
 20210208,4118,ch,graubunden,170
 20210208,4119,ch,aargau,624
-20210208,4120,ch,thurgau,400
+20210208,4120,ch,thurgau,401
 20210208,4121,ch,ticino,947
 20210208,4122,ch,vaud,903
 20210208,4123,ch,valais,620
@@ -62273,7 +62275,7 @@ dateId,areaCode,country,areaName,deathCases
 20210207,4117,ch,st_gallen,655
 20210207,4118,ch,graubunden,170
 20210207,4119,ch,aargau,623
-20210207,4120,ch,thurgau,399
+20210207,4120,ch,thurgau,400
 20210207,4121,ch,ticino,947
 20210207,4122,ch,vaud,901
 20210207,4123,ch,valais,619
@@ -62453,7 +62455,7 @@ dateId,areaCode,country,areaName,deathCases
 20210206,4114,ch,schaffhausen,65
 20210206,4118,ch,graubunden,170
 20210206,4119,ch,aargau,623
-20210206,4120,ch,thurgau,398
+20210206,4120,ch,thurgau,399
 20210206,4121,ch,ticino,944
 20210206,4122,ch,vaud,901
 20210206,4123,ch,valais,618
@@ -62638,7 +62640,7 @@ dateId,areaCode,country,areaName,deathCases
 20210205,4116,ch,appenzell_innerrhoden,15
 20210205,4118,ch,graubunden,170
 20210205,4119,ch,aargau,623
-20210205,4120,ch,thurgau,396
+20210205,4120,ch,thurgau,397
 20210205,4121,ch,ticino,942
 20210205,4122,ch,vaud,898
 20210205,4123,ch,valais,614
@@ -62824,7 +62826,7 @@ dateId,areaCode,country,areaName,deathCases
 20210204,4117,ch,st_gallen,651
 20210204,4118,ch,graubunden,170
 20210204,4119,ch,aargau,623
-20210204,4120,ch,thurgau,395
+20210204,4120,ch,thurgau,396
 20210204,4121,ch,ticino,940
 20210204,4122,ch,vaud,897
 20210204,4123,ch,valais,610
@@ -63011,7 +63013,7 @@ dateId,areaCode,country,areaName,deathCases
 20210203,4117,ch,st_gallen,649
 20210203,4118,ch,graubunden,170
 20210203,4119,ch,aargau,618
-20210203,4120,ch,thurgau,390
+20210203,4120,ch,thurgau,391
 20210203,4121,ch,ticino,939
 20210203,4122,ch,vaud,895
 20210203,4123,ch,valais,609
@@ -63197,7 +63199,7 @@ dateId,areaCode,country,areaName,deathCases
 20210202,4117,ch,st_gallen,649
 20210202,4118,ch,graubunden,170
 20210202,4119,ch,aargau,618
-20210202,4120,ch,thurgau,390
+20210202,4120,ch,thurgau,391
 20210202,4121,ch,ticino,938
 20210202,4122,ch,vaud,894
 20210202,4123,ch,valais,608
@@ -63384,7 +63386,7 @@ dateId,areaCode,country,areaName,deathCases
 20210201,4117,ch,st_gallen,646
 20210201,4118,ch,graubunden,169
 20210201,4119,ch,aargau,616
-20210201,4120,ch,thurgau,390
+20210201,4120,ch,thurgau,391
 20210201,4121,ch,ticino,936
 20210201,4122,ch,vaud,891
 20210201,4123,ch,valais,602
@@ -63566,7 +63568,7 @@ dateId,areaCode,country,areaName,deathCases
 20210131,4117,ch,st_gallen,642
 20210131,4118,ch,graubunden,166
 20210131,4119,ch,aargau,613
-20210131,4120,ch,thurgau,388
+20210131,4120,ch,thurgau,389
 20210131,4121,ch,ticino,936
 20210131,4122,ch,vaud,889
 20210131,4123,ch,valais,599
@@ -63746,7 +63748,7 @@ dateId,areaCode,country,areaName,deathCases
 20210130,4114,ch,schaffhausen,63
 20210130,4118,ch,graubunden,165
 20210130,4119,ch,aargau,610
-20210130,4120,ch,thurgau,387
+20210130,4120,ch,thurgau,388
 20210130,4121,ch,ticino,934
 20210130,4122,ch,vaud,889
 20210130,4123,ch,valais,598
@@ -63931,7 +63933,7 @@ dateId,areaCode,country,areaName,deathCases
 20210129,4116,ch,appenzell_innerrhoden,15
 20210129,4118,ch,graubunden,164
 20210129,4119,ch,aargau,607
-20210129,4120,ch,thurgau,387
+20210129,4120,ch,thurgau,388
 20210129,4121,ch,ticino,933
 20210129,4122,ch,vaud,888
 20210129,4123,ch,valais,596
@@ -64117,7 +64119,7 @@ dateId,areaCode,country,areaName,deathCases
 20210128,4117,ch,st_gallen,634
 20210128,4118,ch,graubunden,163
 20210128,4119,ch,aargau,601
-20210128,4120,ch,thurgau,385
+20210128,4120,ch,thurgau,386
 20210128,4121,ch,ticino,928
 20210128,4122,ch,vaud,887
 20210128,4123,ch,valais,592
@@ -64303,7 +64305,7 @@ dateId,areaCode,country,areaName,deathCases
 20210127,4117,ch,st_gallen,631
 20210127,4118,ch,graubunden,163
 20210127,4119,ch,aargau,599
-20210127,4120,ch,thurgau,383
+20210127,4120,ch,thurgau,384
 20210127,4121,ch,ticino,924
 20210127,4122,ch,vaud,879
 20210127,4123,ch,valais,589
@@ -64490,7 +64492,7 @@ dateId,areaCode,country,areaName,deathCases
 20210126,4117,ch,st_gallen,629
 20210126,4118,ch,graubunden,162
 20210126,4119,ch,aargau,595
-20210126,4120,ch,thurgau,382
+20210126,4120,ch,thurgau,383
 20210126,4121,ch,ticino,921
 20210126,4122,ch,vaud,874
 20210126,4123,ch,valais,585
@@ -64676,7 +64678,7 @@ dateId,areaCode,country,areaName,deathCases
 20210125,4117,ch,st_gallen,626
 20210125,4118,ch,graubunden,162
 20210125,4119,ch,aargau,589
-20210125,4120,ch,thurgau,380
+20210125,4120,ch,thurgau,381
 20210125,4121,ch,ticino,915
 20210125,4122,ch,vaud,874
 20210125,4123,ch,valais,583
@@ -64858,7 +64860,7 @@ dateId,areaCode,country,areaName,deathCases
 20210124,4117,ch,st_gallen,624
 20210124,4118,ch,graubunden,162
 20210124,4119,ch,aargau,586
-20210124,4120,ch,thurgau,379
+20210124,4120,ch,thurgau,380
 20210124,4121,ch,ticino,914
 20210124,4122,ch,vaud,872
 20210124,4123,ch,valais,582
@@ -65039,7 +65041,7 @@ dateId,areaCode,country,areaName,deathCases
 20210123,4114,ch,schaffhausen,63
 20210123,4118,ch,graubunden,161
 20210123,4119,ch,aargau,586
-20210123,4120,ch,thurgau,379
+20210123,4120,ch,thurgau,380
 20210123,4121,ch,ticino,910
 20210123,4122,ch,vaud,871
 20210123,4123,ch,valais,575
@@ -65225,7 +65227,7 @@ dateId,areaCode,country,areaName,deathCases
 20210122,4116,ch,appenzell_innerrhoden,15
 20210122,4118,ch,graubunden,161
 20210122,4119,ch,aargau,581
-20210122,4120,ch,thurgau,379
+20210122,4120,ch,thurgau,380
 20210122,4121,ch,ticino,907
 20210122,4122,ch,vaud,867
 20210122,4123,ch,valais,574
@@ -65413,7 +65415,7 @@ dateId,areaCode,country,areaName,deathCases
 20210121,4117,ch,st_gallen,617
 20210121,4118,ch,graubunden,160
 20210121,4119,ch,aargau,578
-20210121,4120,ch,thurgau,376
+20210121,4120,ch,thurgau,377
 20210121,4121,ch,ticino,903
 20210121,4122,ch,vaud,867
 20210121,4123,ch,valais,572
@@ -65601,7 +65603,7 @@ dateId,areaCode,country,areaName,deathCases
 20210120,4117,ch,st_gallen,614
 20210120,4118,ch,graubunden,159
 20210120,4119,ch,aargau,573
-20210120,4120,ch,thurgau,372
+20210120,4120,ch,thurgau,373
 20210120,4121,ch,ticino,899
 20210120,4122,ch,vaud,865
 20210120,4123,ch,valais,568
@@ -65789,7 +65791,7 @@ dateId,areaCode,country,areaName,deathCases
 20210119,4117,ch,st_gallen,613
 20210119,4118,ch,graubunden,159
 20210119,4119,ch,aargau,569
-20210119,4120,ch,thurgau,369
+20210119,4120,ch,thurgau,370
 20210119,4121,ch,ticino,895
 20210119,4122,ch,vaud,864
 20210119,4123,ch,valais,568
@@ -65976,7 +65978,7 @@ dateId,areaCode,country,areaName,deathCases
 20210118,4117,ch,st_gallen,609
 20210118,4118,ch,graubunden,159
 20210118,4119,ch,aargau,565
-20210118,4120,ch,thurgau,363
+20210118,4120,ch,thurgau,364
 20210118,4121,ch,ticino,888
 20210118,4122,ch,vaud,862
 20210118,4123,ch,valais,564
@@ -66159,7 +66161,7 @@ dateId,areaCode,country,areaName,deathCases
 20210117,4117,ch,st_gallen,604
 20210117,4118,ch,graubunden,159
 20210117,4119,ch,aargau,562
-20210117,4120,ch,thurgau,361
+20210117,4120,ch,thurgau,362
 20210117,4121,ch,ticino,882
 20210117,4122,ch,vaud,861
 20210117,4123,ch,valais,561
@@ -66339,7 +66341,7 @@ dateId,areaCode,country,areaName,deathCases
 20210116,4114,ch,schaffhausen,58
 20210116,4118,ch,graubunden,157
 20210116,4119,ch,aargau,560
-20210116,4120,ch,thurgau,358
+20210116,4120,ch,thurgau,359
 20210116,4121,ch,ticino,878
 20210116,4122,ch,vaud,857
 20210116,4123,ch,valais,558
@@ -66524,7 +66526,7 @@ dateId,areaCode,country,areaName,deathCases
 20210115,4115,ch,appenzell_ausserrhoden,45
 20210115,4118,ch,graubunden,157
 20210115,4119,ch,aargau,555
-20210115,4120,ch,thurgau,355
+20210115,4120,ch,thurgau,356
 20210115,4121,ch,ticino,873
 20210115,4122,ch,vaud,855
 20210115,4123,ch,valais,554
@@ -66712,7 +66714,7 @@ dateId,areaCode,country,areaName,deathCases
 20210114,4117,ch,st_gallen,595
 20210114,4118,ch,graubunden,155
 20210114,4119,ch,aargau,549
-20210114,4120,ch,thurgau,348
+20210114,4120,ch,thurgau,349
 20210114,4121,ch,ticino,863
 20210114,4122,ch,vaud,852
 20210114,4123,ch,valais,549
@@ -66900,7 +66902,7 @@ dateId,areaCode,country,areaName,deathCases
 20210113,4117,ch,st_gallen,589
 20210113,4118,ch,graubunden,154
 20210113,4119,ch,aargau,546
-20210113,4120,ch,thurgau,343
+20210113,4120,ch,thurgau,344
 20210113,4121,ch,ticino,860
 20210113,4122,ch,vaud,849
 20210113,4123,ch,valais,548
