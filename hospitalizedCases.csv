@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,hospitalizedCases
+20220117,4109,ch,zug,15
 20220116,3301,fr,ile_de_france,6788
 20220116,330101,fr,paris,1560
 20220116,330102,fr,seine_et_marne,578
@@ -147,8 +148,11 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220116,3951,it,sicilia,1348
 20220116,3952,it,sardegna,236
 20220116,4107,ch,nidwalden,4
+20220116,4109,ch,zug,12
 20220116,4118,ch,graubunden,39
 20220116,4121,ch,ticino,166
+20220116,4125,ch,geneve,278
+20220116,4126,ch,jura_ch,38
 20220116,43,at,austria,679
 20220116,4301,at,wien,227
 20220116,4302,at,niederosterreich,75
@@ -307,9 +311,10 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220115,3951,it,sicilia,1331
 20220115,3952,it,sardegna,224
 20220115,4107,ch,nidwalden,4
+20220115,4109,ch,zug,12
 20220115,4118,ch,graubunden,33
 20220115,4121,ch,ticino,167
-20220115,4125,ch,geneve,261
+20220115,4125,ch,geneve,431
 20220115,4126,ch,jura_ch,39
 20220115,43,at,austria,649
 20220115,4301,at,wien,223
@@ -481,7 +486,8 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220114,4118,ch,graubunden,38
 20220114,4120,ch,thurgau,39
 20220114,4121,ch,ticino,173
-20220114,4125,ch,geneve,282
+20220114,4124,ch,neuchatel,82
+20220114,4125,ch,geneve,447
 20220114,4126,ch,jura_ch,37
 20220114,43,at,austria,682
 20220114,4301,at,wien,230
@@ -38522,7 +38528,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210610,4123,ch,valais,11
 20210610,4124,ch,neuchatel,5
 20210610,4125,ch,geneve,15
-20210610,4126,ch,jura_ch,6
+20210610,4126,ch,jura_ch,5
 20210610,423,li,liechtenstein,3
 20210610,43,at,austria,244
 20210610,4301,at,wien,98
