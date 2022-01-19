@@ -1,5 +1,8 @@
 dateId,areaCode,country,areaName,hospitalizedCases
+20220119,4108,ch,glarus,5
 20220119,4111,ch,solothurn,34
+20220119,4120,ch,thurgau,37
+20220119,4121,ch,ticino,166
 20220118,3301,fr,ile_de_france,7190
 20220118,330101,fr,paris,1636
 20220118,330102,fr,seine_et_marne,621
@@ -159,11 +162,12 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220118,4113,ch,basel_landschaft,38
 20220118,4114,ch,schaffhausen,10
 20220118,4118,ch,graubunden,33
-20220118,4120,ch,thurgau,37
+20220118,4120,ch,thurgau,38
 20220118,4121,ch,ticino,168
 20220118,4124,ch,neuchatel,82
 20220118,4125,ch,geneve,296
-20220118,4126,ch,jura_ch,36
+20220118,4126,ch,jura_ch,27
+20220118,423,li,liechtenstein,1
 20220118,43,at,austria,831
 20220118,4301,at,wien,244
 20220118,4302,at,niederosterreich,102
@@ -336,12 +340,12 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220117,4114,ch,schaffhausen,12
 20220117,4118,ch,graubunden,34
 20220117,4119,ch,aargau,91
-20220117,4120,ch,thurgau,38
+20220117,4120,ch,thurgau,40
 20220117,4121,ch,ticino,176
 20220117,4123,ch,valais,177
 20220117,4124,ch,neuchatel,91
 20220117,4125,ch,geneve,444
-20220117,4126,ch,jura_ch,37
+20220117,4126,ch,jura_ch,36
 20220117,423,li,liechtenstein,2
 20220117,43,at,austria,748
 20220117,4301,at,wien,240
@@ -508,7 +512,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220116,4113,ch,basel_landschaft,29
 20220116,4114,ch,schaffhausen,12
 20220116,4118,ch,graubunden,39
-20220116,4120,ch,thurgau,39
+20220116,4120,ch,thurgau,40
 20220116,4121,ch,ticino,166
 20220116,4122,ch,vaud,337
 20220116,4123,ch,valais,169
@@ -680,7 +684,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220115,4112,ch,basel_stadt,85
 20220115,4113,ch,basel_landschaft,35
 20220115,4118,ch,graubunden,33
-20220115,4120,ch,thurgau,39
+20220115,4120,ch,thurgau,40
 20220115,4121,ch,ticino,167
 20220115,4123,ch,valais,171
 20220115,4124,ch,neuchatel,82
@@ -857,7 +861,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220114,4113,ch,basel_landschaft,34
 20220114,4118,ch,graubunden,38
 20220114,4119,ch,aargau,90
-20220114,4120,ch,thurgau,37
+20220114,4120,ch,thurgau,38
 20220114,4121,ch,ticino,173
 20220114,4123,ch,valais,172
 20220114,4124,ch,neuchatel,82
@@ -1035,7 +1039,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220113,4114,ch,schaffhausen,8
 20220113,4118,ch,graubunden,38
 20220113,4119,ch,aargau,89
-20220113,4120,ch,thurgau,40
+20220113,4120,ch,thurgau,41
 20220113,4121,ch,ticino,179
 20220113,4123,ch,valais,160
 20220113,4124,ch,neuchatel,77
@@ -1214,7 +1218,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220112,4114,ch,schaffhausen,9
 20220112,4118,ch,graubunden,34
 20220112,4119,ch,aargau,89
-20220112,4120,ch,thurgau,45
+20220112,4120,ch,thurgau,46
 20220112,4121,ch,ticino,168
 20220112,4123,ch,valais,162
 20220112,4124,ch,neuchatel,58
@@ -1393,7 +1397,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220111,4114,ch,schaffhausen,6
 20220111,4118,ch,graubunden,32
 20220111,4119,ch,aargau,90
-20220111,4120,ch,thurgau,48
+20220111,4120,ch,thurgau,50
 20220111,4121,ch,ticino,178
 20220111,4123,ch,valais,137
 20220111,4124,ch,neuchatel,69
@@ -1573,7 +1577,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220110,4117,ch,st_gallen,66
 20220110,4118,ch,graubunden,31
 20220110,4119,ch,aargau,98
-20220110,4120,ch,thurgau,44
+20220110,4120,ch,thurgau,46
 20220110,4121,ch,ticino,178
 20220110,4123,ch,valais,126
 20220110,4124,ch,neuchatel,76
@@ -1746,7 +1750,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220109,4114,ch,schaffhausen,11
 20220109,4117,ch,st_gallen,68
 20220109,4118,ch,graubunden,32
-20220109,4120,ch,thurgau,42
+20220109,4120,ch,thurgau,43
 20220109,4121,ch,ticino,166
 20220109,4122,ch,vaud,315
 20220109,4123,ch,valais,121
@@ -1918,7 +1922,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220108,4112,ch,basel_stadt,90
 20220108,4113,ch,basel_landschaft,46
 20220108,4118,ch,graubunden,32
-20220108,4120,ch,thurgau,40
+20220108,4120,ch,thurgau,41
 20220108,4121,ch,ticino,156
 20220108,4123,ch,valais,110
 20220108,4124,ch,neuchatel,70
@@ -2094,7 +2098,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220107,4113,ch,basel_landschaft,44
 20220107,4118,ch,graubunden,41
 20220107,4119,ch,aargau,103
-20220107,4120,ch,thurgau,43
+20220107,4120,ch,thurgau,44
 20220107,4121,ch,ticino,153
 20220107,4123,ch,valais,110
 20220107,4124,ch,neuchatel,78
@@ -2273,7 +2277,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220106,4117,ch,st_gallen,72
 20220106,4118,ch,graubunden,39
 20220106,4119,ch,aargau,108
-20220106,4120,ch,thurgau,45
+20220106,4120,ch,thurgau,46
 20220106,4121,ch,ticino,149
 20220106,4123,ch,valais,106
 20220106,4124,ch,neuchatel,68
@@ -2453,7 +2457,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220105,4117,ch,st_gallen,75
 20220105,4118,ch,graubunden,38
 20220105,4119,ch,aargau,105
-20220105,4120,ch,thurgau,51
+20220105,4120,ch,thurgau,52
 20220105,4121,ch,ticino,158
 20220105,4123,ch,valais,107
 20220105,4124,ch,neuchatel,68
@@ -2631,7 +2635,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220104,4117,ch,st_gallen,78
 20220104,4118,ch,graubunden,40
 20220104,4119,ch,aargau,109
-20220104,4120,ch,thurgau,58
+20220104,4120,ch,thurgau,59
 20220104,4121,ch,ticino,160
 20220104,4123,ch,valais,108
 20220104,4124,ch,neuchatel,66
@@ -2811,7 +2815,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220103,4117,ch,st_gallen,76
 20220103,4118,ch,graubunden,39
 20220103,4119,ch,aargau,112
-20220103,4120,ch,thurgau,57
+20220103,4120,ch,thurgau,58
 20220103,4121,ch,ticino,152
 20220103,4123,ch,valais,101
 20220103,4124,ch,neuchatel,63
@@ -2984,7 +2988,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220102,4114,ch,schaffhausen,16
 20220102,4117,ch,st_gallen,70
 20220102,4118,ch,graubunden,35
-20220102,4120,ch,thurgau,53
+20220102,4120,ch,thurgau,54
 20220102,4121,ch,ticino,138
 20220102,4122,ch,vaud,268
 20220102,4123,ch,valais,90
@@ -3156,7 +3160,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20220101,4112,ch,basel_stadt,61
 20220101,4113,ch,basel_landschaft,53
 20220101,4118,ch,graubunden,38
-20220101,4120,ch,thurgau,49
+20220101,4120,ch,thurgau,50
 20220101,4121,ch,ticino,130
 20220101,4123,ch,valais,92
 20220101,4124,ch,neuchatel,64
@@ -3331,7 +3335,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211231,4112,ch,basel_stadt,76
 20211231,4113,ch,basel_landschaft,51
 20211231,4118,ch,graubunden,37
-20211231,4120,ch,thurgau,51
+20211231,4120,ch,thurgau,52
 20211231,4121,ch,ticino,131
 20211231,4123,ch,valais,85
 20211231,4124,ch,neuchatel,64
@@ -3510,7 +3514,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211230,4117,ch,st_gallen,85
 20211230,4118,ch,graubunden,36
 20211230,4119,ch,aargau,113
-20211230,4120,ch,thurgau,49
+20211230,4120,ch,thurgau,50
 20211230,4121,ch,ticino,135
 20211230,4123,ch,valais,80
 20211230,4124,ch,neuchatel,58
@@ -3691,7 +3695,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211229,4117,ch,st_gallen,95
 20211229,4118,ch,graubunden,38
 20211229,4119,ch,aargau,113
-20211229,4120,ch,thurgau,50
+20211229,4120,ch,thurgau,51
 20211229,4121,ch,ticino,123
 20211229,4123,ch,valais,83
 20211229,4124,ch,neuchatel,55
@@ -3872,7 +3876,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211228,4117,ch,st_gallen,98
 20211228,4118,ch,graubunden,35
 20211228,4119,ch,aargau,104
-20211228,4120,ch,thurgau,53
+20211228,4120,ch,thurgau,54
 20211228,4121,ch,ticino,110
 20211228,4123,ch,valais,77
 20211228,4124,ch,neuchatel,59
@@ -4053,7 +4057,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211227,4117,ch,st_gallen,95
 20211227,4118,ch,graubunden,40
 20211227,4119,ch,aargau,105
-20211227,4120,ch,thurgau,52
+20211227,4120,ch,thurgau,53
 20211227,4121,ch,ticino,107
 20211227,4123,ch,valais,84
 20211227,4124,ch,neuchatel,54
@@ -4227,7 +4231,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211226,4114,ch,schaffhausen,25
 20211226,4117,ch,st_gallen,91
 20211226,4118,ch,graubunden,41
-20211226,4120,ch,thurgau,55
+20211226,4120,ch,thurgau,56
 20211226,4123,ch,valais,76
 20211226,4124,ch,neuchatel,56
 20211226,4125,ch,geneve,247
@@ -4398,7 +4402,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211225,4112,ch,basel_stadt,84
 20211225,4113,ch,basel_landschaft,50
 20211225,4118,ch,graubunden,40
-20211225,4120,ch,thurgau,55
+20211225,4120,ch,thurgau,56
 20211225,4123,ch,valais,72
 20211225,4124,ch,neuchatel,51
 20211225,4125,ch,geneve,237
@@ -4572,7 +4576,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211224,4112,ch,basel_stadt,74
 20211224,4113,ch,basel_landschaft,49
 20211224,4118,ch,graubunden,42
-20211224,4120,ch,thurgau,58
+20211224,4120,ch,thurgau,59
 20211224,4121,ch,ticino,103
 20211224,4123,ch,valais,71
 20211224,4124,ch,neuchatel,50
@@ -4751,7 +4755,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211223,4117,ch,st_gallen,90
 20211223,4118,ch,graubunden,40
 20211223,4119,ch,aargau,109
-20211223,4120,ch,thurgau,63
+20211223,4120,ch,thurgau,64
 20211223,4121,ch,ticino,99
 20211223,4123,ch,valais,77
 20211223,4124,ch,neuchatel,55
@@ -4931,7 +4935,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211222,4117,ch,st_gallen,90
 20211222,4118,ch,graubunden,45
 20211222,4119,ch,aargau,113
-20211222,4120,ch,thurgau,65
+20211222,4120,ch,thurgau,66
 20211222,4121,ch,ticino,106
 20211222,4123,ch,valais,76
 20211222,4124,ch,neuchatel,51
@@ -5112,7 +5116,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211221,4117,ch,st_gallen,96
 20211221,4118,ch,graubunden,49
 20211221,4119,ch,aargau,110
-20211221,4120,ch,thurgau,64
+20211221,4120,ch,thurgau,65
 20211221,4121,ch,ticino,109
 20211221,4123,ch,valais,85
 20211221,4124,ch,neuchatel,54
@@ -5293,7 +5297,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211220,4117,ch,st_gallen,100
 20211220,4118,ch,graubunden,43
 20211220,4119,ch,aargau,112
-20211220,4120,ch,thurgau,60
+20211220,4120,ch,thurgau,61
 20211220,4121,ch,ticino,104
 20211220,4123,ch,valais,84
 20211220,4124,ch,neuchatel,51
@@ -5467,7 +5471,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211219,4113,ch,basel_landschaft,59
 20211219,4114,ch,schaffhausen,18
 20211219,4118,ch,graubunden,50
-20211219,4120,ch,thurgau,58
+20211219,4120,ch,thurgau,59
 20211219,4122,ch,vaud,259
 20211219,4123,ch,valais,84
 20211219,4124,ch,neuchatel,46
@@ -5639,7 +5643,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211218,4112,ch,basel_stadt,89
 20211218,4113,ch,basel_landschaft,42
 20211218,4118,ch,graubunden,38
-20211218,4120,ch,thurgau,54
+20211218,4120,ch,thurgau,55
 20211218,4123,ch,valais,80
 20211218,4124,ch,neuchatel,39
 20211218,4125,ch,geneve,214
@@ -5816,7 +5820,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211217,4113,ch,basel_landschaft,49
 20211217,4118,ch,graubunden,41
 20211217,4119,ch,aargau,103
-20211217,4120,ch,thurgau,48
+20211217,4120,ch,thurgau,49
 20211217,4121,ch,ticino,95
 20211217,4123,ch,valais,79
 20211217,4124,ch,neuchatel,31
@@ -5996,7 +6000,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211216,4117,ch,st_gallen,88
 20211216,4118,ch,graubunden,52
 20211216,4119,ch,aargau,106
-20211216,4120,ch,thurgau,59
+20211216,4120,ch,thurgau,60
 20211216,4121,ch,ticino,102
 20211216,4123,ch,valais,77
 20211216,4124,ch,neuchatel,28
@@ -6176,7 +6180,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211215,4117,ch,st_gallen,85
 20211215,4118,ch,graubunden,48
 20211215,4119,ch,aargau,115
-20211215,4120,ch,thurgau,64
+20211215,4120,ch,thurgau,65
 20211215,4121,ch,ticino,102
 20211215,4123,ch,valais,78
 20211215,4124,ch,neuchatel,34
@@ -6357,7 +6361,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211214,4117,ch,st_gallen,101
 20211214,4118,ch,graubunden,52
 20211214,4119,ch,aargau,110
-20211214,4120,ch,thurgau,62
+20211214,4120,ch,thurgau,63
 20211214,4121,ch,ticino,97
 20211214,4123,ch,valais,80
 20211214,4124,ch,neuchatel,33
@@ -6538,7 +6542,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211213,4117,ch,st_gallen,105
 20211213,4118,ch,graubunden,47
 20211213,4119,ch,aargau,130
-20211213,4120,ch,thurgau,60
+20211213,4120,ch,thurgau,61
 20211213,4121,ch,ticino,101
 20211213,4123,ch,valais,83
 20211213,4124,ch,neuchatel,39
@@ -6712,7 +6716,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211212,4114,ch,schaffhausen,16
 20211212,4117,ch,st_gallen,106
 20211212,4118,ch,graubunden,57
-20211212,4120,ch,thurgau,65
+20211212,4120,ch,thurgau,66
 20211212,4122,ch,vaud,235
 20211212,4123,ch,valais,84
 20211212,4124,ch,neuchatel,42
@@ -6884,7 +6888,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211211,4112,ch,basel_stadt,98
 20211211,4113,ch,basel_landschaft,73
 20211211,4118,ch,graubunden,50
-20211211,4120,ch,thurgau,59
+20211211,4120,ch,thurgau,60
 20211211,4123,ch,valais,76
 20211211,4124,ch,neuchatel,36
 20211211,4125,ch,geneve,203
@@ -7061,7 +7065,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211210,4113,ch,basel_landschaft,69
 20211210,4118,ch,graubunden,60
 20211210,4119,ch,aargau,120
-20211210,4120,ch,thurgau,59
+20211210,4120,ch,thurgau,60
 20211210,4121,ch,ticino,93
 20211210,4123,ch,valais,81
 20211210,4124,ch,neuchatel,35
@@ -7241,7 +7245,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211209,4117,ch,st_gallen,110
 20211209,4118,ch,graubunden,58
 20211209,4119,ch,aargau,124
-20211209,4120,ch,thurgau,60
+20211209,4120,ch,thurgau,61
 20211209,4121,ch,ticino,98
 20211209,4123,ch,valais,79
 20211209,4124,ch,neuchatel,34
@@ -7420,7 +7424,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211208,4117,ch,st_gallen,122
 20211208,4118,ch,graubunden,55
 20211208,4119,ch,aargau,127
-20211208,4120,ch,thurgau,64
+20211208,4120,ch,thurgau,65
 20211208,4123,ch,valais,77
 20211208,4124,ch,neuchatel,34
 20211208,4125,ch,geneve,186
@@ -7600,7 +7604,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211207,4117,ch,st_gallen,122
 20211207,4118,ch,graubunden,52
 20211207,4119,ch,aargau,127
-20211207,4120,ch,thurgau,60
+20211207,4120,ch,thurgau,61
 20211207,4121,ch,ticino,83
 20211207,4123,ch,valais,77
 20211207,4124,ch,neuchatel,29
@@ -7779,7 +7783,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211206,4117,ch,st_gallen,121
 20211206,4118,ch,graubunden,61
 20211206,4119,ch,aargau,121
-20211206,4120,ch,thurgau,58
+20211206,4120,ch,thurgau,59
 20211206,4121,ch,ticino,77
 20211206,4123,ch,valais,81
 20211206,4124,ch,neuchatel,26
@@ -7954,7 +7958,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211205,4114,ch,schaffhausen,21
 20211205,4117,ch,st_gallen,113
 20211205,4118,ch,graubunden,62
-20211205,4120,ch,thurgau,56
+20211205,4120,ch,thurgau,57
 20211205,4122,ch,vaud,183
 20211205,4123,ch,valais,84
 20211205,4124,ch,neuchatel,23
@@ -8126,7 +8130,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211204,4112,ch,basel_stadt,104
 20211204,4113,ch,basel_landschaft,54
 20211204,4118,ch,graubunden,52
-20211204,4120,ch,thurgau,54
+20211204,4120,ch,thurgau,55
 20211204,4123,ch,valais,85
 20211204,4124,ch,neuchatel,17
 20211204,4125,ch,geneve,160
@@ -8302,7 +8306,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211203,4113,ch,basel_landschaft,60
 20211203,4118,ch,graubunden,50
 20211203,4119,ch,aargau,94
-20211203,4120,ch,thurgau,46
+20211203,4120,ch,thurgau,47
 20211203,4121,ch,ticino,67
 20211203,4123,ch,valais,76
 20211203,4124,ch,neuchatel,19
@@ -8482,7 +8486,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211202,4117,ch,st_gallen,98
 20211202,4118,ch,graubunden,49
 20211202,4119,ch,aargau,93
-20211202,4120,ch,thurgau,43
+20211202,4120,ch,thurgau,44
 20211202,4121,ch,ticino,64
 20211202,4123,ch,valais,71
 20211202,4124,ch,neuchatel,23
@@ -8663,7 +8667,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211201,4117,ch,st_gallen,108
 20211201,4118,ch,graubunden,58
 20211201,4119,ch,aargau,92
-20211201,4120,ch,thurgau,43
+20211201,4120,ch,thurgau,44
 20211201,4121,ch,ticino,72
 20211201,4123,ch,valais,67
 20211201,4124,ch,neuchatel,22
@@ -8843,7 +8847,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211130,4117,ch,st_gallen,109
 20211130,4118,ch,graubunden,63
 20211130,4119,ch,aargau,98
-20211130,4120,ch,thurgau,47
+20211130,4120,ch,thurgau,48
 20211130,4121,ch,ticino,70
 20211130,4123,ch,valais,72
 20211130,4124,ch,neuchatel,17
@@ -9023,7 +9027,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211129,4114,ch,schaffhausen,12
 20211129,4118,ch,graubunden,63
 20211129,4119,ch,aargau,96
-20211129,4120,ch,thurgau,44
+20211129,4120,ch,thurgau,45
 20211129,4121,ch,ticino,70
 20211129,4123,ch,valais,64
 20211129,4124,ch,neuchatel,20
@@ -9196,7 +9200,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211128,4113,ch,basel_landschaft,63
 20211128,4114,ch,schaffhausen,10
 20211128,4118,ch,graubunden,51
-20211128,4120,ch,thurgau,47
+20211128,4120,ch,thurgau,48
 20211128,4122,ch,vaud,137
 20211128,4123,ch,valais,69
 20211128,4124,ch,neuchatel,19
@@ -9368,7 +9372,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211127,4112,ch,basel_stadt,82
 20211127,4113,ch,basel_landschaft,60
 20211127,4118,ch,graubunden,47
-20211127,4120,ch,thurgau,46
+20211127,4120,ch,thurgau,47
 20211127,4123,ch,valais,63
 20211127,4124,ch,neuchatel,16
 20211127,4125,ch,geneve,106
@@ -9545,7 +9549,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211126,4113,ch,basel_landschaft,52
 20211126,4118,ch,graubunden,43
 20211126,4119,ch,aargau,79
-20211126,4120,ch,thurgau,41
+20211126,4120,ch,thurgau,42
 20211126,4121,ch,ticino,66
 20211126,4123,ch,valais,59
 20211126,4124,ch,neuchatel,13
@@ -9724,7 +9728,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211125,4114,ch,schaffhausen,10
 20211125,4118,ch,graubunden,39
 20211125,4119,ch,aargau,77
-20211125,4120,ch,thurgau,42
+20211125,4120,ch,thurgau,43
 20211125,4121,ch,ticino,56
 20211125,4123,ch,valais,59
 20211125,4124,ch,neuchatel,16
@@ -9903,7 +9907,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211124,4114,ch,schaffhausen,8
 20211124,4118,ch,graubunden,40
 20211124,4119,ch,aargau,77
-20211124,4120,ch,thurgau,43
+20211124,4120,ch,thurgau,44
 20211124,4121,ch,ticino,52
 20211124,4123,ch,valais,59
 20211124,4124,ch,neuchatel,16
@@ -10084,7 +10088,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211123,4117,ch,st_gallen,72
 20211123,4118,ch,graubunden,38
 20211123,4119,ch,aargau,76
-20211123,4120,ch,thurgau,36
+20211123,4120,ch,thurgau,37
 20211123,4121,ch,ticino,50
 20211123,4123,ch,valais,56
 20211123,4124,ch,neuchatel,14
@@ -10265,7 +10269,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211122,4117,ch,st_gallen,62
 20211122,4118,ch,graubunden,38
 20211122,4119,ch,aargau,91
-20211122,4120,ch,thurgau,39
+20211122,4120,ch,thurgau,40
 20211122,4121,ch,ticino,40
 20211122,4123,ch,valais,47
 20211122,4124,ch,neuchatel,12
@@ -10439,7 +10443,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211121,4114,ch,schaffhausen,9
 20211121,4117,ch,st_gallen,57
 20211121,4118,ch,graubunden,34
-20211121,4120,ch,thurgau,38
+20211121,4120,ch,thurgau,39
 20211121,4122,ch,vaud,75
 20211121,4123,ch,valais,47
 20211121,4124,ch,neuchatel,13
@@ -10611,7 +10615,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211120,4112,ch,basel_stadt,62
 20211120,4113,ch,basel_landschaft,47
 20211120,4118,ch,graubunden,37
-20211120,4120,ch,thurgau,38
+20211120,4120,ch,thurgau,39
 20211120,4123,ch,valais,45
 20211120,4124,ch,neuchatel,12
 20211120,4125,ch,geneve,85
@@ -10788,7 +10792,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211119,4113,ch,basel_landschaft,49
 20211119,4118,ch,graubunden,37
 20211119,4119,ch,aargau,69
-20211119,4120,ch,thurgau,33
+20211119,4120,ch,thurgau,34
 20211119,4121,ch,ticino,30
 20211119,4123,ch,valais,37
 20211119,4124,ch,neuchatel,14
@@ -10968,7 +10972,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211118,4117,ch,st_gallen,41
 20211118,4118,ch,graubunden,37
 20211118,4119,ch,aargau,62
-20211118,4120,ch,thurgau,33
+20211118,4120,ch,thurgau,34
 20211118,4121,ch,ticino,30
 20211118,4123,ch,valais,39
 20211118,4124,ch,neuchatel,17
@@ -11149,7 +11153,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211117,4117,ch,st_gallen,48
 20211117,4118,ch,graubunden,34
 20211117,4119,ch,aargau,61
-20211117,4120,ch,thurgau,30
+20211117,4120,ch,thurgau,31
 20211117,4121,ch,ticino,28
 20211117,4123,ch,valais,35
 20211117,4124,ch,neuchatel,14
@@ -11330,7 +11334,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211116,4117,ch,st_gallen,48
 20211116,4118,ch,graubunden,32
 20211116,4119,ch,aargau,57
-20211116,4120,ch,thurgau,28
+20211116,4120,ch,thurgau,29
 20211116,4121,ch,ticino,26
 20211116,4123,ch,valais,28
 20211116,4124,ch,neuchatel,14
@@ -11511,7 +11515,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211115,4117,ch,st_gallen,47
 20211115,4118,ch,graubunden,30
 20211115,4119,ch,aargau,53
-20211115,4120,ch,thurgau,30
+20211115,4120,ch,thurgau,31
 20211115,4121,ch,ticino,24
 20211115,4123,ch,valais,24
 20211115,4124,ch,neuchatel,14
@@ -11685,7 +11689,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211114,4114,ch,schaffhausen,7
 20211114,4117,ch,st_gallen,47
 20211114,4118,ch,graubunden,32
-20211114,4120,ch,thurgau,29
+20211114,4120,ch,thurgau,30
 20211114,4122,ch,vaud,59
 20211114,4123,ch,valais,23
 20211114,4124,ch,neuchatel,13
@@ -11857,7 +11861,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211113,4112,ch,basel_stadt,36
 20211113,4113,ch,basel_landschaft,30
 20211113,4118,ch,graubunden,28
-20211113,4120,ch,thurgau,22
+20211113,4120,ch,thurgau,23
 20211113,4123,ch,valais,21
 20211113,4124,ch,neuchatel,9
 20211113,4125,ch,geneve,82
@@ -12033,7 +12037,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211112,4113,ch,basel_landschaft,27
 20211112,4118,ch,graubunden,22
 20211112,4119,ch,aargau,53
-20211112,4120,ch,thurgau,20
+20211112,4120,ch,thurgau,21
 20211112,4121,ch,ticino,18
 20211112,4123,ch,valais,21
 20211112,4124,ch,neuchatel,9
@@ -12213,7 +12217,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211111,4117,ch,st_gallen,40
 20211111,4118,ch,graubunden,22
 20211111,4119,ch,aargau,42
-20211111,4120,ch,thurgau,20
+20211111,4120,ch,thurgau,21
 20211111,4121,ch,ticino,17
 20211111,4123,ch,valais,19
 20211111,4124,ch,neuchatel,13
@@ -12393,7 +12397,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211110,4117,ch,st_gallen,44
 20211110,4118,ch,graubunden,15
 20211110,4119,ch,aargau,40
-20211110,4120,ch,thurgau,21
+20211110,4120,ch,thurgau,22
 20211110,4121,ch,ticino,15
 20211110,4123,ch,valais,16
 20211110,4124,ch,neuchatel,11
@@ -12574,7 +12578,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211109,4117,ch,st_gallen,48
 20211109,4118,ch,graubunden,18
 20211109,4119,ch,aargau,41
-20211109,4120,ch,thurgau,20
+20211109,4120,ch,thurgau,21
 20211109,4121,ch,ticino,12
 20211109,4123,ch,valais,16
 20211109,4124,ch,neuchatel,11
@@ -12755,7 +12759,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211108,4117,ch,st_gallen,42
 20211108,4118,ch,graubunden,19
 20211108,4119,ch,aargau,38
-20211108,4120,ch,thurgau,20
+20211108,4120,ch,thurgau,21
 20211108,4121,ch,ticino,11
 20211108,4123,ch,valais,15
 20211108,4124,ch,neuchatel,13
@@ -12930,7 +12934,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211107,4114,ch,schaffhausen,7
 20211107,4117,ch,st_gallen,43
 20211107,4118,ch,graubunden,19
-20211107,4120,ch,thurgau,19
+20211107,4120,ch,thurgau,20
 20211107,4122,ch,vaud,53
 20211107,4123,ch,valais,13
 20211107,4124,ch,neuchatel,13
@@ -13102,7 +13106,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211106,4112,ch,basel_stadt,30
 20211106,4113,ch,basel_landschaft,21
 20211106,4118,ch,graubunden,19
-20211106,4120,ch,thurgau,17
+20211106,4120,ch,thurgau,18
 20211106,4123,ch,valais,11
 20211106,4124,ch,neuchatel,13
 20211106,4125,ch,geneve,79
@@ -13278,7 +13282,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211105,4113,ch,basel_landschaft,21
 20211105,4118,ch,graubunden,18
 20211105,4119,ch,aargau,29
-20211105,4120,ch,thurgau,14
+20211105,4120,ch,thurgau,15
 20211105,4121,ch,ticino,12
 20211105,4123,ch,valais,11
 20211105,4124,ch,neuchatel,11
@@ -13458,7 +13462,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211104,4117,ch,st_gallen,42
 20211104,4118,ch,graubunden,20
 20211104,4119,ch,aargau,31
-20211104,4120,ch,thurgau,14
+20211104,4120,ch,thurgau,15
 20211104,4121,ch,ticino,8
 20211104,4123,ch,valais,15
 20211104,4124,ch,neuchatel,11
@@ -13639,7 +13643,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211103,4117,ch,st_gallen,42
 20211103,4118,ch,graubunden,22
 20211103,4119,ch,aargau,35
-20211103,4120,ch,thurgau,17
+20211103,4120,ch,thurgau,18
 20211103,4121,ch,ticino,10
 20211103,4123,ch,valais,15
 20211103,4124,ch,neuchatel,12
@@ -13820,7 +13824,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211102,4117,ch,st_gallen,39
 20211102,4118,ch,graubunden,22
 20211102,4119,ch,aargau,41
-20211102,4120,ch,thurgau,20
+20211102,4120,ch,thurgau,21
 20211102,4121,ch,ticino,9
 20211102,4123,ch,valais,16
 20211102,4124,ch,neuchatel,14
@@ -13997,7 +14001,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211101,4117,ch,st_gallen,45
 20211101,4118,ch,graubunden,22
 20211101,4119,ch,aargau,37
-20211101,4120,ch,thurgau,22
+20211101,4120,ch,thurgau,23
 20211101,4123,ch,valais,12
 20211101,4124,ch,neuchatel,12
 20211101,4125,ch,geneve,70
@@ -14171,7 +14175,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211031,4114,ch,schaffhausen,7
 20211031,4117,ch,st_gallen,33
 20211031,4118,ch,graubunden,22
-20211031,4120,ch,thurgau,21
+20211031,4120,ch,thurgau,22
 20211031,4122,ch,vaud,57
 20211031,4123,ch,valais,14
 20211031,4124,ch,neuchatel,11
@@ -14342,7 +14346,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211030,4112,ch,basel_stadt,19
 20211030,4113,ch,basel_landschaft,13
 20211030,4118,ch,graubunden,20
-20211030,4120,ch,thurgau,19
+20211030,4120,ch,thurgau,20
 20211030,4123,ch,valais,12
 20211030,4124,ch,neuchatel,9
 20211030,4125,ch,geneve,62
@@ -14517,7 +14521,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211029,4113,ch,basel_landschaft,13
 20211029,4118,ch,graubunden,17
 20211029,4119,ch,aargau,35
-20211029,4120,ch,thurgau,18
+20211029,4120,ch,thurgau,19
 20211029,4121,ch,ticino,8
 20211029,4123,ch,valais,10
 20211029,4124,ch,neuchatel,8
@@ -14697,7 +14701,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211028,4117,ch,st_gallen,32
 20211028,4118,ch,graubunden,18
 20211028,4119,ch,aargau,29
-20211028,4120,ch,thurgau,21
+20211028,4120,ch,thurgau,22
 20211028,4121,ch,ticino,8
 20211028,4123,ch,valais,7
 20211028,4124,ch,neuchatel,8
@@ -14877,7 +14881,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211027,4117,ch,st_gallen,29
 20211027,4118,ch,graubunden,18
 20211027,4119,ch,aargau,25
-20211027,4120,ch,thurgau,22
+20211027,4120,ch,thurgau,23
 20211027,4121,ch,ticino,8
 20211027,4123,ch,valais,9
 20211027,4124,ch,neuchatel,7
@@ -15058,7 +15062,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211026,4117,ch,st_gallen,30
 20211026,4118,ch,graubunden,19
 20211026,4119,ch,aargau,32
-20211026,4120,ch,thurgau,20
+20211026,4120,ch,thurgau,21
 20211026,4121,ch,ticino,9
 20211026,4123,ch,valais,8
 20211026,4124,ch,neuchatel,6
@@ -15239,7 +15243,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211025,4117,ch,st_gallen,27
 20211025,4118,ch,graubunden,20
 20211025,4119,ch,aargau,34
-20211025,4120,ch,thurgau,20
+20211025,4120,ch,thurgau,21
 20211025,4121,ch,ticino,9
 20211025,4123,ch,valais,9
 20211025,4124,ch,neuchatel,6
@@ -15414,7 +15418,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211024,4114,ch,schaffhausen,10
 20211024,4117,ch,st_gallen,21
 20211024,4118,ch,graubunden,23
-20211024,4120,ch,thurgau,19
+20211024,4120,ch,thurgau,20
 20211024,4122,ch,vaud,49
 20211024,4123,ch,valais,10
 20211024,4124,ch,neuchatel,6
@@ -15586,7 +15590,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211023,4112,ch,basel_stadt,13
 20211023,4113,ch,basel_landschaft,8
 20211023,4118,ch,graubunden,23
-20211023,4120,ch,thurgau,15
+20211023,4120,ch,thurgau,16
 20211023,4123,ch,valais,11
 20211023,4124,ch,neuchatel,5
 20211023,4125,ch,geneve,56
@@ -15761,7 +15765,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211022,4113,ch,basel_landschaft,8
 20211022,4118,ch,graubunden,23
 20211022,4119,ch,aargau,29
-20211022,4120,ch,thurgau,16
+20211022,4120,ch,thurgau,17
 20211022,4121,ch,ticino,11
 20211022,4123,ch,valais,11
 20211022,4124,ch,neuchatel,6
@@ -15939,7 +15943,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211021,4117,ch,st_gallen,20
 20211021,4118,ch,graubunden,16
 20211021,4119,ch,aargau,27
-20211021,4120,ch,thurgau,18
+20211021,4120,ch,thurgau,19
 20211021,4121,ch,ticino,9
 20211021,4123,ch,valais,11
 20211021,4124,ch,neuchatel,8
@@ -16119,7 +16123,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211020,4117,ch,st_gallen,22
 20211020,4118,ch,graubunden,11
 20211020,4119,ch,aargau,26
-20211020,4120,ch,thurgau,17
+20211020,4120,ch,thurgau,18
 20211020,4121,ch,ticino,9
 20211020,4123,ch,valais,10
 20211020,4124,ch,neuchatel,6
@@ -16299,7 +16303,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211019,4117,ch,st_gallen,26
 20211019,4118,ch,graubunden,13
 20211019,4119,ch,aargau,28
-20211019,4120,ch,thurgau,18
+20211019,4120,ch,thurgau,19
 20211019,4121,ch,ticino,7
 20211019,4123,ch,valais,11
 20211019,4124,ch,neuchatel,8
@@ -16479,7 +16483,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211018,4117,ch,st_gallen,27
 20211018,4118,ch,graubunden,17
 20211018,4119,ch,aargau,31
-20211018,4120,ch,thurgau,20
+20211018,4120,ch,thurgau,21
 20211018,4121,ch,ticino,7
 20211018,4123,ch,valais,11
 20211018,4124,ch,neuchatel,7
@@ -16652,7 +16656,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211017,4113,ch,basel_landschaft,8
 20211017,4114,ch,schaffhausen,2
 20211017,4118,ch,graubunden,17
-20211017,4120,ch,thurgau,22
+20211017,4120,ch,thurgau,23
 20211017,4122,ch,vaud,46
 20211017,4123,ch,valais,9
 20211017,4124,ch,neuchatel,9
@@ -16823,7 +16827,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211016,4112,ch,basel_stadt,10
 20211016,4113,ch,basel_landschaft,8
 20211016,4118,ch,graubunden,12
-20211016,4120,ch,thurgau,22
+20211016,4120,ch,thurgau,23
 20211016,4123,ch,valais,8
 20211016,4124,ch,neuchatel,8
 20211016,4125,ch,geneve,66
@@ -16998,7 +17002,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211015,4113,ch,basel_landschaft,8
 20211015,4118,ch,graubunden,16
 20211015,4119,ch,aargau,29
-20211015,4120,ch,thurgau,21
+20211015,4120,ch,thurgau,22
 20211015,4121,ch,ticino,9
 20211015,4123,ch,valais,8
 20211015,4124,ch,neuchatel,8
@@ -17176,7 +17180,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211014,4114,ch,schaffhausen,1
 20211014,4118,ch,graubunden,14
 20211014,4119,ch,aargau,25
-20211014,4120,ch,thurgau,19
+20211014,4120,ch,thurgau,20
 20211014,4121,ch,ticino,8
 20211014,4123,ch,valais,8
 20211014,4124,ch,neuchatel,9
@@ -17355,7 +17359,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211013,4114,ch,schaffhausen,0
 20211013,4118,ch,graubunden,12
 20211013,4119,ch,aargau,22
-20211013,4120,ch,thurgau,20
+20211013,4120,ch,thurgau,21
 20211013,4121,ch,ticino,7
 20211013,4123,ch,valais,9
 20211013,4124,ch,neuchatel,9
@@ -17534,7 +17538,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211012,4114,ch,schaffhausen,0
 20211012,4118,ch,graubunden,14
 20211012,4119,ch,aargau,19
-20211012,4120,ch,thurgau,21
+20211012,4120,ch,thurgau,22
 20211012,4121,ch,ticino,4
 20211012,4123,ch,valais,9
 20211012,4124,ch,neuchatel,8
@@ -17712,7 +17716,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211011,4114,ch,schaffhausen,1
 20211011,4118,ch,graubunden,12
 20211011,4119,ch,aargau,21
-20211011,4120,ch,thurgau,23
+20211011,4120,ch,thurgau,24
 20211011,4121,ch,ticino,5
 20211011,4123,ch,valais,9
 20211011,4124,ch,neuchatel,9
@@ -17886,7 +17890,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211010,4114,ch,schaffhausen,2
 20211010,4117,ch,st_gallen,28
 20211010,4118,ch,graubunden,13
-20211010,4120,ch,thurgau,24
+20211010,4120,ch,thurgau,25
 20211010,4122,ch,vaud,44
 20211010,4123,ch,valais,9
 20211010,4124,ch,neuchatel,5
@@ -18057,7 +18061,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211009,4112,ch,basel_stadt,14
 20211009,4113,ch,basel_landschaft,8
 20211009,4118,ch,graubunden,14
-20211009,4120,ch,thurgau,23
+20211009,4120,ch,thurgau,24
 20211009,4123,ch,valais,8
 20211009,4124,ch,neuchatel,6
 20211009,4125,ch,geneve,66
@@ -18232,7 +18236,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211008,4113,ch,basel_landschaft,8
 20211008,4118,ch,graubunden,14
 20211008,4119,ch,aargau,26
-20211008,4120,ch,thurgau,25
+20211008,4120,ch,thurgau,26
 20211008,4121,ch,ticino,10
 20211008,4123,ch,valais,10
 20211008,4124,ch,neuchatel,6
@@ -18411,7 +18415,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211007,4117,ch,st_gallen,26
 20211007,4118,ch,graubunden,13
 20211007,4119,ch,aargau,28
-20211007,4120,ch,thurgau,26
+20211007,4120,ch,thurgau,27
 20211007,4121,ch,ticino,12
 20211007,4123,ch,valais,10
 20211007,4124,ch,neuchatel,8
@@ -18591,7 +18595,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211006,4117,ch,st_gallen,28
 20211006,4118,ch,graubunden,13
 20211006,4119,ch,aargau,31
-20211006,4120,ch,thurgau,27
+20211006,4120,ch,thurgau,28
 20211006,4121,ch,ticino,14
 20211006,4123,ch,valais,8
 20211006,4124,ch,neuchatel,9
@@ -18771,7 +18775,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211005,4117,ch,st_gallen,31
 20211005,4118,ch,graubunden,14
 20211005,4119,ch,aargau,40
-20211005,4120,ch,thurgau,25
+20211005,4120,ch,thurgau,26
 20211005,4121,ch,ticino,17
 20211005,4123,ch,valais,13
 20211005,4124,ch,neuchatel,8
@@ -18951,7 +18955,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211004,4117,ch,st_gallen,40
 20211004,4118,ch,graubunden,14
 20211004,4119,ch,aargau,43
-20211004,4120,ch,thurgau,25
+20211004,4120,ch,thurgau,26
 20211004,4121,ch,ticino,19
 20211004,4123,ch,valais,17
 20211004,4124,ch,neuchatel,10
@@ -19126,7 +19130,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211003,4114,ch,schaffhausen,3
 20211003,4117,ch,st_gallen,41
 20211003,4118,ch,graubunden,12
-20211003,4120,ch,thurgau,26
+20211003,4120,ch,thurgau,27
 20211003,4122,ch,vaud,51
 20211003,4123,ch,valais,16
 20211003,4124,ch,neuchatel,11
@@ -19298,7 +19302,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211002,4112,ch,basel_stadt,18
 20211002,4113,ch,basel_landschaft,7
 20211002,4118,ch,graubunden,12
-20211002,4120,ch,thurgau,24
+20211002,4120,ch,thurgau,25
 20211002,4123,ch,valais,17
 20211002,4124,ch,neuchatel,11
 20211002,4125,ch,geneve,77
@@ -19474,7 +19478,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20211001,4113,ch,basel_landschaft,9
 20211001,4118,ch,graubunden,11
 20211001,4119,ch,aargau,43
-20211001,4120,ch,thurgau,25
+20211001,4120,ch,thurgau,26
 20211001,4121,ch,ticino,19
 20211001,4123,ch,valais,18
 20211001,4124,ch,neuchatel,8
@@ -19654,7 +19658,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210930,4117,ch,st_gallen,48
 20210930,4118,ch,graubunden,12
 20210930,4119,ch,aargau,42
-20210930,4120,ch,thurgau,29
+20210930,4120,ch,thurgau,30
 20210930,4121,ch,ticino,20
 20210930,4123,ch,valais,16
 20210930,4124,ch,neuchatel,6
@@ -19835,7 +19839,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210929,4117,ch,st_gallen,53
 20210929,4118,ch,graubunden,15
 20210929,4119,ch,aargau,40
-20210929,4120,ch,thurgau,32
+20210929,4120,ch,thurgau,33
 20210929,4121,ch,ticino,18
 20210929,4123,ch,valais,16
 20210929,4124,ch,neuchatel,4
@@ -20015,7 +20019,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210928,4117,ch,st_gallen,47
 20210928,4118,ch,graubunden,15
 20210928,4119,ch,aargau,48
-20210928,4120,ch,thurgau,42
+20210928,4120,ch,thurgau,43
 20210928,4121,ch,ticino,18
 20210928,4123,ch,valais,15
 20210928,4124,ch,neuchatel,6
@@ -20195,7 +20199,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210927,4117,ch,st_gallen,42
 20210927,4118,ch,graubunden,15
 20210927,4119,ch,aargau,53
-20210927,4120,ch,thurgau,45
+20210927,4120,ch,thurgau,46
 20210927,4121,ch,ticino,18
 20210927,4123,ch,valais,14
 20210927,4124,ch,neuchatel,8
@@ -20370,7 +20374,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210926,4114,ch,schaffhausen,4
 20210926,4117,ch,st_gallen,45
 20210926,4118,ch,graubunden,15
-20210926,4120,ch,thurgau,40
+20210926,4120,ch,thurgau,41
 20210926,4122,ch,vaud,66
 20210926,4123,ch,valais,16
 20210926,4124,ch,neuchatel,8
@@ -20542,7 +20546,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210925,4112,ch,basel_stadt,27
 20210925,4113,ch,basel_landschaft,7
 20210925,4118,ch,graubunden,14
-20210925,4120,ch,thurgau,41
+20210925,4120,ch,thurgau,42
 20210925,4123,ch,valais,15
 20210925,4124,ch,neuchatel,8
 20210925,4125,ch,geneve,81
@@ -20718,7 +20722,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210924,4113,ch,basel_landschaft,7
 20210924,4118,ch,graubunden,20
 20210924,4119,ch,aargau,52
-20210924,4120,ch,thurgau,38
+20210924,4120,ch,thurgau,39
 20210924,4121,ch,ticino,19
 20210924,4123,ch,valais,16
 20210924,4124,ch,neuchatel,6
@@ -20898,7 +20902,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210923,4117,ch,st_gallen,51
 20210923,4118,ch,graubunden,19
 20210923,4119,ch,aargau,51
-20210923,4120,ch,thurgau,45
+20210923,4120,ch,thurgau,46
 20210923,4121,ch,ticino,16
 20210923,4123,ch,valais,17
 20210923,4124,ch,neuchatel,8
@@ -21079,7 +21083,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210922,4117,ch,st_gallen,52
 20210922,4118,ch,graubunden,18
 20210922,4119,ch,aargau,53
-20210922,4120,ch,thurgau,48
+20210922,4120,ch,thurgau,49
 20210922,4121,ch,ticino,14
 20210922,4123,ch,valais,18
 20210922,4124,ch,neuchatel,8
@@ -21260,7 +21264,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210921,4117,ch,st_gallen,51
 20210921,4118,ch,graubunden,21
 20210921,4119,ch,aargau,56
-20210921,4120,ch,thurgau,48
+20210921,4120,ch,thurgau,49
 20210921,4121,ch,ticino,18
 20210921,4123,ch,valais,20
 20210921,4124,ch,neuchatel,8
@@ -21440,7 +21444,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210920,4117,ch,st_gallen,45
 20210920,4118,ch,graubunden,20
 20210920,4119,ch,aargau,72
-20210920,4120,ch,thurgau,47
+20210920,4120,ch,thurgau,48
 20210920,4121,ch,ticino,19
 20210920,4123,ch,valais,20
 20210920,4124,ch,neuchatel,7
@@ -21614,7 +21618,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210919,4114,ch,schaffhausen,4
 20210919,4117,ch,st_gallen,46
 20210919,4118,ch,graubunden,16
-20210919,4120,ch,thurgau,46
+20210919,4120,ch,thurgau,47
 20210919,4122,ch,vaud,91
 20210919,4123,ch,valais,19
 20210919,4124,ch,neuchatel,6
@@ -21785,7 +21789,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210918,4112,ch,basel_stadt,30
 20210918,4113,ch,basel_landschaft,14
 20210918,4118,ch,graubunden,16
-20210918,4120,ch,thurgau,47
+20210918,4120,ch,thurgau,48
 20210918,4123,ch,valais,16
 20210918,4124,ch,neuchatel,8
 20210918,4125,ch,geneve,94
@@ -21959,7 +21963,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210917,4113,ch,basel_landschaft,14
 20210917,4118,ch,graubunden,15
 20210917,4119,ch,aargau,76
-20210917,4120,ch,thurgau,46
+20210917,4120,ch,thurgau,47
 20210917,4121,ch,ticino,19
 20210917,4123,ch,valais,18
 20210917,4124,ch,neuchatel,8
@@ -22137,7 +22141,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210916,4117,ch,st_gallen,47
 20210916,4118,ch,graubunden,18
 20210916,4119,ch,aargau,84
-20210916,4120,ch,thurgau,46
+20210916,4120,ch,thurgau,47
 20210916,4121,ch,ticino,20
 20210916,4123,ch,valais,19
 20210916,4124,ch,neuchatel,5
@@ -22316,7 +22320,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210915,4117,ch,st_gallen,50
 20210915,4118,ch,graubunden,17
 20210915,4119,ch,aargau,86
-20210915,4120,ch,thurgau,46
+20210915,4120,ch,thurgau,47
 20210915,4121,ch,ticino,20
 20210915,4123,ch,valais,19
 20210915,4124,ch,neuchatel,7
@@ -22495,7 +22499,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210914,4117,ch,st_gallen,51
 20210914,4118,ch,graubunden,20
 20210914,4119,ch,aargau,87
-20210914,4120,ch,thurgau,48
+20210914,4120,ch,thurgau,49
 20210914,4121,ch,ticino,19
 20210914,4123,ch,valais,22
 20210914,4124,ch,neuchatel,10
@@ -22674,7 +22678,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210913,4117,ch,st_gallen,48
 20210913,4118,ch,graubunden,21
 20210913,4119,ch,aargau,88
-20210913,4120,ch,thurgau,48
+20210913,4120,ch,thurgau,49
 20210913,4121,ch,ticino,22
 20210913,4123,ch,valais,27
 20210913,4124,ch,neuchatel,10
@@ -22846,7 +22850,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210912,4114,ch,schaffhausen,8
 20210912,4117,ch,st_gallen,48
 20210912,4118,ch,graubunden,21
-20210912,4120,ch,thurgau,47
+20210912,4120,ch,thurgau,48
 20210912,4122,ch,vaud,110
 20210912,4123,ch,valais,26
 20210912,4124,ch,neuchatel,14
@@ -23016,7 +23020,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210911,4112,ch,basel_stadt,33
 20210911,4113,ch,basel_landschaft,13
 20210911,4118,ch,graubunden,19
-20210911,4120,ch,thurgau,48
+20210911,4120,ch,thurgau,49
 20210911,4123,ch,valais,25
 20210911,4124,ch,neuchatel,13
 20210911,4125,ch,geneve,109
@@ -23191,7 +23195,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210910,4113,ch,basel_landschaft,14
 20210910,4118,ch,graubunden,20
 20210910,4119,ch,aargau,77
-20210910,4120,ch,thurgau,44
+20210910,4120,ch,thurgau,45
 20210910,4121,ch,ticino,22
 20210910,4123,ch,valais,23
 20210910,4124,ch,neuchatel,12
@@ -23368,7 +23372,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210909,4117,ch,st_gallen,51
 20210909,4118,ch,graubunden,17
 20210909,4119,ch,aargau,77
-20210909,4120,ch,thurgau,44
+20210909,4120,ch,thurgau,45
 20210909,4121,ch,ticino,23
 20210909,4123,ch,valais,25
 20210909,4124,ch,neuchatel,12
@@ -23546,7 +23550,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210908,4117,ch,st_gallen,59
 20210908,4118,ch,graubunden,16
 20210908,4119,ch,aargau,75
-20210908,4120,ch,thurgau,46
+20210908,4120,ch,thurgau,47
 20210908,4121,ch,ticino,20
 20210908,4123,ch,valais,24
 20210908,4124,ch,neuchatel,11
@@ -23724,7 +23728,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210907,4117,ch,st_gallen,53
 20210907,4118,ch,graubunden,15
 20210907,4119,ch,aargau,74
-20210907,4120,ch,thurgau,46
+20210907,4120,ch,thurgau,47
 20210907,4121,ch,ticino,25
 20210907,4123,ch,valais,27
 20210907,4124,ch,neuchatel,12
@@ -23899,7 +23903,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210906,4117,ch,st_gallen,53
 20210906,4118,ch,graubunden,21
 20210906,4119,ch,aargau,76
-20210906,4120,ch,thurgau,46
+20210906,4120,ch,thurgau,47
 20210906,4121,ch,ticino,27
 20210906,4123,ch,valais,27
 20210906,4124,ch,neuchatel,11
@@ -24070,7 +24074,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210905,4114,ch,schaffhausen,6
 20210905,4117,ch,st_gallen,55
 20210905,4118,ch,graubunden,25
-20210905,4120,ch,thurgau,44
+20210905,4120,ch,thurgau,45
 20210905,4122,ch,vaud,102
 20210905,4123,ch,valais,25
 20210905,4124,ch,neuchatel,9
@@ -24238,7 +24242,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210904,4112,ch,basel_stadt,37
 20210904,4113,ch,basel_landschaft,11
 20210904,4118,ch,graubunden,23
-20210904,4120,ch,thurgau,42
+20210904,4120,ch,thurgau,43
 20210904,4123,ch,valais,24
 20210904,4124,ch,neuchatel,9
 20210904,4125,ch,geneve,103
@@ -24410,7 +24414,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210903,4113,ch,basel_landschaft,10
 20210903,4118,ch,graubunden,21
 20210903,4119,ch,aargau,76
-20210903,4120,ch,thurgau,40
+20210903,4120,ch,thurgau,41
 20210903,4121,ch,ticino,30
 20210903,4123,ch,valais,27
 20210903,4124,ch,neuchatel,11
@@ -24582,7 +24586,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210902,4117,ch,st_gallen,64
 20210902,4118,ch,graubunden,21
 20210902,4119,ch,aargau,74
-20210902,4120,ch,thurgau,41
+20210902,4120,ch,thurgau,42
 20210902,4121,ch,ticino,31
 20210902,4123,ch,valais,26
 20210902,4124,ch,neuchatel,9
@@ -24756,7 +24760,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210901,4117,ch,st_gallen,68
 20210901,4118,ch,graubunden,18
 20210901,4119,ch,aargau,86
-20210901,4120,ch,thurgau,37
+20210901,4120,ch,thurgau,38
 20210901,4121,ch,ticino,32
 20210901,4123,ch,valais,28
 20210901,4124,ch,neuchatel,11
@@ -24930,7 +24934,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210831,4117,ch,st_gallen,60
 20210831,4118,ch,graubunden,16
 20210831,4119,ch,aargau,84
-20210831,4120,ch,thurgau,39
+20210831,4120,ch,thurgau,40
 20210831,4121,ch,ticino,34
 20210831,4123,ch,valais,28
 20210831,4124,ch,neuchatel,9
@@ -25103,7 +25107,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210830,4117,ch,st_gallen,64
 20210830,4118,ch,graubunden,19
 20210830,4119,ch,aargau,86
-20210830,4120,ch,thurgau,43
+20210830,4120,ch,thurgau,44
 20210830,4121,ch,ticino,33
 20210830,4123,ch,valais,28
 20210830,4124,ch,neuchatel,9
@@ -25271,7 +25275,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210829,4114,ch,schaffhausen,10
 20210829,4117,ch,st_gallen,69
 20210829,4118,ch,graubunden,16
-20210829,4120,ch,thurgau,44
+20210829,4120,ch,thurgau,45
 20210829,4122,ch,vaud,87
 20210829,4123,ch,valais,26
 20210829,4124,ch,neuchatel,8
@@ -25436,7 +25440,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210828,4112,ch,basel_stadt,41
 20210828,4113,ch,basel_landschaft,19
 20210828,4118,ch,graubunden,16
-20210828,4120,ch,thurgau,42
+20210828,4120,ch,thurgau,43
 20210828,4123,ch,valais,25
 20210828,4124,ch,neuchatel,7
 20210828,4125,ch,geneve,94
@@ -25605,7 +25609,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210827,4113,ch,basel_landschaft,19
 20210827,4118,ch,graubunden,19
 20210827,4119,ch,aargau,81
-20210827,4120,ch,thurgau,41
+20210827,4120,ch,thurgau,42
 20210827,4121,ch,ticino,41
 20210827,4123,ch,valais,22
 20210827,4124,ch,neuchatel,6
@@ -25776,7 +25780,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210826,4117,ch,st_gallen,69
 20210826,4118,ch,graubunden,19
 20210826,4119,ch,aargau,77
-20210826,4120,ch,thurgau,47
+20210826,4120,ch,thurgau,48
 20210826,4121,ch,ticino,38
 20210826,4123,ch,valais,27
 20210826,4124,ch,neuchatel,5
@@ -25949,7 +25953,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210825,4117,ch,st_gallen,67
 20210825,4118,ch,graubunden,19
 20210825,4119,ch,aargau,70
-20210825,4120,ch,thurgau,42
+20210825,4120,ch,thurgau,43
 20210825,4121,ch,ticino,32
 20210825,4123,ch,valais,31
 20210825,4124,ch,neuchatel,7
@@ -26122,7 +26126,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210824,4117,ch,st_gallen,67
 20210824,4118,ch,graubunden,24
 20210824,4119,ch,aargau,77
-20210824,4120,ch,thurgau,41
+20210824,4120,ch,thurgau,42
 20210824,4121,ch,ticino,33
 20210824,4123,ch,valais,27
 20210824,4124,ch,neuchatel,5
@@ -26295,7 +26299,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210823,4117,ch,st_gallen,64
 20210823,4118,ch,graubunden,19
 20210823,4119,ch,aargau,79
-20210823,4120,ch,thurgau,45
+20210823,4120,ch,thurgau,46
 20210823,4121,ch,ticino,32
 20210823,4123,ch,valais,22
 20210823,4124,ch,neuchatel,7
@@ -26460,7 +26464,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210822,4114,ch,schaffhausen,17
 20210822,4117,ch,st_gallen,57
 20210822,4118,ch,graubunden,17
-20210822,4120,ch,thurgau,48
+20210822,4120,ch,thurgau,49
 20210822,4122,ch,vaud,83
 20210822,4123,ch,valais,21
 20210822,4124,ch,neuchatel,6
@@ -26623,7 +26627,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210821,4112,ch,basel_stadt,39
 20210821,4113,ch,basel_landschaft,21
 20210821,4118,ch,graubunden,16
-20210821,4120,ch,thurgau,42
+20210821,4120,ch,thurgau,43
 20210821,4123,ch,valais,19
 20210821,4124,ch,neuchatel,6
 20210821,4125,ch,geneve,95
@@ -26789,7 +26793,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210820,4113,ch,basel_landschaft,21
 20210820,4118,ch,graubunden,15
 20210820,4119,ch,aargau,51
-20210820,4120,ch,thurgau,39
+20210820,4120,ch,thurgau,40
 20210820,4121,ch,ticino,19
 20210820,4123,ch,valais,20
 20210820,4124,ch,neuchatel,4
@@ -26959,7 +26963,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210819,4117,ch,st_gallen,54
 20210819,4118,ch,graubunden,18
 20210819,4119,ch,aargau,47
-20210819,4120,ch,thurgau,38
+20210819,4120,ch,thurgau,39
 20210819,4121,ch,ticino,17
 20210819,4123,ch,valais,18
 20210819,4124,ch,neuchatel,3
@@ -27129,7 +27133,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210818,4117,ch,st_gallen,57
 20210818,4118,ch,graubunden,17
 20210818,4119,ch,aargau,42
-20210818,4120,ch,thurgau,35
+20210818,4120,ch,thurgau,36
 20210818,4121,ch,ticino,17
 20210818,4123,ch,valais,21
 20210818,4124,ch,neuchatel,3
@@ -27300,7 +27304,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210817,4117,ch,st_gallen,58
 20210817,4118,ch,graubunden,16
 20210817,4119,ch,aargau,46
-20210817,4120,ch,thurgau,36
+20210817,4120,ch,thurgau,37
 20210817,4121,ch,ticino,18
 20210817,4123,ch,valais,22
 20210817,4124,ch,neuchatel,4
@@ -27471,7 +27475,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210816,4117,ch,st_gallen,43
 20210816,4118,ch,graubunden,14
 20210816,4119,ch,aargau,48
-20210816,4120,ch,thurgau,37
+20210816,4120,ch,thurgau,38
 20210816,4121,ch,ticino,18
 20210816,4123,ch,valais,24
 20210816,4124,ch,neuchatel,4
@@ -27637,7 +27641,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210815,4114,ch,schaffhausen,9
 20210815,4117,ch,st_gallen,25
 20210815,4118,ch,graubunden,13
-20210815,4120,ch,thurgau,31
+20210815,4120,ch,thurgau,32
 20210815,4122,ch,vaud,52
 20210815,4123,ch,valais,23
 20210815,4124,ch,neuchatel,1
@@ -27800,7 +27804,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210814,4112,ch,basel_stadt,26
 20210814,4113,ch,basel_landschaft,12
 20210814,4118,ch,graubunden,13
-20210814,4120,ch,thurgau,27
+20210814,4120,ch,thurgau,28
 20210814,4123,ch,valais,20
 20210814,4124,ch,neuchatel,1
 20210814,4125,ch,geneve,39
@@ -27966,7 +27970,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210813,4113,ch,basel_landschaft,6
 20210813,4118,ch,graubunden,8
 20210813,4119,ch,aargau,32
-20210813,4120,ch,thurgau,24
+20210813,4120,ch,thurgau,25
 20210813,4121,ch,ticino,15
 20210813,4123,ch,valais,18
 20210813,4124,ch,neuchatel,0
@@ -28137,7 +28141,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210812,4117,ch,st_gallen,21
 20210812,4118,ch,graubunden,4
 20210812,4119,ch,aargau,32
-20210812,4120,ch,thurgau,20
+20210812,4120,ch,thurgau,21
 20210812,4121,ch,ticino,16
 20210812,4123,ch,valais,16
 20210812,4124,ch,neuchatel,1
@@ -28309,7 +28313,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210811,4117,ch,st_gallen,20
 20210811,4118,ch,graubunden,9
 20210811,4119,ch,aargau,21
-20210811,4120,ch,thurgau,17
+20210811,4120,ch,thurgau,18
 20210811,4121,ch,ticino,16
 20210811,4123,ch,valais,15
 20210811,4124,ch,neuchatel,2
@@ -28481,7 +28485,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210810,4117,ch,st_gallen,17
 20210810,4118,ch,graubunden,9
 20210810,4119,ch,aargau,24
-20210810,4120,ch,thurgau,10
+20210810,4120,ch,thurgau,11
 20210810,4121,ch,ticino,18
 20210810,4123,ch,valais,14
 20210810,4124,ch,neuchatel,3
@@ -28653,7 +28657,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210809,4117,ch,st_gallen,21
 20210809,4118,ch,graubunden,10
 20210809,4119,ch,aargau,22
-20210809,4120,ch,thurgau,10
+20210809,4120,ch,thurgau,11
 20210809,4121,ch,ticino,16
 20210809,4123,ch,valais,9
 20210809,4124,ch,neuchatel,4
@@ -28819,7 +28823,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210808,4114,ch,schaffhausen,4
 20210808,4117,ch,st_gallen,16
 20210808,4118,ch,graubunden,7
-20210808,4120,ch,thurgau,9
+20210808,4120,ch,thurgau,10
 20210808,4123,ch,valais,7
 20210808,4124,ch,neuchatel,4
 20210808,4125,ch,geneve,41
@@ -28982,7 +28986,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210807,4112,ch,basel_stadt,9
 20210807,4113,ch,basel_landschaft,6
 20210807,4118,ch,graubunden,6
-20210807,4120,ch,thurgau,7
+20210807,4120,ch,thurgau,8
 20210807,4123,ch,valais,6
 20210807,4124,ch,neuchatel,4
 20210807,4125,ch,geneve,41
@@ -29149,7 +29153,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210806,4113,ch,basel_landschaft,4
 20210806,4118,ch,graubunden,6
 20210806,4119,ch,aargau,13
-20210806,4120,ch,thurgau,7
+20210806,4120,ch,thurgau,8
 20210806,4121,ch,ticino,13
 20210806,4123,ch,valais,5
 20210806,4124,ch,neuchatel,1
@@ -29320,7 +29324,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210805,4117,ch,st_gallen,9
 20210805,4118,ch,graubunden,5
 20210805,4119,ch,aargau,12
-20210805,4120,ch,thurgau,7
+20210805,4120,ch,thurgau,8
 20210805,4121,ch,ticino,11
 20210805,4123,ch,valais,6
 20210805,4124,ch,neuchatel,3
@@ -29491,7 +29495,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210804,4117,ch,st_gallen,4
 20210804,4118,ch,graubunden,2
 20210804,4119,ch,aargau,13
-20210804,4120,ch,thurgau,4
+20210804,4120,ch,thurgau,5
 20210804,4121,ch,ticino,10
 20210804,4123,ch,valais,5
 20210804,4124,ch,neuchatel,5
@@ -29663,7 +29667,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210803,4117,ch,st_gallen,6
 20210803,4118,ch,graubunden,12
 20210803,4119,ch,aargau,14
-20210803,4120,ch,thurgau,6
+20210803,4120,ch,thurgau,7
 20210803,4121,ch,ticino,9
 20210803,4123,ch,valais,4
 20210803,4124,ch,neuchatel,3
@@ -29835,7 +29839,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210802,4117,ch,st_gallen,5
 20210802,4118,ch,graubunden,11
 20210802,4119,ch,aargau,10
-20210802,4120,ch,thurgau,6
+20210802,4120,ch,thurgau,7
 20210802,4121,ch,ticino,10
 20210802,4123,ch,valais,5
 20210802,4124,ch,neuchatel,5
@@ -30002,7 +30006,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210801,4114,ch,schaffhausen,2
 20210801,4117,ch,st_gallen,2
 20210801,4118,ch,graubunden,10
-20210801,4120,ch,thurgau,7
+20210801,4120,ch,thurgau,8
 20210801,4123,ch,valais,5
 20210801,4124,ch,neuchatel,5
 20210801,4125,ch,geneve,39
@@ -30166,7 +30170,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210731,4113,ch,basel_landschaft,2
 20210731,4114,ch,schaffhausen,2
 20210731,4118,ch,graubunden,10
-20210731,4120,ch,thurgau,6
+20210731,4120,ch,thurgau,7
 20210731,4123,ch,valais,4
 20210731,4124,ch,neuchatel,5
 20210731,4125,ch,geneve,39
@@ -30334,7 +30338,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210730,4114,ch,schaffhausen,2
 20210730,4118,ch,graubunden,3
 20210730,4119,ch,aargau,9
-20210730,4120,ch,thurgau,7
+20210730,4120,ch,thurgau,8
 20210730,4121,ch,ticino,10
 20210730,4123,ch,valais,4
 20210730,4124,ch,neuchatel,4
@@ -30505,7 +30509,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210729,4117,ch,st_gallen,2
 20210729,4118,ch,graubunden,4
 20210729,4119,ch,aargau,8
-20210729,4120,ch,thurgau,6
+20210729,4120,ch,thurgau,7
 20210729,4121,ch,ticino,9
 20210729,4123,ch,valais,4
 20210729,4124,ch,neuchatel,5
@@ -30677,7 +30681,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210728,4117,ch,st_gallen,8
 20210728,4118,ch,graubunden,5
 20210728,4119,ch,aargau,7
-20210728,4120,ch,thurgau,6
+20210728,4120,ch,thurgau,7
 20210728,4121,ch,ticino,12
 20210728,4123,ch,valais,5
 20210728,4124,ch,neuchatel,4
@@ -30849,7 +30853,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210727,4117,ch,st_gallen,7
 20210727,4118,ch,graubunden,5
 20210727,4119,ch,aargau,9
-20210727,4120,ch,thurgau,4
+20210727,4120,ch,thurgau,5
 20210727,4121,ch,ticino,12
 20210727,4123,ch,valais,3
 20210727,4124,ch,neuchatel,5
@@ -31021,7 +31025,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210726,4117,ch,st_gallen,7
 20210726,4118,ch,graubunden,5
 20210726,4119,ch,aargau,8
-20210726,4120,ch,thurgau,4
+20210726,4120,ch,thurgau,5
 20210726,4121,ch,ticino,12
 20210726,4123,ch,valais,4
 20210726,4124,ch,neuchatel,5
@@ -31188,7 +31192,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210725,4114,ch,schaffhausen,1
 20210725,4117,ch,st_gallen,4
 20210725,4118,ch,graubunden,5
-20210725,4120,ch,thurgau,4
+20210725,4120,ch,thurgau,5
 20210725,4123,ch,valais,3
 20210725,4124,ch,neuchatel,4
 20210725,4125,ch,geneve,41
@@ -31351,7 +31355,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210724,4112,ch,basel_stadt,9
 20210724,4113,ch,basel_landschaft,1
 20210724,4118,ch,graubunden,5
-20210724,4120,ch,thurgau,4
+20210724,4120,ch,thurgau,5
 20210724,4123,ch,valais,3
 20210724,4124,ch,neuchatel,4
 20210724,4125,ch,geneve,40
@@ -31520,7 +31524,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210723,4114,ch,schaffhausen,1
 20210723,4118,ch,graubunden,5
 20210723,4119,ch,aargau,6
-20210723,4120,ch,thurgau,2
+20210723,4120,ch,thurgau,3
 20210723,4121,ch,ticino,11
 20210723,4123,ch,valais,4
 20210723,4124,ch,neuchatel,4
@@ -31692,7 +31696,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210722,4117,ch,st_gallen,4
 20210722,4118,ch,graubunden,3
 20210722,4119,ch,aargau,6
-20210722,4120,ch,thurgau,2
+20210722,4120,ch,thurgau,3
 20210722,4121,ch,ticino,8
 20210722,4123,ch,valais,4
 20210722,4124,ch,neuchatel,3
@@ -31864,7 +31868,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210721,4117,ch,st_gallen,5
 20210721,4118,ch,graubunden,3
 20210721,4119,ch,aargau,8
-20210721,4120,ch,thurgau,2
+20210721,4120,ch,thurgau,3
 20210721,4121,ch,ticino,8
 20210721,4123,ch,valais,3
 20210721,4124,ch,neuchatel,2
@@ -32036,7 +32040,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210720,4117,ch,st_gallen,4
 20210720,4118,ch,graubunden,2
 20210720,4119,ch,aargau,5
-20210720,4120,ch,thurgau,2
+20210720,4120,ch,thurgau,3
 20210720,4121,ch,ticino,7
 20210720,4123,ch,valais,3
 20210720,4124,ch,neuchatel,2
@@ -32208,7 +32212,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210719,4117,ch,st_gallen,5
 20210719,4118,ch,graubunden,4
 20210719,4119,ch,aargau,5
-20210719,4120,ch,thurgau,2
+20210719,4120,ch,thurgau,3
 20210719,4121,ch,ticino,7
 20210719,4123,ch,valais,3
 20210719,4124,ch,neuchatel,2
@@ -32374,7 +32378,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210718,4113,ch,basel_landschaft,0
 20210718,4117,ch,st_gallen,2
 20210718,4118,ch,graubunden,2
-20210718,4120,ch,thurgau,4
+20210718,4120,ch,thurgau,5
 20210718,4123,ch,valais,3
 20210718,4124,ch,neuchatel,3
 20210718,4125,ch,geneve,48
@@ -32537,7 +32541,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210717,4112,ch,basel_stadt,7
 20210717,4113,ch,basel_landschaft,1
 20210717,4118,ch,graubunden,2
-20210717,4120,ch,thurgau,4
+20210717,4120,ch,thurgau,5
 20210717,4123,ch,valais,3
 20210717,4124,ch,neuchatel,2
 20210717,4125,ch,geneve,48
@@ -32705,7 +32709,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210716,4114,ch,schaffhausen,1
 20210716,4118,ch,graubunden,2
 20210716,4119,ch,aargau,2
-20210716,4120,ch,thurgau,4
+20210716,4120,ch,thurgau,5
 20210716,4121,ch,ticino,5
 20210716,4123,ch,valais,4
 20210716,4124,ch,neuchatel,3
@@ -32876,7 +32880,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210715,4117,ch,st_gallen,5
 20210715,4118,ch,graubunden,2
 20210715,4119,ch,aargau,4
-20210715,4120,ch,thurgau,4
+20210715,4120,ch,thurgau,5
 20210715,4121,ch,ticino,5
 20210715,4123,ch,valais,4
 20210715,4124,ch,neuchatel,2
@@ -33047,7 +33051,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210714,4117,ch,st_gallen,4
 20210714,4118,ch,graubunden,1
 20210714,4119,ch,aargau,4
-20210714,4120,ch,thurgau,3
+20210714,4120,ch,thurgau,4
 20210714,4121,ch,ticino,5
 20210714,4123,ch,valais,5
 20210714,4124,ch,neuchatel,2
@@ -33219,7 +33223,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210713,4117,ch,st_gallen,4
 20210713,4118,ch,graubunden,1
 20210713,4119,ch,aargau,5
-20210713,4120,ch,thurgau,4
+20210713,4120,ch,thurgau,5
 20210713,4121,ch,ticino,3
 20210713,4123,ch,valais,5
 20210713,4124,ch,neuchatel,1
@@ -33391,7 +33395,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210712,4117,ch,st_gallen,4
 20210712,4118,ch,graubunden,2
 20210712,4119,ch,aargau,6
-20210712,4120,ch,thurgau,5
+20210712,4120,ch,thurgau,6
 20210712,4121,ch,ticino,2
 20210712,4123,ch,valais,6
 20210712,4124,ch,neuchatel,1
@@ -33557,7 +33561,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210711,4113,ch,basel_landschaft,0
 20210711,4117,ch,st_gallen,4
 20210711,4118,ch,graubunden,2
-20210711,4120,ch,thurgau,4
+20210711,4120,ch,thurgau,5
 20210711,4123,ch,valais,6
 20210711,4124,ch,neuchatel,1
 20210711,4125,ch,geneve,52
@@ -33720,7 +33724,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210710,4112,ch,basel_stadt,2
 20210710,4113,ch,basel_landschaft,1
 20210710,4118,ch,graubunden,2
-20210710,4120,ch,thurgau,4
+20210710,4120,ch,thurgau,5
 20210710,4123,ch,valais,7
 20210710,4124,ch,neuchatel,1
 20210710,4125,ch,geneve,55
@@ -33889,7 +33893,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210709,4114,ch,schaffhausen,0
 20210709,4118,ch,graubunden,2
 20210709,4119,ch,aargau,3
-20210709,4120,ch,thurgau,4
+20210709,4120,ch,thurgau,5
 20210709,4121,ch,ticino,0
 20210709,4123,ch,valais,6
 20210709,4124,ch,neuchatel,1
@@ -34062,7 +34066,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210708,4117,ch,st_gallen,3
 20210708,4118,ch,graubunden,1
 20210708,4119,ch,aargau,2
-20210708,4120,ch,thurgau,4
+20210708,4120,ch,thurgau,5
 20210708,4121,ch,ticino,0
 20210708,4123,ch,valais,6
 20210708,4124,ch,neuchatel,1
@@ -34236,7 +34240,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210707,4117,ch,st_gallen,2
 20210707,4118,ch,graubunden,1
 20210707,4119,ch,aargau,2
-20210707,4120,ch,thurgau,3
+20210707,4120,ch,thurgau,4
 20210707,4121,ch,ticino,0
 20210707,4123,ch,valais,5
 20210707,4124,ch,neuchatel,1
@@ -34410,7 +34414,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210706,4117,ch,st_gallen,2
 20210706,4118,ch,graubunden,1
 20210706,4119,ch,aargau,1
-20210706,4120,ch,thurgau,4
+20210706,4120,ch,thurgau,5
 20210706,4121,ch,ticino,0
 20210706,4123,ch,valais,6
 20210706,4124,ch,neuchatel,1
@@ -34584,7 +34588,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210705,4117,ch,st_gallen,2
 20210705,4118,ch,graubunden,1
 20210705,4119,ch,aargau,6
-20210705,4120,ch,thurgau,6
+20210705,4120,ch,thurgau,7
 20210705,4121,ch,ticino,0
 20210705,4123,ch,valais,8
 20210705,4124,ch,neuchatel,2
@@ -34752,7 +34756,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210704,4113,ch,basel_landschaft,2
 20210704,4117,ch,st_gallen,1
 20210704,4118,ch,graubunden,1
-20210704,4120,ch,thurgau,4
+20210704,4120,ch,thurgau,5
 20210704,4123,ch,valais,7
 20210704,4124,ch,neuchatel,1
 20210704,4125,ch,geneve,58
@@ -34918,7 +34922,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210703,4112,ch,basel_stadt,5
 20210703,4113,ch,basel_landschaft,1
 20210703,4118,ch,graubunden,1
-20210703,4120,ch,thurgau,3
+20210703,4120,ch,thurgau,4
 20210703,4123,ch,valais,7
 20210703,4124,ch,neuchatel,1
 20210703,4125,ch,geneve,57
@@ -35086,7 +35090,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210702,4113,ch,basel_landschaft,1
 20210702,4114,ch,schaffhausen,0
 20210702,4118,ch,graubunden,1
-20210702,4120,ch,thurgau,3
+20210702,4120,ch,thurgau,4
 20210702,4121,ch,ticino,1
 20210702,4123,ch,valais,7
 20210702,4124,ch,neuchatel,1
@@ -35259,7 +35263,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210701,4117,ch,st_gallen,1
 20210701,4118,ch,graubunden,1
 20210701,4119,ch,aargau,4
-20210701,4120,ch,thurgau,4
+20210701,4120,ch,thurgau,5
 20210701,4121,ch,ticino,0
 20210701,4123,ch,valais,7
 20210701,4124,ch,neuchatel,1
@@ -35433,7 +35437,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210630,4117,ch,st_gallen,1
 20210630,4118,ch,graubunden,1
 20210630,4119,ch,aargau,3
-20210630,4120,ch,thurgau,4
+20210630,4120,ch,thurgau,5
 20210630,4121,ch,ticino,0
 20210630,4123,ch,valais,6
 20210630,4124,ch,neuchatel,1
@@ -35607,7 +35611,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210629,4117,ch,st_gallen,3
 20210629,4118,ch,graubunden,2
 20210629,4119,ch,aargau,5
-20210629,4120,ch,thurgau,5
+20210629,4120,ch,thurgau,6
 20210629,4122,ch,vaud,27
 20210629,4123,ch,valais,5
 20210629,4124,ch,neuchatel,0
@@ -35781,7 +35785,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210628,4117,ch,st_gallen,2
 20210628,4118,ch,graubunden,1
 20210628,4119,ch,aargau,6
-20210628,4120,ch,thurgau,7
+20210628,4120,ch,thurgau,8
 20210628,4121,ch,ticino,1
 20210628,4122,ch,vaud,28
 20210628,4123,ch,valais,6
@@ -35950,7 +35954,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210627,4113,ch,basel_landschaft,0
 20210627,4117,ch,st_gallen,3
 20210627,4118,ch,graubunden,2
-20210627,4120,ch,thurgau,7
+20210627,4120,ch,thurgau,8
 20210627,4122,ch,vaud,27
 20210627,4123,ch,valais,6
 20210627,4124,ch,neuchatel,0
@@ -36116,7 +36120,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210626,4112,ch,basel_stadt,11
 20210626,4113,ch,basel_landschaft,0
 20210626,4118,ch,graubunden,2
-20210626,4120,ch,thurgau,6
+20210626,4120,ch,thurgau,7
 20210626,4122,ch,vaud,28
 20210626,4123,ch,valais,6
 20210626,4124,ch,neuchatel,0
@@ -36287,7 +36291,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210625,4114,ch,schaffhausen,1
 20210625,4118,ch,graubunden,2
 20210625,4119,ch,aargau,7
-20210625,4120,ch,thurgau,5
+20210625,4120,ch,thurgau,6
 20210625,4121,ch,ticino,1
 20210625,4122,ch,vaud,29
 20210625,4123,ch,valais,7
@@ -36461,7 +36465,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210624,4117,ch,st_gallen,4
 20210624,4118,ch,graubunden,2
 20210624,4119,ch,aargau,6
-20210624,4120,ch,thurgau,5
+20210624,4120,ch,thurgau,6
 20210624,4121,ch,ticino,2
 20210624,4122,ch,vaud,27
 20210624,4123,ch,valais,6
@@ -36636,7 +36640,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210623,4117,ch,st_gallen,4
 20210623,4118,ch,graubunden,2
 20210623,4119,ch,aargau,7
-20210623,4120,ch,thurgau,4
+20210623,4120,ch,thurgau,5
 20210623,4121,ch,ticino,2
 20210623,4122,ch,vaud,29
 20210623,4123,ch,valais,6
@@ -36811,7 +36815,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210622,4117,ch,st_gallen,6
 20210622,4118,ch,graubunden,3
 20210622,4119,ch,aargau,12
-20210622,4120,ch,thurgau,5
+20210622,4120,ch,thurgau,6
 20210622,4121,ch,ticino,2
 20210622,4122,ch,vaud,32
 20210622,4123,ch,valais,5
@@ -36986,7 +36990,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210621,4117,ch,st_gallen,9
 20210621,4118,ch,graubunden,2
 20210621,4119,ch,aargau,10
-20210621,4120,ch,thurgau,4
+20210621,4120,ch,thurgau,5
 20210621,4121,ch,ticino,3
 20210621,4122,ch,vaud,32
 20210621,4123,ch,valais,6
@@ -37155,7 +37159,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210620,4113,ch,basel_landschaft,1
 20210620,4117,ch,st_gallen,11
 20210620,4118,ch,graubunden,3
-20210620,4120,ch,thurgau,4
+20210620,4120,ch,thurgau,5
 20210620,4122,ch,vaud,34
 20210620,4123,ch,valais,5
 20210620,4124,ch,neuchatel,2
@@ -37321,7 +37325,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210619,4112,ch,basel_stadt,9
 20210619,4113,ch,basel_landschaft,1
 20210619,4118,ch,graubunden,3
-20210619,4120,ch,thurgau,4
+20210619,4120,ch,thurgau,5
 20210619,4122,ch,vaud,33
 20210619,4123,ch,valais,5
 20210619,4124,ch,neuchatel,2
@@ -37492,7 +37496,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210618,4114,ch,schaffhausen,1
 20210618,4118,ch,graubunden,3
 20210618,4119,ch,aargau,17
-20210618,4120,ch,thurgau,4
+20210618,4120,ch,thurgau,5
 20210618,4121,ch,ticino,3
 20210618,4122,ch,vaud,30
 20210618,4123,ch,valais,5
@@ -37669,7 +37673,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210617,4117,ch,st_gallen,15
 20210617,4118,ch,graubunden,3
 20210617,4119,ch,aargau,9
-20210617,4120,ch,thurgau,5
+20210617,4120,ch,thurgau,6
 20210617,4121,ch,ticino,3
 20210617,4122,ch,vaud,38
 20210617,4123,ch,valais,6
@@ -37847,7 +37851,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210616,4117,ch,st_gallen,15
 20210616,4118,ch,graubunden,3
 20210616,4119,ch,aargau,11
-20210616,4120,ch,thurgau,5
+20210616,4120,ch,thurgau,6
 20210616,4121,ch,ticino,3
 20210616,4122,ch,vaud,38
 20210616,4123,ch,valais,9
@@ -38025,7 +38029,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210615,4117,ch,st_gallen,15
 20210615,4118,ch,graubunden,4
 20210615,4119,ch,aargau,14
-20210615,4120,ch,thurgau,8
+20210615,4120,ch,thurgau,9
 20210615,4121,ch,ticino,1
 20210615,4122,ch,vaud,41
 20210615,4123,ch,valais,10
@@ -38204,7 +38208,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210614,4117,ch,st_gallen,15
 20210614,4118,ch,graubunden,3
 20210614,4119,ch,aargau,9
-20210614,4120,ch,thurgau,10
+20210614,4120,ch,thurgau,11
 20210614,4121,ch,ticino,1
 20210614,4122,ch,vaud,43
 20210614,4123,ch,valais,9
@@ -38376,7 +38380,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210613,4113,ch,basel_landschaft,1
 20210613,4117,ch,st_gallen,16
 20210613,4118,ch,graubunden,3
-20210613,4120,ch,thurgau,10
+20210613,4120,ch,thurgau,11
 20210613,4121,ch,ticino,1
 20210613,4122,ch,vaud,51
 20210613,4123,ch,valais,9
@@ -38546,7 +38550,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210612,4112,ch,basel_stadt,11
 20210612,4113,ch,basel_landschaft,1
 20210612,4118,ch,graubunden,4
-20210612,4120,ch,thurgau,10
+20210612,4120,ch,thurgau,11
 20210612,4121,ch,ticino,1
 20210612,4122,ch,vaud,49
 20210612,4123,ch,valais,10
@@ -38722,7 +38726,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210611,4116,ch,appenzell_innerrhoden,0
 20210611,4118,ch,graubunden,3
 20210611,4119,ch,aargau,12
-20210611,4120,ch,thurgau,9
+20210611,4120,ch,thurgau,10
 20210611,4121,ch,ticino,1
 20210611,4122,ch,vaud,48
 20210611,4123,ch,valais,9
@@ -38900,7 +38904,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210610,4117,ch,st_gallen,26
 20210610,4118,ch,graubunden,4
 20210610,4119,ch,aargau,18
-20210610,4120,ch,thurgau,11
+20210610,4120,ch,thurgau,12
 20210610,4121,ch,ticino,1
 20210610,4122,ch,vaud,48
 20210610,4123,ch,valais,11
@@ -39078,7 +39082,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210609,4117,ch,st_gallen,20
 20210609,4118,ch,graubunden,4
 20210609,4119,ch,aargau,15
-20210609,4120,ch,thurgau,13
+20210609,4120,ch,thurgau,14
 20210609,4121,ch,ticino,2
 20210609,4122,ch,vaud,56
 20210609,4123,ch,valais,11
@@ -39257,7 +39261,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210608,4117,ch,st_gallen,17
 20210608,4118,ch,graubunden,6
 20210608,4119,ch,aargau,18
-20210608,4120,ch,thurgau,13
+20210608,4120,ch,thurgau,14
 20210608,4121,ch,ticino,2
 20210608,4122,ch,vaud,57
 20210608,4123,ch,valais,11
@@ -39436,7 +39440,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210607,4117,ch,st_gallen,20
 20210607,4118,ch,graubunden,4
 20210607,4119,ch,aargau,18
-20210607,4120,ch,thurgau,17
+20210607,4120,ch,thurgau,18
 20210607,4121,ch,ticino,2
 20210607,4122,ch,vaud,59
 20210607,4123,ch,valais,10
@@ -39608,7 +39612,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210606,4113,ch,basel_landschaft,6
 20210606,4117,ch,st_gallen,22
 20210606,4118,ch,graubunden,4
-20210606,4120,ch,thurgau,17
+20210606,4120,ch,thurgau,18
 20210606,4121,ch,ticino,3
 20210606,4122,ch,vaud,55
 20210606,4123,ch,valais,11
@@ -39779,7 +39783,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210605,4112,ch,basel_stadt,16
 20210605,4113,ch,basel_landschaft,6
 20210605,4118,ch,graubunden,4
-20210605,4120,ch,thurgau,17
+20210605,4120,ch,thurgau,18
 20210605,4121,ch,ticino,4
 20210605,4122,ch,vaud,55
 20210605,4123,ch,valais,13
@@ -39955,7 +39959,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210604,4116,ch,appenzell_innerrhoden,3
 20210604,4118,ch,graubunden,4
 20210604,4119,ch,aargau,22
-20210604,4120,ch,thurgau,17
+20210604,4120,ch,thurgau,18
 20210604,4121,ch,ticino,3
 20210604,4122,ch,vaud,50
 20210604,4123,ch,valais,15
@@ -40130,7 +40134,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210603,4117,ch,st_gallen,28
 20210603,4118,ch,graubunden,5
 20210603,4119,ch,aargau,22
-20210603,4120,ch,thurgau,21
+20210603,4120,ch,thurgau,22
 20210603,4121,ch,ticino,6
 20210603,4122,ch,vaud,52
 20210603,4123,ch,valais,15
@@ -40309,7 +40313,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210602,4117,ch,st_gallen,29
 20210602,4118,ch,graubunden,6
 20210602,4119,ch,aargau,21
-20210602,4120,ch,thurgau,21
+20210602,4120,ch,thurgau,22
 20210602,4121,ch,ticino,10
 20210602,4122,ch,vaud,57
 20210602,4123,ch,valais,15
@@ -40488,7 +40492,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210601,4117,ch,st_gallen,33
 20210601,4118,ch,graubunden,5
 20210601,4119,ch,aargau,24
-20210601,4120,ch,thurgau,22
+20210601,4120,ch,thurgau,23
 20210601,4121,ch,ticino,10
 20210601,4122,ch,vaud,58
 20210601,4123,ch,valais,14
@@ -40668,7 +40672,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210531,4117,ch,st_gallen,40
 20210531,4118,ch,graubunden,6
 20210531,4119,ch,aargau,26
-20210531,4120,ch,thurgau,24
+20210531,4120,ch,thurgau,25
 20210531,4121,ch,ticino,11
 20210531,4122,ch,vaud,56
 20210531,4123,ch,valais,15
@@ -40840,7 +40844,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210530,4113,ch,basel_landschaft,8
 20210530,4117,ch,st_gallen,39
 20210530,4118,ch,graubunden,6
-20210530,4120,ch,thurgau,24
+20210530,4120,ch,thurgau,25
 20210530,4121,ch,ticino,11
 20210530,4122,ch,vaud,57
 20210530,4123,ch,valais,17
@@ -41011,7 +41015,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210529,4112,ch,basel_stadt,12
 20210529,4113,ch,basel_landschaft,8
 20210529,4118,ch,graubunden,5
-20210529,4120,ch,thurgau,22
+20210529,4120,ch,thurgau,23
 20210529,4121,ch,ticino,10
 20210529,4122,ch,vaud,56
 20210529,4123,ch,valais,16
@@ -41188,7 +41192,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210528,4116,ch,appenzell_innerrhoden,3
 20210528,4118,ch,graubunden,5
 20210528,4119,ch,aargau,27
-20210528,4120,ch,thurgau,19
+20210528,4120,ch,thurgau,20
 20210528,4121,ch,ticino,15
 20210528,4122,ch,vaud,58
 20210528,4123,ch,valais,15
@@ -41366,7 +41370,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210527,4117,ch,st_gallen,43
 20210527,4118,ch,graubunden,5
 20210527,4119,ch,aargau,32
-20210527,4120,ch,thurgau,20
+20210527,4120,ch,thurgau,21
 20210527,4121,ch,ticino,18
 20210527,4122,ch,vaud,67
 20210527,4123,ch,valais,18
@@ -41546,7 +41550,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210526,4117,ch,st_gallen,46
 20210526,4118,ch,graubunden,5
 20210526,4119,ch,aargau,37
-20210526,4120,ch,thurgau,20
+20210526,4120,ch,thurgau,21
 20210526,4121,ch,ticino,19
 20210526,4122,ch,vaud,75
 20210526,4123,ch,valais,23
@@ -41726,7 +41730,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210525,4117,ch,st_gallen,50
 20210525,4118,ch,graubunden,5
 20210525,4119,ch,aargau,47
-20210525,4120,ch,thurgau,23
+20210525,4120,ch,thurgau,24
 20210525,4121,ch,ticino,19
 20210525,4122,ch,vaud,78
 20210525,4123,ch,valais,23
@@ -41898,7 +41902,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210524,4113,ch,basel_landschaft,14
 20210524,4117,ch,st_gallen,42
 20210524,4118,ch,graubunden,7
-20210524,4120,ch,thurgau,21
+20210524,4120,ch,thurgau,22
 20210524,4121,ch,ticino,21
 20210524,4122,ch,vaud,84
 20210524,4123,ch,valais,25
@@ -42069,7 +42073,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210523,4112,ch,basel_stadt,16
 20210523,4113,ch,basel_landschaft,13
 20210523,4118,ch,graubunden,8
-20210523,4120,ch,thurgau,20
+20210523,4120,ch,thurgau,21
 20210523,4121,ch,ticino,23
 20210523,4122,ch,vaud,79
 20210523,4123,ch,valais,24
@@ -42239,7 +42243,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210522,4112,ch,basel_stadt,18
 20210522,4113,ch,basel_landschaft,10
 20210522,4118,ch,graubunden,7
-20210522,4120,ch,thurgau,19
+20210522,4120,ch,thurgau,20
 20210522,4121,ch,ticino,24
 20210522,4122,ch,vaud,75
 20210522,4123,ch,valais,27
@@ -42417,7 +42421,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210521,4116,ch,appenzell_innerrhoden,3
 20210521,4118,ch,graubunden,9
 20210521,4119,ch,aargau,46
-20210521,4120,ch,thurgau,20
+20210521,4120,ch,thurgau,21
 20210521,4121,ch,ticino,25
 20210521,4122,ch,vaud,73
 20210521,4123,ch,valais,28
@@ -42595,7 +42599,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210520,4117,ch,st_gallen,39
 20210520,4118,ch,graubunden,9
 20210520,4119,ch,aargau,40
-20210520,4120,ch,thurgau,22
+20210520,4120,ch,thurgau,23
 20210520,4121,ch,ticino,25
 20210520,4122,ch,vaud,84
 20210520,4123,ch,valais,30
@@ -42776,7 +42780,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210519,4117,ch,st_gallen,36
 20210519,4118,ch,graubunden,10
 20210519,4119,ch,aargau,45
-20210519,4120,ch,thurgau,21
+20210519,4120,ch,thurgau,22
 20210519,4121,ch,ticino,27
 20210519,4122,ch,vaud,84
 20210519,4123,ch,valais,29
@@ -42958,7 +42962,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210518,4117,ch,st_gallen,37
 20210518,4118,ch,graubunden,15
 20210518,4119,ch,aargau,53
-20210518,4120,ch,thurgau,23
+20210518,4120,ch,thurgau,24
 20210518,4121,ch,ticino,28
 20210518,4122,ch,vaud,89
 20210518,4123,ch,valais,25
@@ -43139,7 +43143,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210517,4117,ch,st_gallen,44
 20210517,4118,ch,graubunden,15
 20210517,4119,ch,aargau,54
-20210517,4120,ch,thurgau,23
+20210517,4120,ch,thurgau,24
 20210517,4121,ch,ticino,29
 20210517,4122,ch,vaud,89
 20210517,4123,ch,valais,25
@@ -43313,7 +43317,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210516,4113,ch,basel_landschaft,16
 20210516,4117,ch,st_gallen,42
 20210516,4118,ch,graubunden,17
-20210516,4120,ch,thurgau,22
+20210516,4120,ch,thurgau,23
 20210516,4121,ch,ticino,29
 20210516,4122,ch,vaud,103
 20210516,4123,ch,valais,22
@@ -43486,7 +43490,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210515,4112,ch,basel_stadt,28
 20210515,4113,ch,basel_landschaft,18
 20210515,4118,ch,graubunden,18
-20210515,4120,ch,thurgau,23
+20210515,4120,ch,thurgau,24
 20210515,4121,ch,ticino,30
 20210515,4122,ch,vaud,98
 20210515,4123,ch,valais,20
@@ -43665,7 +43669,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210514,4114,ch,schaffhausen,9
 20210514,4118,ch,graubunden,16
 20210514,4119,ch,aargau,50
-20210514,4120,ch,thurgau,24
+20210514,4120,ch,thurgau,25
 20210514,4121,ch,ticino,34
 20210514,4122,ch,vaud,92
 20210514,4123,ch,valais,21
@@ -43839,7 +43843,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210513,4113,ch,basel_landschaft,17
 20210513,4117,ch,st_gallen,44
 20210513,4118,ch,graubunden,15
-20210513,4120,ch,thurgau,24
+20210513,4120,ch,thurgau,25
 20210513,4121,ch,ticino,36
 20210513,4122,ch,vaud,93
 20210513,4123,ch,valais,22
@@ -44022,7 +44026,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210512,4116,ch,appenzell_innerrhoden,3
 20210512,4118,ch,graubunden,14
 20210512,4119,ch,aargau,69
-20210512,4120,ch,thurgau,21
+20210512,4120,ch,thurgau,22
 20210512,4121,ch,ticino,38
 20210512,4122,ch,vaud,96
 20210512,4123,ch,valais,26
@@ -44205,7 +44209,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210511,4117,ch,st_gallen,41
 20210511,4118,ch,graubunden,12
 20210511,4119,ch,aargau,74
-20210511,4120,ch,thurgau,22
+20210511,4120,ch,thurgau,23
 20210511,4121,ch,ticino,43
 20210511,4122,ch,vaud,103
 20210511,4123,ch,valais,29
@@ -44388,7 +44392,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210510,4117,ch,st_gallen,42
 20210510,4118,ch,graubunden,14
 20210510,4119,ch,aargau,83
-20210510,4120,ch,thurgau,21
+20210510,4120,ch,thurgau,22
 20210510,4121,ch,ticino,53
 20210510,4122,ch,vaud,107
 20210510,4123,ch,valais,29
@@ -44563,7 +44567,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210509,4113,ch,basel_landschaft,24
 20210509,4117,ch,st_gallen,39
 20210509,4118,ch,graubunden,13
-20210509,4120,ch,thurgau,23
+20210509,4120,ch,thurgau,24
 20210509,4121,ch,ticino,54
 20210509,4122,ch,vaud,111
 20210509,4123,ch,valais,27
@@ -44737,7 +44741,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210508,4112,ch,basel_stadt,42
 20210508,4113,ch,basel_landschaft,24
 20210508,4118,ch,graubunden,11
-20210508,4120,ch,thurgau,22
+20210508,4120,ch,thurgau,23
 20210508,4121,ch,ticino,54
 20210508,4122,ch,vaud,105
 20210508,4123,ch,valais,26
@@ -44918,7 +44922,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210507,4116,ch,appenzell_innerrhoden,4
 20210507,4118,ch,graubunden,11
 20210507,4119,ch,aargau,69
-20210507,4120,ch,thurgau,20
+20210507,4120,ch,thurgau,21
 20210507,4121,ch,ticino,54
 20210507,4122,ch,vaud,103
 20210507,4123,ch,valais,31
@@ -45100,7 +45104,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210506,4117,ch,st_gallen,37
 20210506,4118,ch,graubunden,16
 20210506,4119,ch,aargau,72
-20210506,4120,ch,thurgau,21
+20210506,4120,ch,thurgau,22
 20210506,4121,ch,ticino,57
 20210506,4122,ch,vaud,106
 20210506,4123,ch,valais,30
@@ -45284,7 +45288,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210505,4117,ch,st_gallen,49
 20210505,4118,ch,graubunden,16
 20210505,4119,ch,aargau,71
-20210505,4120,ch,thurgau,24
+20210505,4120,ch,thurgau,25
 20210505,4121,ch,ticino,60
 20210505,4122,ch,vaud,110
 20210505,4123,ch,valais,29
@@ -45468,7 +45472,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210504,4117,ch,st_gallen,51
 20210504,4118,ch,graubunden,19
 20210504,4119,ch,aargau,78
-20210504,4120,ch,thurgau,31
+20210504,4120,ch,thurgau,32
 20210504,4121,ch,ticino,60
 20210504,4122,ch,vaud,122
 20210504,4123,ch,valais,33
@@ -45651,7 +45655,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210503,4117,ch,st_gallen,57
 20210503,4118,ch,graubunden,24
 20210503,4119,ch,aargau,69
-20210503,4120,ch,thurgau,31
+20210503,4120,ch,thurgau,32
 20210503,4121,ch,ticino,62
 20210503,4122,ch,vaud,137
 20210503,4123,ch,valais,40
@@ -45826,7 +45830,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210502,4113,ch,basel_landschaft,24
 20210502,4117,ch,st_gallen,56
 20210502,4118,ch,graubunden,24
-20210502,4120,ch,thurgau,36
+20210502,4120,ch,thurgau,37
 20210502,4121,ch,ticino,62
 20210502,4122,ch,vaud,138
 20210502,4123,ch,valais,35
@@ -46000,7 +46004,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210501,4112,ch,basel_stadt,51
 20210501,4113,ch,basel_landschaft,23
 20210501,4118,ch,graubunden,24
-20210501,4120,ch,thurgau,36
+20210501,4120,ch,thurgau,37
 20210501,4121,ch,ticino,63
 20210501,4122,ch,vaud,131
 20210501,4123,ch,valais,34
@@ -46181,7 +46185,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210430,4116,ch,appenzell_innerrhoden,2
 20210430,4118,ch,graubunden,24
 20210430,4119,ch,aargau,76
-20210430,4120,ch,thurgau,37
+20210430,4120,ch,thurgau,38
 20210430,4121,ch,ticino,68
 20210430,4122,ch,vaud,122
 20210430,4123,ch,valais,31
@@ -46363,7 +46367,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210429,4117,ch,st_gallen,56
 20210429,4118,ch,graubunden,21
 20210429,4119,ch,aargau,83
-20210429,4120,ch,thurgau,44
+20210429,4120,ch,thurgau,45
 20210429,4121,ch,ticino,66
 20210429,4122,ch,vaud,131
 20210429,4123,ch,valais,29
@@ -46547,7 +46551,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210428,4117,ch,st_gallen,56
 20210428,4118,ch,graubunden,23
 20210428,4119,ch,aargau,84
-20210428,4120,ch,thurgau,41
+20210428,4120,ch,thurgau,42
 20210428,4121,ch,ticino,74
 20210428,4122,ch,vaud,138
 20210428,4123,ch,valais,34
@@ -46731,7 +46735,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210427,4117,ch,st_gallen,66
 20210427,4118,ch,graubunden,25
 20210427,4119,ch,aargau,87
-20210427,4120,ch,thurgau,42
+20210427,4120,ch,thurgau,43
 20210427,4121,ch,ticino,76
 20210427,4122,ch,vaud,134
 20210427,4123,ch,valais,36
@@ -46913,7 +46917,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210426,4117,ch,st_gallen,67
 20210426,4118,ch,graubunden,26
 20210426,4119,ch,aargau,91
-20210426,4120,ch,thurgau,44
+20210426,4120,ch,thurgau,45
 20210426,4121,ch,ticino,85
 20210426,4122,ch,vaud,141
 20210426,4123,ch,valais,35
@@ -47088,7 +47092,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210425,4113,ch,basel_landschaft,30
 20210425,4117,ch,st_gallen,67
 20210425,4118,ch,graubunden,20
-20210425,4120,ch,thurgau,46
+20210425,4120,ch,thurgau,47
 20210425,4121,ch,ticino,89
 20210425,4122,ch,vaud,141
 20210425,4123,ch,valais,36
@@ -47262,7 +47266,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210424,4112,ch,basel_stadt,43
 20210424,4113,ch,basel_landschaft,28
 20210424,4118,ch,graubunden,21
-20210424,4120,ch,thurgau,44
+20210424,4120,ch,thurgau,45
 20210424,4121,ch,ticino,90
 20210424,4122,ch,vaud,136
 20210424,4123,ch,valais,34
@@ -47443,7 +47447,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210423,4116,ch,appenzell_innerrhoden,2
 20210423,4118,ch,graubunden,21
 20210423,4119,ch,aargau,92
-20210423,4120,ch,thurgau,40
+20210423,4120,ch,thurgau,41
 20210423,4121,ch,ticino,95
 20210423,4122,ch,vaud,130
 20210423,4123,ch,valais,37
@@ -47625,7 +47629,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210422,4117,ch,st_gallen,57
 20210422,4118,ch,graubunden,21
 20210422,4119,ch,aargau,85
-20210422,4120,ch,thurgau,41
+20210422,4120,ch,thurgau,42
 20210422,4121,ch,ticino,94
 20210422,4122,ch,vaud,125
 20210422,4123,ch,valais,39
@@ -47809,7 +47813,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210421,4117,ch,st_gallen,52
 20210421,4118,ch,graubunden,20
 20210421,4119,ch,aargau,87
-20210421,4120,ch,thurgau,38
+20210421,4120,ch,thurgau,39
 20210421,4121,ch,ticino,93
 20210421,4122,ch,vaud,130
 20210421,4123,ch,valais,48
@@ -47993,7 +47997,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210420,4117,ch,st_gallen,45
 20210420,4118,ch,graubunden,19
 20210420,4119,ch,aargau,84
-20210420,4120,ch,thurgau,41
+20210420,4120,ch,thurgau,42
 20210420,4121,ch,ticino,93
 20210420,4122,ch,vaud,135
 20210420,4123,ch,valais,45
@@ -48176,7 +48180,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210419,4117,ch,st_gallen,56
 20210419,4118,ch,graubunden,19
 20210419,4119,ch,aargau,87
-20210419,4120,ch,thurgau,42
+20210419,4120,ch,thurgau,43
 20210419,4121,ch,ticino,90
 20210419,4122,ch,vaud,147
 20210419,4123,ch,valais,47
@@ -48351,7 +48355,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210418,4113,ch,basel_landschaft,18
 20210418,4117,ch,st_gallen,52
 20210418,4118,ch,graubunden,20
-20210418,4120,ch,thurgau,41
+20210418,4120,ch,thurgau,42
 20210418,4121,ch,ticino,86
 20210418,4122,ch,vaud,159
 20210418,4123,ch,valais,40
@@ -48525,7 +48529,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210417,4112,ch,basel_stadt,43
 20210417,4113,ch,basel_landschaft,21
 20210417,4118,ch,graubunden,20
-20210417,4120,ch,thurgau,39
+20210417,4120,ch,thurgau,40
 20210417,4121,ch,ticino,87
 20210417,4122,ch,vaud,159
 20210417,4123,ch,valais,33
@@ -48706,7 +48710,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210416,4116,ch,appenzell_innerrhoden,1
 20210416,4118,ch,graubunden,17
 20210416,4119,ch,aargau,77
-20210416,4120,ch,thurgau,39
+20210416,4120,ch,thurgau,40
 20210416,4121,ch,ticino,87
 20210416,4122,ch,vaud,157
 20210416,4123,ch,valais,37
@@ -48888,7 +48892,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210415,4117,ch,st_gallen,45
 20210415,4118,ch,graubunden,18
 20210415,4119,ch,aargau,81
-20210415,4120,ch,thurgau,33
+20210415,4120,ch,thurgau,34
 20210415,4121,ch,ticino,88
 20210415,4122,ch,vaud,164
 20210415,4123,ch,valais,37
@@ -49072,7 +49076,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210414,4117,ch,st_gallen,49
 20210414,4118,ch,graubunden,19
 20210414,4119,ch,aargau,85
-20210414,4120,ch,thurgau,35
+20210414,4120,ch,thurgau,36
 20210414,4121,ch,ticino,89
 20210414,4122,ch,vaud,162
 20210414,4123,ch,valais,43
@@ -49256,7 +49260,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210413,4117,ch,st_gallen,48
 20210413,4118,ch,graubunden,22
 20210413,4119,ch,aargau,83
-20210413,4120,ch,thurgau,34
+20210413,4120,ch,thurgau,35
 20210413,4121,ch,ticino,86
 20210413,4122,ch,vaud,166
 20210413,4123,ch,valais,47
@@ -49438,7 +49442,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210412,4117,ch,st_gallen,51
 20210412,4118,ch,graubunden,22
 20210412,4119,ch,aargau,93
-20210412,4120,ch,thurgau,33
+20210412,4120,ch,thurgau,34
 20210412,4121,ch,ticino,86
 20210412,4122,ch,vaud,168
 20210412,4123,ch,valais,41
@@ -49613,7 +49617,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210411,4113,ch,basel_landschaft,17
 20210411,4117,ch,st_gallen,51
 20210411,4118,ch,graubunden,19
-20210411,4120,ch,thurgau,28
+20210411,4120,ch,thurgau,29
 20210411,4121,ch,ticino,80
 20210411,4122,ch,vaud,188
 20210411,4123,ch,valais,37
@@ -49787,7 +49791,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210410,4112,ch,basel_stadt,38
 20210410,4113,ch,basel_landschaft,17
 20210410,4118,ch,graubunden,17
-20210410,4120,ch,thurgau,26
+20210410,4120,ch,thurgau,27
 20210410,4121,ch,ticino,87
 20210410,4122,ch,vaud,184
 20210410,4123,ch,valais,37
@@ -49968,7 +49972,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210409,4116,ch,appenzell_innerrhoden,2
 20210409,4118,ch,graubunden,15
 20210409,4119,ch,aargau,86
-20210409,4120,ch,thurgau,26
+20210409,4120,ch,thurgau,27
 20210409,4121,ch,ticino,91
 20210409,4122,ch,vaud,179
 20210409,4123,ch,valais,30
@@ -50149,7 +50153,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210408,4117,ch,st_gallen,52
 20210408,4118,ch,graubunden,12
 20210408,4119,ch,aargau,66
-20210408,4120,ch,thurgau,21
+20210408,4120,ch,thurgau,22
 20210408,4121,ch,ticino,96
 20210408,4122,ch,vaud,186
 20210408,4123,ch,valais,34
@@ -50333,7 +50337,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210407,4117,ch,st_gallen,50
 20210407,4118,ch,graubunden,9
 20210407,4119,ch,aargau,92
-20210407,4120,ch,thurgau,24
+20210407,4120,ch,thurgau,25
 20210407,4121,ch,ticino,102
 20210407,4122,ch,vaud,198
 20210407,4123,ch,valais,39
@@ -50517,7 +50521,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210406,4117,ch,st_gallen,50
 20210406,4118,ch,graubunden,6
 20210406,4119,ch,aargau,81
-20210406,4120,ch,thurgau,28
+20210406,4120,ch,thurgau,29
 20210406,4121,ch,ticino,100
 20210406,4122,ch,vaud,203
 20210406,4123,ch,valais,40
@@ -50693,7 +50697,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210405,4117,ch,st_gallen,53
 20210405,4118,ch,graubunden,5
 20210405,4119,ch,aargau,77
-20210405,4120,ch,thurgau,26
+20210405,4120,ch,thurgau,27
 20210405,4121,ch,ticino,94
 20210405,4122,ch,vaud,189
 20210405,4123,ch,valais,38
@@ -50867,7 +50871,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210404,4112,ch,basel_stadt,38
 20210404,4113,ch,basel_landschaft,20
 20210404,4118,ch,graubunden,6
-20210404,4120,ch,thurgau,24
+20210404,4120,ch,thurgau,25
 20210404,4121,ch,ticino,87
 20210404,4122,ch,vaud,182
 20210404,4123,ch,valais,40
@@ -51040,7 +51044,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210403,4112,ch,basel_stadt,33
 20210403,4113,ch,basel_landschaft,19
 20210403,4118,ch,graubunden,6
-20210403,4120,ch,thurgau,24
+20210403,4120,ch,thurgau,25
 20210403,4121,ch,ticino,87
 20210403,4122,ch,vaud,174
 20210403,4123,ch,valais,35
@@ -51213,7 +51217,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210402,4112,ch,basel_stadt,30
 20210402,4113,ch,basel_landschaft,18
 20210402,4118,ch,graubunden,6
-20210402,4120,ch,thurgau,22
+20210402,4120,ch,thurgau,23
 20210402,4121,ch,ticino,89
 20210402,4122,ch,vaud,180
 20210402,4123,ch,valais,28
@@ -51394,7 +51398,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210401,4116,ch,appenzell_innerrhoden,1
 20210401,4118,ch,graubunden,8
 20210401,4119,ch,aargau,68
-20210401,4120,ch,thurgau,19
+20210401,4120,ch,thurgau,20
 20210401,4121,ch,ticino,86
 20210401,4122,ch,vaud,178
 20210401,4123,ch,valais,22
@@ -51577,7 +51581,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210331,4117,ch,st_gallen,45
 20210331,4118,ch,graubunden,7
 20210331,4119,ch,aargau,76
-20210331,4120,ch,thurgau,18
+20210331,4120,ch,thurgau,19
 20210331,4121,ch,ticino,78
 20210331,4122,ch,vaud,176
 20210331,4123,ch,valais,27
@@ -51760,7 +51764,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210330,4117,ch,st_gallen,44
 20210330,4118,ch,graubunden,11
 20210330,4119,ch,aargau,79
-20210330,4120,ch,thurgau,22
+20210330,4120,ch,thurgau,23
 20210330,4121,ch,ticino,83
 20210330,4122,ch,vaud,163
 20210330,4123,ch,valais,31
@@ -51942,7 +51946,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210329,4117,ch,st_gallen,54
 20210329,4118,ch,graubunden,12
 20210329,4119,ch,aargau,85
-20210329,4120,ch,thurgau,21
+20210329,4120,ch,thurgau,22
 20210329,4121,ch,ticino,71
 20210329,4122,ch,vaud,166
 20210329,4123,ch,valais,32
@@ -52116,7 +52120,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210328,4113,ch,basel_landschaft,14
 20210328,4117,ch,st_gallen,49
 20210328,4118,ch,graubunden,14
-20210328,4120,ch,thurgau,20
+20210328,4120,ch,thurgau,21
 20210328,4121,ch,ticino,72
 20210328,4122,ch,vaud,167
 20210328,4123,ch,valais,29
@@ -52289,7 +52293,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210327,4112,ch,basel_stadt,29
 20210327,4113,ch,basel_landschaft,12
 20210327,4118,ch,graubunden,12
-20210327,4120,ch,thurgau,17
+20210327,4120,ch,thurgau,18
 20210327,4121,ch,ticino,71
 20210327,4122,ch,vaud,161
 20210327,4123,ch,valais,29
@@ -52468,7 +52472,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210326,4116,ch,appenzell_innerrhoden,0
 20210326,4118,ch,graubunden,12
 20210326,4119,ch,aargau,66
-20210326,4120,ch,thurgau,16
+20210326,4120,ch,thurgau,17
 20210326,4121,ch,ticino,67
 20210326,4122,ch,vaud,159
 20210326,4123,ch,valais,37
@@ -52648,7 +52652,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210325,4117,ch,st_gallen,41
 20210325,4118,ch,graubunden,14
 20210325,4119,ch,aargau,67
-20210325,4120,ch,thurgau,17
+20210325,4120,ch,thurgau,18
 20210325,4121,ch,ticino,66
 20210325,4122,ch,vaud,163
 20210325,4123,ch,valais,39
@@ -52830,7 +52834,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210324,4117,ch,st_gallen,40
 20210324,4118,ch,graubunden,13
 20210324,4119,ch,aargau,67
-20210324,4120,ch,thurgau,19
+20210324,4120,ch,thurgau,20
 20210324,4121,ch,ticino,68
 20210324,4122,ch,vaud,167
 20210324,4123,ch,valais,34
@@ -53012,7 +53016,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210323,4117,ch,st_gallen,37
 20210323,4118,ch,graubunden,17
 20210323,4119,ch,aargau,71
-20210323,4120,ch,thurgau,18
+20210323,4120,ch,thurgau,19
 20210323,4121,ch,ticino,69
 20210323,4122,ch,vaud,173
 20210323,4123,ch,valais,45
@@ -53192,7 +53196,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210322,4117,ch,st_gallen,35
 20210322,4118,ch,graubunden,18
 20210322,4119,ch,aargau,66
-20210322,4120,ch,thurgau,17
+20210322,4120,ch,thurgau,18
 20210322,4121,ch,ticino,73
 20210322,4122,ch,vaud,179
 20210322,4123,ch,valais,45
@@ -53365,7 +53369,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210321,4113,ch,basel_landschaft,16
 20210321,4117,ch,st_gallen,36
 20210321,4118,ch,graubunden,13
-20210321,4120,ch,thurgau,19
+20210321,4120,ch,thurgau,20
 20210321,4121,ch,ticino,70
 20210321,4122,ch,vaud,175
 20210321,4123,ch,valais,41
@@ -53537,7 +53541,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210320,4112,ch,basel_stadt,31
 20210320,4113,ch,basel_landschaft,17
 20210320,4118,ch,graubunden,11
-20210320,4120,ch,thurgau,20
+20210320,4120,ch,thurgau,21
 20210320,4121,ch,ticino,71
 20210320,4122,ch,vaud,170
 20210320,4123,ch,valais,35
@@ -53715,7 +53719,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210319,4116,ch,appenzell_innerrhoden,0
 20210319,4118,ch,graubunden,11
 20210319,4119,ch,aargau,50
-20210319,4120,ch,thurgau,20
+20210319,4120,ch,thurgau,21
 20210319,4121,ch,ticino,73
 20210319,4122,ch,vaud,169
 20210319,4123,ch,valais,34
@@ -53895,7 +53899,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210318,4117,ch,st_gallen,36
 20210318,4118,ch,graubunden,11
 20210318,4119,ch,aargau,48
-20210318,4120,ch,thurgau,18
+20210318,4120,ch,thurgau,19
 20210318,4121,ch,ticino,72
 20210318,4122,ch,vaud,166
 20210318,4123,ch,valais,32
@@ -54076,7 +54080,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210317,4117,ch,st_gallen,36
 20210317,4118,ch,graubunden,14
 20210317,4119,ch,aargau,49
-20210317,4120,ch,thurgau,17
+20210317,4120,ch,thurgau,18
 20210317,4121,ch,ticino,71
 20210317,4122,ch,vaud,163
 20210317,4123,ch,valais,30
@@ -54258,7 +54262,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210316,4117,ch,st_gallen,35
 20210316,4118,ch,graubunden,12
 20210316,4119,ch,aargau,48
-20210316,4120,ch,thurgau,15
+20210316,4120,ch,thurgau,16
 20210316,4121,ch,ticino,71
 20210316,4122,ch,vaud,172
 20210316,4123,ch,valais,37
@@ -54439,7 +54443,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210315,4117,ch,st_gallen,33
 20210315,4118,ch,graubunden,11
 20210315,4119,ch,aargau,48
-20210315,4120,ch,thurgau,15
+20210315,4120,ch,thurgau,16
 20210315,4121,ch,ticino,67
 20210315,4122,ch,vaud,165
 20210315,4123,ch,valais,31
@@ -54612,7 +54616,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210314,4113,ch,basel_landschaft,14
 20210314,4117,ch,st_gallen,29
 20210314,4118,ch,graubunden,9
-20210314,4120,ch,thurgau,13
+20210314,4120,ch,thurgau,14
 20210314,4121,ch,ticino,63
 20210314,4122,ch,vaud,168
 20210314,4123,ch,valais,31
@@ -54784,7 +54788,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210313,4112,ch,basel_stadt,31
 20210313,4113,ch,basel_landschaft,15
 20210313,4118,ch,graubunden,11
-20210313,4120,ch,thurgau,13
+20210313,4120,ch,thurgau,14
 20210313,4121,ch,ticino,65
 20210313,4122,ch,vaud,163
 20210313,4123,ch,valais,30
@@ -54963,7 +54967,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210312,4116,ch,appenzell_innerrhoden,0
 20210312,4118,ch,graubunden,11
 20210312,4119,ch,aargau,45
-20210312,4120,ch,thurgau,15
+20210312,4120,ch,thurgau,16
 20210312,4121,ch,ticino,65
 20210312,4122,ch,vaud,158
 20210312,4123,ch,valais,35
@@ -55144,7 +55148,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210311,4117,ch,st_gallen,29
 20210311,4118,ch,graubunden,11
 20210311,4119,ch,aargau,42
-20210311,4120,ch,thurgau,15
+20210311,4120,ch,thurgau,16
 20210311,4121,ch,ticino,62
 20210311,4122,ch,vaud,166
 20210311,4123,ch,valais,36
@@ -55327,7 +55331,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210310,4117,ch,st_gallen,30
 20210310,4118,ch,graubunden,10
 20210310,4119,ch,aargau,46
-20210310,4120,ch,thurgau,18
+20210310,4120,ch,thurgau,19
 20210310,4121,ch,ticino,57
 20210310,4122,ch,vaud,172
 20210310,4123,ch,valais,43
@@ -55510,7 +55514,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210309,4117,ch,st_gallen,30
 20210309,4118,ch,graubunden,12
 20210309,4119,ch,aargau,47
-20210309,4120,ch,thurgau,14
+20210309,4120,ch,thurgau,15
 20210309,4121,ch,ticino,58
 20210309,4122,ch,vaud,178
 20210309,4123,ch,valais,46
@@ -55694,7 +55698,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210308,4117,ch,st_gallen,36
 20210308,4118,ch,graubunden,12
 20210308,4119,ch,aargau,38
-20210308,4120,ch,thurgau,14
+20210308,4120,ch,thurgau,15
 20210308,4121,ch,ticino,59
 20210308,4122,ch,vaud,183
 20210308,4123,ch,valais,46
@@ -55870,7 +55874,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210307,4113,ch,basel_landschaft,15
 20210307,4117,ch,st_gallen,29
 20210307,4118,ch,graubunden,11
-20210307,4120,ch,thurgau,15
+20210307,4120,ch,thurgau,16
 20210307,4121,ch,ticino,54
 20210307,4122,ch,vaud,184
 20210307,4123,ch,valais,36
@@ -56044,7 +56048,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210306,4112,ch,basel_stadt,19
 20210306,4113,ch,basel_landschaft,15
 20210306,4118,ch,graubunden,8
-20210306,4120,ch,thurgau,14
+20210306,4120,ch,thurgau,15
 20210306,4121,ch,ticino,54
 20210306,4122,ch,vaud,182
 20210306,4123,ch,valais,32
@@ -56226,7 +56230,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210305,4116,ch,appenzell_innerrhoden,0
 20210305,4118,ch,graubunden,7
 20210305,4119,ch,aargau,29
-20210305,4120,ch,thurgau,13
+20210305,4120,ch,thurgau,14
 20210305,4121,ch,ticino,55
 20210305,4122,ch,vaud,180
 20210305,4123,ch,valais,31
@@ -56410,7 +56414,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210304,4117,ch,st_gallen,36
 20210304,4118,ch,graubunden,10
 20210304,4119,ch,aargau,31
-20210304,4120,ch,thurgau,12
+20210304,4120,ch,thurgau,13
 20210304,4121,ch,ticino,60
 20210304,4122,ch,vaud,187
 20210304,4123,ch,valais,38
@@ -56594,7 +56598,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210303,4117,ch,st_gallen,38
 20210303,4118,ch,graubunden,11
 20210303,4119,ch,aargau,38
-20210303,4120,ch,thurgau,14
+20210303,4120,ch,thurgau,15
 20210303,4121,ch,ticino,60
 20210303,4122,ch,vaud,215
 20210303,4123,ch,valais,34
@@ -56778,7 +56782,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210302,4117,ch,st_gallen,42
 20210302,4118,ch,graubunden,6
 20210302,4119,ch,aargau,46
-20210302,4120,ch,thurgau,15
+20210302,4120,ch,thurgau,16
 20210302,4121,ch,ticino,63
 20210302,4122,ch,vaud,218
 20210302,4123,ch,valais,33
@@ -56962,7 +56966,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210301,4117,ch,st_gallen,46
 20210301,4118,ch,graubunden,7
 20210301,4119,ch,aargau,39
-20210301,4120,ch,thurgau,16
+20210301,4120,ch,thurgau,17
 20210301,4121,ch,ticino,63
 20210301,4122,ch,vaud,218
 20210301,4123,ch,valais,34
@@ -57138,7 +57142,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210228,4113,ch,basel_landschaft,17
 20210228,4117,ch,st_gallen,45
 20210228,4118,ch,graubunden,7
-20210228,4120,ch,thurgau,22
+20210228,4120,ch,thurgau,23
 20210228,4121,ch,ticino,64
 20210228,4122,ch,vaud,249
 20210228,4123,ch,valais,34
@@ -57312,7 +57316,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210227,4112,ch,basel_stadt,16
 20210227,4113,ch,basel_landschaft,15
 20210227,4118,ch,graubunden,6
-20210227,4120,ch,thurgau,23
+20210227,4120,ch,thurgau,24
 20210227,4121,ch,ticino,69
 20210227,4122,ch,vaud,243
 20210227,4123,ch,valais,37
@@ -57494,7 +57498,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210226,4116,ch,appenzell_innerrhoden,0
 20210226,4118,ch,graubunden,9
 20210226,4119,ch,aargau,34
-20210226,4120,ch,thurgau,22
+20210226,4120,ch,thurgau,23
 20210226,4121,ch,ticino,70
 20210226,4122,ch,vaud,246
 20210226,4123,ch,valais,35
@@ -57678,7 +57682,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210225,4117,ch,st_gallen,43
 20210225,4118,ch,graubunden,8
 20210225,4119,ch,aargau,39
-20210225,4120,ch,thurgau,22
+20210225,4120,ch,thurgau,23
 20210225,4121,ch,ticino,72
 20210225,4122,ch,vaud,254
 20210225,4123,ch,valais,37
@@ -57862,7 +57866,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210224,4117,ch,st_gallen,45
 20210224,4118,ch,graubunden,10
 20210224,4119,ch,aargau,36
-20210224,4120,ch,thurgau,23
+20210224,4120,ch,thurgau,24
 20210224,4121,ch,ticino,71
 20210224,4122,ch,vaud,236
 20210224,4123,ch,valais,34
@@ -58046,7 +58050,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210223,4117,ch,st_gallen,40
 20210223,4118,ch,graubunden,10
 20210223,4119,ch,aargau,34
-20210223,4120,ch,thurgau,24
+20210223,4120,ch,thurgau,25
 20210223,4121,ch,ticino,74
 20210223,4122,ch,vaud,242
 20210223,4123,ch,valais,41
@@ -58230,7 +58234,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210222,4117,ch,st_gallen,40
 20210222,4118,ch,graubunden,13
 20210222,4119,ch,aargau,33
-20210222,4120,ch,thurgau,25
+20210222,4120,ch,thurgau,26
 20210222,4121,ch,ticino,73
 20210222,4122,ch,vaud,244
 20210222,4123,ch,valais,40
@@ -58406,7 +58410,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210221,4113,ch,basel_landschaft,27
 20210221,4117,ch,st_gallen,42
 20210221,4118,ch,graubunden,17
-20210221,4120,ch,thurgau,28
+20210221,4120,ch,thurgau,29
 20210221,4121,ch,ticino,73
 20210221,4122,ch,vaud,247
 20210221,4123,ch,valais,40
@@ -58580,7 +58584,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210220,4112,ch,basel_stadt,17
 20210220,4113,ch,basel_landschaft,26
 20210220,4118,ch,graubunden,15
-20210220,4120,ch,thurgau,27
+20210220,4120,ch,thurgau,28
 20210220,4121,ch,ticino,71
 20210220,4122,ch,vaud,237
 20210220,4123,ch,valais,37
@@ -58762,7 +58766,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210219,4116,ch,appenzell_innerrhoden,1
 20210219,4118,ch,graubunden,14
 20210219,4119,ch,aargau,34
-20210219,4120,ch,thurgau,27
+20210219,4120,ch,thurgau,28
 20210219,4121,ch,ticino,71
 20210219,4122,ch,vaud,233
 20210219,4123,ch,valais,40
@@ -58945,7 +58949,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210218,4117,ch,st_gallen,36
 20210218,4118,ch,graubunden,13
 20210218,4119,ch,aargau,39
-20210218,4120,ch,thurgau,23
+20210218,4120,ch,thurgau,24
 20210218,4121,ch,ticino,68
 20210218,4122,ch,vaud,234
 20210218,4123,ch,valais,48
@@ -59128,7 +59132,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210217,4117,ch,st_gallen,29
 20210217,4118,ch,graubunden,15
 20210217,4119,ch,aargau,39
-20210217,4120,ch,thurgau,20
+20210217,4120,ch,thurgau,21
 20210217,4121,ch,ticino,71
 20210217,4122,ch,vaud,228
 20210217,4123,ch,valais,46
@@ -59311,7 +59315,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210216,4117,ch,st_gallen,35
 20210216,4118,ch,graubunden,18
 20210216,4119,ch,aargau,40
-20210216,4120,ch,thurgau,22
+20210216,4120,ch,thurgau,23
 20210216,4121,ch,ticino,72
 20210216,4122,ch,vaud,224
 20210216,4123,ch,valais,51
@@ -59494,7 +59498,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210215,4117,ch,st_gallen,41
 20210215,4118,ch,graubunden,17
 20210215,4119,ch,aargau,50
-20210215,4120,ch,thurgau,21
+20210215,4120,ch,thurgau,22
 20210215,4121,ch,ticino,74
 20210215,4122,ch,vaud,220
 20210215,4123,ch,valais,74
@@ -59670,7 +59674,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210214,4113,ch,basel_landschaft,18
 20210214,4117,ch,st_gallen,38
 20210214,4118,ch,graubunden,18
-20210214,4120,ch,thurgau,22
+20210214,4120,ch,thurgau,23
 20210214,4121,ch,ticino,74
 20210214,4122,ch,vaud,215
 20210214,4123,ch,valais,77
@@ -59844,7 +59848,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210213,4112,ch,basel_stadt,26
 20210213,4113,ch,basel_landschaft,19
 20210213,4118,ch,graubunden,18
-20210213,4120,ch,thurgau,20
+20210213,4120,ch,thurgau,21
 20210213,4121,ch,ticino,79
 20210213,4122,ch,vaud,203
 20210213,4123,ch,valais,76
@@ -60025,7 +60029,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210212,4114,ch,schaffhausen,3
 20210212,4118,ch,graubunden,20
 20210212,4119,ch,aargau,58
-20210212,4120,ch,thurgau,18
+20210212,4120,ch,thurgau,19
 20210212,4121,ch,ticino,78
 20210212,4122,ch,vaud,201
 20210212,4123,ch,valais,85
@@ -60208,7 +60212,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210211,4117,ch,st_gallen,47
 20210211,4118,ch,graubunden,17
 20210211,4119,ch,aargau,67
-20210211,4120,ch,thurgau,21
+20210211,4120,ch,thurgau,22
 20210211,4121,ch,ticino,91
 20210211,4122,ch,vaud,207
 20210211,4123,ch,valais,92
@@ -60392,7 +60396,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210210,4117,ch,st_gallen,50
 20210210,4118,ch,graubunden,19
 20210210,4119,ch,aargau,59
-20210210,4120,ch,thurgau,23
+20210210,4120,ch,thurgau,24
 20210210,4121,ch,ticino,93
 20210210,4122,ch,vaud,224
 20210210,4123,ch,valais,95
@@ -60576,7 +60580,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210209,4117,ch,st_gallen,59
 20210209,4118,ch,graubunden,21
 20210209,4119,ch,aargau,65
-20210209,4120,ch,thurgau,24
+20210209,4120,ch,thurgau,25
 20210209,4121,ch,ticino,96
 20210209,4122,ch,vaud,215
 20210209,4123,ch,valais,107
@@ -60760,7 +60764,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210208,4117,ch,st_gallen,64
 20210208,4118,ch,graubunden,22
 20210208,4119,ch,aargau,69
-20210208,4120,ch,thurgau,22
+20210208,4120,ch,thurgau,23
 20210208,4121,ch,ticino,106
 20210208,4122,ch,vaud,227
 20210208,4123,ch,valais,121
@@ -60936,7 +60940,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210207,4113,ch,basel_landschaft,20
 20210207,4117,ch,st_gallen,58
 20210207,4118,ch,graubunden,23
-20210207,4120,ch,thurgau,25
+20210207,4120,ch,thurgau,26
 20210207,4121,ch,ticino,105
 20210207,4122,ch,vaud,239
 20210207,4123,ch,valais,120
@@ -61110,7 +61114,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210206,4112,ch,basel_stadt,48
 20210206,4113,ch,basel_landschaft,21
 20210206,4118,ch,graubunden,20
-20210206,4120,ch,thurgau,24
+20210206,4120,ch,thurgau,25
 20210206,4121,ch,ticino,112
 20210206,4122,ch,vaud,235
 20210206,4123,ch,valais,119
@@ -61293,7 +61297,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210205,4116,ch,appenzell_innerrhoden,2
 20210205,4118,ch,graubunden,20
 20210205,4119,ch,aargau,60
-20210205,4120,ch,thurgau,26
+20210205,4120,ch,thurgau,27
 20210205,4121,ch,ticino,127
 20210205,4122,ch,vaud,232
 20210205,4123,ch,valais,121
@@ -61477,7 +61481,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210204,4117,ch,st_gallen,70
 20210204,4118,ch,graubunden,26
 20210204,4119,ch,aargau,61
-20210204,4120,ch,thurgau,26
+20210204,4120,ch,thurgau,27
 20210204,4121,ch,ticino,132
 20210204,4122,ch,vaud,242
 20210204,4123,ch,valais,126
@@ -61661,7 +61665,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210203,4117,ch,st_gallen,71
 20210203,4118,ch,graubunden,29
 20210203,4119,ch,aargau,65
-20210203,4120,ch,thurgau,28
+20210203,4120,ch,thurgau,29
 20210203,4121,ch,ticino,139
 20210203,4122,ch,vaud,250
 20210203,4123,ch,valais,129
@@ -61845,7 +61849,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210202,4117,ch,st_gallen,56
 20210202,4118,ch,graubunden,30
 20210202,4119,ch,aargau,74
-20210202,4120,ch,thurgau,26
+20210202,4120,ch,thurgau,27
 20210202,4121,ch,ticino,153
 20210202,4122,ch,vaud,258
 20210202,4123,ch,valais,136
@@ -62029,7 +62033,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210201,4117,ch,st_gallen,76
 20210201,4118,ch,graubunden,30
 20210201,4119,ch,aargau,59
-20210201,4120,ch,thurgau,31
+20210201,4120,ch,thurgau,32
 20210201,4121,ch,ticino,156
 20210201,4122,ch,vaud,265
 20210201,4123,ch,valais,132
@@ -62205,7 +62209,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210131,4113,ch,basel_landschaft,18
 20210131,4117,ch,st_gallen,75
 20210131,4118,ch,graubunden,30
-20210131,4120,ch,thurgau,33
+20210131,4120,ch,thurgau,34
 20210131,4121,ch,ticino,158
 20210131,4122,ch,vaud,259
 20210131,4123,ch,valais,126
@@ -62379,7 +62383,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210130,4112,ch,basel_stadt,52
 20210130,4113,ch,basel_landschaft,14
 20210130,4118,ch,graubunden,32
-20210130,4120,ch,thurgau,34
+20210130,4120,ch,thurgau,35
 20210130,4121,ch,ticino,160
 20210130,4122,ch,vaud,259
 20210130,4123,ch,valais,117
@@ -62561,7 +62565,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210129,4116,ch,appenzell_innerrhoden,1
 20210129,4118,ch,graubunden,32
 20210129,4119,ch,aargau,72
-20210129,4120,ch,thurgau,33
+20210129,4120,ch,thurgau,34
 20210129,4121,ch,ticino,160
 20210129,4122,ch,vaud,259
 20210129,4123,ch,valais,120
@@ -62745,7 +62749,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210128,4117,ch,st_gallen,74
 20210128,4118,ch,graubunden,33
 20210128,4119,ch,aargau,89
-20210128,4120,ch,thurgau,33
+20210128,4120,ch,thurgau,34
 20210128,4121,ch,ticino,164
 20210128,4122,ch,vaud,254
 20210128,4123,ch,valais,125
@@ -62929,7 +62933,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210127,4117,ch,st_gallen,76
 20210127,4118,ch,graubunden,29
 20210127,4119,ch,aargau,88
-20210127,4120,ch,thurgau,34
+20210127,4120,ch,thurgau,35
 20210127,4121,ch,ticino,177
 20210127,4122,ch,vaud,249
 20210127,4123,ch,valais,146
@@ -63113,7 +63117,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210126,4117,ch,st_gallen,79
 20210126,4118,ch,graubunden,32
 20210126,4119,ch,aargau,109
-20210126,4120,ch,thurgau,36
+20210126,4120,ch,thurgau,37
 20210126,4121,ch,ticino,195
 20210126,4122,ch,vaud,263
 20210126,4123,ch,valais,149
@@ -63297,7 +63301,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210125,4117,ch,st_gallen,82
 20210125,4118,ch,graubunden,30
 20210125,4119,ch,aargau,115
-20210125,4120,ch,thurgau,39
+20210125,4120,ch,thurgau,40
 20210125,4121,ch,ticino,209
 20210125,4122,ch,vaud,273
 20210125,4123,ch,valais,147
@@ -63473,7 +63477,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210124,4113,ch,basel_landschaft,25
 20210124,4117,ch,st_gallen,78
 20210124,4118,ch,graubunden,27
-20210124,4120,ch,thurgau,37
+20210124,4120,ch,thurgau,38
 20210124,4121,ch,ticino,207
 20210124,4122,ch,vaud,270
 20210124,4123,ch,valais,137
@@ -63647,7 +63651,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210123,4112,ch,basel_stadt,54
 20210123,4113,ch,basel_landschaft,25
 20210123,4118,ch,graubunden,27
-20210123,4120,ch,thurgau,37
+20210123,4120,ch,thurgau,38
 20210123,4121,ch,ticino,205
 20210123,4122,ch,vaud,273
 20210123,4123,ch,valais,123
@@ -63830,7 +63834,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210122,4116,ch,appenzell_innerrhoden,4
 20210122,4118,ch,graubunden,25
 20210122,4119,ch,aargau,106
-20210122,4120,ch,thurgau,36
+20210122,4120,ch,thurgau,37
 20210122,4121,ch,ticino,215
 20210122,4122,ch,vaud,258
 20210122,4123,ch,valais,129
@@ -64015,7 +64019,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210121,4117,ch,st_gallen,72
 20210121,4118,ch,graubunden,29
 20210121,4119,ch,aargau,107
-20210121,4120,ch,thurgau,40
+20210121,4120,ch,thurgau,41
 20210121,4121,ch,ticino,223
 20210121,4122,ch,vaud,254
 20210121,4123,ch,valais,127
@@ -64200,7 +64204,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210120,4117,ch,st_gallen,87
 20210120,4118,ch,graubunden,36
 20210120,4119,ch,aargau,107
-20210120,4120,ch,thurgau,47
+20210120,4120,ch,thurgau,48
 20210120,4121,ch,ticino,232
 20210120,4122,ch,vaud,257
 20210120,4123,ch,valais,125
@@ -64385,7 +64389,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210119,4117,ch,st_gallen,100
 20210119,4118,ch,graubunden,42
 20210119,4119,ch,aargau,125
-20210119,4120,ch,thurgau,53
+20210119,4120,ch,thurgau,54
 20210119,4121,ch,ticino,254
 20210119,4122,ch,vaud,277
 20210119,4123,ch,valais,140
@@ -64570,7 +64574,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210118,4117,ch,st_gallen,106
 20210118,4118,ch,graubunden,39
 20210118,4119,ch,aargau,113
-20210118,4120,ch,thurgau,52
+20210118,4120,ch,thurgau,53
 20210118,4121,ch,ticino,262
 20210118,4122,ch,vaud,281
 20210118,4123,ch,valais,124
@@ -64747,7 +64751,7 @@ dateId,areaCode,country,areaName,hospitalizedCases
 20210117,4116,ch,appenzell_innerrhoden,6
 20210117,4117,ch,st_gallen,113
 20210117,4118,ch,graubunden,39
-20210117,4120,ch,thurgau,53
+20210117,4120,ch,thurgau,54
 20210117,4121,ch,ticino,264
 20210117,4122,ch,vaud,281
 20210117,4123,ch,valais,123
