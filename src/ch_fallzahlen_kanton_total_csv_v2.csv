@@ -1,13 +1,15 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20220202,09:00,SZ,,43576,,,,41858,344,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
+20220202,00:00,UR,,10247,3,,,,62,https://www.ur.ch/themen/2962
 20220201,12:00,AI,,4343,,,,,24,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20220201,,BE,,228594,188,27,21,,1423,https://covid-kennzahlen.apps.be.ch/
 20220201,,BL,,,35,3,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20220201,11:40,BS,,44372,137,12,,42863,262,https://www.gesundheit.bs.ch
+20220201,00:00,FL,,9176,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220201,00:00,GE,,165987,226,15,,,810,https://infocovid.smc.unige.ch/
 20220201,,GL,,10303,10,,,,102,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20220201,,GR,,56633,28,4,3,,243,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20220201,,JU,,22776,26,1,,,183,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20220201,,JU,,23148,32,1,,,183,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20220201,,LU,,,51,,5,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220201,,NW,,11499,5,1,,,33,http://www.nw.ch/coronastatistik
 20220201,00:00,OW,,10578,6,,,,55,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
@@ -25,7 +27,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220131,00:00,GE,,164080,530,15,,,810,https://infocovid.smc.unige.ch/
 20220131,,GL,,10116,9,,,,102,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20220131,,GR,,55876,38,4,3,,243,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20220131,,JU,,22692,25,1,,,183,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20220131,,JU,,22694,26,1,,,183,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20220131,,LU,,103093,53,,5,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220131,,NE,,52539,79,6,2,,440,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220131,,NW,,11276,6,1,,,33,http://www.nw.ch/coronastatistik
@@ -49,7 +51,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220130,00:00,GE,,161969,521,15,,,810,https://infocovid.smc.unige.ch/
 20220130,,GL,,,,,,,,https://www.gl.ch/public/upload/assets/40012/Sentinella_kw4.pdf?fp=1
 20220130,,GR,,55328,38,4,3,,243,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20220130,,JU,,22544,24,1,,,182,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20220130,,JU,,22545,24,1,,,182,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20220130,,LU,,101394,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220130,,NE,,52167,77,6,3,,440,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220130,,NW,,11113,5,1,,,33,http://www.nw.ch/coronastatistik
@@ -93,7 +95,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220128,00:00,GE,,159620,531,17,,,810,https://infocovid.smc.unige.ch/
 20220128,,GL,,9744,8,,,,102,https://docs.google.com/spreadsheets/d/1Q7VoxM6wvbdsC84DLWrzyNymkcxUKqIXHy6BpB2Ez0k/edit
 20220128,,GR,,54297,37,5,4,,243,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20220128,,JU,,22096,20,1,,,182,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20220128,,JU,,22095,20,1,,,182,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20220128,,LU,,98408,47,,4,,438,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220128,,NE,,51148,78,7,2,,439,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220128,,NW,,10630,4,1,,,33,http://www.nw.ch/coronastatistik
@@ -750,7 +752,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220101,,NE,,28376,64,7,3,,428,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220101,,NW,,6904,5,3,,,31,http://www.nw.ch/coronastatistik
 20220101,,SG,,91693,67,14,13,,,https://www.sg.ch/tools/informationen-coronavirus.html
-20220101,,SH,,10996,,,,,102,https://coviddashboard.sh.ch/
+20220101,,SH,,17194,14,2,,,105,https://coviddashboard.sh.ch/
 20220101,09:00,SZ,,29181,,,,27426,328,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 20220101,10:00,TG,,47241,50,17,,1827,566,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220101,,TI,,54151,130,16,,,1047,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
