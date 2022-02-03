@@ -16,7 +16,7 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220203,sbpt,44,237,,
 20220203,sbsg,37,233,2,1
 20220203,sbtr,3,131,,
-20220203,si,781,5911,126,90
+20220203,si,781,5912,126,90
 20220203,ukclj,234,1024,57,39
 20220203,ukcmb,129,846,28,18
 20220203,ukg,25,248,6,5
@@ -64,6 +64,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220201,ukg,32,246,7,5
 20220131,bse,3,5,,
 20220131,bto,,18,,
+20220131,icu,,,,
+20220131,in_ho,,,,
 20220131,niv,,,,
 20220131,redzo,,,,
 20220131,reg,,,,
@@ -83,6 +85,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220131,ukg,31,245,7,4
 20220130,bse,2,5,,
 20220130,bto,,18,,
+20220130,icu,,,,
+20220130,in_ho,,,,
 20220130,niv,,,,
 20220130,redzo,,,,
 20220130,reg,,,,
@@ -102,6 +106,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220130,ukg,31,244,7,4
 20220129,bse,,5,,
 20220129,bto,,18,,
+20220129,icu,,,,
+20220129,in_ho,,,,
 20220129,niv,,,,
 20220129,redzo,,,,
 20220129,reg,,,,
@@ -121,6 +127,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220129,ukg,26,243,6,4
 20220128,bse,,5,,
 20220128,bto,,18,,
+20220128,icu,,,,
+20220128,in_ho,,,,
 20220128,niv,,,,
 20220128,redzo,,,,
 20220128,reg,,,,
@@ -140,6 +148,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220128,ukg,30,243,7,3
 20220127,bse,,5,,
 20220127,bto,,18,,
+20220127,icu,,,,
+20220127,in_ho,,,,
 20220127,niv,,,,
 20220127,redzo,,,,
 20220127,reg,,,,
@@ -159,6 +169,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220127,ukg,30,243,6,4
 20220126,bse,,5,,
 20220126,bto,,18,,
+20220126,icu,,,,
+20220126,in_ho,,,,
 20220126,niv,,,,
 20220126,redzo,,,,
 20220126,reg,,,,
@@ -178,6 +190,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220126,ukg,29,242,5,3
 20220125,bse,,5,,
 20220125,bto,,18,,
+20220125,icu,,,,
+20220125,in_ho,,,,
 20220125,niv,,,,
 20220125,redzo,,,,
 20220125,reg,,,,
@@ -197,6 +211,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220125,ukg,26,242,7,3
 20220124,bse,,5,,
 20220124,bto,,18,,
+20220124,icu,,,,
+20220124,in_ho,,,,
 20220124,niv,,,,
 20220124,redzo,,,,
 20220124,reg,,,,
@@ -216,6 +232,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220124,ukg,28,242,6,4
 20220123,bse,,5,,
 20220123,bto,,18,,
+20220123,icu,,,,
+20220123,in_ho,,,,
 20220123,niv,,,,
 20220123,redzo,,,,
 20220123,reg,,,,
@@ -235,6 +253,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220123,ukg,25,241,7,5
 20220122,bse,,5,,
 20220122,bto,,18,,
+20220122,icu,,,,
+20220122,in_ho,,,,
 20220122,niv,,,,
 20220122,redzo,,,,
 20220122,reg,,,,
@@ -254,6 +274,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220122,ukg,23,241,7,5
 20220121,bse,,5,,
 20220121,bto,,18,,
+20220121,icu,,,,
+20220121,in_ho,,,,
 20220121,niv,,,,
 20220121,redzo,,,,
 20220121,reg,,,,
@@ -273,6 +295,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220121,ukg,27,241,7,5
 20220120,bse,,5,,
 20220120,bto,,18,,
+20220120,icu,,,,
+20220120,in_ho,,,,
 20220120,niv,,,,
 20220120,redzo,,,,
 20220120,reg,,,,
@@ -292,6 +316,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220120,ukg,28,240,6,3
 20220119,bse,,5,,
 20220119,bto,,18,,
+20220119,icu,,,,
+20220119,in_ho,,,,
 20220119,niv,,,,
 20220119,redzo,,,,
 20220119,reg,,,,
@@ -311,6 +337,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220119,ukg,28,239,7,4
 20220118,bse,,5,,
 20220118,bto,,18,,
+20220118,icu,,,,
+20220118,in_ho,,,,
 20220118,niv,,,,
 20220118,redzo,,,,
 20220118,reg,,,,
@@ -330,6 +358,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220118,ukg,27,239,8,4
 20220117,bse,,5,,
 20220117,bto,,18,,
+20220117,icu,,,,
+20220117,in_ho,,,,
 20220117,niv,,,,
 20220117,redzo,,,,
 20220117,reg,,,,
@@ -349,6 +379,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220117,ukg,33,239,8,4
 20220116,bse,,5,,
 20220116,bto,,18,,
+20220116,icu,,,,
+20220116,in_ho,,,,
 20220116,niv,,,,
 20220116,redzo,,,,
 20220116,reg,,,,
@@ -368,6 +400,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220116,ukg,31,239,7,4
 20220115,bse,,5,,
 20220115,bto,,18,,
+20220115,icu,,,,
+20220115,in_ho,,,,
 20220115,niv,,,,
 20220115,redzo,,,,
 20220115,reg,,,,
@@ -387,6 +421,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220115,ukg,25,239,8,4
 20220114,bse,,5,,
 20220114,bto,,18,,
+20220114,icu,,,,
+20220114,in_ho,,,,
 20220114,niv,,,,
 20220114,redzo,,,,
 20220114,reg,,,,
@@ -406,6 +442,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220114,ukg,22,239,7,4
 20220113,bse,,5,,
 20220113,bto,,18,,
+20220113,icu,,,,
+20220113,in_ho,,,,
 20220113,niv,,,,
 20220113,redzo,,,,
 20220113,reg,,,,
@@ -425,6 +463,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220113,ukg,21,239,5,2
 20220112,bse,,5,,
 20220112,bto,,18,,
+20220112,icu,,,,
+20220112,in_ho,,,,
 20220112,niv,,,,
 20220112,redzo,,,,
 20220112,reg,,,,
@@ -444,6 +484,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220112,ukg,22,239,5,3
 20220111,bse,,5,,
 20220111,bto,,18,,
+20220111,icu,,,,
+20220111,in_ho,,,,
 20220111,niv,,,,
 20220111,redzo,,,,
 20220111,reg,,,,
@@ -463,6 +505,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220111,ukg,21,238,7,3
 20220110,bse,,5,,
 20220110,bto,,18,,
+20220110,icu,,,,
+20220110,in_ho,,,,
 20220110,niv,,,,
 20220110,redzo,,,,
 20220110,reg,,,,
@@ -482,6 +526,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220110,ukg,29,238,7,2
 20220109,bse,,5,,
 20220109,bto,,18,,
+20220109,icu,,,,
+20220109,in_ho,,,,
 20220109,niv,,,,
 20220109,redzo,,,,
 20220109,reg,,,,
@@ -501,6 +547,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220109,ukg,25,238,6,3
 20220108,bse,,5,,
 20220108,bto,,18,,
+20220108,icu,,,,
+20220108,in_ho,,,,
 20220108,niv,,,,
 20220108,redzo,,,,
 20220108,reg,,,,
@@ -520,6 +568,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220108,ukg,24,238,6,3
 20220107,bse,,5,,
 20220107,bto,,18,,
+20220107,icu,,,,
+20220107,in_ho,,,,
 20220107,niv,,,,
 20220107,redzo,,,,
 20220107,reg,,,,
@@ -539,6 +589,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220107,ukg,25,238,6,3
 20220106,bse,,5,,
 20220106,bto,,18,,
+20220106,icu,,,,
+20220106,in_ho,,,,
 20220106,niv,,,,
 20220106,redzo,,,,
 20220106,reg,,,,
@@ -558,6 +610,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220106,ukg,24,238,6,2
 20220105,bse,,5,,
 20220105,bto,,18,,
+20220105,icu,,,,
+20220105,in_ho,,,,
 20220105,niv,,,,
 20220105,redzo,,,,
 20220105,reg,,,,
@@ -577,6 +631,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220105,ukg,23,237,6,2
 20220104,bse,,5,,
 20220104,bto,,18,,
+20220104,icu,,,,
+20220104,in_ho,,,,
 20220104,niv,,,,
 20220104,redzo,,,,
 20220104,reg,,,,
@@ -596,6 +652,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220104,ukg,21,237,7,2
 20220103,bse,,5,,
 20220103,bto,,18,,
+20220103,icu,,,,
+20220103,in_ho,,,,
 20220103,niv,,,,
 20220103,redzo,,,,
 20220103,reg,,,,
@@ -615,6 +673,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220103,ukg,20,237,6,2
 20220102,bse,,5,,
 20220102,bto,,18,,
+20220102,icu,,,,
+20220102,in_ho,,,,
 20220102,niv,,,,
 20220102,redzo,,,,
 20220102,reg,,,,
@@ -634,6 +694,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220102,ukg,20,236,7,4
 20220101,bse,,5,,
 20220101,bto,,18,,
+20220101,icu,,,,
+20220101,in_ho,,,,
 20220101,niv,,,,
 20220101,redzo,,,,
 20220101,reg,,,,
@@ -653,6 +715,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20220101,ukg,19,236,7,3
 20211231,bse,,5,,
 20211231,bto,,18,,
+20211231,icu,,,,
+20211231,in_ho,,,,
 20211231,niv,,,,
 20211231,redzo,,,,
 20211231,reg,,,,
@@ -672,6 +736,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211231,ukg,20,236,8,3
 20211230,bse,,5,,
 20211230,bto,,18,,
+20211230,icu,,,,
+20211230,in_ho,,,,
 20211230,niv,,,,
 20211230,redzo,,,,
 20211230,reg,,,,
@@ -691,6 +757,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211230,ukg,20,236,8,3
 20211229,bse,,5,,
 20211229,bto,,18,,
+20211229,icu,,,,
+20211229,in_ho,,,,
 20211229,niv,,,,
 20211229,redzo,,,,
 20211229,reg,,,,
@@ -710,6 +778,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211229,ukg,20,235,8,4
 20211228,bse,,5,,
 20211228,bto,,18,,
+20211228,icu,,,,
+20211228,in_ho,,,,
 20211228,niv,,,,
 20211228,redzo,,,,
 20211228,reg,,,,
@@ -729,6 +799,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211228,ukg,22,235,7,5
 20211227,bse,,5,,
 20211227,bto,2,18,,
+20211227,icu,,,,
+20211227,in_ho,,,,
 20211227,niv,,,,
 20211227,redzo,,,,
 20211227,reg,,,,
@@ -748,6 +820,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211227,ukg,27,235,7,3
 20211226,bse,,5,,
 20211226,bto,2,18,,
+20211226,icu,,,,
+20211226,in_ho,,,,
 20211226,niv,,,,
 20211226,redzo,,,,
 20211226,reg,,,,
@@ -767,6 +841,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211226,ukg,25,234,7,3
 20211225,bse,,5,,
 20211225,bto,2,18,,
+20211225,icu,,,,
+20211225,in_ho,,,,
 20211225,niv,,,,
 20211225,redzo,,,,
 20211225,reg,,,,
@@ -786,6 +862,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211225,ukg,22,234,7,3
 20211224,bse,,5,,
 20211224,bto,2,18,,
+20211224,icu,,,,
+20211224,in_ho,,,,
 20211224,niv,,,,
 20211224,redzo,,,,
 20211224,reg,,,,
@@ -805,6 +883,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211224,ukg,27,233,6,5
 20211223,bse,,5,,
 20211223,bto,3,18,,
+20211223,icu,,,,
+20211223,in_ho,,,,
 20211223,niv,,,,
 20211223,redzo,,,,
 20211223,reg,,,,
@@ -824,6 +904,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211223,ukg,25,233,6,6
 20211222,bse,3,5,,
 20211222,bto,3,18,,
+20211222,icu,,,,
+20211222,in_ho,,,,
 20211222,niv,,,,
 20211222,redzo,,,,
 20211222,reg,,,,
@@ -843,6 +925,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211222,ukg,28,233,6,6
 20211221,bse,5,5,,
 20211221,bto,4,18,,
+20211221,icu,,,,
+20211221,in_ho,,,,
 20211221,niv,,,,
 20211221,redzo,,,,
 20211221,reg,,,,
@@ -862,6 +946,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211221,ukg,31,233,7,6
 20211220,bse,7,5,0,
 20211220,bto,5,18,,
+20211220,icu,,,,
+20211220,in_ho,,,,
 20211220,niv,,,,
 20211220,redzo,,,,
 20211220,reg,,,,
@@ -881,6 +967,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211220,ukg,31,233,7,5
 20211219,bse,7,5,0,
 20211219,bto,5,18,,
+20211219,icu,,,,
+20211219,in_ho,,,,
 20211219,niv,,,,
 20211219,redzo,,,,
 20211219,reg,,,,
@@ -900,6 +988,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211219,ukg,32,232,7,5
 20211218,bse,7,5,0,
 20211218,bto,6,18,0,0
+20211218,icu,,,,
+20211218,in_ho,,,,
 20211218,niv,,,,
 20211218,redzo,,,,
 20211218,reg,,,,
@@ -919,6 +1009,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211218,ukg,31,232,7,5
 20211217,bse,9,5,0,
 20211217,bto,10,18,1,1
+20211217,icu,,,,
+20211217,in_ho,,,,
 20211217,niv,,,,
 20211217,redzo,,,,
 20211217,reg,,,,
@@ -938,6 +1030,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211217,ukg,30,231,7,5
 20211216,bse,9,5,0,
 20211216,bto,13,18,1,1
+20211216,icu,,,,
+20211216,in_ho,,,,
 20211216,niv,,,,
 20211216,redzo,,,,
 20211216,reg,,,,
@@ -957,6 +1051,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211216,ukg,33,230,7,5
 20211215,bse,9,5,1,
 20211215,bto,12,18,1,1
+20211215,icu,,,,
+20211215,in_ho,,,,
 20211215,niv,,,,
 20211215,redzo,,,,
 20211215,reg,,,,
@@ -976,6 +1072,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211215,ukg,34,230,8,5
 20211214,bse,10,5,0,
 20211214,bto,12,18,2,1
+20211214,icu,,,,
+20211214,in_ho,,,,
 20211214,niv,,,,
 20211214,redzo,,,,
 20211214,reg,,,,
@@ -995,6 +1093,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211214,ukg,31,229,8,6
 20211213,bse,9,5,0,
 20211213,bto,11,18,2,1
+20211213,icu,,,,
+20211213,in_ho,,,,
 20211213,niv,,,,
 20211213,redzo,,,,
 20211213,reg,,,,
@@ -1014,6 +1114,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211213,ukg,42,228,8,6
 20211212,bse,9,5,1,
 20211212,bto,13,16,3,2
+20211212,icu,,,,
+20211212,in_ho,,,,
 20211212,niv,,,,
 20211212,redzo,,,,
 20211212,reg,,,,
@@ -1033,6 +1135,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211212,ukg,39,228,8,5
 20211211,bse,7,5,1,
 20211211,bto,13,16,3,3
+20211211,icu,,,,
+20211211,in_ho,,,,
 20211211,niv,,,,
 20211211,redzo,,,,
 20211211,reg,,,,
@@ -1052,6 +1156,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211211,ukg,38,228,8,6
 20211210,bse,6,5,1,
 20211210,bto,15,16,3,2
+20211210,icu,,,,
+20211210,in_ho,,,,
 20211210,niv,,,,
 20211210,redzo,,,,
 20211210,reg,,,,
@@ -1071,6 +1177,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211210,ukg,35,228,8,5
 20211209,bse,14,5,1,
 20211209,bto,18,16,4,2
+20211209,icu,,,,
+20211209,in_ho,,,,
 20211209,niv,,,,
 20211209,redzo,,,,
 20211209,reg,,,,
@@ -1090,6 +1198,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211209,ukg,41,226,10,7
 20211208,bse,12,5,1,
 20211208,bto,17,15,5,2
+20211208,icu,,,,
+20211208,in_ho,,,,
 20211208,niv,,,,
 20211208,redzo,,,,
 20211208,reg,,,,
@@ -1109,6 +1219,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211208,ukg,42,225,11,7
 20211207,bse,18,5,1,
 20211207,bto,18,14,4,2
+20211207,icu,,,,
+20211207,in_ho,,,,
 20211207,niv,,,,
 20211207,redzo,,,,
 20211207,reg,,,,
@@ -1128,6 +1240,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211207,ukg,48,224,12,6
 20211206,bse,18,4,1,
 20211206,bto,19,14,4,2
+20211206,icu,,,,
+20211206,in_ho,,,,
 20211206,niv,,,,
 20211206,redzo,,,,
 20211206,reg,,,,
@@ -1147,6 +1261,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211206,ukg,60,222,12,8
 20211205,bse,18,4,1,
 20211205,bto,22,13,5,2
+20211205,icu,,,,
+20211205,in_ho,,,,
 20211205,niv,,,,
 20211205,redzo,,,,
 20211205,reg,,,,
@@ -1166,6 +1282,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211205,ukg,56,222,12,7
 20211204,bse,19,4,1,
 20211204,bto,23,13,5,2
+20211204,icu,,,,
+20211204,in_ho,,,,
 20211204,niv,,,,
 20211204,redzo,,,,
 20211204,reg,,,,
@@ -1185,6 +1303,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211204,ukg,53,222,12,6
 20211203,bse,21,4,1,
 20211203,bto,16,13,4,2
+20211203,icu,,,,
+20211203,in_ho,,,,
 20211203,niv,,,,
 20211203,redzo,,,,
 20211203,reg,,,,
@@ -1204,6 +1324,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211203,ukg,58,219,14,7
 20211202,bse,25,4,1,
 20211202,bto,20,13,5,2
+20211202,icu,,,,
+20211202,in_ho,,,,
 20211202,niv,,,,
 20211202,redzo,,,,
 20211202,reg,,,,
@@ -1223,6 +1345,8 @@ dateid,hospID,in_hospital,deaths,icu,criticalCare
 20211202,ukg,57,219,12,7
 20211201,bse,31,3,2,
 20211201,bto,21,12,5,2
+20211201,icu,,,,
+20211201,in_ho,,,,
 20211201,niv,,,,
 20211201,redzo,,,,
 20211201,reg,,,,
