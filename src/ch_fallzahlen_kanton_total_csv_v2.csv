@@ -1,5 +1,7 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20220228,,BE,,302458,246,15,11,,1468,https://covid-kennzahlen.apps.be.ch/
+20220228,,BL,,,38,2,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20220228,11:30,BS,,57341,92,6,,56158,271,https://www.gesundheit.bs.ch
 20220228,,LU,,,49,,6,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220228,,SO,,80725,30,1,,,341,https://corona.so.ch/bevoelkerung/daten/
 20220228,09:00,SZ,,54531,,,,53583,356,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -8,9 +10,11 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220228,00:00,UR,,12289,4,,,,65,https://www.ur.ch/themen/2962
 20220227,08:00,AG,,193442,,,,179565,920,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20220227,,BE,,302455,,,,,1468,https://covid-kennzahlen.apps.be.ch/
-20220227,11:50,BS,,57112,,,,55316,271,https://www.gesundheit.bs.ch
+20220227,,BL,,87440,38,2,,,276,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20220227,11:50,BS,,57112,86,7,,55316,271,https://www.gesundheit.bs.ch
 20220227,00:00,FL,,12001,4,,,11485,78,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220227,00:00,GE,,184525,361,,,,865,https://infocovid.smc.unige.ch/
+20220227,,GR,,71185,28,2,2,,248,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
 20220227,,JU,,27043,13,0,,,186,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20220227,,LU,,134733,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220227,,NW,,14478,3,0,,,35,https://www.nw.ch/gesundheitsamtdienste/6044
@@ -20,7 +24,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220227,10:00,TG,,89454,27,5,,2170,611,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220226,08:00,AG,,192513,,,,178275,920,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20220226,,BE,,301168,,,,,1467,https://covid-kennzahlen.apps.be.ch/
-20220226,11:50,BS,,56874,,,,55220,271,https://www.gesundheit.bs.ch
+20220226,,BL,,87026,35,3,,,276,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20220226,11:50,BS,,56874,88,7,,55220,271,https://www.gesundheit.bs.ch
 20220226,00:00,FL,,11908,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220226,00:00,GE,,184394,367,,,,865,https://infocovid.smc.unige.ch/
 20220226,,GR,,70820,28,3,3,,248,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
@@ -34,7 +39,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220225,08:00,AG,,191180,86,8,,176675,920,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 20220225,12:00,AI,,5434,,,,,24,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20220225,,BE,,299467,246,15,11,,1467,https://covid-kennzahlen.apps.be.ch/
-20220225,,BL,,,39,1,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
+20220225,,BL,,86605,39,1,,,276,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20220225,11:30,BS,,56422,87,8,,54695,271,https://www.gesundheit.bs.ch
 20220225,00:00,FL,,11752,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220225,00:00,GE,,184131,497,2,,,865,https://infocovid.smc.unige.ch/
