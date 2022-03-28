@@ -1,8 +1,10 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20220328,00:00,OW,,16495,3,,,,61,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220328,,SO,,109485,66,5,,,352,https://corona.so.ch/bevoelkerung/daten/
+20220328,10:00,TG,,114294,57,2,,2376,634,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220328,,TI,,138056,120,6,,,1154,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220328,00:00,UR,,15277,4,,,,68,https://www.ur.ch/themen/2962
+20220328,08:00,ZG,,47556,20,0,,,164,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20220327,11:50,BS,,76195,,,,74418,275,https://www.gesundheit.bs.ch
 20220327,,FR,,137409,75,6,,1914,564,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20220327,00:00,GE,,221,394,5,,,,https://infocovid.smc.unige.ch/
@@ -11,6 +13,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220327,,NW,,17843,5,1,,,36,http://www.nw.ch/coronastatistik
 20220327,,SG,,204309,61,7,5,,855,https://www.sg.ch/tools/informationen-coronavirus.html
 20220327,,SH,,30371,14,3,,,119,https://coviddashboard.sh.ch/
+20220327,10:00,TG,,114285,57,2,,2376,634,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220327,08:00,ZG,,47425,28,1,,,162,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20220326,,BE,,,,,,,,https://covid-kennzahlen.apps.be.ch/
 20220326,11:30,BS,,75781,,,,73677,275,https://www.gesundheit.bs.ch
 20220326,00:00,FL,,16098,,,,,,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
@@ -21,6 +25,8 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220326,,NW,,17807,6,1,,,36,http://www.nw.ch/coronastatistik
 20220326,,SG,,,61,7,5,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220326,,SH,,30302,,,,,119,https://coviddashboard.sh.ch/
+20220326,10:00,TG,,114179,55,2,,2376,634,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220326,08:00,ZG,,47302,28,1,,,162,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20220325,,BE,,386518,261,25,17,,1505,https://covid-kennzahlen.apps.be.ch/
 20220325,,BL,,,38,2,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20220325,11:40,BS,,75198,160,12,,72769,275,https://www.gesundheit.bs.ch
@@ -35,7 +41,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220325,,SG,,,61,7,5,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220325,,SH,,30164,,,,,119,https://coviddashboard.sh.ch/
 20220325,,SO,,108182,62,8,,,351,https://corona.so.ch/bevoelkerung/daten/
-20220325,10:00,TG,,113195,51,3,,2364,634,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220325,10:00,TG,,113883,50,2,,2375,634,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220325,,TI,,136542,114,7,,,1150,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220325,16:00,UR,,15247,9,,,,68,https://www.ur.ch/themen/2962
 20220325,08:00,ZG,,47067,28,1,,,162,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
@@ -56,7 +62,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220324,,SG,,202642,75,8,5,,854,https://www.sg.ch/tools/informationen-coronavirus.html
 20220324,,SH,,29980,13,3,,,119,https://coviddashboard.sh.ch/
 20220324,,SO,,107355,68,8,,,351,https://corona.so.ch/bevoelkerung/daten/
-20220324,10:00,TG,,113192,51,3,,2364,634,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220324,10:00,TG,,113423,53,3,,2366,634,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220324,,TI,,135886,114,9,,,1149,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220324,14:00,UR,,15176,10,,,,68,https://www.ur.ch/themen/2962
 20220324,,VS,,144108,0,0,0,,810,https://www.vs.ch/de/web/coronavirus
@@ -78,7 +84,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220323,,SG,,202067,75,8,6,,852,https://www.sg.ch/tools/informationen-coronavirus.html
 20220323,,SH,,29826,11,4,,,118,https://coviddashboard.sh.ch/
 20220323,,SO,,106623,66,7,,,350,https://corona.so.ch/bevoelkerung/daten/
-20220323,10:00,TG,,112859,61,3,,2353,634,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220323,10:00,TG,,112873,62,3,,2354,634,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220323,,TI,,135027,119,8,,,1147,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220323,15:00,UR,,15049,6,,,,68,https://www.ur.ch/themen/2962
 20220323,,VS,,144081,106,5,4,,810,https://www.vs.ch/de/web/coronavirus
@@ -101,7 +107,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220322,,SG,,200992,89,8,5,,851,https://www.sg.ch/tools/informationen-coronavirus.html
 20220322,,SH,,29586,16,3,,,118,https://coviddashboard.sh.ch/
 20220322,,SO,,105399,64,6,,,349,https://corona.so.ch/bevoelkerung/daten/
-20220322,10:00,TG,,112073,57,3,,2345,633,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220322,10:00,TG,,112079,57,3,,2346,633,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220322,,TI,,133750,128,10,,,1145,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220322,15:00,UR,,14970,6,,,,68,https://www.ur.ch/themen/2962
 20220322,,VS,,143716,99,5,4,,810,https://www.vs.ch/de/web/coronavirus
@@ -123,7 +129,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220321,,SG,,199651,88,7,5,,851,https://www.sg.ch/tools/informationen-coronavirus.html
 20220321,,SH,,29314,13,3,,,117,https://coviddashboard.sh.ch/
 20220321,,SO,758555,104760,61,6,,,349,https://corona.so.ch/fileadmin/corona/Bevoelkerung/Daten/Woechentlicher_Situationsbericht/2022_0321_Woechentlicher_Situationsbericht__.pdf
-20220321,10:00,TG,,111357,63,4,,2331,633,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220321,10:00,TG,,111359,63,4,,2332,633,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220321,,TI,,132682,132,9,,,1144,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220321,15:00,UR,,14879,5,,,,68,https://www.ur.ch/themen/2962
 20220321,,VS,,143247,106,5,4,,810,https://www.vs.ch/de/web/coronavirus
@@ -142,7 +148,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220320,,NW,,17388,9,1,,,36,http://www.nw.ch/coronastatistik
 20220320,,SG,,197616,78,7,5,,851,https://www.sg.ch/tools/informationen-coronavirus.html
 20220320,,SH,,29091,16,3,,,115,https://coviddashboard.sh.ch/
-20220320,10:00,TG,,110076,67,3,,2316,631,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220320,10:00,TG,,110078,67,3,,2317,631,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220320,,VD,,326528,297,11,,,,https://www.infosan.vd.ch/fileadmin/2-PUBLICATIONS/SANTE_POPULATION/SSP_20220322_COVID_Bulletin_hebdomadaire_epidemio.pdf
 20220320,,VS,,142601,101,6,4,,810,https://www.vs.ch/de/web/coronavirus
 20220320,08:00,ZG,,45578,30,3,,,159,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
@@ -160,7 +166,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220319,,NW,,17293,7,1,,,36,http://www.nw.ch/coronastatistik
 20220319,,SG,,197225,71,5,3,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220319,,SH,,28923,,,,,115,https://coviddashboard.sh.ch/
-20220319,10:00,TG,,109768,57,3,,2314,631,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220319,10:00,TG,,109770,58,3,,2314,631,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220319,,VS,,142364,102,6,5,,810,https://www.vs.ch/de/web/coronavirus
 20220319,08:00,ZG,,45362,30,3,,,159,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20220319,14:30,ZH,,553204,338,40,23,,1745,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -181,7 +187,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220318,,SG,,196560,74,5,3,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220318,,SH,,28673,,,,,115,https://coviddashboard.sh.ch/
 20220318,,SO,,102010,47,6,,,348,https://corona.so.ch/bevoelkerung/daten/
-20220318,10:00,TG,,109257,57,3,,2309,631,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220318,10:00,TG,,109260,58,3,,2309,631,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220318,,TI,,130263,117,12,,,1144,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220318,15:00,UR,,14726,4,,,,67,https://www.ur.ch/themen/2962
 20220318,,VS,,142084,103,5,5,,810,https://www.vs.ch/de/web/coronavirus
@@ -205,7 +211,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220317,,SG,,195263,68,3,2,,850,https://www.sg.ch/tools/informationen-coronavirus.html
 20220317,,SH,,28363,20,2,,,114,https://coviddashboard.sh.ch/
 20220317,,SO,,100782,49,6,,,348,https://corona.so.ch/bevoelkerung/daten/
-20220317,10:00,TG,,108396,53,3,,2298,630,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220317,10:00,TG,,108400,54,3,,2298,630,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220317,,TI,,129156,119,10,,,1144,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220317,00:00,UR,,14626,11,,,,67,https://www.ur.ch/themen/2962
 20220317,,VS,,141650,122,6,3,,808,https://www.vs.ch/de/web/coronavirus
@@ -228,7 +234,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220316,,SG,,193716,75,3,2,,849,https://www.sg.ch/tools/informationen-coronavirus.html
 20220316,,SH,,28043,24,4,,,113,https://coviddashboard.sh.ch/
 20220316,,SO,,99309,51,6,,,348,https://corona.so.ch/bevoelkerung/daten/
-20220316,10:00,TG,,107428,50,2,,2292,629,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220316,10:00,TG,,107432,50,2,,2292,629,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220316,,TI,,127621,112,10,,,1144,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220316,00:00,UR,,14510,13,,,,67,https://www.ur.ch/themen/2962
 20220316,,VS,,141135,123,8,5,,805,https://www.vs.ch/de/web/coronavirus
@@ -251,7 +257,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220315,,SG,,191952,72,4,2,,847,https://www.sg.ch/tools/informationen-coronavirus.html
 20220315,,SH,,27649,23,3,,,113,https://coviddashboard.sh.ch/
 20220315,,SO,,97681,52,6,,,347,https://corona.so.ch/bevoelkerung/daten/
-20220315,10:00,TG,,106252,54,2,,2277,627,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220315,10:00,TG,,106256,54,2,,2277,627,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220315,,TI,,126322,105,11,,,1143,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220315,00:00,UR,,14356,12,,,,67,https://www.ur.ch/themen/2962
 20220315,,VS,,140547,121,7,4,,804,https://www.vs.ch/de/web/coronavirus
@@ -273,7 +279,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220314,,SG,,189941,64,5,2,,846,https://www.sg.ch/tools/informationen-coronavirus.html
 20220314,,SH,,27223,22,2,,,113,https://coviddashboard.sh.ch/
 20220314,,SO,739246,96649,53,4,,,345,https://corona.so.ch/fileadmin/corona/Bevoelkerung/Daten/Woechentlicher_Situationsbericht/2022_0314_Woechentlicher_Situationsbericht__.pdf
-20220314,10:00,TG,,105037,61,3,,2266,626,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220314,10:00,TG,,105040,61,3,,2266,626,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220314,,TI,,125236,106,8,,,1143,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
 20220314,,VS,,139947,119,8,5,,804,https://www.vs.ch/de/web/coronavirus
 20220314,08:00,ZG,,42839,24,3,,,159,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
