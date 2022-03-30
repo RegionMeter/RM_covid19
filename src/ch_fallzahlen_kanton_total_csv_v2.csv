@@ -1,4 +1,5 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
+20220330,00:00,OW,,16568,4,,,,61,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220330,00:00,UR,,15389,5,,,,68,https://www.ur.ch/themen/2962
 20220329,12:00,AI,,6526,,,,,25,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 20220329,,BE,,392228,261,25,17,,1513,https://covid-kennzahlen.apps.be.ch/
@@ -6,11 +7,12 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220329,12:10,BS,,77115,149,11,,75432,277,https://www.gesundheit.bs.ch
 20220329,00:00,FL,,16286,9,,,15848,84,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220329,,GR,,88648,23,1,1,,254,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time
-20220329,,JU,,30468,29,0,,,207,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
+20220329,,JU,,30468,30,0,,,207,https://www.jura.ch/fr/Autorites/Coronavirus/Infos-Actualites/Statistique-COVID/Evolution-des-cas-COVID-19-dans-le-Jura.html
 20220329,,LU,,,84,,9,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220329,,NW,,17940,5,1,,,36,http://www.nw.ch/coronastatistik
 20220329,00:00,OW,,16521,4,,,,61,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220329,,SG,,205964,56,5,3,,855,https://www.sg.ch/tools/informationen-coronavirus.html
+20220329,,SH,,30682,13,2,,,120,https://coviddashboard.sh.ch/
 20220329,,SO,,108915,51,5,,,354,https://corona.so.ch/bevoelkerung/daten/
 20220329,10:00,TG,,114838,69,3,,2392,635,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220329,,TI,,138754,127,4,,,1154,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
