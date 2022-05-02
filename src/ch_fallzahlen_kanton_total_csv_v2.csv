@@ -1,6 +1,7 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20220502,11:30,BS,,82732,56,3,,82265,284,https://www.gesundheit.bs.ch
 20220502,,LU,,,18,,1,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
+20220502,,NW,,18449,4,0,,,36,http://www.nw.ch/coronastatistik
 20220502,,SO,,114972,9,0,,,365,https://corona.so.ch/bevoelkerung/daten/
 20220502,10:00,TG,,119641,18,1,,2607,675,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220502,,TI,,147636,76,3,,,1183,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github.xlsx
@@ -25,7 +26,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220429,,FR,,142604,42,3,,2046,574,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20220429,00:00,GE,,210887,347,4,,,,https://infocovid.smc.unige.ch/
 20220429,,LU,,178959,19,,1,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
-20220429,,NW,,18423,4,0,,,36,https://www.nw.ch/gesundheitsamtdienste/6044
+20220429,,NW,,18423,4,0,,,36,http://www.nw.ch/coronastatistik
 20220429,,SG,,212252,17,0,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220429,,SH,,32052,,,,,129,https://coviddashboard.sh.ch/
 20220429,,SO,,114779,10,0,,,365,https://corona.so.ch/bevoelkerung/daten/
@@ -36,7 +37,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220428,,FR,,142552,44,4,,2045,574,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20220428,00:00,GE,,210723,345,2,,,,https://infocovid.smc.unige.ch/
 20220428,,LU,,178873,19,,1,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
-20220428,,NW,,18419,4,2,,,36,https://www.nw.ch/gesundheitsamtdienste/6044
+20220428,,NW,,18419,4,2,,,36,http://www.nw.ch/coronastatistik
 20220428,00:00,OW,,16915,0,,,,61,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220428,,SG,,212132,17,0,0,,859,https://www.sg.ch/tools/informationen-coronavirus.html
 20220428,,SH,,32028,5,1,,,129,https://coviddashboard.sh.ch/
@@ -48,7 +49,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220427,,FR,,142479,43,2,,2047,574,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 20220427,00:00,GE,,210528,349,4,,,,https://infocovid.smc.unige.ch/
 20220427,,LU,,178785,22,,1,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
-20220427,,NW,,18407,6,1,,,36,http://www.nw.ch/coronastatistik
+20220427,,NW,,18409,6,1,,,36,http://www.nw.ch/coronastatistik
 20220427,00:00,OW,,16912,0,,,,61,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220427,,SG,,212018,17,0,0,,859,https://www.sg.ch/tools/informationen-coronavirus.html
 20220427,,SH,,32016,7,1,,,129,https://coviddashboard.sh.ch/
