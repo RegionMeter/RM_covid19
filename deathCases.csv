@@ -1,4 +1,6 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
+20220524,4107,ch,nidwalden,36,0,True
+20220524,4111,ch,solothurn,366,1,True
 20220524,4121,ch,ticino,1190,0,True
 20220523,386,si,slovenia,7760,0,False
 20220523,386011,si,pomurska,660,0,True
@@ -39,6 +41,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220523,4111,ch,solothurn,365,0,True
 20220523,4112,ch,basel_stadt,288,0,True
 20220523,4114,ch,schaffhausen,131,0,True
+20220523,4117,ch,st_gallen,860,0,True
 20220523,4120,ch,thurgau,681,0,True
 20220523,4121,ch,ticino,1190,0,True
 20220523,4124,ch,neuchatel,468,0,True
@@ -387,6 +390,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220517,4110,ch,fribourg,575,0,True
 20220517,4111,ch,solothurn,365,0,True
 20220517,4112,ch,basel_stadt,288,1,True
+20220517,4113,ch,basel_landschaft,296,0,True
 20220517,4114,ch,schaffhausen,131,1,True
 20220517,4120,ch,thurgau,681,0,True
 20220517,4121,ch,ticino,1190,0,True
