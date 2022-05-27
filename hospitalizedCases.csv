@@ -28,6 +28,9 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220527,3946,it,calabria,162,True
 20220527,3951,it,sicilia,532,True
 20220527,3952,it,sardegna,170,True
+20220527,4107,ch,nidwalden,1,True
+20220527,4111,ch,solothurn,3,True
+20220527,4112,ch,basel_stadt,16,True
 20220527,43,at,austria,452,False
 20220527,4301,at,wien,133,True
 20220527,4302,at,niederosterreich,95,True
@@ -68,6 +71,8 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220526,3951,it,sicilia,555,True
 20220526,3952,it,sardegna,159,True
 20220526,4112,ch,basel_stadt,15,True
+20220526,4125,ch,geneve,217,True
+20220526,4126,ch,jura_ch,3,True
 20220526,43,at,austria,473,False
 20220526,4301,at,wien,135,True
 20220526,4302,at,niederosterreich,103,True
@@ -113,7 +118,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220525,4111,ch,solothurn,4,True
 20220525,4112,ch,basel_stadt,13,True
 20220525,4121,ch,ticino,37,True
-20220525,4125,ch,geneve,46,True
+20220525,4125,ch,geneve,214,True
 20220525,4126,ch,jura_ch,3,True
 20220525,43,at,austria,505,False
 20220525,4301,at,wien,142,True
@@ -164,7 +169,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220524,4113,ch,basel_landschaft,8,True
 20220524,4114,ch,schaffhausen,3,True
 20220524,4121,ch,ticino,43,True
-20220524,4125,ch,geneve,50,True
+20220524,4125,ch,geneve,229,True
 20220524,4126,ch,jura_ch,4,True
 20220524,423,li,liechtenstein,0,True
 20220524,43,at,austria,539,False
@@ -218,7 +223,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220523,4120,ch,thurgau,7,True
 20220523,4121,ch,ticino,46,True
 20220523,4124,ch,neuchatel,6,True
-20220523,4125,ch,geneve,55,True
+20220523,4125,ch,geneve,233,True
 20220523,4126,ch,jura_ch,4,True
 20220523,423,li,liechtenstein,0,True
 20220523,43,at,austria,530,False
@@ -271,7 +276,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220522,4122,ch,vaud,85,True
 20220522,4123,ch,valais,23,True
 20220522,4124,ch,neuchatel,7,True
-20220522,4125,ch,geneve,54,True
+20220522,4125,ch,geneve,221,True
 20220522,4126,ch,jura_ch,4,True
 20220522,423,li,liechtenstein,0,True
 20220522,43,at,austria,561,False
@@ -322,7 +327,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220521,4120,ch,thurgau,6,True
 20220521,4123,ch,valais,23,True
 20220521,4124,ch,neuchatel,7,True
-20220521,4125,ch,geneve,56,True
+20220521,4125,ch,geneve,230,True
 20220521,4126,ch,jura_ch,4,True
 20220521,423,li,liechtenstein,0,True
 20220521,43,at,austria,580,False
