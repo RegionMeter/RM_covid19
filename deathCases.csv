@@ -1,4 +1,6 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
+20220530,4107,ch,nidwalden,36,0,True
+20220530,4120,ch,thurgau,685,0,True
 20220529,39,it,italy,166569,27,False
 20220529,3911,it,piemonte,13429,0,True
 20220529,3912,it,valle_daosta,535,0,True
@@ -21,8 +23,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220529,3946,it,calabria,2607,1,True
 20220529,3951,it,sicilia,10925,1,True
 20220529,3952,it,sardegna,2453,0,True
+20220529,4110,ch,fribourg,575,0,True
 20220529,4112,ch,basel_stadt,288,0,True
 20220529,4114,ch,schaffhausen,132,0,True
+20220529,4120,ch,thurgau,685,1,True
 20220529,4126,ch,jura_ch,244,0,True
 20220529,423,li,liechtenstein,84,0,True
 20220528,386,si,slovenia,7760,0,False
@@ -60,8 +64,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220528,3946,it,calabria,2606,7,True
 20220528,3951,it,sicilia,10924,9,True
 20220528,3952,it,sardegna,2453,3,True
+20220528,4110,ch,fribourg,575,0,True
 20220528,4112,ch,basel_stadt,288,0,True
 20220528,4114,ch,schaffhausen,132,0,True
+20220528,4120,ch,thurgau,684,0,True
 20220528,4126,ch,jura_ch,244,0,True
 20220528,423,li,liechtenstein,84,0,True
 20220528,43,at,austria,19921,0,False
@@ -110,9 +116,11 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220527,3951,it,sicilia,10915,11,True
 20220527,3952,it,sardegna,2450,3,True
 20220527,4107,ch,nidwalden,36,0,True
+20220527,4110,ch,fribourg,575,0,True
 20220527,4111,ch,solothurn,366,0,True
 20220527,4112,ch,basel_stadt,288,0,True
 20220527,4114,ch,schaffhausen,132,0,True
+20220527,4120,ch,thurgau,684,0,True
 20220527,4126,ch,jura_ch,244,0,True
 20220527,423,li,liechtenstein,84,0,True
 20220527,43,at,austria,19921,0,False
@@ -160,8 +168,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220526,3946,it,calabria,2597,5,True
 20220526,3951,it,sicilia,10904,20,True
 20220526,3952,it,sardegna,2447,5,True
+20220526,4110,ch,fribourg,575,0,True
 20220526,4112,ch,basel_stadt,288,0,True
 20220526,4114,ch,schaffhausen,132,1,True
+20220526,4120,ch,thurgau,684,0,True
 20220526,4126,ch,jura_ch,244,0,True
 20220526,423,li,liechtenstein,84,0,True
 20220526,43,at,austria,19921,7,False
@@ -212,9 +222,11 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220525,4101,ch,zurich,1801,0,True
 20220525,4107,ch,nidwalden,36,0,True
 20220525,4109,ch,zug,170,0,True
+20220525,4110,ch,fribourg,575,0,True
 20220525,4111,ch,solothurn,366,0,True
 20220525,4112,ch,basel_stadt,288,0,True
 20220525,4114,ch,schaffhausen,131,0,True
+20220525,4120,ch,thurgau,684,0,True
 20220525,4121,ch,ticino,1190,0,True
 20220525,4126,ch,jura_ch,244,0,True
 20220525,423,li,liechtenstein,84,0,True
@@ -267,9 +279,11 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220524,4106,ch,obwalden,61,0,True
 20220524,4107,ch,nidwalden,36,0,True
 20220524,4109,ch,zug,170,0,True
+20220524,4110,ch,fribourg,575,0,True
 20220524,4111,ch,solothurn,366,1,True
 20220524,4112,ch,basel_stadt,288,0,True
 20220524,4114,ch,schaffhausen,131,0,True
+20220524,4120,ch,thurgau,684,0,True
 20220524,4121,ch,ticino,1190,0,True
 20220524,4126,ch,jura_ch,244,0,True
 20220524,423,li,liechtenstein,84,0,True
@@ -322,12 +336,13 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220523,4106,ch,obwalden,61,0,True
 20220523,4107,ch,nidwalden,36,0,True
 20220523,4109,ch,zug,170,0,True
+20220523,4110,ch,fribourg,575,0,True
 20220523,4111,ch,solothurn,365,0,True
 20220523,4112,ch,basel_stadt,288,0,True
 20220523,4113,ch,basel_landschaft,296,0,True
 20220523,4114,ch,schaffhausen,131,0,True
 20220523,4117,ch,st_gallen,860,0,True
-20220523,4120,ch,thurgau,681,0,True
+20220523,4120,ch,thurgau,684,0,True
 20220523,4121,ch,ticino,1190,0,True
 20220523,4124,ch,neuchatel,468,0,True
 20220523,4126,ch,jura_ch,244,0,True
@@ -383,7 +398,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220522,4112,ch,basel_stadt,288,0,True
 20220522,4113,ch,basel_landschaft,296,0,True
 20220522,4114,ch,schaffhausen,131,0,True
-20220522,4120,ch,thurgau,681,0,True
+20220522,4120,ch,thurgau,684,0,True
 20220522,4123,ch,valais,818,0,True
 20220522,4124,ch,neuchatel,468,0,True
 20220522,4126,ch,jura_ch,244,0,True
@@ -439,7 +454,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220521,4112,ch,basel_stadt,288,0,True
 20220521,4113,ch,basel_landschaft,296,0,True
 20220521,4114,ch,schaffhausen,131,0,True
-20220521,4120,ch,thurgau,681,0,True
+20220521,4120,ch,thurgau,684,0,True
 20220521,4123,ch,valais,818,0,True
 20220521,4124,ch,neuchatel,468,0,True
 20220521,4126,ch,jura_ch,244,0,True
@@ -498,7 +513,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220520,4112,ch,basel_stadt,288,0,True
 20220520,4113,ch,basel_landschaft,296,0,True
 20220520,4114,ch,schaffhausen,131,0,True
-20220520,4120,ch,thurgau,681,0,True
+20220520,4120,ch,thurgau,684,0,True
 20220520,4121,ch,ticino,1190,0,True
 20220520,4123,ch,valais,818,0,True
 20220520,4124,ch,neuchatel,468,0,True
@@ -558,7 +573,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220519,4112,ch,basel_stadt,288,0,True
 20220519,4113,ch,basel_landschaft,296,0,True
 20220519,4114,ch,schaffhausen,131,0,True
-20220519,4120,ch,thurgau,681,0,True
+20220519,4120,ch,thurgau,684,0,True
 20220519,4121,ch,ticino,1190,0,True
 20220519,4123,ch,valais,818,0,True
 20220519,4124,ch,neuchatel,468,0,True
@@ -618,7 +633,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220518,4112,ch,basel_stadt,288,0,True
 20220518,4113,ch,basel_landschaft,296,0,True
 20220518,4114,ch,schaffhausen,131,0,True
-20220518,4120,ch,thurgau,681,0,True
+20220518,4120,ch,thurgau,684,0,True
 20220518,4121,ch,ticino,1190,0,True
 20220518,4123,ch,valais,818,1,True
 20220518,4124,ch,neuchatel,468,0,True
@@ -697,7 +712,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220517,4112,ch,basel_stadt,288,1,True
 20220517,4113,ch,basel_landschaft,296,0,True
 20220517,4114,ch,schaffhausen,131,1,True
-20220517,4120,ch,thurgau,681,0,True
+20220517,4120,ch,thurgau,684,0,True
 20220517,4121,ch,ticino,1190,0,True
 20220517,4123,ch,valais,817,0,True
 20220517,4124,ch,neuchatel,468,0,True
@@ -777,7 +792,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220516,4113,ch,basel_landschaft,296,0,True
 20220516,4114,ch,schaffhausen,130,0,True
 20220516,4117,ch,st_gallen,860,1,True
-20220516,4120,ch,thurgau,681,0,True
+20220516,4120,ch,thurgau,684,0,True
 20220516,4121,ch,ticino,1190,1,True
 20220516,4123,ch,valais,817,0,True
 20220516,4124,ch,neuchatel,468,0,True
@@ -853,7 +868,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220515,4112,ch,basel_stadt,287,0,True
 20220515,4113,ch,basel_landschaft,296,0,True
 20220515,4114,ch,schaffhausen,130,0,True
-20220515,4120,ch,thurgau,681,0,True
+20220515,4120,ch,thurgau,684,0,True
 20220515,4123,ch,valais,817,0,True
 20220515,4124,ch,neuchatel,468,0,True
 20220515,4126,ch,jura_ch,244,0,True
@@ -928,7 +943,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220514,4112,ch,basel_stadt,287,0,True
 20220514,4113,ch,basel_landschaft,296,0,True
 20220514,4114,ch,schaffhausen,130,0,True
-20220514,4120,ch,thurgau,681,0,True
+20220514,4120,ch,thurgau,684,0,True
 20220514,4123,ch,valais,817,0,True
 20220514,4124,ch,neuchatel,468,1,True
 20220514,4126,ch,jura_ch,244,0,True
@@ -1006,7 +1021,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220513,4112,ch,basel_stadt,287,1,True
 20220513,4113,ch,basel_landschaft,296,0,True
 20220513,4114,ch,schaffhausen,130,0,True
-20220513,4120,ch,thurgau,681,0,True
+20220513,4120,ch,thurgau,684,0,True
 20220513,4121,ch,ticino,1189,0,True
 20220513,4123,ch,valais,817,0,True
 20220513,4124,ch,neuchatel,467,0,True
@@ -1085,7 +1100,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220512,4112,ch,basel_stadt,286,0,True
 20220512,4113,ch,basel_landschaft,296,0,True
 20220512,4114,ch,schaffhausen,130,0,True
-20220512,4120,ch,thurgau,681,1,True
+20220512,4120,ch,thurgau,684,1,True
 20220512,4121,ch,ticino,1189,1,True
 20220512,4123,ch,valais,817,0,True
 20220512,4124,ch,neuchatel,467,0,True
@@ -1165,7 +1180,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220511,4112,ch,basel_stadt,286,1,True
 20220511,4113,ch,basel_landschaft,296,0,True
 20220511,4114,ch,schaffhausen,130,0,True
-20220511,4120,ch,thurgau,680,0,True
+20220511,4120,ch,thurgau,683,0,True
 20220511,4121,ch,ticino,1188,0,True
 20220511,4123,ch,valais,817,0,True
 20220511,4124,ch,neuchatel,467,0,True
@@ -1244,7 +1259,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220510,4112,ch,basel_stadt,285,0,True
 20220510,4113,ch,basel_landschaft,296,0,True
 20220510,4114,ch,schaffhausen,130,0,True
-20220510,4120,ch,thurgau,680,0,True
+20220510,4120,ch,thurgau,683,0,True
 20220510,4121,ch,ticino,1188,0,True
 20220510,4123,ch,valais,817,0,True
 20220510,4124,ch,neuchatel,467,0,True
@@ -1324,7 +1339,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220509,4113,ch,basel_landschaft,296,0,True
 20220509,4114,ch,schaffhausen,130,0,True
 20220509,4117,ch,st_gallen,859,0,True
-20220509,4120,ch,thurgau,680,0,True
+20220509,4120,ch,thurgau,683,0,True
 20220509,4121,ch,ticino,1188,2,True
 20220509,4123,ch,valais,817,0,True
 20220509,4124,ch,neuchatel,467,0,True
@@ -1400,7 +1415,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220508,4112,ch,basel_stadt,285,0,True
 20220508,4113,ch,basel_landschaft,296,0,True
 20220508,4114,ch,schaffhausen,130,0,True
-20220508,4120,ch,thurgau,680,1,True
+20220508,4120,ch,thurgau,683,1,True
 20220508,4123,ch,valais,817,0,True
 20220508,4124,ch,neuchatel,467,0,True
 20220508,4126,ch,jura_ch,244,0,True
@@ -1475,7 +1490,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220507,4112,ch,basel_stadt,285,0,True
 20220507,4113,ch,basel_landschaft,296,0,True
 20220507,4114,ch,schaffhausen,130,0,True
-20220507,4120,ch,thurgau,679,0,True
+20220507,4120,ch,thurgau,682,0,True
 20220507,4123,ch,valais,817,0,True
 20220507,4124,ch,neuchatel,467,0,True
 20220507,4126,ch,jura_ch,244,0,True
@@ -1553,7 +1568,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220506,4112,ch,basel_stadt,285,0,True
 20220506,4113,ch,basel_landschaft,296,0,True
 20220506,4114,ch,schaffhausen,130,1,True
-20220506,4120,ch,thurgau,679,0,True
+20220506,4120,ch,thurgau,682,0,True
 20220506,4121,ch,ticino,1186,0,True
 20220506,4123,ch,valais,817,1,True
 20220506,4124,ch,neuchatel,467,0,True
@@ -1633,7 +1648,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220505,4113,ch,basel_landschaft,296,0,True
 20220505,4114,ch,schaffhausen,129,0,True
 20220505,4117,ch,st_gallen,859,0,True
-20220505,4120,ch,thurgau,679,0,True
+20220505,4120,ch,thurgau,682,0,True
 20220505,4121,ch,ticino,1186,1,True
 20220505,4123,ch,valais,816,0,True
 20220505,4124,ch,neuchatel,467,0,True
@@ -1713,7 +1728,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220504,4113,ch,basel_landschaft,296,1,True
 20220504,4114,ch,schaffhausen,129,0,True
 20220504,4117,ch,st_gallen,859,0,True
-20220504,4120,ch,thurgau,679,0,True
+20220504,4120,ch,thurgau,682,0,True
 20220504,4121,ch,ticino,1185,0,True
 20220504,4123,ch,valais,816,0,True
 20220504,4124,ch,neuchatel,467,0,True
@@ -1793,7 +1808,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220503,4113,ch,basel_landschaft,295,0,True
 20220503,4114,ch,schaffhausen,129,0,True
 20220503,4117,ch,st_gallen,859,0,True
-20220503,4120,ch,thurgau,679,1,True
+20220503,4120,ch,thurgau,682,1,True
 20220503,4121,ch,ticino,1185,2,True
 20220503,4123,ch,valais,816,0,True
 20220503,4124,ch,neuchatel,467,1,True
@@ -1873,7 +1888,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220502,4113,ch,basel_landschaft,295,0,True
 20220502,4114,ch,schaffhausen,129,0,True
 20220502,4117,ch,st_gallen,859,0,True
-20220502,4120,ch,thurgau,678,0,True
+20220502,4120,ch,thurgau,681,0,True
 20220502,4121,ch,ticino,1183,1,True
 20220502,4123,ch,valais,816,0,True
 20220502,4124,ch,neuchatel,466,2,True
@@ -1950,7 +1965,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220501,4113,ch,basel_landschaft,295,0,True
 20220501,4114,ch,schaffhausen,129,0,True
 20220501,4117,ch,st_gallen,859,0,True
-20220501,4120,ch,thurgau,678,0,True
+20220501,4120,ch,thurgau,681,0,True
 20220501,4123,ch,valais,816,0,True
 20220501,4124,ch,neuchatel,464,1,True
 20220501,4126,ch,jura_ch,244,0,True
@@ -2025,7 +2040,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220430,4112,ch,basel_stadt,284,0,True
 20220430,4113,ch,basel_landschaft,295,0,True
 20220430,4114,ch,schaffhausen,129,0,True
-20220430,4120,ch,thurgau,678,1,True
+20220430,4120,ch,thurgau,681,1,True
 20220430,4123,ch,valais,816,0,True
 20220430,4124,ch,neuchatel,463,0,True
 20220430,4126,ch,jura_ch,244,0,True
@@ -2103,7 +2118,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220429,4112,ch,basel_stadt,284,0,True
 20220429,4113,ch,basel_landschaft,295,0,True
 20220429,4114,ch,schaffhausen,129,0,True
-20220429,4120,ch,thurgau,677,0,True
+20220429,4120,ch,thurgau,680,0,True
 20220429,4121,ch,ticino,1182,2,True
 20220429,4123,ch,valais,816,0,True
 20220429,4124,ch,neuchatel,463,0,True
@@ -2183,7 +2198,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220428,4113,ch,basel_landschaft,295,0,True
 20220428,4114,ch,schaffhausen,129,0,True
 20220428,4117,ch,st_gallen,859,0,True
-20220428,4120,ch,thurgau,677,0,True
+20220428,4120,ch,thurgau,680,0,True
 20220428,4121,ch,ticino,1180,1,True
 20220428,4123,ch,valais,816,0,True
 20220428,4124,ch,neuchatel,463,0,True
@@ -2263,7 +2278,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220427,4113,ch,basel_landschaft,295,0,True
 20220427,4114,ch,schaffhausen,129,0,True
 20220427,4117,ch,st_gallen,859,0,True
-20220427,4120,ch,thurgau,677,0,True
+20220427,4120,ch,thurgau,680,0,True
 20220427,4121,ch,ticino,1179,0,True
 20220427,4123,ch,valais,816,0,True
 20220427,4124,ch,neuchatel,463,1,True
@@ -2343,7 +2358,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220426,4113,ch,basel_landschaft,295,0,True
 20220426,4114,ch,schaffhausen,129,0,True
 20220426,4117,ch,st_gallen,859,1,True
-20220426,4120,ch,thurgau,677,0,True
+20220426,4120,ch,thurgau,680,0,True
 20220426,4121,ch,ticino,1179,1,True
 20220426,4123,ch,valais,816,0,True
 20220426,4124,ch,neuchatel,462,0,True
@@ -2423,7 +2438,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220425,4113,ch,basel_landschaft,295,0,True
 20220425,4114,ch,schaffhausen,129,1,True
 20220425,4117,ch,st_gallen,858,0,True
-20220425,4120,ch,thurgau,677,0,True
+20220425,4120,ch,thurgau,680,0,True
 20220425,4121,ch,ticino,1178,1,True
 20220425,4123,ch,valais,816,0,True
 20220425,4124,ch,neuchatel,462,0,True
@@ -2500,7 +2515,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220424,4113,ch,basel_landschaft,295,0,True
 20220424,4114,ch,schaffhausen,128,0,True
 20220424,4117,ch,st_gallen,858,1,True
-20220424,4120,ch,thurgau,677,0,True
+20220424,4120,ch,thurgau,680,0,True
 20220424,4123,ch,valais,816,0,True
 20220424,4124,ch,neuchatel,462,0,True
 20220424,4126,ch,jura_ch,244,0,True
@@ -2575,7 +2590,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220423,4112,ch,basel_stadt,283,0,True
 20220423,4113,ch,basel_landschaft,295,0,True
 20220423,4114,ch,schaffhausen,128,0,True
-20220423,4120,ch,thurgau,677,0,True
+20220423,4120,ch,thurgau,680,0,True
 20220423,4123,ch,valais,816,1,True
 20220423,4124,ch,neuchatel,462,0,True
 20220423,4126,ch,jura_ch,244,0,True
@@ -2653,7 +2668,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220422,4112,ch,basel_stadt,283,1,True
 20220422,4113,ch,basel_landschaft,295,0,True
 20220422,4114,ch,schaffhausen,128,1,True
-20220422,4120,ch,thurgau,677,1,True
+20220422,4120,ch,thurgau,680,1,True
 20220422,4121,ch,ticino,1177,0,True
 20220422,4123,ch,valais,815,0,True
 20220422,4124,ch,neuchatel,462,0,True
@@ -2733,7 +2748,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220421,4113,ch,basel_landschaft,295,0,True
 20220421,4114,ch,schaffhausen,127,1,True
 20220421,4117,ch,st_gallen,857,0,True
-20220421,4120,ch,thurgau,676,1,True
+20220421,4120,ch,thurgau,679,1,True
 20220421,4121,ch,ticino,1177,2,True
 20220421,4123,ch,valais,815,0,True
 20220421,4124,ch,neuchatel,462,0,True
@@ -2813,7 +2828,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220420,4113,ch,basel_landschaft,295,0,True
 20220420,4114,ch,schaffhausen,126,0,True
 20220420,4117,ch,st_gallen,857,0,True
-20220420,4120,ch,thurgau,675,0,True
+20220420,4120,ch,thurgau,678,0,True
 20220420,4121,ch,ticino,1175,0,True
 20220420,4123,ch,valais,815,0,True
 20220420,4124,ch,neuchatel,462,0,True
@@ -2893,7 +2908,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220419,4113,ch,basel_landschaft,295,0,True
 20220419,4114,ch,schaffhausen,126,0,True
 20220419,4117,ch,st_gallen,857,0,True
-20220419,4120,ch,thurgau,675,0,True
+20220419,4120,ch,thurgau,678,0,True
 20220419,4121,ch,ticino,1175,0,True
 20220419,4123,ch,valais,815,0,True
 20220419,4124,ch,neuchatel,462,1,True
@@ -2971,7 +2986,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220418,4113,ch,basel_landschaft,295,0,True
 20220418,4114,ch,schaffhausen,126,0,True
 20220418,4117,ch,st_gallen,857,0,True
-20220418,4120,ch,thurgau,675,0,True
+20220418,4120,ch,thurgau,678,0,True
 20220418,4123,ch,valais,815,0,True
 20220418,4124,ch,neuchatel,461,0,True
 20220418,4126,ch,jura_ch,244,0,True
@@ -3046,7 +3061,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220417,4112,ch,basel_stadt,282,0,True
 20220417,4113,ch,basel_landschaft,295,0,True
 20220417,4114,ch,schaffhausen,126,0,True
-20220417,4120,ch,thurgau,675,3,True
+20220417,4120,ch,thurgau,678,3,True
 20220417,4123,ch,valais,815,0,True
 20220417,4124,ch,neuchatel,461,0,True
 20220417,4126,ch,jura_ch,244,0,True
@@ -3121,7 +3136,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220416,4112,ch,basel_stadt,282,0,True
 20220416,4113,ch,basel_landschaft,295,0,True
 20220416,4114,ch,schaffhausen,126,0,True
-20220416,4120,ch,thurgau,672,3,True
+20220416,4120,ch,thurgau,675,3,True
 20220416,4123,ch,valais,815,0,True
 20220416,4124,ch,neuchatel,461,0,True
 20220416,4126,ch,jura_ch,244,0,True
@@ -3197,7 +3212,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220415,4112,ch,basel_stadt,282,0,True
 20220415,4113,ch,basel_landschaft,295,0,True
 20220415,4114,ch,schaffhausen,126,0,True
-20220415,4120,ch,thurgau,669,0,True
+20220415,4120,ch,thurgau,672,0,True
 20220415,4121,ch,ticino,1175,2,True
 20220415,4123,ch,valais,815,0,True
 20220415,4124,ch,neuchatel,461,0,True
@@ -3275,7 +3290,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220414,4112,ch,basel_stadt,282,0,True
 20220414,4113,ch,basel_landschaft,295,2,True
 20220414,4114,ch,schaffhausen,126,0,True
-20220414,4120,ch,thurgau,669,0,True
+20220414,4120,ch,thurgau,672,0,True
 20220414,4121,ch,ticino,1173,2,True
 20220414,4123,ch,valais,815,0,True
 20220414,4124,ch,neuchatel,461,1,True
@@ -3353,7 +3368,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220413,4113,ch,basel_landschaft,293,0,True
 20220413,4114,ch,schaffhausen,126,0,True
 20220413,4117,ch,st_gallen,857,1,True
-20220413,4120,ch,thurgau,669,1,True
+20220413,4120,ch,thurgau,672,1,True
 20220413,4121,ch,ticino,1171,2,True
 20220413,4123,ch,valais,815,0,True
 20220413,4124,ch,neuchatel,460,1,True
@@ -3432,7 +3447,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220412,4112,ch,basel_stadt,282,0,True
 20220412,4113,ch,basel_landschaft,293,0,True
 20220412,4114,ch,schaffhausen,126,0,True
-20220412,4120,ch,thurgau,668,2,True
+20220412,4120,ch,thurgau,671,2,True
 20220412,4121,ch,ticino,1169,1,True
 20220412,4123,ch,valais,815,0,True
 20220412,4124,ch,neuchatel,459,0,True
@@ -3512,7 +3527,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220411,4113,ch,basel_landschaft,293,0,True
 20220411,4114,ch,schaffhausen,126,0,True
 20220411,4117,ch,st_gallen,856,0,True
-20220411,4120,ch,thurgau,666,1,True
+20220411,4120,ch,thurgau,669,1,True
 20220411,4121,ch,ticino,1168,4,True
 20220411,4123,ch,valais,815,1,True
 20220411,4124,ch,neuchatel,459,0,True
@@ -3589,7 +3604,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220410,4113,ch,basel_landschaft,293,0,True
 20220410,4114,ch,schaffhausen,126,0,True
 20220410,4117,ch,st_gallen,856,0,True
-20220410,4120,ch,thurgau,665,0,True
+20220410,4120,ch,thurgau,668,0,True
 20220410,4123,ch,valais,814,0,True
 20220410,4124,ch,neuchatel,459,0,True
 20220410,4126,ch,jura_ch,244,0,True
@@ -3664,7 +3679,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220409,4112,ch,basel_stadt,281,0,True
 20220409,4113,ch,basel_landschaft,293,0,True
 20220409,4114,ch,schaffhausen,126,0,True
-20220409,4120,ch,thurgau,665,1,True
+20220409,4120,ch,thurgau,668,1,True
 20220409,4123,ch,valais,814,0,True
 20220409,4124,ch,neuchatel,459,0,True
 20220409,4126,ch,jura_ch,244,0,True
@@ -3741,7 +3756,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220408,4112,ch,basel_stadt,281,0,True
 20220408,4113,ch,basel_landschaft,293,0,True
 20220408,4114,ch,schaffhausen,126,1,True
-20220408,4120,ch,thurgau,664,1,True
+20220408,4120,ch,thurgau,667,1,True
 20220408,4121,ch,ticino,1164,0,True
 20220408,4123,ch,valais,814,0,True
 20220408,4124,ch,neuchatel,459,0,True
@@ -3820,7 +3835,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220407,4113,ch,basel_landschaft,293,1,True
 20220407,4114,ch,schaffhausen,125,0,True
 20220407,4117,ch,st_gallen,856,1,True
-20220407,4120,ch,thurgau,663,1,True
+20220407,4120,ch,thurgau,666,1,True
 20220407,4121,ch,ticino,1164,1,True
 20220407,4123,ch,valais,814,0,True
 20220407,4124,ch,neuchatel,459,0,True
@@ -3900,7 +3915,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220406,4113,ch,basel_landschaft,292,0,True
 20220406,4114,ch,schaffhausen,125,0,True
 20220406,4117,ch,st_gallen,855,0,True
-20220406,4120,ch,thurgau,662,1,True
+20220406,4120,ch,thurgau,665,1,True
 20220406,4121,ch,ticino,1163,0,True
 20220406,4123,ch,valais,814,0,True
 20220406,4124,ch,neuchatel,459,0,True
@@ -3980,7 +3995,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220405,4113,ch,basel_landschaft,292,0,True
 20220405,4114,ch,schaffhausen,125,0,True
 20220405,4117,ch,st_gallen,855,0,True
-20220405,4120,ch,thurgau,661,2,True
+20220405,4120,ch,thurgau,664,2,True
 20220405,4121,ch,ticino,1163,0,True
 20220405,4123,ch,valais,814,0,True
 20220405,4124,ch,neuchatel,459,0,True
@@ -4060,7 +4075,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220404,4113,ch,basel_landschaft,292,0,True
 20220404,4114,ch,schaffhausen,125,1,True
 20220404,4117,ch,st_gallen,855,0,True
-20220404,4120,ch,thurgau,659,0,True
+20220404,4120,ch,thurgau,662,0,True
 20220404,4121,ch,ticino,1163,3,True
 20220404,4123,ch,valais,814,0,True
 20220404,4124,ch,neuchatel,459,0,True
@@ -4137,7 +4152,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220403,4113,ch,basel_landschaft,292,0,True
 20220403,4114,ch,schaffhausen,124,0,True
 20220403,4117,ch,st_gallen,855,0,True
-20220403,4120,ch,thurgau,659,0,True
+20220403,4120,ch,thurgau,662,0,True
 20220403,4123,ch,valais,814,0,True
 20220403,4124,ch,neuchatel,459,0,True
 20220403,4126,ch,jura_ch,244,0,True
@@ -4212,7 +4227,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220402,4112,ch,basel_stadt,279,2,True
 20220402,4113,ch,basel_landschaft,292,1,True
 20220402,4114,ch,schaffhausen,124,0,True
-20220402,4120,ch,thurgau,659,1,True
+20220402,4120,ch,thurgau,662,1,True
 20220402,4123,ch,valais,814,0,True
 20220402,4124,ch,neuchatel,459,0,True
 20220402,4126,ch,jura_ch,244,0,True
@@ -4290,7 +4305,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220401,4112,ch,basel_stadt,277,0,True
 20220401,4113,ch,basel_landschaft,291,1,True
 20220401,4114,ch,schaffhausen,124,0,True
-20220401,4120,ch,thurgau,658,3,True
+20220401,4120,ch,thurgau,661,3,True
 20220401,4121,ch,ticino,1160,2,True
 20220401,4123,ch,valais,814,0,True
 20220401,4124,ch,neuchatel,459,0,True
@@ -4374,7 +4389,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220331,4116,ch,appenzell_innerrhoden,25,0,True
 20220331,4117,ch,st_gallen,855,0,True
 20220331,4118,ch,graubunden,255,0,True
-20220331,4120,ch,thurgau,655,1,True
+20220331,4120,ch,thurgau,658,1,True
 20220331,4121,ch,ticino,1158,1,True
 20220331,4123,ch,valais,814,0,True
 20220331,4124,ch,neuchatel,459,0,True
@@ -4458,7 +4473,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220330,4116,ch,appenzell_innerrhoden,25,0,True
 20220330,4117,ch,st_gallen,855,0,True
 20220330,4118,ch,graubunden,255,1,True
-20220330,4120,ch,thurgau,654,1,True
+20220330,4120,ch,thurgau,657,1,True
 20220330,4121,ch,ticino,1157,3,True
 20220330,4123,ch,valais,814,0,True
 20220330,4124,ch,neuchatel,459,0,True
@@ -4542,7 +4557,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220329,4116,ch,appenzell_innerrhoden,25,1,True
 20220329,4117,ch,st_gallen,855,0,True
 20220329,4118,ch,graubunden,254,0,True
-20220329,4120,ch,thurgau,653,1,True
+20220329,4120,ch,thurgau,656,1,True
 20220329,4121,ch,ticino,1154,0,True
 20220329,4123,ch,valais,814,0,True
 20220329,4124,ch,neuchatel,459,0,True
@@ -4626,7 +4641,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220328,4114,ch,schaffhausen,120,1,True
 20220328,4117,ch,st_gallen,855,0,True
 20220328,4118,ch,graubunden,254,0,True
-20220328,4120,ch,thurgau,652,1,True
+20220328,4120,ch,thurgau,655,1,True
 20220328,4121,ch,ticino,1154,4,True
 20220328,4123,ch,valais,814,1,True
 20220328,4124,ch,neuchatel,459,1,True
@@ -4706,7 +4721,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220327,4114,ch,schaffhausen,119,0,True
 20220327,4117,ch,st_gallen,855,1,True
 20220327,4118,ch,graubunden,254,0,True
-20220327,4120,ch,thurgau,651,2,True
+20220327,4120,ch,thurgau,654,2,True
 20220327,4123,ch,valais,813,0,True
 20220327,4124,ch,neuchatel,458,0,True
 20220327,4126,ch,jura_ch,244,0,True
@@ -4784,7 +4799,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220326,4113,ch,basel_landschaft,289,0,True
 20220326,4114,ch,schaffhausen,119,0,True
 20220326,4118,ch,graubunden,254,0,True
-20220326,4120,ch,thurgau,649,2,True
+20220326,4120,ch,thurgau,652,2,True
 20220326,4123,ch,valais,813,0,True
 20220326,4124,ch,neuchatel,458,0,True
 20220326,4126,ch,jura_ch,244,0,True
@@ -4865,7 +4880,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220325,4113,ch,basel_landschaft,289,0,True
 20220325,4114,ch,schaffhausen,119,0,True
 20220325,4118,ch,graubunden,254,1,True
-20220325,4120,ch,thurgau,647,0,True
+20220325,4120,ch,thurgau,650,0,True
 20220325,4121,ch,ticino,1150,1,True
 20220325,4123,ch,valais,813,0,True
 20220325,4124,ch,neuchatel,458,0,True
@@ -4948,7 +4963,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220324,4116,ch,appenzell_innerrhoden,24,0,True
 20220324,4117,ch,st_gallen,854,2,True
 20220324,4118,ch,graubunden,253,2,True
-20220324,4120,ch,thurgau,647,0,True
+20220324,4120,ch,thurgau,650,0,True
 20220324,4121,ch,ticino,1149,2,True
 20220324,4123,ch,valais,813,0,True
 20220324,4124,ch,neuchatel,458,0,True
@@ -5033,7 +5048,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220323,4116,ch,appenzell_innerrhoden,24,0,True
 20220323,4117,ch,st_gallen,852,1,True
 20220323,4118,ch,graubunden,251,0,True
-20220323,4120,ch,thurgau,647,2,True
+20220323,4120,ch,thurgau,650,2,True
 20220323,4121,ch,ticino,1147,2,True
 20220323,4123,ch,valais,813,2,True
 20220323,4124,ch,neuchatel,458,0,True
@@ -5118,7 +5133,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220322,4116,ch,appenzell_innerrhoden,24,0,True
 20220322,4117,ch,st_gallen,851,0,True
 20220322,4118,ch,graubunden,251,0,True
-20220322,4120,ch,thurgau,645,0,True
+20220322,4120,ch,thurgau,648,0,True
 20220322,4121,ch,ticino,1145,1,True
 20220322,4123,ch,valais,811,0,True
 20220322,4124,ch,neuchatel,458,0,True
@@ -5201,7 +5216,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220321,4114,ch,schaffhausen,117,2,True
 20220321,4117,ch,st_gallen,851,0,True
 20220321,4118,ch,graubunden,251,0,True
-20220321,4120,ch,thurgau,645,2,True
+20220321,4120,ch,thurgau,648,2,True
 20220321,4121,ch,ticino,1144,0,True
 20220321,4123,ch,valais,811,0,True
 20220321,4124,ch,neuchatel,458,0,True
@@ -5283,7 +5298,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220320,4114,ch,schaffhausen,115,0,True
 20220320,4117,ch,st_gallen,851,1,True
 20220320,4118,ch,graubunden,251,0,True
-20220320,4120,ch,thurgau,643,0,True
+20220320,4120,ch,thurgau,646,0,True
 20220320,4123,ch,valais,811,0,True
 20220320,4124,ch,neuchatel,458,0,True
 20220320,4125,ch,geneve,995,0,True
@@ -5363,7 +5378,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220319,4113,ch,basel_landschaft,286,0,True
 20220319,4114,ch,schaffhausen,115,0,True
 20220319,4118,ch,graubunden,251,0,True
-20220319,4120,ch,thurgau,643,0,True
+20220319,4120,ch,thurgau,646,0,True
 20220319,4123,ch,valais,811,0,True
 20220319,4124,ch,neuchatel,458,0,True
 20220319,4125,ch,geneve,995,0,True
@@ -5446,7 +5461,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220318,4114,ch,schaffhausen,115,1,True
 20220318,4116,ch,appenzell_innerrhoden,24,0,True
 20220318,4118,ch,graubunden,251,0,True
-20220318,4120,ch,thurgau,643,2,True
+20220318,4120,ch,thurgau,646,2,True
 20220318,4121,ch,ticino,1144,0,True
 20220318,4123,ch,valais,811,2,True
 20220318,4124,ch,neuchatel,458,1,True
@@ -5531,7 +5546,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220317,4116,ch,appenzell_innerrhoden,24,0,True
 20220317,4117,ch,st_gallen,850,1,True
 20220317,4118,ch,graubunden,251,0,True
-20220317,4120,ch,thurgau,641,1,True
+20220317,4120,ch,thurgau,644,1,True
 20220317,4121,ch,ticino,1144,0,True
 20220317,4123,ch,valais,809,3,True
 20220317,4124,ch,neuchatel,457,0,True
@@ -5616,7 +5631,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220316,4116,ch,appenzell_innerrhoden,24,0,True
 20220316,4117,ch,st_gallen,849,2,True
 20220316,4118,ch,graubunden,251,0,True
-20220316,4120,ch,thurgau,640,2,True
+20220316,4120,ch,thurgau,643,2,True
 20220316,4121,ch,ticino,1144,1,True
 20220316,4123,ch,valais,806,1,True
 20220316,4124,ch,neuchatel,457,1,True
@@ -5701,7 +5716,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220315,4116,ch,appenzell_innerrhoden,24,0,True
 20220315,4117,ch,st_gallen,847,1,True
 20220315,4118,ch,graubunden,251,0,True
-20220315,4120,ch,thurgau,638,1,True
+20220315,4120,ch,thurgau,641,1,True
 20220315,4121,ch,ticino,1143,0,True
 20220315,4123,ch,valais,805,0,True
 20220315,4124,ch,neuchatel,456,0,True
@@ -5785,7 +5800,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220314,4114,ch,schaffhausen,113,0,True
 20220314,4117,ch,st_gallen,846,0,True
 20220314,4118,ch,graubunden,251,0,True
-20220314,4120,ch,thurgau,637,0,True
+20220314,4120,ch,thurgau,640,0,True
 20220314,4121,ch,ticino,1143,3,True
 20220314,4123,ch,valais,805,1,True
 20220314,4124,ch,neuchatel,456,0,True
@@ -5866,7 +5881,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220313,4114,ch,schaffhausen,113,0,True
 20220313,4117,ch,st_gallen,846,4,True
 20220313,4118,ch,graubunden,251,0,True
-20220313,4120,ch,thurgau,637,0,True
+20220313,4120,ch,thurgau,640,0,True
 20220313,4123,ch,valais,804,1,True
 20220313,4124,ch,neuchatel,456,0,True
 20220313,4125,ch,geneve,995,0,True
@@ -5946,7 +5961,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220312,4113,ch,basel_landschaft,281,1,True
 20220312,4114,ch,schaffhausen,113,0,True
 20220312,4118,ch,graubunden,251,0,True
-20220312,4120,ch,thurgau,637,4,True
+20220312,4120,ch,thurgau,640,4,True
 20220312,4123,ch,valais,803,0,True
 20220312,4124,ch,neuchatel,456,0,True
 20220312,4125,ch,geneve,995,0,True
@@ -6029,7 +6044,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220311,4114,ch,schaffhausen,113,1,True
 20220311,4116,ch,appenzell_innerrhoden,24,0,True
 20220311,4118,ch,graubunden,251,0,True
-20220311,4120,ch,thurgau,633,0,True
+20220311,4120,ch,thurgau,636,0,True
 20220311,4121,ch,ticino,1140,1,True
 20220311,4123,ch,valais,803,0,True
 20220311,4124,ch,neuchatel,456,0,True
@@ -6115,7 +6130,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220310,4116,ch,appenzell_innerrhoden,24,0,True
 20220310,4117,ch,st_gallen,842,0,True
 20220310,4118,ch,graubunden,251,0,True
-20220310,4120,ch,thurgau,633,1,True
+20220310,4120,ch,thurgau,636,1,True
 20220310,4121,ch,ticino,1139,4,True
 20220310,4123,ch,valais,803,1,True
 20220310,4124,ch,neuchatel,456,0,True
@@ -6200,7 +6215,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220309,4116,ch,appenzell_innerrhoden,24,0,True
 20220309,4117,ch,st_gallen,842,0,True
 20220309,4118,ch,graubunden,251,0,True
-20220309,4120,ch,thurgau,632,1,True
+20220309,4120,ch,thurgau,635,1,True
 20220309,4121,ch,ticino,1135,1,True
 20220309,4123,ch,valais,802,1,True
 20220309,4124,ch,neuchatel,456,0,True
@@ -6285,7 +6300,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220308,4116,ch,appenzell_innerrhoden,24,0,True
 20220308,4117,ch,st_gallen,842,1,True
 20220308,4118,ch,graubunden,251,0,True
-20220308,4120,ch,thurgau,631,1,True
+20220308,4120,ch,thurgau,634,1,True
 20220308,4121,ch,ticino,1134,1,True
 20220308,4123,ch,valais,801,0,True
 20220308,4124,ch,neuchatel,456,0,True
@@ -6370,7 +6385,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220307,4114,ch,schaffhausen,111,0,True
 20220307,4117,ch,st_gallen,841,0,True
 20220307,4118,ch,graubunden,251,0,True
-20220307,4120,ch,thurgau,630,1,True
+20220307,4120,ch,thurgau,633,1,True
 20220307,4121,ch,ticino,1133,4,True
 20220307,4123,ch,valais,801,1,True
 20220307,4124,ch,neuchatel,456,0,True
@@ -6453,7 +6468,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220306,4114,ch,schaffhausen,111,0,True
 20220306,4117,ch,st_gallen,841,2,True
 20220306,4118,ch,graubunden,251,0,True
-20220306,4120,ch,thurgau,629,0,True
+20220306,4120,ch,thurgau,632,0,True
 20220306,4123,ch,valais,800,1,True
 20220306,4124,ch,neuchatel,456,0,True
 20220306,4125,ch,geneve,994,0,True
@@ -6533,7 +6548,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220305,4113,ch,basel_landschaft,277,0,True
 20220305,4114,ch,schaffhausen,111,0,True
 20220305,4118,ch,graubunden,251,0,True
-20220305,4120,ch,thurgau,629,1,True
+20220305,4120,ch,thurgau,632,1,True
 20220305,4123,ch,valais,799,0,True
 20220305,4124,ch,neuchatel,456,0,True
 20220305,4125,ch,geneve,994,0,True
@@ -6616,7 +6631,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220304,4114,ch,schaffhausen,111,0,True
 20220304,4116,ch,appenzell_innerrhoden,24,0,True
 20220304,4118,ch,graubunden,251,1,True
-20220304,4120,ch,thurgau,628,0,True
+20220304,4120,ch,thurgau,631,0,True
 20220304,4121,ch,ticino,1129,0,True
 20220304,4123,ch,valais,799,0,True
 20220304,4124,ch,neuchatel,456,0,True
@@ -6701,7 +6716,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220303,4117,ch,st_gallen,839,0,True
 20220303,4118,ch,graubunden,250,0,True
 20220303,4119,ch,aargau,924,0,True
-20220303,4120,ch,thurgau,628,0,True
+20220303,4120,ch,thurgau,631,0,True
 20220303,4121,ch,ticino,1129,2,True
 20220303,4123,ch,valais,799,0,True
 20220303,4124,ch,neuchatel,456,0,True
@@ -6788,7 +6803,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220302,4117,ch,st_gallen,839,0,True
 20220302,4118,ch,graubunden,250,0,True
 20220302,4119,ch,aargau,924,2,True
-20220302,4120,ch,thurgau,628,0,True
+20220302,4120,ch,thurgau,631,0,True
 20220302,4121,ch,ticino,1127,1,True
 20220302,4123,ch,valais,799,0,True
 20220302,4124,ch,neuchatel,456,0,True
@@ -6875,7 +6890,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220301,4117,ch,st_gallen,839,1,True
 20220301,4118,ch,graubunden,250,1,True
 20220301,4119,ch,aargau,922,0,True
-20220301,4120,ch,thurgau,628,0,True
+20220301,4120,ch,thurgau,631,0,True
 20220301,4121,ch,ticino,1126,0,True
 20220301,4123,ch,valais,799,0,True
 20220301,4124,ch,neuchatel,456,0,True
@@ -6961,7 +6976,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220228,4117,ch,st_gallen,838,1,True
 20220228,4118,ch,graubunden,249,1,True
 20220228,4119,ch,aargau,922,0,True
-20220228,4120,ch,thurgau,628,0,True
+20220228,4120,ch,thurgau,631,0,True
 20220228,4121,ch,ticino,1126,5,True
 20220228,4123,ch,valais,799,0,True
 20220228,4124,ch,neuchatel,456,0,True
@@ -7045,7 +7060,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220227,4117,ch,st_gallen,837,3,True
 20220227,4118,ch,graubunden,248,0,True
 20220227,4119,ch,aargau,922,0,True
-20220227,4120,ch,thurgau,628,1,True
+20220227,4120,ch,thurgau,631,1,True
 20220227,4123,ch,valais,799,1,True
 20220227,4124,ch,neuchatel,456,0,True
 20220227,4125,ch,geneve,994,0,True
@@ -7126,7 +7141,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220226,4114,ch,schaffhausen,109,0,True
 20220226,4118,ch,graubunden,248,0,True
 20220226,4119,ch,aargau,922,1,True
-20220226,4120,ch,thurgau,627,1,True
+20220226,4120,ch,thurgau,630,1,True
 20220226,4123,ch,valais,798,0,True
 20220226,4124,ch,neuchatel,456,0,True
 20220226,4125,ch,geneve,994,0,True
@@ -7210,7 +7225,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220225,4116,ch,appenzell_innerrhoden,24,0,True
 20220225,4118,ch,graubunden,248,1,True
 20220225,4119,ch,aargau,921,1,True
-20220225,4120,ch,thurgau,626,2,True
+20220225,4120,ch,thurgau,629,2,True
 20220225,4121,ch,ticino,1121,1,True
 20220225,4123,ch,valais,798,1,True
 20220225,4124,ch,neuchatel,456,1,True
@@ -7296,7 +7311,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220224,4117,ch,st_gallen,834,0,True
 20220224,4118,ch,graubunden,247,1,True
 20220224,4119,ch,aargau,920,0,True
-20220224,4120,ch,thurgau,624,1,True
+20220224,4120,ch,thurgau,627,1,True
 20220224,4121,ch,ticino,1120,0,True
 20220224,4123,ch,valais,797,0,True
 20220224,4124,ch,neuchatel,455,0,True
@@ -7383,7 +7398,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220223,4117,ch,st_gallen,834,0,True
 20220223,4118,ch,graubunden,246,0,True
 20220223,4119,ch,aargau,920,1,True
-20220223,4120,ch,thurgau,623,2,True
+20220223,4120,ch,thurgau,626,2,True
 20220223,4121,ch,ticino,1120,1,True
 20220223,4123,ch,valais,797,1,True
 20220223,4124,ch,neuchatel,455,0,True
@@ -7470,7 +7485,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220222,4117,ch,st_gallen,834,0,True
 20220222,4118,ch,graubunden,246,0,True
 20220222,4119,ch,aargau,919,3,True
-20220222,4120,ch,thurgau,621,1,True
+20220222,4120,ch,thurgau,624,1,True
 20220222,4121,ch,ticino,1119,1,True
 20220222,4123,ch,valais,796,2,True
 20220222,4124,ch,neuchatel,455,1,True
@@ -7556,7 +7571,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220221,4117,ch,st_gallen,834,0,True
 20220221,4118,ch,graubunden,246,0,True
 20220221,4119,ch,aargau,916,1,True
-20220221,4120,ch,thurgau,620,3,True
+20220221,4120,ch,thurgau,623,3,True
 20220221,4121,ch,ticino,1118,0,True
 20220221,4123,ch,valais,794,0,True
 20220221,4124,ch,neuchatel,454,1,True
@@ -7639,7 +7654,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220220,4117,ch,st_gallen,834,0,True
 20220220,4118,ch,graubunden,246,0,True
 20220220,4119,ch,aargau,915,0,True
-20220220,4120,ch,thurgau,617,2,True
+20220220,4120,ch,thurgau,620,2,True
 20220220,4123,ch,valais,794,1,True
 20220220,4124,ch,neuchatel,453,0,True
 20220220,4125,ch,geneve,987,1,True
@@ -7721,7 +7736,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220219,4114,ch,schaffhausen,106,0,True
 20220219,4118,ch,graubunden,246,2,True
 20220219,4119,ch,aargau,915,4,True
-20220219,4120,ch,thurgau,615,2,True
+20220219,4120,ch,thurgau,618,2,True
 20220219,4123,ch,valais,793,1,True
 20220219,4124,ch,neuchatel,453,0,True
 20220219,4125,ch,geneve,986,0,True
@@ -7805,7 +7820,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220218,4116,ch,appenzell_innerrhoden,24,0,True
 20220218,4118,ch,graubunden,244,0,True
 20220218,4119,ch,aargau,911,2,True
-20220218,4120,ch,thurgau,613,0,True
+20220218,4120,ch,thurgau,616,0,True
 20220218,4121,ch,ticino,1118,0,True
 20220218,4123,ch,valais,792,0,True
 20220218,4124,ch,neuchatel,453,1,True
@@ -7891,7 +7906,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220217,4117,ch,st_gallen,834,1,True
 20220217,4118,ch,graubunden,244,1,True
 20220217,4119,ch,aargau,909,2,True
-20220217,4120,ch,thurgau,613,1,True
+20220217,4120,ch,thurgau,616,1,True
 20220217,4121,ch,ticino,1118,1,True
 20220217,4123,ch,valais,792,0,True
 20220217,4124,ch,neuchatel,452,1,True
@@ -7978,7 +7993,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220216,4117,ch,st_gallen,833,0,True
 20220216,4118,ch,graubunden,243,0,True
 20220216,4119,ch,aargau,907,1,True
-20220216,4120,ch,thurgau,612,0,True
+20220216,4120,ch,thurgau,615,0,True
 20220216,4121,ch,ticino,1117,1,True
 20220216,4123,ch,valais,792,1,True
 20220216,4124,ch,neuchatel,451,0,True
@@ -8066,7 +8081,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220215,4117,ch,st_gallen,833,0,True
 20220215,4118,ch,graubunden,243,0,True
 20220215,4119,ch,aargau,906,1,True
-20220215,4120,ch,thurgau,612,0,True
+20220215,4120,ch,thurgau,615,0,True
 20220215,4121,ch,ticino,1116,1,True
 20220215,4123,ch,valais,791,0,True
 20220215,4124,ch,neuchatel,451,0,True
@@ -8152,7 +8167,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220214,4117,ch,st_gallen,833,1,True
 20220214,4118,ch,graubunden,243,0,True
 20220214,4119,ch,aargau,905,0,True
-20220214,4120,ch,thurgau,612,1,True
+20220214,4120,ch,thurgau,615,1,True
 20220214,4121,ch,ticino,1115,2,True
 20220214,4123,ch,valais,791,1,True
 20220214,4124,ch,neuchatel,451,0,True
@@ -8235,7 +8250,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220213,4117,ch,st_gallen,832,0,True
 20220213,4118,ch,graubunden,243,0,True
 20220213,4119,ch,aargau,905,1,True
-20220213,4120,ch,thurgau,611,0,True
+20220213,4120,ch,thurgau,614,0,True
 20220213,4121,ch,ticino,1113,2,True
 20220213,4123,ch,valais,790,0,True
 20220213,4124,ch,neuchatel,451,2,True
@@ -8318,7 +8333,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220212,4114,ch,schaffhausen,106,0,True
 20220212,4118,ch,graubunden,243,0,True
 20220212,4119,ch,aargau,904,1,True
-20220212,4120,ch,thurgau,611,0,True
+20220212,4120,ch,thurgau,614,0,True
 20220212,4121,ch,ticino,1111,1,True
 20220212,4123,ch,valais,790,0,True
 20220212,4124,ch,neuchatel,449,0,True
@@ -8403,7 +8418,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220211,4116,ch,appenzell_innerrhoden,24,0,True
 20220211,4118,ch,graubunden,243,0,True
 20220211,4119,ch,aargau,903,3,True
-20220211,4120,ch,thurgau,611,4,True
+20220211,4120,ch,thurgau,614,4,True
 20220211,4121,ch,ticino,1110,2,True
 20220211,4123,ch,valais,790,1,True
 20220211,4124,ch,neuchatel,449,1,True
@@ -8489,7 +8504,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220210,4117,ch,st_gallen,832,2,True
 20220210,4118,ch,graubunden,243,0,True
 20220210,4119,ch,aargau,900,1,True
-20220210,4120,ch,thurgau,607,1,True
+20220210,4120,ch,thurgau,610,1,True
 20220210,4121,ch,ticino,1108,1,True
 20220210,4123,ch,valais,789,2,True
 20220210,4124,ch,neuchatel,448,0,True
@@ -8577,7 +8592,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220209,4117,ch,st_gallen,830,0,True
 20220209,4118,ch,graubunden,243,0,True
 20220209,4119,ch,aargau,899,1,True
-20220209,4120,ch,thurgau,606,0,True
+20220209,4120,ch,thurgau,609,0,True
 20220209,4121,ch,ticino,1107,2,True
 20220209,4123,ch,valais,787,3,True
 20220209,4124,ch,neuchatel,448,0,True
@@ -8666,7 +8681,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220208,4117,ch,st_gallen,830,0,True
 20220208,4118,ch,graubunden,243,0,True
 20220208,4119,ch,aargau,898,2,True
-20220208,4120,ch,thurgau,606,0,True
+20220208,4120,ch,thurgau,609,0,True
 20220208,4121,ch,ticino,1105,0,True
 20220208,4123,ch,valais,784,1,True
 20220208,4124,ch,neuchatel,448,0,True
@@ -8754,7 +8769,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220207,4117,ch,st_gallen,830,3,True
 20220207,4118,ch,graubunden,243,0,True
 20220207,4119,ch,aargau,896,0,True
-20220207,4120,ch,thurgau,606,2,True
+20220207,4120,ch,thurgau,609,2,True
 20220207,4121,ch,ticino,1105,0,True
 20220207,4123,ch,valais,783,1,True
 20220207,4124,ch,neuchatel,448,2,True
@@ -8837,7 +8852,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220206,4117,ch,st_gallen,827,1,True
 20220206,4118,ch,graubunden,243,0,True
 20220206,4119,ch,aargau,896,0,True
-20220206,4120,ch,thurgau,604,0,True
+20220206,4120,ch,thurgau,607,0,True
 20220206,4121,ch,ticino,1105,1,True
 20220206,4123,ch,valais,782,1,True
 20220206,4124,ch,neuchatel,446,1,True
@@ -8920,7 +8935,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220205,4114,ch,schaffhausen,105,0,True
 20220205,4118,ch,graubunden,243,0,True
 20220205,4119,ch,aargau,896,2,True
-20220205,4120,ch,thurgau,604,1,True
+20220205,4120,ch,thurgau,607,1,True
 20220205,4121,ch,ticino,1104,1,True
 20220205,4123,ch,valais,781,1,True
 20220205,4124,ch,neuchatel,445,0,True
@@ -9006,7 +9021,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220204,4116,ch,appenzell_innerrhoden,24,0,True
 20220204,4118,ch,graubunden,243,0,True
 20220204,4119,ch,aargau,894,1,True
-20220204,4120,ch,thurgau,603,0,True
+20220204,4120,ch,thurgau,606,0,True
 20220204,4121,ch,ticino,1103,0,True
 20220204,4123,ch,valais,780,1,True
 20220204,4124,ch,neuchatel,445,1,True
@@ -9093,7 +9108,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220203,4117,ch,st_gallen,826,1,True
 20220203,4118,ch,graubunden,243,0,True
 20220203,4119,ch,aargau,893,0,True
-20220203,4120,ch,thurgau,603,0,True
+20220203,4120,ch,thurgau,606,0,True
 20220203,4121,ch,ticino,1103,0,True
 20220203,4123,ch,valais,779,4,True
 20220203,4124,ch,neuchatel,444,0,True
@@ -9181,7 +9196,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220202,4117,ch,st_gallen,825,0,True
 20220202,4118,ch,graubunden,243,0,True
 20220202,4119,ch,aargau,893,1,True
-20220202,4120,ch,thurgau,603,1,True
+20220202,4120,ch,thurgau,606,2,True
 20220202,4121,ch,ticino,1103,0,True
 20220202,4123,ch,valais,775,0,True
 20220202,4124,ch,neuchatel,444,1,True
@@ -9270,7 +9285,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220201,4117,ch,st_gallen,825,3,True
 20220201,4118,ch,graubunden,243,0,True
 20220201,4119,ch,aargau,892,1,True
-20220201,4120,ch,thurgau,602,1,True
+20220201,4120,ch,thurgau,604,1,True
 20220201,4121,ch,ticino,1103,1,True
 20220201,4123,ch,valais,775,1,True
 20220201,4124,ch,neuchatel,443,0,True
@@ -9357,7 +9372,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220131,4117,ch,st_gallen,822,0,True
 20220131,4118,ch,graubunden,243,0,True
 20220131,4119,ch,aargau,891,0,True
-20220131,4120,ch,thurgau,601,0,True
+20220131,4120,ch,thurgau,603,0,True
 20220131,4121,ch,ticino,1102,4,True
 20220131,4123,ch,valais,774,1,True
 20220131,4124,ch,neuchatel,443,0,True
@@ -9440,7 +9455,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220130,4117,ch,st_gallen,822,0,True
 20220130,4118,ch,graubunden,243,0,True
 20220130,4119,ch,aargau,891,1,True
-20220130,4120,ch,thurgau,601,0,True
+20220130,4120,ch,thurgau,603,0,True
 20220130,4121,ch,ticino,1098,4,True
 20220130,4123,ch,valais,773,3,True
 20220130,4124,ch,neuchatel,443,2,True
@@ -9522,7 +9537,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220129,4114,ch,schaffhausen,105,0,True
 20220129,4118,ch,graubunden,243,0,True
 20220129,4119,ch,aargau,890,2,True
-20220129,4120,ch,thurgau,601,0,True
+20220129,4120,ch,thurgau,603,0,True
 20220129,4121,ch,ticino,1094,0,True
 20220129,4123,ch,valais,770,1,True
 20220129,4124,ch,neuchatel,441,1,True
@@ -9609,7 +9624,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220128,4116,ch,appenzell_innerrhoden,24,0,True
 20220128,4118,ch,graubunden,243,0,True
 20220128,4119,ch,aargau,888,3,True
-20220128,4120,ch,thurgau,601,1,True
+20220128,4120,ch,thurgau,603,1,True
 20220128,4121,ch,ticino,1094,0,True
 20220128,4123,ch,valais,769,1,True
 20220128,4124,ch,neuchatel,440,0,True
@@ -9697,7 +9712,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220127,4117,ch,st_gallen,822,1,True
 20220127,4118,ch,graubunden,243,0,True
 20220127,4119,ch,aargau,885,0,True
-20220127,4120,ch,thurgau,600,1,True
+20220127,4120,ch,thurgau,602,1,True
 20220127,4121,ch,ticino,1094,4,True
 20220127,4123,ch,valais,768,0,True
 20220127,4124,ch,neuchatel,440,0,True
@@ -9786,7 +9801,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220126,4117,ch,st_gallen,821,0,True
 20220126,4118,ch,graubunden,243,0,True
 20220126,4119,ch,aargau,885,1,True
-20220126,4120,ch,thurgau,599,0,True
+20220126,4120,ch,thurgau,601,0,True
 20220126,4121,ch,ticino,1090,1,True
 20220126,4123,ch,valais,768,2,True
 20220126,4124,ch,neuchatel,440,0,True
@@ -9875,7 +9890,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220125,4117,ch,st_gallen,821,0,True
 20220125,4118,ch,graubunden,243,1,True
 20220125,4119,ch,aargau,884,1,True
-20220125,4120,ch,thurgau,599,0,True
+20220125,4120,ch,thurgau,601,0,True
 20220125,4121,ch,ticino,1089,2,True
 20220125,4123,ch,valais,766,3,True
 20220125,4124,ch,neuchatel,440,3,True
@@ -9963,7 +9978,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220124,4117,ch,st_gallen,821,0,True
 20220124,4118,ch,graubunden,242,1,True
 20220124,4119,ch,aargau,883,1,True
-20220124,4120,ch,thurgau,599,0,True
+20220124,4120,ch,thurgau,601,0,True
 20220124,4121,ch,ticino,1087,0,True
 20220124,4123,ch,valais,763,0,True
 20220124,4124,ch,neuchatel,437,1,True
@@ -10046,7 +10061,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220123,4117,ch,st_gallen,821,1,True
 20220123,4118,ch,graubunden,241,0,True
 20220123,4119,ch,aargau,882,2,True
-20220123,4120,ch,thurgau,599,4,True
+20220123,4120,ch,thurgau,601,4,True
 20220123,4121,ch,ticino,1087,1,True
 20220123,4123,ch,valais,763,5,True
 20220123,4124,ch,neuchatel,436,1,True
@@ -10129,7 +10144,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220122,4114,ch,schaffhausen,105,0,True
 20220122,4118,ch,graubunden,241,0,True
 20220122,4119,ch,aargau,880,0,True
-20220122,4120,ch,thurgau,595,0,True
+20220122,4120,ch,thurgau,597,0,True
 20220122,4121,ch,ticino,1086,1,True
 20220122,4123,ch,valais,758,2,True
 20220122,4124,ch,neuchatel,435,0,True
@@ -10216,7 +10231,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220121,4116,ch,appenzell_innerrhoden,23,0,True
 20220121,4118,ch,graubunden,241,0,True
 20220121,4119,ch,aargau,880,1,True
-20220121,4120,ch,thurgau,595,0,True
+20220121,4120,ch,thurgau,597,0,True
 20220121,4121,ch,ticino,1085,3,True
 20220121,4123,ch,valais,756,2,True
 20220121,4124,ch,neuchatel,435,0,True
@@ -10303,7 +10318,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220120,4117,ch,st_gallen,820,0,True
 20220120,4118,ch,graubunden,241,1,True
 20220120,4119,ch,aargau,879,2,True
-20220120,4120,ch,thurgau,595,1,True
+20220120,4120,ch,thurgau,597,1,True
 20220120,4121,ch,ticino,1082,1,True
 20220120,4123,ch,valais,754,4,True
 20220120,4124,ch,neuchatel,435,1,True
@@ -10392,7 +10407,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220119,4117,ch,st_gallen,820,3,True
 20220119,4118,ch,graubunden,240,0,True
 20220119,4119,ch,aargau,877,3,True
-20220119,4120,ch,thurgau,594,2,True
+20220119,4120,ch,thurgau,596,2,True
 20220119,4121,ch,ticino,1081,0,True
 20220119,4123,ch,valais,750,4,True
 20220119,4124,ch,neuchatel,434,0,True
@@ -10481,7 +10496,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220118,4117,ch,st_gallen,817,1,True
 20220118,4118,ch,graubunden,240,0,True
 20220118,4119,ch,aargau,874,0,True
-20220118,4120,ch,thurgau,592,3,True
+20220118,4120,ch,thurgau,594,3,True
 20220118,4121,ch,ticino,1081,4,True
 20220118,4123,ch,valais,746,3,True
 20220118,4124,ch,neuchatel,434,0,True
@@ -10570,7 +10585,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220117,4117,ch,st_gallen,816,1,True
 20220117,4118,ch,graubunden,240,1,True
 20220117,4119,ch,aargau,874,0,True
-20220117,4120,ch,thurgau,589,0,True
+20220117,4120,ch,thurgau,591,0,True
 20220117,4121,ch,ticino,1077,1,True
 20220117,4123,ch,valais,743,2,True
 20220117,4124,ch,neuchatel,434,0,True
@@ -10654,7 +10669,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220116,4117,ch,st_gallen,815,1,True
 20220116,4118,ch,graubunden,239,0,True
 20220116,4119,ch,aargau,874,0,True
-20220116,4120,ch,thurgau,589,0,True
+20220116,4120,ch,thurgau,591,0,True
 20220116,4121,ch,ticino,1076,0,True
 20220116,4123,ch,valais,741,0,True
 20220116,4124,ch,neuchatel,434,0,True
@@ -10737,7 +10752,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220115,4114,ch,schaffhausen,105,0,True
 20220115,4118,ch,graubunden,239,2,True
 20220115,4119,ch,aargau,874,1,True
-20220115,4120,ch,thurgau,589,1,True
+20220115,4120,ch,thurgau,591,1,True
 20220115,4121,ch,ticino,1076,0,True
 20220115,4123,ch,valais,741,1,True
 20220115,4124,ch,neuchatel,434,1,True
@@ -10823,7 +10838,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220114,4116,ch,appenzell_innerrhoden,22,0,True
 20220114,4118,ch,graubunden,237,0,True
 20220114,4119,ch,aargau,873,2,True
-20220114,4120,ch,thurgau,588,1,True
+20220114,4120,ch,thurgau,590,1,True
 20220114,4121,ch,ticino,1076,2,True
 20220114,4123,ch,valais,740,0,True
 20220114,4124,ch,neuchatel,433,0,True
@@ -10910,7 +10925,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220113,4117,ch,st_gallen,814,0,True
 20220113,4118,ch,graubunden,237,1,True
 20220113,4119,ch,aargau,871,1,True
-20220113,4120,ch,thurgau,587,2,True
+20220113,4120,ch,thurgau,589,2,True
 20220113,4121,ch,ticino,1074,4,True
 20220113,4123,ch,valais,740,1,True
 20220113,4124,ch,neuchatel,433,0,True
@@ -10998,7 +11013,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220112,4117,ch,st_gallen,814,2,True
 20220112,4118,ch,graubunden,236,2,True
 20220112,4119,ch,aargau,870,2,True
-20220112,4120,ch,thurgau,585,1,True
+20220112,4120,ch,thurgau,587,1,True
 20220112,4121,ch,ticino,1070,3,True
 20220112,4123,ch,valais,739,1,True
 20220112,4124,ch,neuchatel,433,0,True
@@ -11086,7 +11101,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220111,4117,ch,st_gallen,812,1,True
 20220111,4118,ch,graubunden,234,0,True
 20220111,4119,ch,aargau,868,1,True
-20220111,4120,ch,thurgau,584,1,True
+20220111,4120,ch,thurgau,586,1,True
 20220111,4121,ch,ticino,1067,1,True
 20220111,4123,ch,valais,738,0,True
 20220111,4124,ch,neuchatel,433,1,True
@@ -11174,7 +11189,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220110,4117,ch,st_gallen,811,0,True
 20220110,4118,ch,graubunden,234,0,True
 20220110,4119,ch,aargau,867,0,True
-20220110,4120,ch,thurgau,583,0,True
+20220110,4120,ch,thurgau,585,0,True
 20220110,4121,ch,ticino,1066,4,True
 20220110,4123,ch,valais,738,0,True
 20220110,4124,ch,neuchatel,432,0,True
@@ -11258,7 +11273,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220109,4117,ch,st_gallen,811,1,True
 20220109,4118,ch,graubunden,234,0,True
 20220109,4119,ch,aargau,867,1,True
-20220109,4120,ch,thurgau,583,1,True
+20220109,4120,ch,thurgau,585,1,True
 20220109,4121,ch,ticino,1062,1,True
 20220109,4123,ch,valais,738,1,True
 20220109,4124,ch,neuchatel,432,1,True
@@ -11340,7 +11355,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220108,4114,ch,schaffhausen,102,0,True
 20220108,4118,ch,graubunden,234,0,True
 20220108,4119,ch,aargau,866,1,True
-20220108,4120,ch,thurgau,582,1,True
+20220108,4120,ch,thurgau,584,1,True
 20220108,4121,ch,ticino,1061,2,True
 20220108,4123,ch,valais,737,1,True
 20220108,4124,ch,neuchatel,431,1,True
@@ -11427,7 +11442,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220107,4116,ch,appenzell_innerrhoden,22,0,True
 20220107,4118,ch,graubunden,234,0,True
 20220107,4119,ch,aargau,865,3,True
-20220107,4120,ch,thurgau,581,1,True
+20220107,4120,ch,thurgau,583,1,True
 20220107,4121,ch,ticino,1059,3,True
 20220107,4123,ch,valais,736,1,True
 20220107,4124,ch,neuchatel,430,0,True
@@ -11515,7 +11530,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220106,4117,ch,st_gallen,810,1,True
 20220106,4118,ch,graubunden,234,0,True
 20220106,4119,ch,aargau,862,1,True
-20220106,4120,ch,thurgau,580,1,True
+20220106,4120,ch,thurgau,582,1,True
 20220106,4121,ch,ticino,1056,3,True
 20220106,4123,ch,valais,735,2,True
 20220106,4124,ch,neuchatel,430,0,True
@@ -11604,7 +11619,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220105,4117,ch,st_gallen,809,1,True
 20220105,4118,ch,graubunden,234,2,True
 20220105,4119,ch,aargau,861,0,True
-20220105,4120,ch,thurgau,579,3,True
+20220105,4120,ch,thurgau,581,3,True
 20220105,4121,ch,ticino,1053,0,True
 20220105,4123,ch,valais,733,0,True
 20220105,4124,ch,neuchatel,430,0,True
@@ -11690,7 +11705,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220104,4117,ch,st_gallen,808,1,True
 20220104,4118,ch,graubunden,232,0,True
 20220104,4119,ch,aargau,861,0,True
-20220104,4120,ch,thurgau,576,1,True
+20220104,4120,ch,thurgau,578,1,True
 20220104,4121,ch,ticino,1053,2,True
 20220104,4123,ch,valais,733,0,True
 20220104,4124,ch,neuchatel,430,1,True
@@ -11779,7 +11794,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220103,4117,ch,st_gallen,807,1,True
 20220103,4118,ch,graubunden,232,0,True
 20220103,4119,ch,aargau,861,1,True
-20220103,4120,ch,thurgau,575,2,True
+20220103,4120,ch,thurgau,577,2,True
 20220103,4121,ch,ticino,1051,3,True
 20220103,4123,ch,valais,733,0,True
 20220103,4124,ch,neuchatel,429,0,True
@@ -11862,7 +11877,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220102,4117,ch,st_gallen,806,1,True
 20220102,4118,ch,graubunden,232,2,True
 20220102,4119,ch,aargau,860,1,True
-20220102,4120,ch,thurgau,573,0,True
+20220102,4120,ch,thurgau,575,0,True
 20220102,4121,ch,ticino,1048,1,True
 20220102,4123,ch,valais,733,0,True
 20220102,4124,ch,neuchatel,429,1,True
@@ -11945,7 +11960,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220101,4114,ch,schaffhausen,102,0,True
 20220101,4118,ch,graubunden,230,1,True
 20220101,4119,ch,aargau,859,1,True
-20220101,4120,ch,thurgau,573,1,True
+20220101,4120,ch,thurgau,575,1,True
 20220101,4121,ch,ticino,1047,0,True
 20220101,4123,ch,valais,733,0,True
 20220101,4124,ch,neuchatel,428,1,True
@@ -12031,7 +12046,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211231,4114,ch,schaffhausen,102,0,True
 20211231,4118,ch,graubunden,229,0,True
 20211231,4119,ch,aargau,858,5,True
-20211231,4120,ch,thurgau,572,2,True
+20211231,4120,ch,thurgau,574,2,True
 20211231,4121,ch,ticino,1047,2,True
 20211231,4123,ch,valais,733,2,True
 20211231,4124,ch,neuchatel,427,0,True
@@ -12118,7 +12133,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211230,4117,ch,st_gallen,805,0,True
 20211230,4118,ch,graubunden,229,3,True
 20211230,4119,ch,aargau,853,1,True
-20211230,4120,ch,thurgau,570,1,True
+20211230,4120,ch,thurgau,572,1,True
 20211230,4121,ch,ticino,1045,1,True
 20211230,4123,ch,valais,731,0,True
 20211230,4124,ch,neuchatel,427,0,True
@@ -12206,7 +12221,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211229,4117,ch,st_gallen,805,1,True
 20211229,4118,ch,graubunden,226,1,True
 20211229,4119,ch,aargau,852,2,True
-20211229,4120,ch,thurgau,569,2,True
+20211229,4120,ch,thurgau,571,2,True
 20211229,4121,ch,ticino,1044,2,True
 20211229,4123,ch,valais,731,1,True
 20211229,4124,ch,neuchatel,427,0,True
@@ -12295,7 +12310,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211228,4117,ch,st_gallen,804,0,True
 20211228,4118,ch,graubunden,225,1,True
 20211228,4119,ch,aargau,850,1,True
-20211228,4120,ch,thurgau,567,5,True
+20211228,4120,ch,thurgau,569,5,True
 20211228,4121,ch,ticino,1042,0,True
 20211228,4123,ch,valais,730,0,True
 20211228,4124,ch,neuchatel,427,2,True
@@ -12384,7 +12399,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211227,4117,ch,st_gallen,804,1,True
 20211227,4118,ch,graubunden,224,0,True
 20211227,4119,ch,aargau,849,0,True
-20211227,4120,ch,thurgau,562,0,True
+20211227,4120,ch,thurgau,564,0,True
 20211227,4121,ch,ticino,1042,3,True
 20211227,4123,ch,valais,730,2,True
 20211227,4124,ch,neuchatel,425,0,True
@@ -12467,7 +12482,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211226,4117,ch,st_gallen,803,5,True
 20211226,4118,ch,graubunden,224,0,True
 20211226,4119,ch,aargau,849,1,True
-20211226,4120,ch,thurgau,562,0,True
+20211226,4120,ch,thurgau,564,0,True
 20211226,4123,ch,valais,728,0,True
 20211226,4124,ch,neuchatel,425,0,True
 20211226,4125,ch,geneve,930,0,True
@@ -12548,7 +12563,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211225,4114,ch,schaffhausen,101,0,True
 20211225,4118,ch,graubunden,224,0,True
 20211225,4119,ch,aargau,848,2,True
-20211225,4120,ch,thurgau,562,4,True
+20211225,4120,ch,thurgau,564,4,True
 20211225,4123,ch,valais,728,3,True
 20211225,4124,ch,neuchatel,425,0,True
 20211225,4125,ch,geneve,930,3,True
@@ -12632,7 +12647,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211224,4114,ch,schaffhausen,101,0,True
 20211224,4118,ch,graubunden,224,0,True
 20211224,4119,ch,aargau,846,1,True
-20211224,4120,ch,thurgau,558,1,True
+20211224,4120,ch,thurgau,560,1,True
 20211224,4121,ch,ticino,1039,0,True
 20211224,4123,ch,valais,725,1,True
 20211224,4124,ch,neuchatel,425,0,True
@@ -12719,7 +12734,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211223,4117,ch,st_gallen,798,1,True
 20211223,4118,ch,graubunden,224,1,True
 20211223,4119,ch,aargau,845,1,True
-20211223,4120,ch,thurgau,557,2,True
+20211223,4120,ch,thurgau,559,2,True
 20211223,4121,ch,ticino,1039,2,True
 20211223,4123,ch,valais,724,3,True
 20211223,4124,ch,neuchatel,425,2,True
@@ -12807,7 +12822,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211222,4117,ch,st_gallen,797,2,True
 20211222,4118,ch,graubunden,223,2,True
 20211222,4119,ch,aargau,844,4,True
-20211222,4120,ch,thurgau,555,1,True
+20211222,4120,ch,thurgau,557,2,True
 20211222,4121,ch,ticino,1037,1,True
 20211222,4123,ch,valais,721,0,True
 20211222,4124,ch,neuchatel,423,1,True
@@ -12895,7 +12910,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211221,4117,ch,st_gallen,795,5,True
 20211221,4118,ch,graubunden,221,0,True
 20211221,4119,ch,aargau,840,3,True
-20211221,4120,ch,thurgau,554,1,True
+20211221,4120,ch,thurgau,555,1,True
 20211221,4121,ch,ticino,1036,1,True
 20211221,4123,ch,valais,721,2,True
 20211221,4124,ch,neuchatel,422,0,True
@@ -12982,7 +12997,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211220,4117,ch,st_gallen,790,1,True
 20211220,4118,ch,graubunden,221,0,True
 20211220,4119,ch,aargau,837,1,True
-20211220,4120,ch,thurgau,553,2,True
+20211220,4120,ch,thurgau,554,2,True
 20211220,4121,ch,ticino,1035,5,True
 20211220,4123,ch,valais,719,0,True
 20211220,4124,ch,neuchatel,422,1,True
@@ -13066,7 +13081,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211219,4117,ch,st_gallen,789,3,True
 20211219,4118,ch,graubunden,221,2,True
 20211219,4119,ch,aargau,836,3,True
-20211219,4120,ch,thurgau,551,1,True
+20211219,4120,ch,thurgau,552,1,True
 20211219,4123,ch,valais,719,1,True
 20211219,4124,ch,neuchatel,421,0,True
 20211219,4125,ch,geneve,923,0,True
@@ -13148,7 +13163,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211218,4114,ch,schaffhausen,100,0,True
 20211218,4118,ch,graubunden,219,0,True
 20211218,4119,ch,aargau,833,3,True
-20211218,4120,ch,thurgau,550,1,True
+20211218,4120,ch,thurgau,551,1,True
 20211218,4123,ch,valais,718,0,True
 20211218,4124,ch,neuchatel,421,1,True
 20211218,4125,ch,geneve,923,0,True
@@ -13233,7 +13248,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211217,4116,ch,appenzell_innerrhoden,22,2,True
 20211217,4118,ch,graubunden,219,0,True
 20211217,4119,ch,aargau,830,6,True
-20211217,4120,ch,thurgau,549,1,True
+20211217,4120,ch,thurgau,550,1,True
 20211217,4121,ch,ticino,1030,1,True
 20211217,4123,ch,valais,718,3,True
 20211217,4124,ch,neuchatel,420,0,True
@@ -13321,7 +13336,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211216,4117,ch,st_gallen,786,2,True
 20211216,4118,ch,graubunden,219,3,True
 20211216,4119,ch,aargau,824,4,True
-20211216,4120,ch,thurgau,548,1,True
+20211216,4120,ch,thurgau,549,1,True
 20211216,4121,ch,ticino,1029,1,True
 20211216,4123,ch,valais,715,1,True
 20211216,4124,ch,neuchatel,420,0,True
@@ -13410,7 +13425,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211215,4117,ch,st_gallen,784,3,True
 20211215,4118,ch,graubunden,216,0,True
 20211215,4119,ch,aargau,820,0,True
-20211215,4120,ch,thurgau,547,3,True
+20211215,4120,ch,thurgau,548,3,True
 20211215,4121,ch,ticino,1028,0,True
 20211215,4123,ch,valais,714,2,True
 20211215,4124,ch,neuchatel,420,0,True
@@ -13498,7 +13513,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211214,4117,ch,st_gallen,781,1,True
 20211214,4118,ch,graubunden,216,1,True
 20211214,4119,ch,aargau,820,6,True
-20211214,4120,ch,thurgau,544,2,True
+20211214,4120,ch,thurgau,545,2,True
 20211214,4121,ch,ticino,1028,3,True
 20211214,4123,ch,valais,712,0,True
 20211214,4124,ch,neuchatel,420,0,True
@@ -13585,7 +13600,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211213,4117,ch,st_gallen,780,0,True
 20211213,4118,ch,graubunden,215,0,True
 20211213,4119,ch,aargau,814,4,True
-20211213,4120,ch,thurgau,542,3,True
+20211213,4120,ch,thurgau,543,3,True
 20211213,4121,ch,ticino,1025,3,True
 20211213,4123,ch,valais,712,0,True
 20211213,4124,ch,neuchatel,420,0,True
@@ -13669,7 +13684,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211212,4117,ch,st_gallen,780,2,True
 20211212,4118,ch,graubunden,215,0,True
 20211212,4119,ch,aargau,810,2,True
-20211212,4120,ch,thurgau,539,3,True
+20211212,4120,ch,thurgau,540,3,True
 20211212,4123,ch,valais,712,2,True
 20211212,4124,ch,neuchatel,420,0,True
 20211212,4125,ch,geneve,919,1,True
@@ -13751,7 +13766,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211211,4114,ch,schaffhausen,96,0,True
 20211211,4118,ch,graubunden,215,0,True
 20211211,4119,ch,aargau,808,2,True
-20211211,4120,ch,thurgau,536,1,True
+20211211,4120,ch,thurgau,537,1,True
 20211211,4123,ch,valais,710,0,True
 20211211,4124,ch,neuchatel,420,0,True
 20211211,4125,ch,geneve,918,1,True
@@ -13837,7 +13852,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211210,4116,ch,appenzell_innerrhoden,20,0,True
 20211210,4118,ch,graubunden,215,0,True
 20211210,4119,ch,aargau,806,2,True
-20211210,4120,ch,thurgau,535,1,True
+20211210,4120,ch,thurgau,536,1,True
 20211210,4121,ch,ticino,1022,0,True
 20211210,4123,ch,valais,710,0,True
 20211210,4124,ch,neuchatel,420,0,True
@@ -13925,7 +13940,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211209,4117,ch,st_gallen,778,2,True
 20211209,4118,ch,graubunden,215,2,True
 20211209,4119,ch,aargau,804,6,True
-20211209,4120,ch,thurgau,534,1,True
+20211209,4120,ch,thurgau,535,2,True
 20211209,4121,ch,ticino,1022,5,True
 20211209,4123,ch,valais,710,0,True
 20211209,4124,ch,neuchatel,420,0,True
