@@ -24,6 +24,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220531,4107,ch,nidwalden,36,0,True
 20220531,4111,ch,solothurn,366,0,True
 20220531,4112,ch,basel_stadt,288,0,True
+20220531,4114,ch,schaffhausen,132,0,True
 20220531,4126,ch,jura_ch,244,0,True
 20220531,423,li,liechtenstein,84,0,True
 20220530,386,si,slovenia,7778,0,False
@@ -685,7 +686,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220519,4121,ch,ticino,1190,0,True
 20220519,4123,ch,valais,818,0,True
 20220519,4124,ch,neuchatel,468,0,True
-20220519,4126,ch,jura_ch,244,1,True
+20220519,4126,ch,jura_ch,244,0,True
 20220519,423,li,liechtenstein,84,0,True
 20220519,43,at,austria,19891,6,False
 20220519,4301,at,wien,3972,2,True
@@ -745,7 +746,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220518,4121,ch,ticino,1190,0,True
 20220518,4123,ch,valais,818,1,True
 20220518,4124,ch,neuchatel,468,0,True
-20220518,4126,ch,jura_ch,243,0,True
+20220518,4126,ch,jura_ch,244,0,True
 20220518,423,li,liechtenstein,84,0,True
 20220518,43,at,austria,19885,5,False
 20220518,4301,at,wien,3970,2,True
@@ -824,7 +825,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220517,4121,ch,ticino,1190,0,True
 20220517,4123,ch,valais,817,0,True
 20220517,4124,ch,neuchatel,468,0,True
-20220517,4126,ch,jura_ch,243,0,True
+20220517,4126,ch,jura_ch,244,0,True
 20220517,423,li,liechtenstein,84,0,True
 20220517,43,at,austria,19880,4,False
 20220517,4301,at,wien,3968,3,True
@@ -904,7 +905,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220516,4121,ch,ticino,1190,1,True
 20220516,4123,ch,valais,817,0,True
 20220516,4124,ch,neuchatel,468,0,True
-20220516,4126,ch,jura_ch,243,0,True
+20220516,4126,ch,jura_ch,244,0,True
 20220516,423,li,liechtenstein,84,0,True
 20220516,43,at,austria,19876,8,False
 20220516,4301,at,wien,3965,3,True
@@ -979,7 +980,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220515,4120,ch,thurgau,684,0,True
 20220515,4123,ch,valais,817,0,True
 20220515,4124,ch,neuchatel,468,0,True
-20220515,4126,ch,jura_ch,243,0,True
+20220515,4126,ch,jura_ch,244,0,True
 20220515,423,li,liechtenstein,84,0,True
 20220515,43,at,austria,19868,4,False
 20220515,4301,at,wien,3962,0,True
@@ -1054,7 +1055,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220514,4120,ch,thurgau,684,0,True
 20220514,4123,ch,valais,817,0,True
 20220514,4124,ch,neuchatel,468,1,True
-20220514,4126,ch,jura_ch,243,0,True
+20220514,4126,ch,jura_ch,244,0,True
 20220514,423,li,liechtenstein,84,0,True
 20220514,43,at,austria,19864,2,False
 20220514,4301,at,wien,3962,0,True
@@ -1133,7 +1134,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220513,4121,ch,ticino,1189,0,True
 20220513,4123,ch,valais,817,0,True
 20220513,4124,ch,neuchatel,467,0,True
-20220513,4126,ch,jura_ch,243,0,True
+20220513,4126,ch,jura_ch,244,0,True
 20220513,423,li,liechtenstein,84,0,True
 20220513,43,at,austria,19862,3,False
 20220513,4301,at,wien,3962,0,True
@@ -1212,7 +1213,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220512,4121,ch,ticino,1189,1,True
 20220512,4123,ch,valais,817,0,True
 20220512,4124,ch,neuchatel,467,0,True
-20220512,4126,ch,jura_ch,243,0,True
+20220512,4126,ch,jura_ch,244,0,True
 20220512,423,li,liechtenstein,84,0,True
 20220512,43,at,austria,19859,12,False
 20220512,4301,at,wien,3962,1,True
@@ -1292,7 +1293,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220511,4121,ch,ticino,1188,0,True
 20220511,4123,ch,valais,817,0,True
 20220511,4124,ch,neuchatel,467,0,True
-20220511,4126,ch,jura_ch,243,0,True
+20220511,4126,ch,jura_ch,244,0,True
 20220511,423,li,liechtenstein,84,0,True
 20220511,43,at,austria,19847,6,False
 20220511,4301,at,wien,3961,1,True
@@ -1371,7 +1372,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220510,4121,ch,ticino,1188,0,True
 20220510,4123,ch,valais,817,0,True
 20220510,4124,ch,neuchatel,467,0,True
-20220510,4126,ch,jura_ch,243,0,True
+20220510,4126,ch,jura_ch,244,0,True
 20220510,423,li,liechtenstein,84,0,True
 20220510,43,at,austria,19841,7,False
 20220510,4301,at,wien,3960,2,True
@@ -1451,7 +1452,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220509,4121,ch,ticino,1188,2,True
 20220509,4123,ch,valais,817,0,True
 20220509,4124,ch,neuchatel,467,0,True
-20220509,4126,ch,jura_ch,243,0,True
+20220509,4126,ch,jura_ch,244,0,True
 20220509,423,li,liechtenstein,84,0,True
 20220509,43,at,austria,19834,7,False
 20220509,4301,at,wien,3958,1,True
@@ -1526,7 +1527,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220508,4120,ch,thurgau,683,1,True
 20220508,4123,ch,valais,817,0,True
 20220508,4124,ch,neuchatel,467,0,True
-20220508,4126,ch,jura_ch,243,0,True
+20220508,4126,ch,jura_ch,244,0,True
 20220508,423,li,liechtenstein,84,0,True
 20220508,43,at,austria,19827,19,False
 20220508,4301,at,wien,3957,6,True
@@ -1601,7 +1602,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220507,4120,ch,thurgau,682,0,True
 20220507,4123,ch,valais,817,0,True
 20220507,4124,ch,neuchatel,467,0,True
-20220507,4126,ch,jura_ch,243,0,True
+20220507,4126,ch,jura_ch,244,0,True
 20220507,423,li,liechtenstein,84,0,True
 20220507,43,at,austria,19808,6,False
 20220507,4301,at,wien,3951,2,True
@@ -1680,7 +1681,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220506,4121,ch,ticino,1186,0,True
 20220506,4123,ch,valais,817,1,True
 20220506,4124,ch,neuchatel,467,0,True
-20220506,4126,ch,jura_ch,243,0,True
+20220506,4126,ch,jura_ch,244,0,True
 20220506,423,li,liechtenstein,84,0,True
 20220506,43,at,austria,19802,9,False
 20220506,4301,at,wien,3949,1,True
@@ -1760,7 +1761,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220505,4121,ch,ticino,1186,1,True
 20220505,4123,ch,valais,816,0,True
 20220505,4124,ch,neuchatel,467,0,True
-20220505,4126,ch,jura_ch,243,-1,True
+20220505,4126,ch,jura_ch,244,0,True
 20220505,423,li,liechtenstein,84,0,True
 20220505,43,at,austria,19793,6,False
 20220505,4301,at,wien,3948,3,True
