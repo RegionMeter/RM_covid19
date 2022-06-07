@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
+20220607,4107,ch,nidwalden,36,0,True
 20220606,39,it,italy,167019,70,False
 20220606,3911,it,piemonte,13439,0,True
 20220606,3912,it,valle_daosta,535,0,True
@@ -22,6 +23,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220606,3951,it,sicilia,10985,1,True
 20220606,3952,it,sardegna,2472,3,True
 20220606,4112,ch,basel_stadt,288,0,True
+20220606,4114,ch,schaffhausen,132,0,True
+20220606,4124,ch,neuchatel,469,0,True
+20220606,423,li,liechtenstein,84,0,True
 20220605,386,si,slovenia,7794,0,False
 20220605,386011,si,pomurska,662,0,True
 20220605,386012,si,podravska,1571,0,True
@@ -58,6 +62,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220605,3951,it,sicilia,10984,5,True
 20220605,3952,it,sardegna,2469,1,True
 20220605,4112,ch,basel_stadt,288,0,True
+20220605,4114,ch,schaffhausen,132,0,True
+20220605,4124,ch,neuchatel,469,0,True
+20220605,423,li,liechtenstein,84,0,True
 20220605,43,at,austria,19950,1,False
 20220605,4301,at,wien,3986,0,True
 20220605,4302,at,niederosterreich,3902,0,True
@@ -104,6 +111,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220604,3951,it,sicilia,10979,6,True
 20220604,3952,it,sardegna,2468,1,True
 20220604,4112,ch,basel_stadt,288,0,True
+20220604,4114,ch,schaffhausen,132,0,True
+20220604,4124,ch,neuchatel,469,0,True
+20220604,423,li,liechtenstein,84,0,True
 20220604,43,at,austria,19949,1,False
 20220604,4301,at,wien,3986,1,True
 20220604,4302,at,niederosterreich,3902,0,True
@@ -152,7 +162,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220603,4107,ch,nidwalden,36,0,True
 20220603,4111,ch,solothurn,366,0,True
 20220603,4112,ch,basel_stadt,288,0,True
+20220603,4114,ch,schaffhausen,132,0,True
+20220603,4124,ch,neuchatel,469,0,True
 20220603,4126,ch,jura_ch,244,0,True
+20220603,423,li,liechtenstein,84,0,True
 20220603,43,at,austria,19948,0,False
 20220603,4301,at,wien,3985,0,True
 20220603,4302,at,niederosterreich,3902,0,True
@@ -202,6 +215,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220602,4111,ch,solothurn,366,0,True
 20220602,4112,ch,basel_stadt,288,0,True
 20220602,4114,ch,schaffhausen,132,0,True
+20220602,4124,ch,neuchatel,469,0,True
 20220602,4126,ch,jura_ch,244,0,True
 20220602,423,li,liechtenstein,84,0,True
 20220602,43,at,austria,19948,1,False

@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,icuCases,isLeaf
+20220607,4107,ch,nidwalden,0,True
 20220606,386012,si,podravska,1,True
 20220606,386014,si,savinjska,0,True
 20220606,386021,si,osrednjeslovenska,6,True
@@ -26,6 +27,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220606,3951,it,sicilia,26,True
 20220606,3952,it,sardegna,9,True
 20220606,4112,ch,basel_stadt,1,True
+20220606,4114,ch,schaffhausen,1,True
+20220606,4124,ch,neuchatel,2,True
 20220606,4125,ch,geneve,0,True
 20220606,43,at,austria,39,False
 20220606,4301,at,wien,10,True
@@ -64,6 +67,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220605,3951,it,sicilia,27,True
 20220605,3952,it,sardegna,10,True
 20220605,4112,ch,basel_stadt,0,True
+20220605,4124,ch,neuchatel,2,True
 20220605,4125,ch,geneve,0,True
 20220605,43,at,austria,40,False
 20220605,4301,at,wien,11,True
@@ -102,6 +106,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220604,3951,it,sicilia,28,True
 20220604,3952,it,sardegna,8,True
 20220604,4112,ch,basel_stadt,0,True
+20220604,4124,ch,neuchatel,1,True
 20220604,4125,ch,geneve,0,True
 20220604,43,at,austria,43,False
 20220604,4301,at,wien,14,True
@@ -142,6 +147,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220603,4107,ch,nidwalden,0,True
 20220603,4111,ch,solothurn,1,True
 20220603,4112,ch,basel_stadt,0,True
+20220603,4124,ch,neuchatel,1,True
 20220603,4125,ch,geneve,0,True
 20220603,4126,ch,jura_ch,0,True
 20220603,43,at,austria,47,False
@@ -184,6 +190,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220602,4111,ch,solothurn,1,True
 20220602,4112,ch,basel_stadt,1,True
 20220602,4114,ch,schaffhausen,1,True
+20220602,4124,ch,neuchatel,1,True
 20220602,4125,ch,geneve,0,True
 20220602,4126,ch,jura_ch,0,True
 20220602,43,at,austria,48,False
