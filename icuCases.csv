@@ -1,5 +1,6 @@
 dateId,areaCode,country,areaName,icuCases,isLeaf
 20220607,4107,ch,nidwalden,0,True
+20220607,4120,ch,thurgau,2,True
 20220606,386012,si,podravska,1,True
 20220606,386014,si,savinjska,0,True
 20220606,386021,si,osrednjeslovenska,6,True
@@ -28,8 +29,9 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220606,3952,it,sardegna,9,True
 20220606,4112,ch,basel_stadt,1,True
 20220606,4114,ch,schaffhausen,1,True
+20220606,4120,ch,thurgau,2,True
 20220606,4124,ch,neuchatel,2,True
-20220606,4125,ch,geneve,0,True
+20220606,4125,ch,geneve,1,True
 20220606,43,at,austria,39,False
 20220606,4301,at,wien,10,True
 20220606,4302,at,niederosterreich,7,True
@@ -67,6 +69,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220605,3951,it,sicilia,27,True
 20220605,3952,it,sardegna,10,True
 20220605,4112,ch,basel_stadt,0,True
+20220605,4120,ch,thurgau,2,True
 20220605,4124,ch,neuchatel,2,True
 20220605,4125,ch,geneve,0,True
 20220605,43,at,austria,40,False
@@ -106,6 +109,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220604,3951,it,sicilia,28,True
 20220604,3952,it,sardegna,8,True
 20220604,4112,ch,basel_stadt,0,True
+20220604,4120,ch,thurgau,2,True
 20220604,4124,ch,neuchatel,1,True
 20220604,4125,ch,geneve,0,True
 20220604,43,at,austria,43,False
@@ -147,6 +151,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220603,4107,ch,nidwalden,0,True
 20220603,4111,ch,solothurn,1,True
 20220603,4112,ch,basel_stadt,0,True
+20220603,4120,ch,thurgau,2,True
 20220603,4124,ch,neuchatel,1,True
 20220603,4125,ch,geneve,0,True
 20220603,4126,ch,jura_ch,0,True
@@ -190,6 +195,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220602,4111,ch,solothurn,1,True
 20220602,4112,ch,basel_stadt,1,True
 20220602,4114,ch,schaffhausen,1,True
+20220602,4120,ch,thurgau,2,True
 20220602,4124,ch,neuchatel,1,True
 20220602,4125,ch,geneve,0,True
 20220602,4126,ch,jura_ch,0,True
@@ -235,6 +241,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220601,4111,ch,solothurn,1,True
 20220601,4112,ch,basel_stadt,0,True
 20220601,4114,ch,schaffhausen,1,True
+20220601,4120,ch,thurgau,1,True
 20220601,4121,ch,ticino,1,True
 20220601,4124,ch,neuchatel,1,True
 20220601,4125,ch,geneve,0,True
@@ -282,6 +289,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220531,4112,ch,basel_stadt,0,True
 20220531,4113,ch,basel_landschaft,0,True
 20220531,4114,ch,schaffhausen,1,True
+20220531,4120,ch,thurgau,1,True
 20220531,4121,ch,ticino,2,True
 20220531,4124,ch,neuchatel,1,True
 20220531,4125,ch,geneve,0,True
@@ -523,7 +531,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220526,4112,ch,basel_stadt,1,True
 20220526,4113,ch,basel_landschaft,0,True
 20220526,4117,ch,st_gallen,0,True
-20220526,4120,ch,thurgau,0,True
+20220526,4120,ch,thurgau,1,True
 20220526,4123,ch,valais,1,True
 20220526,4124,ch,neuchatel,1,True
 20220526,4125,ch,geneve,0,True
@@ -572,7 +580,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220525,4112,ch,basel_stadt,1,True
 20220525,4113,ch,basel_landschaft,0,True
 20220525,4117,ch,st_gallen,1,True
-20220525,4120,ch,thurgau,0,True
+20220525,4120,ch,thurgau,2,True
 20220525,4121,ch,ticino,0,True
 20220525,4123,ch,valais,1,True
 20220525,4124,ch,neuchatel,1,True
@@ -623,7 +631,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220524,4113,ch,basel_landschaft,0,True
 20220524,4114,ch,schaffhausen,0,True
 20220524,4117,ch,st_gallen,1,True
-20220524,4120,ch,thurgau,0,True
+20220524,4120,ch,thurgau,2,True
 20220524,4121,ch,ticino,0,True
 20220524,4123,ch,valais,1,True
 20220524,4124,ch,neuchatel,1,True
@@ -674,7 +682,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220523,4113,ch,basel_landschaft,0,True
 20220523,4114,ch,schaffhausen,0,True
 20220523,4117,ch,st_gallen,0,True
-20220523,4120,ch,thurgau,0,True
+20220523,4120,ch,thurgau,2,True
 20220523,4121,ch,ticino,1,True
 20220523,4123,ch,valais,1,True
 20220523,4124,ch,neuchatel,1,True
@@ -990,7 +998,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220517,4113,ch,basel_landschaft,0,True
 20220517,4114,ch,schaffhausen,0,True
 20220517,4117,ch,st_gallen,0,True
-20220517,4120,ch,thurgau,2,True
+20220517,4120,ch,thurgau,1,True
 20220517,4121,ch,ticino,3,True
 20220517,4123,ch,valais,1,True
 20220517,4124,ch,neuchatel,0,True
@@ -1059,7 +1067,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220516,4113,ch,basel_landschaft,0,True
 20220516,4114,ch,schaffhausen,0,True
 20220516,4117,ch,st_gallen,0,True
-20220516,4120,ch,thurgau,2,True
+20220516,4120,ch,thurgau,1,True
 20220516,4121,ch,ticino,4,True
 20220516,4123,ch,valais,1,True
 20220516,4124,ch,neuchatel,0,True
@@ -1127,7 +1135,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220515,4113,ch,basel_landschaft,0,True
 20220515,4114,ch,schaffhausen,0,True
 20220515,4117,ch,st_gallen,1,True
-20220515,4120,ch,thurgau,3,True
+20220515,4120,ch,thurgau,2,True
 20220515,4122,ch,vaud,4,True
 20220515,4123,ch,valais,2,True
 20220515,4124,ch,neuchatel,0,True
@@ -1194,7 +1202,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220514,4112,ch,basel_stadt,0,True
 20220514,4113,ch,basel_landschaft,0,True
 20220514,4117,ch,st_gallen,1,True
-20220514,4120,ch,thurgau,3,True
+20220514,4120,ch,thurgau,2,True
 20220514,4123,ch,valais,2,True
 20220514,4124,ch,neuchatel,0,True
 20220514,4125,ch,geneve,2,True
@@ -1262,7 +1270,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220513,4112,ch,basel_stadt,2,True
 20220513,4113,ch,basel_landschaft,0,True
 20220513,4117,ch,st_gallen,1,True
-20220513,4120,ch,thurgau,3,True
+20220513,4120,ch,thurgau,2,True
 20220513,4121,ch,ticino,3,True
 20220513,4123,ch,valais,1,True
 20220513,4124,ch,neuchatel,0,True
@@ -1332,7 +1340,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220512,4113,ch,basel_landschaft,0,True
 20220512,4114,ch,schaffhausen,0,True
 20220512,4117,ch,st_gallen,0,True
-20220512,4120,ch,thurgau,3,True
+20220512,4120,ch,thurgau,2,True
 20220512,4121,ch,ticino,4,True
 20220512,4123,ch,valais,1,True
 20220512,4124,ch,neuchatel,1,True
@@ -1402,7 +1410,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220511,4113,ch,basel_landschaft,0,True
 20220511,4114,ch,schaffhausen,0,True
 20220511,4117,ch,st_gallen,0,True
-20220511,4120,ch,thurgau,1,True
+20220511,4120,ch,thurgau,0,True
 20220511,4121,ch,ticino,3,True
 20220511,4123,ch,valais,2,True
 20220511,4124,ch,neuchatel,0,True
