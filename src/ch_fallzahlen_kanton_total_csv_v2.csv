@@ -1,8 +1,10 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20220607,,BL,,,4,0,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20220607,14:00,BS,,84359,25,3,,83921,288,https://www.gesundheit.bs.ch
+20220607,00:00,FL,,17583,1,,,17416,84,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220607,00:00,GE,,214694,40,0,,,,https://infocovid.smc.unige.ch/
 20220607,,NW,,18622,0,0,,,36,http://www.nw.ch/coronastatistik
+20220607,,SH,,32581,5,0,,,132,https://coviddashboard.sh.ch/
 20220607,,SO,,116304,6,1,,,366,https://corona.so.ch/bevoelkerung/daten/
 20220607,10:00,TG,,121054,9,2,,2676,689,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 20220606,,BL,,127260,3,0,,,298,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -23,6 +25,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220605,,SG,,214286,2,0,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220605,,SH,,32546,,,,,132,https://coviddashboard.sh.ch/
 20220605,10:00,TG,,121036,8,2,,2676,689,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220605,,VD,,,71,5,,,,https://www.infosan.vd.ch/fileadmin/2-PUBLICATIONS/SANTE_POPULATION/SSP_20220605_COVID_Bulletin_hebdomadaire_epidemio.pdf
 20220604,,BL,,127169,4,0,,,298,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20220604,14:10,BS,,84251,13,0,,83762,288,https://www.gesundheit.bs.ch
 20220604,00:00,FL,,17556,1,,,17395,84,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
