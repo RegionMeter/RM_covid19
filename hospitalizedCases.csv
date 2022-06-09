@@ -1,5 +1,6 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220609,4107,ch,nidwalden,0,True
+20220609,4111,ch,solothurn,6,True
 20220608,39,it,italy,4564,False
 20220608,3911,it,piemonte,237,True
 20220608,3912,it,valle_daosta,3,True
@@ -23,6 +24,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220608,3951,it,sicilia,525,True
 20220608,3952,it,sardegna,90,True
 20220608,4101,ch,zurich,38,True
+20220608,4106,ch,obwalden,0,True
 20220608,4107,ch,nidwalden,0,True
 20220608,4109,ch,zug,3,True
 20220608,4111,ch,solothurn,7,True
@@ -30,7 +32,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220608,4114,ch,schaffhausen,7,True
 20220608,4121,ch,ticino,37,True
 20220608,4124,ch,neuchatel,8,True
-20220608,4125,ch,geneve,37,True
+20220608,4125,ch,geneve,42,True
 20220608,423,li,liechtenstein,1,True
 20220608,43,at,austria,440,False
 20220608,4301,at,wien,127,True
@@ -73,6 +75,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220607,3952,it,sardegna,88,True
 20220607,4101,ch,zurich,40,True
 20220607,4103,ch,luzern,10,True
+20220607,4106,ch,obwalden,0,True
 20220607,4107,ch,nidwalden,0,True
 20220607,4109,ch,zug,2,True
 20220607,4111,ch,solothurn,6,True
@@ -124,6 +127,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220606,3951,it,sicilia,516,True
 20220606,3952,it,sardegna,91,True
 20220606,4101,ch,zurich,36,True
+20220606,4106,ch,obwalden,0,True
 20220606,4109,ch,zug,2,True
 20220606,4112,ch,basel_stadt,20,True
 20220606,4113,ch,basel_landschaft,3,True
@@ -270,6 +274,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220603,3951,it,sicilia,518,True
 20220603,3952,it,sardegna,118,True
 20220603,4101,ch,zurich,34,True
+20220603,4106,ch,obwalden,0,True
 20220603,4107,ch,nidwalden,0,True
 20220603,4109,ch,zug,2,True
 20220603,4111,ch,solothurn,7,True
@@ -322,6 +327,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220602,3951,it,sicilia,500,True
 20220602,3952,it,sardegna,120,True
 20220602,4101,ch,zurich,33,True
+20220602,4106,ch,obwalden,0,True
 20220602,4107,ch,nidwalden,0,True
 20220602,4109,ch,zug,2,True
 20220602,4111,ch,solothurn,6,True
