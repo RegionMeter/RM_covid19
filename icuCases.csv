@@ -1,5 +1,9 @@
 dateId,areaCode,country,areaName,icuCases,isLeaf
+20220613,386012,si,podravska,0,True
+20220613,386021,si,osrednjeslovenska,6,True
 20220613,4120,ch,thurgau,2,True
+20220612,386012,si,podravska,0,True
+20220612,386021,si,osrednjeslovenska,6,True
 20220612,39,it,italy,197,False
 20220612,3911,it,piemonte,9,True
 20220612,3912,it,valle_daosta,1,True
@@ -35,6 +39,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220612,4307,at,salzburg,1,True
 20220612,4308,at,vorarlberg,0,True
 20220612,4309,at,burgenland,2,True
+20220611,386012,si,podravska,0,True
+20220611,386021,si,osrednjeslovenska,6,True
 20220611,39,it,italy,207,False
 20220611,3911,it,piemonte,13,True
 20220611,3912,it,valle_daosta,1,True
@@ -70,9 +76,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220611,4308,at,vorarlberg,0,True
 20220611,4309,at,burgenland,2,True
 20220610,386012,si,podravska,0,True
-20220610,386014,si,savinjska,0,True
 20220610,386021,si,osrednjeslovenska,6,True
-20220610,386022,si,gorenjska,0,True
 20220610,39,it,italy,210,False
 20220610,3911,it,piemonte,15,True
 20220610,3912,it,valle_daosta,0,True
@@ -111,9 +115,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220610,4308,at,vorarlberg,0,True
 20220610,4309,at,burgenland,2,True
 20220609,386012,si,podravska,1,True
-20220609,386014,si,savinjska,0,True
 20220609,386021,si,osrednjeslovenska,6,True
-20220609,386022,si,gorenjska,0,True
 20220609,39,it,italy,210,False
 20220609,3911,it,piemonte,14,True
 20220609,3912,it,valle_daosta,0,True
@@ -153,9 +155,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220609,4308,at,vorarlberg,0,True
 20220609,4309,at,burgenland,3,True
 20220608,386012,si,podravska,1,True
-20220608,386014,si,savinjska,0,True
 20220608,386021,si,osrednjeslovenska,5,True
-20220608,386022,si,gorenjska,0,True
 20220608,39,it,italy,214,False
 20220608,3911,it,piemonte,10,True
 20220608,3912,it,valle_daosta,0,True
@@ -199,9 +199,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220608,4308,at,vorarlberg,0,True
 20220608,4309,at,burgenland,5,True
 20220607,386012,si,podravska,1,True
-20220607,386014,si,savinjska,0,True
 20220607,386021,si,osrednjeslovenska,6,True
-20220607,386022,si,gorenjska,0,True
 20220607,39,it,italy,235,False
 20220607,3911,it,piemonte,9,True
 20220607,3912,it,valle_daosta,0,True
@@ -246,9 +244,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220607,4308,at,vorarlberg,1,True
 20220607,4309,at,burgenland,5,True
 20220606,386012,si,podravska,1,True
-20220606,386014,si,savinjska,0,True
 20220606,386021,si,osrednjeslovenska,6,True
-20220606,386022,si,gorenjska,0,True
 20220606,39,it,italy,233,False
 20220606,3911,it,piemonte,9,True
 20220606,3912,it,valle_daosta,0,True
