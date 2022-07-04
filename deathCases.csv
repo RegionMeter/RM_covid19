@@ -1,6 +1,19 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220704,4111,ch,solothurn,368,0,True
 20220704,4120,ch,thurgau,693,0,True
+20220703,386,si,slovenia,7828,0,False
+20220703,386011,si,pomurska,665,0,True
+20220703,386012,si,podravska,1575,0,True
+20220703,386013,si,koroska,297,0,True
+20220703,386014,si,savinjska,953,0,True
+20220703,386015,si,zasavska,238,0,True
+20220703,386016,si,posavska,347,0,True
+20220703,386017,si,jugovzhodna_slovenija,538,0,True
+20220703,386018,si,primorsko_notranjska,217,0,True
+20220703,386021,si,osrednjeslovenska,1593,0,True
+20220703,386022,si,gorenjska,642,0,True
+20220703,386023,si,goriska,429,0,True
+20220703,386024,si,obalno_kraska,325,0,True
 20220703,39,it,italy,168545,57,False
 20220703,3911,it,piemonte,13477,1,True
 20220703,3912,it,valle_daosta,537,0,True
@@ -26,6 +39,19 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220703,4110,ch,fribourg,577,0,True
 20220703,4114,ch,schaffhausen,133,0,True
 20220703,4120,ch,thurgau,693,1,True
+20220702,386,si,slovenia,7828,0,False
+20220702,386011,si,pomurska,665,0,True
+20220702,386012,si,podravska,1575,0,True
+20220702,386013,si,koroska,297,0,True
+20220702,386014,si,savinjska,953,0,True
+20220702,386015,si,zasavska,238,0,True
+20220702,386016,si,posavska,347,0,True
+20220702,386017,si,jugovzhodna_slovenija,538,0,True
+20220702,386018,si,primorsko_notranjska,217,0,True
+20220702,386021,si,osrednjeslovenska,1593,0,True
+20220702,386022,si,gorenjska,642,0,True
+20220702,386023,si,goriska,429,0,True
+20220702,386024,si,obalno_kraska,325,0,True
 20220702,39,it,italy,168488,63,False
 20220702,3911,it,piemonte,13476,4,True
 20220702,3912,it,valle_daosta,537,0,True
@@ -61,6 +87,19 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220702,4307,at,salzburg,1158,0,True
 20220702,4308,at,vorarlberg,639,0,True
 20220702,4309,at,burgenland,603,0,True
+20220701,386,si,slovenia,7828,1,False
+20220701,386011,si,pomurska,665,0,True
+20220701,386012,si,podravska,1575,0,True
+20220701,386013,si,koroska,297,0,True
+20220701,386014,si,savinjska,953,1,True
+20220701,386015,si,zasavska,238,0,True
+20220701,386016,si,posavska,347,0,True
+20220701,386017,si,jugovzhodna_slovenija,538,0,True
+20220701,386018,si,primorsko_notranjska,217,0,True
+20220701,386021,si,osrednjeslovenska,1593,0,True
+20220701,386022,si,gorenjska,642,0,True
+20220701,386023,si,goriska,429,0,True
+20220701,386024,si,obalno_kraska,325,0,True
 20220701,39,it,italy,168425,72,False
 20220701,3911,it,piemonte,13472,0,True
 20220701,3912,it,valle_daosta,537,0,True
@@ -98,19 +137,19 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220701,4307,at,salzburg,1158,0,True
 20220701,4308,at,vorarlberg,639,0,True
 20220701,4309,at,burgenland,603,0,True
-20220630,386,si,slovenia,7822,0,False
+20220630,386,si,slovenia,7827,0,False
 20220630,386011,si,pomurska,665,0,True
 20220630,386012,si,podravska,1575,0,True
 20220630,386013,si,koroska,297,0,True
 20220630,386014,si,savinjska,952,0,True
-20220630,386015,si,zasavska,237,0,True
+20220630,386015,si,zasavska,238,0,True
 20220630,386016,si,posavska,347,0,True
 20220630,386017,si,jugovzhodna_slovenija,538,0,True
 20220630,386018,si,primorsko_notranjska,217,0,True
-20220630,386021,si,osrednjeslovenska,1590,0,True
+20220630,386021,si,osrednjeslovenska,1593,0,True
 20220630,386022,si,gorenjska,642,0,True
 20220630,386023,si,goriska,429,0,True
-20220630,386024,si,obalno_kraska,324,0,True
+20220630,386024,si,obalno_kraska,325,0,True
 20220630,39,it,italy,168353,59,False
 20220630,3911,it,piemonte,13472,3,True
 20220630,3912,it,valle_daosta,537,0,True
@@ -150,19 +189,19 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220630,4307,at,salzburg,1158,0,True
 20220630,4308,at,vorarlberg,639,0,True
 20220630,4309,at,burgenland,603,0,True
-20220629,386,si,slovenia,7822,0,False
+20220629,386,si,slovenia,7827,0,False
 20220629,386011,si,pomurska,665,0,True
 20220629,386012,si,podravska,1575,0,True
 20220629,386013,si,koroska,297,0,True
 20220629,386014,si,savinjska,952,0,True
-20220629,386015,si,zasavska,237,0,True
+20220629,386015,si,zasavska,238,0,True
 20220629,386016,si,posavska,347,0,True
 20220629,386017,si,jugovzhodna_slovenija,538,0,True
 20220629,386018,si,primorsko_notranjska,217,0,True
-20220629,386021,si,osrednjeslovenska,1590,0,True
+20220629,386021,si,osrednjeslovenska,1593,0,True
 20220629,386022,si,gorenjska,642,0,True
 20220629,386023,si,goriska,429,0,True
-20220629,386024,si,obalno_kraska,324,0,True
+20220629,386024,si,obalno_kraska,325,0,True
 20220629,39,it,italy,168294,60,False
 20220629,3911,it,piemonte,13469,0,True
 20220629,3912,it,valle_daosta,537,0,True
@@ -205,19 +244,19 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220629,4307,at,salzburg,1158,0,True
 20220629,4308,at,vorarlberg,639,0,True
 20220629,4309,at,burgenland,603,0,True
-20220628,386,si,slovenia,7822,0,False
+20220628,386,si,slovenia,7827,0,False
 20220628,386011,si,pomurska,665,0,True
 20220628,386012,si,podravska,1575,0,True
 20220628,386013,si,koroska,297,0,True
 20220628,386014,si,savinjska,952,0,True
-20220628,386015,si,zasavska,237,0,True
+20220628,386015,si,zasavska,238,0,True
 20220628,386016,si,posavska,347,0,True
 20220628,386017,si,jugovzhodna_slovenija,538,0,True
 20220628,386018,si,primorsko_notranjska,217,0,True
-20220628,386021,si,osrednjeslovenska,1590,0,True
+20220628,386021,si,osrednjeslovenska,1593,0,True
 20220628,386022,si,gorenjska,642,0,True
 20220628,386023,si,goriska,429,0,True
-20220628,386024,si,obalno_kraska,324,0,True
+20220628,386024,si,obalno_kraska,325,0,True
 20220628,39,it,italy,168234,69,False
 20220628,3911,it,piemonte,13469,1,True
 20220628,3912,it,valle_daosta,537,0,True
@@ -261,19 +300,19 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220628,4307,at,salzburg,1158,0,True
 20220628,4308,at,vorarlberg,639,0,True
 20220628,4309,at,burgenland,603,0,True
-20220627,386,si,slovenia,7822,0,False
+20220627,386,si,slovenia,7827,1,False
 20220627,386011,si,pomurska,665,0,True
 20220627,386012,si,podravska,1575,0,True
 20220627,386013,si,koroska,297,0,True
 20220627,386014,si,savinjska,952,0,True
-20220627,386015,si,zasavska,237,0,True
+20220627,386015,si,zasavska,238,0,True
 20220627,386016,si,posavska,347,0,True
 20220627,386017,si,jugovzhodna_slovenija,538,0,True
 20220627,386018,si,primorsko_notranjska,217,0,True
-20220627,386021,si,osrednjeslovenska,1590,0,True
+20220627,386021,si,osrednjeslovenska,1593,1,True
 20220627,386022,si,gorenjska,642,0,True
 20220627,386023,si,goriska,429,0,True
-20220627,386024,si,obalno_kraska,324,0,True
+20220627,386024,si,obalno_kraska,325,0,True
 20220627,39,it,italy,168165,63,False
 20220627,3911,it,piemonte,13468,0,True
 20220627,3912,it,valle_daosta,537,1,True
@@ -320,19 +359,19 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220627,4307,at,salzburg,1158,1,True
 20220627,4308,at,vorarlberg,639,0,True
 20220627,4309,at,burgenland,603,0,True
-20220626,386,si,slovenia,7822,0,False
+20220626,386,si,slovenia,7826,1,False
 20220626,386011,si,pomurska,665,0,True
 20220626,386012,si,podravska,1575,0,True
 20220626,386013,si,koroska,297,0,True
 20220626,386014,si,savinjska,952,0,True
-20220626,386015,si,zasavska,237,0,True
+20220626,386015,si,zasavska,238,1,True
 20220626,386016,si,posavska,347,0,True
 20220626,386017,si,jugovzhodna_slovenija,538,0,True
 20220626,386018,si,primorsko_notranjska,217,0,True
-20220626,386021,si,osrednjeslovenska,1590,0,True
+20220626,386021,si,osrednjeslovenska,1592,0,True
 20220626,386022,si,gorenjska,642,0,True
 20220626,386023,si,goriska,429,0,True
-20220626,386024,si,obalno_kraska,324,0,True
+20220626,386024,si,obalno_kraska,325,0,True
 20220626,39,it,italy,168102,44,False
 20220626,3911,it,piemonte,13468,0,True
 20220626,3912,it,valle_daosta,536,0,True
@@ -373,7 +412,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220626,4307,at,salzburg,1157,0,True
 20220626,4308,at,vorarlberg,639,1,True
 20220626,4309,at,burgenland,603,0,True
-20220625,386,si,slovenia,7822,0,False
+20220625,386,si,slovenia,7825,0,False
 20220625,386011,si,pomurska,665,0,True
 20220625,386012,si,podravska,1575,0,True
 20220625,386013,si,koroska,297,0,True
@@ -382,10 +421,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220625,386016,si,posavska,347,0,True
 20220625,386017,si,jugovzhodna_slovenija,538,0,True
 20220625,386018,si,primorsko_notranjska,217,0,True
-20220625,386021,si,osrednjeslovenska,1590,0,True
+20220625,386021,si,osrednjeslovenska,1592,0,True
 20220625,386022,si,gorenjska,642,0,True
 20220625,386023,si,goriska,429,0,True
-20220625,386024,si,obalno_kraska,324,0,True
+20220625,386024,si,obalno_kraska,325,0,True
 20220625,39,it,italy,168058,40,False
 20220625,3911,it,piemonte,13468,2,True
 20220625,3912,it,valle_daosta,536,0,True
@@ -427,7 +466,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220625,4307,at,salzburg,1157,0,True
 20220625,4308,at,vorarlberg,638,0,True
 20220625,4309,at,burgenland,603,0,True
-20220624,386,si,slovenia,7822,0,False
+20220624,386,si,slovenia,7825,0,False
 20220624,386011,si,pomurska,665,0,True
 20220624,386012,si,podravska,1575,0,True
 20220624,386013,si,koroska,297,0,True
@@ -436,10 +475,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220624,386016,si,posavska,347,0,True
 20220624,386017,si,jugovzhodna_slovenija,538,0,True
 20220624,386018,si,primorsko_notranjska,217,0,True
-20220624,386021,si,osrednjeslovenska,1590,0,True
+20220624,386021,si,osrednjeslovenska,1592,0,True
 20220624,386022,si,gorenjska,642,0,True
 20220624,386023,si,goriska,429,0,True
-20220624,386024,si,obalno_kraska,324,0,True
+20220624,386024,si,obalno_kraska,325,0,True
 20220624,39,it,italy,168018,51,False
 20220624,3911,it,piemonte,13466,2,True
 20220624,3912,it,valle_daosta,536,0,True
@@ -485,7 +524,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220624,4307,at,salzburg,1157,0,True
 20220624,4308,at,vorarlberg,638,0,True
 20220624,4309,at,burgenland,603,1,True
-20220623,386,si,slovenia,7822,0,False
+20220623,386,si,slovenia,7825,1,False
 20220623,386011,si,pomurska,665,0,True
 20220623,386012,si,podravska,1575,0,True
 20220623,386013,si,koroska,297,0,True
@@ -494,10 +533,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220623,386016,si,posavska,347,0,True
 20220623,386017,si,jugovzhodna_slovenija,538,0,True
 20220623,386018,si,primorsko_notranjska,217,0,True
-20220623,386021,si,osrednjeslovenska,1590,0,True
+20220623,386021,si,osrednjeslovenska,1592,0,True
 20220623,386022,si,gorenjska,642,0,True
 20220623,386023,si,goriska,429,0,True
-20220623,386024,si,obalno_kraska,324,0,True
+20220623,386024,si,obalno_kraska,325,1,True
 20220623,39,it,italy,167967,75,False
 20220623,3911,it,piemonte,13464,1,True
 20220623,3912,it,valle_daosta,536,0,True
@@ -543,7 +582,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220623,4307,at,salzburg,1157,0,True
 20220623,4308,at,vorarlberg,638,0,True
 20220623,4309,at,burgenland,602,0,True
-20220622,386,si,slovenia,7822,0,False
+20220622,386,si,slovenia,7824,0,False
 20220622,386011,si,pomurska,665,0,True
 20220622,386012,si,podravska,1575,0,True
 20220622,386013,si,koroska,297,0,True
@@ -552,7 +591,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220622,386016,si,posavska,347,0,True
 20220622,386017,si,jugovzhodna_slovenija,538,0,True
 20220622,386018,si,primorsko_notranjska,217,0,True
-20220622,386021,si,osrednjeslovenska,1590,0,True
+20220622,386021,si,osrednjeslovenska,1592,0,True
 20220622,386022,si,gorenjska,642,0,True
 20220622,386023,si,goriska,429,0,True
 20220622,386024,si,obalno_kraska,324,0,True
@@ -601,7 +640,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220622,4307,at,salzburg,1157,0,True
 20220622,4308,at,vorarlberg,638,0,True
 20220622,4309,at,burgenland,602,0,True
-20220621,386,si,slovenia,7822,1,False
+20220621,386,si,slovenia,7824,1,False
 20220621,386011,si,pomurska,665,0,True
 20220621,386012,si,podravska,1575,0,True
 20220621,386013,si,koroska,297,0,True
@@ -610,7 +649,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220621,386016,si,posavska,347,0,True
 20220621,386017,si,jugovzhodna_slovenija,538,0,True
 20220621,386018,si,primorsko_notranjska,217,0,True
-20220621,386021,si,osrednjeslovenska,1590,0,True
+20220621,386021,si,osrednjeslovenska,1592,0,True
 20220621,386022,si,gorenjska,642,0,True
 20220621,386023,si,goriska,429,0,True
 20220621,386024,si,obalno_kraska,324,0,True
@@ -659,7 +698,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220621,4307,at,salzburg,1157,0,True
 20220621,4308,at,vorarlberg,638,0,True
 20220621,4309,at,burgenland,602,0,True
-20220620,386,si,slovenia,7821,0,False
+20220620,386,si,slovenia,7823,0,False
 20220620,386011,si,pomurska,665,0,True
 20220620,386012,si,podravska,1575,0,True
 20220620,386013,si,koroska,297,0,True
@@ -668,7 +707,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220620,386016,si,posavska,347,0,True
 20220620,386017,si,jugovzhodna_slovenija,538,0,True
 20220620,386018,si,primorsko_notranjska,217,0,True
-20220620,386021,si,osrednjeslovenska,1590,0,True
+20220620,386021,si,osrednjeslovenska,1592,0,True
 20220620,386022,si,gorenjska,642,0,True
 20220620,386023,si,goriska,429,0,True
 20220620,386024,si,obalno_kraska,324,0,True
@@ -718,7 +757,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220620,4307,at,salzburg,1157,0,True
 20220620,4308,at,vorarlberg,638,0,True
 20220620,4309,at,burgenland,602,0,True
-20220619,386,si,slovenia,7821,0,False
+20220619,386,si,slovenia,7823,0,False
 20220619,386011,si,pomurska,665,0,True
 20220619,386012,si,podravska,1575,0,True
 20220619,386013,si,koroska,297,0,True
@@ -727,7 +766,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220619,386016,si,posavska,347,0,True
 20220619,386017,si,jugovzhodna_slovenija,538,0,True
 20220619,386018,si,primorsko_notranjska,217,0,True
-20220619,386021,si,osrednjeslovenska,1590,0,True
+20220619,386021,si,osrednjeslovenska,1592,0,True
 20220619,386022,si,gorenjska,642,0,True
 20220619,386023,si,goriska,429,0,True
 20220619,386024,si,obalno_kraska,324,0,True
@@ -771,7 +810,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220619,4307,at,salzburg,1157,0,True
 20220619,4308,at,vorarlberg,638,0,True
 20220619,4309,at,burgenland,602,0,True
-20220618,386,si,slovenia,7821,0,False
+20220618,386,si,slovenia,7823,0,False
 20220618,386011,si,pomurska,665,0,True
 20220618,386012,si,podravska,1575,0,True
 20220618,386013,si,koroska,297,0,True
@@ -780,7 +819,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220618,386016,si,posavska,347,0,True
 20220618,386017,si,jugovzhodna_slovenija,538,0,True
 20220618,386018,si,primorsko_notranjska,217,0,True
-20220618,386021,si,osrednjeslovenska,1590,0,True
+20220618,386021,si,osrednjeslovenska,1592,0,True
 20220618,386022,si,gorenjska,642,0,True
 20220618,386023,si,goriska,429,0,True
 20220618,386024,si,obalno_kraska,324,0,True
@@ -824,7 +863,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220618,4307,at,salzburg,1157,0,True
 20220618,4308,at,vorarlberg,638,0,True
 20220618,4309,at,burgenland,602,0,True
-20220617,386,si,slovenia,7821,1,False
+20220617,386,si,slovenia,7823,1,False
 20220617,386011,si,pomurska,665,0,True
 20220617,386012,si,podravska,1575,0,True
 20220617,386013,si,koroska,297,0,True
@@ -833,7 +872,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220617,386016,si,posavska,347,0,True
 20220617,386017,si,jugovzhodna_slovenija,538,0,True
 20220617,386018,si,primorsko_notranjska,217,0,True
-20220617,386021,si,osrednjeslovenska,1590,1,True
+20220617,386021,si,osrednjeslovenska,1592,1,True
 20220617,386022,si,gorenjska,642,0,True
 20220617,386023,si,goriska,429,0,True
 20220617,386024,si,obalno_kraska,324,0,True
@@ -882,7 +921,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220617,4307,at,salzburg,1157,1,True
 20220617,4308,at,vorarlberg,638,0,True
 20220617,4309,at,burgenland,602,0,True
-20220616,386,si,slovenia,7820,0,False
+20220616,386,si,slovenia,7822,0,False
 20220616,386011,si,pomurska,665,0,True
 20220616,386012,si,podravska,1575,0,True
 20220616,386013,si,koroska,297,0,True
@@ -891,7 +930,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220616,386016,si,posavska,347,0,True
 20220616,386017,si,jugovzhodna_slovenija,538,0,True
 20220616,386018,si,primorsko_notranjska,217,0,True
-20220616,386021,si,osrednjeslovenska,1589,0,True
+20220616,386021,si,osrednjeslovenska,1591,0,True
 20220616,386022,si,gorenjska,642,0,True
 20220616,386023,si,goriska,429,0,True
 20220616,386024,si,obalno_kraska,324,0,True
@@ -938,7 +977,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220616,4307,at,salzburg,1156,0,True
 20220616,4308,at,vorarlberg,638,0,True
 20220616,4309,at,burgenland,602,0,True
-20220615,386,si,slovenia,7820,2,False
+20220615,386,si,slovenia,7822,2,False
 20220615,386011,si,pomurska,665,1,True
 20220615,386012,si,podravska,1575,0,True
 20220615,386013,si,koroska,297,0,True
@@ -947,7 +986,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220615,386016,si,posavska,347,0,True
 20220615,386017,si,jugovzhodna_slovenija,538,0,True
 20220615,386018,si,primorsko_notranjska,217,0,True
-20220615,386021,si,osrednjeslovenska,1589,1,True
+20220615,386021,si,osrednjeslovenska,1591,1,True
 20220615,386022,si,gorenjska,642,0,True
 20220615,386023,si,goriska,429,0,True
 20220615,386024,si,obalno_kraska,324,0,True
@@ -996,7 +1035,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220615,4307,at,salzburg,1156,0,True
 20220615,4308,at,vorarlberg,638,0,True
 20220615,4309,at,burgenland,602,0,True
-20220614,386,si,slovenia,7818,2,False
+20220614,386,si,slovenia,7820,3,False
 20220614,386011,si,pomurska,664,0,True
 20220614,386012,si,podravska,1575,0,True
 20220614,386013,si,koroska,297,0,True
@@ -1005,7 +1044,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220614,386016,si,posavska,347,0,True
 20220614,386017,si,jugovzhodna_slovenija,538,0,True
 20220614,386018,si,primorsko_notranjska,217,0,True
-20220614,386021,si,osrednjeslovenska,1588,1,True
+20220614,386021,si,osrednjeslovenska,1590,2,True
 20220614,386022,si,gorenjska,642,0,True
 20220614,386023,si,goriska,429,0,True
 20220614,386024,si,obalno_kraska,324,0,True
@@ -1054,7 +1093,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220614,4307,at,salzburg,1156,0,True
 20220614,4308,at,vorarlberg,638,0,True
 20220614,4309,at,burgenland,602,0,True
-20220613,386,si,slovenia,7816,1,False
+20220613,386,si,slovenia,7817,1,False
 20220613,386011,si,pomurska,664,0,True
 20220613,386012,si,podravska,1575,0,True
 20220613,386013,si,koroska,297,0,True
@@ -1063,7 +1102,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220613,386016,si,posavska,347,0,True
 20220613,386017,si,jugovzhodna_slovenija,538,0,True
 20220613,386018,si,primorsko_notranjska,217,0,True
-20220613,386021,si,osrednjeslovenska,1587,1,True
+20220613,386021,si,osrednjeslovenska,1588,1,True
 20220613,386022,si,gorenjska,642,0,True
 20220613,386023,si,goriska,429,0,True
 20220613,386024,si,obalno_kraska,324,0,True
@@ -1113,7 +1152,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220613,4307,at,salzburg,1156,1,True
 20220613,4308,at,vorarlberg,638,0,True
 20220613,4309,at,burgenland,602,0,True
-20220612,386,si,slovenia,7815,1,False
+20220612,386,si,slovenia,7816,1,False
 20220612,386011,si,pomurska,664,0,True
 20220612,386012,si,podravska,1575,1,True
 20220612,386013,si,koroska,297,0,True
@@ -1122,7 +1161,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220612,386016,si,posavska,347,0,True
 20220612,386017,si,jugovzhodna_slovenija,538,0,True
 20220612,386018,si,primorsko_notranjska,217,0,True
-20220612,386021,si,osrednjeslovenska,1586,0,True
+20220612,386021,si,osrednjeslovenska,1587,0,True
 20220612,386022,si,gorenjska,642,0,True
 20220612,386023,si,goriska,429,0,True
 20220612,386024,si,obalno_kraska,324,0,True
@@ -1167,7 +1206,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220612,4307,at,salzburg,1155,0,True
 20220612,4308,at,vorarlberg,638,0,True
 20220612,4309,at,burgenland,602,0,True
-20220611,386,si,slovenia,7814,3,False
+20220611,386,si,slovenia,7815,3,False
 20220611,386011,si,pomurska,664,1,True
 20220611,386012,si,podravska,1574,0,True
 20220611,386013,si,koroska,297,0,True
@@ -1176,7 +1215,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220611,386016,si,posavska,347,0,True
 20220611,386017,si,jugovzhodna_slovenija,538,1,True
 20220611,386018,si,primorsko_notranjska,217,0,True
-20220611,386021,si,osrednjeslovenska,1586,1,True
+20220611,386021,si,osrednjeslovenska,1587,1,True
 20220611,386022,si,gorenjska,642,0,True
 20220611,386023,si,goriska,429,0,True
 20220611,386024,si,obalno_kraska,324,0,True
@@ -1221,7 +1260,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220611,4307,at,salzburg,1155,0,True
 20220611,4308,at,vorarlberg,638,0,True
 20220611,4309,at,burgenland,602,0,True
-20220610,386,si,slovenia,7811,1,False
+20220610,386,si,slovenia,7812,1,False
 20220610,386011,si,pomurska,663,0,True
 20220610,386012,si,podravska,1574,0,True
 20220610,386013,si,koroska,297,0,True
@@ -1230,7 +1269,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220610,386016,si,posavska,347,0,True
 20220610,386017,si,jugovzhodna_slovenija,537,0,True
 20220610,386018,si,primorsko_notranjska,217,0,True
-20220610,386021,si,osrednjeslovenska,1585,0,True
+20220610,386021,si,osrednjeslovenska,1586,0,True
 20220610,386022,si,gorenjska,642,0,True
 20220610,386023,si,goriska,429,0,True
 20220610,386024,si,obalno_kraska,324,0,True
@@ -1279,7 +1318,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220610,4307,at,salzburg,1155,0,True
 20220610,4308,at,vorarlberg,638,0,True
 20220610,4309,at,burgenland,602,0,True
-20220609,386,si,slovenia,7810,1,False
+20220609,386,si,slovenia,7811,1,False
 20220609,386011,si,pomurska,663,0,True
 20220609,386012,si,podravska,1574,0,True
 20220609,386013,si,koroska,297,0,True
@@ -1288,7 +1327,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220609,386016,si,posavska,347,0,True
 20220609,386017,si,jugovzhodna_slovenija,537,0,True
 20220609,386018,si,primorsko_notranjska,217,0,True
-20220609,386021,si,osrednjeslovenska,1585,1,True
+20220609,386021,si,osrednjeslovenska,1586,1,True
 20220609,386022,si,gorenjska,642,0,True
 20220609,386023,si,goriska,429,0,True
 20220609,386024,si,obalno_kraska,324,0,True
@@ -1337,7 +1376,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220609,4307,at,salzburg,1155,1,True
 20220609,4308,at,vorarlberg,638,0,True
 20220609,4309,at,burgenland,602,1,True
-20220608,386,si,slovenia,7809,1,False
+20220608,386,si,slovenia,7810,1,False
 20220608,386011,si,pomurska,663,0,True
 20220608,386012,si,podravska,1574,0,True
 20220608,386013,si,koroska,297,0,True
@@ -1346,7 +1385,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220608,386016,si,posavska,347,0,True
 20220608,386017,si,jugovzhodna_slovenija,537,0,True
 20220608,386018,si,primorsko_notranjska,217,0,True
-20220608,386021,si,osrednjeslovenska,1584,1,True
+20220608,386021,si,osrednjeslovenska,1585,1,True
 20220608,386022,si,gorenjska,642,0,True
 20220608,386023,si,goriska,429,0,True
 20220608,386024,si,obalno_kraska,324,0,True
@@ -1395,7 +1434,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220608,4307,at,salzburg,1154,0,True
 20220608,4308,at,vorarlberg,638,0,True
 20220608,4309,at,burgenland,601,0,True
-20220607,386,si,slovenia,7808,0,False
+20220607,386,si,slovenia,7809,0,False
 20220607,386011,si,pomurska,663,0,True
 20220607,386012,si,podravska,1574,0,True
 20220607,386013,si,koroska,297,0,True
@@ -1404,7 +1443,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220607,386016,si,posavska,347,0,True
 20220607,386017,si,jugovzhodna_slovenija,537,0,True
 20220607,386018,si,primorsko_notranjska,217,0,True
-20220607,386021,si,osrednjeslovenska,1583,0,True
+20220607,386021,si,osrednjeslovenska,1584,0,True
 20220607,386022,si,gorenjska,642,0,True
 20220607,386023,si,goriska,429,0,True
 20220607,386024,si,obalno_kraska,324,0,True
@@ -1453,7 +1492,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220607,4307,at,salzburg,1154,0,True
 20220607,4308,at,vorarlberg,638,0,True
 20220607,4309,at,burgenland,601,1,True
-20220606,386,si,slovenia,7808,2,False
+20220606,386,si,slovenia,7809,2,False
 20220606,386011,si,pomurska,663,0,True
 20220606,386012,si,podravska,1574,1,True
 20220606,386013,si,koroska,297,0,True
@@ -1462,7 +1501,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220606,386016,si,posavska,347,0,True
 20220606,386017,si,jugovzhodna_slovenija,537,1,True
 20220606,386018,si,primorsko_notranjska,217,0,True
-20220606,386021,si,osrednjeslovenska,1583,0,True
+20220606,386021,si,osrednjeslovenska,1584,0,True
 20220606,386022,si,gorenjska,642,0,True
 20220606,386023,si,goriska,429,0,True
 20220606,386024,si,obalno_kraska,324,0,True
@@ -1509,7 +1548,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220606,4307,at,salzburg,1154,1,True
 20220606,4308,at,vorarlberg,638,0,True
 20220606,4309,at,burgenland,600,0,True
-20220605,386,si,slovenia,7806,4,False
+20220605,386,si,slovenia,7807,4,False
 20220605,386011,si,pomurska,663,1,True
 20220605,386012,si,podravska,1573,0,True
 20220605,386013,si,koroska,297,0,True
@@ -1518,7 +1557,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220605,386016,si,posavska,347,0,True
 20220605,386017,si,jugovzhodna_slovenija,536,1,True
 20220605,386018,si,primorsko_notranjska,217,0,True
-20220605,386021,si,osrednjeslovenska,1583,1,True
+20220605,386021,si,osrednjeslovenska,1584,1,True
 20220605,386022,si,gorenjska,642,0,True
 20220605,386023,si,goriska,429,0,True
 20220605,386024,si,obalno_kraska,324,0,True
@@ -1563,7 +1602,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220605,4307,at,salzburg,1153,0,True
 20220605,4308,at,vorarlberg,638,0,True
 20220605,4309,at,burgenland,600,0,True
-20220604,386,si,slovenia,7802,1,False
+20220604,386,si,slovenia,7803,1,False
 20220604,386011,si,pomurska,662,0,True
 20220604,386012,si,podravska,1573,1,True
 20220604,386013,si,koroska,297,0,True
@@ -1572,7 +1611,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220604,386016,si,posavska,347,0,True
 20220604,386017,si,jugovzhodna_slovenija,535,0,True
 20220604,386018,si,primorsko_notranjska,217,0,True
-20220604,386021,si,osrednjeslovenska,1582,0,True
+20220604,386021,si,osrednjeslovenska,1583,0,True
 20220604,386022,si,gorenjska,642,0,True
 20220604,386023,si,goriska,429,0,True
 20220604,386024,si,obalno_kraska,324,0,True
@@ -1617,7 +1656,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220604,4307,at,salzburg,1153,0,True
 20220604,4308,at,vorarlberg,638,0,True
 20220604,4309,at,burgenland,600,0,True
-20220603,386,si,slovenia,7801,0,False
+20220603,386,si,slovenia,7802,0,False
 20220603,386011,si,pomurska,662,0,True
 20220603,386012,si,podravska,1572,0,True
 20220603,386013,si,koroska,297,0,True
@@ -1626,7 +1665,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220603,386016,si,posavska,347,0,True
 20220603,386017,si,jugovzhodna_slovenija,535,0,True
 20220603,386018,si,primorsko_notranjska,217,0,True
-20220603,386021,si,osrednjeslovenska,1582,0,True
+20220603,386021,si,osrednjeslovenska,1583,0,True
 20220603,386022,si,gorenjska,642,0,True
 20220603,386023,si,goriska,429,0,True
 20220603,386024,si,obalno_kraska,324,0,True
@@ -1676,7 +1715,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220603,4307,at,salzburg,1153,0,True
 20220603,4308,at,vorarlberg,638,0,True
 20220603,4309,at,burgenland,600,0,True
-20220602,386,si,slovenia,7801,2,False
+20220602,386,si,slovenia,7802,2,False
 20220602,386011,si,pomurska,662,0,True
 20220602,386012,si,podravska,1572,0,True
 20220602,386013,si,koroska,297,0,True
@@ -1685,7 +1724,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220602,386016,si,posavska,347,0,True
 20220602,386017,si,jugovzhodna_slovenija,535,0,True
 20220602,386018,si,primorsko_notranjska,217,0,True
-20220602,386021,si,osrednjeslovenska,1582,1,True
+20220602,386021,si,osrednjeslovenska,1583,1,True
 20220602,386022,si,gorenjska,642,0,True
 20220602,386023,si,goriska,429,0,True
 20220602,386024,si,obalno_kraska,324,0,True
@@ -1735,7 +1774,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220602,4307,at,salzburg,1153,0,True
 20220602,4308,at,vorarlberg,638,0,True
 20220602,4309,at,burgenland,600,0,True
-20220601,386,si,slovenia,7799,2,False
+20220601,386,si,slovenia,7800,2,False
 20220601,386011,si,pomurska,662,0,True
 20220601,386012,si,podravska,1572,1,True
 20220601,386013,si,koroska,297,0,True
@@ -1744,7 +1783,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220601,386016,si,posavska,347,0,True
 20220601,386017,si,jugovzhodna_slovenija,535,0,True
 20220601,386018,si,primorsko_notranjska,217,0,True
-20220601,386021,si,osrednjeslovenska,1581,1,True
+20220601,386021,si,osrednjeslovenska,1582,1,True
 20220601,386022,si,gorenjska,642,0,True
 20220601,386023,si,goriska,429,0,True
 20220601,386024,si,obalno_kraska,324,0,True
@@ -1794,7 +1833,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220601,4307,at,salzburg,1153,0,True
 20220601,4308,at,vorarlberg,638,0,True
 20220601,4309,at,burgenland,600,0,True
-20220531,386,si,slovenia,7797,4,False
+20220531,386,si,slovenia,7798,4,False
 20220531,386011,si,pomurska,662,1,True
 20220531,386012,si,podravska,1571,1,True
 20220531,386013,si,koroska,297,0,True
@@ -1803,7 +1842,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220531,386016,si,posavska,347,0,True
 20220531,386017,si,jugovzhodna_slovenija,535,0,True
 20220531,386018,si,primorsko_notranjska,217,0,True
-20220531,386021,si,osrednjeslovenska,1580,1,True
+20220531,386021,si,osrednjeslovenska,1581,1,True
 20220531,386022,si,gorenjska,642,0,True
 20220531,386023,si,goriska,429,0,True
 20220531,386024,si,obalno_kraska,324,0,True
@@ -1853,7 +1892,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220531,4307,at,salzburg,1153,1,True
 20220531,4308,at,vorarlberg,638,0,True
 20220531,4309,at,burgenland,600,0,True
-20220530,386,si,slovenia,7793,0,False
+20220530,386,si,slovenia,7794,0,False
 20220530,386011,si,pomurska,661,0,True
 20220530,386012,si,podravska,1570,0,True
 20220530,386013,si,koroska,297,0,True
@@ -1862,7 +1901,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220530,386016,si,posavska,347,0,True
 20220530,386017,si,jugovzhodna_slovenija,535,0,True
 20220530,386018,si,primorsko_notranjska,217,0,True
-20220530,386021,si,osrednjeslovenska,1579,0,True
+20220530,386021,si,osrednjeslovenska,1580,0,True
 20220530,386022,si,gorenjska,642,0,True
 20220530,386023,si,goriska,429,0,True
 20220530,386024,si,obalno_kraska,324,0,True
@@ -1913,7 +1952,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220530,4307,at,salzburg,1152,0,True
 20220530,4308,at,vorarlberg,638,0,True
 20220530,4309,at,burgenland,600,0,True
-20220529,386,si,slovenia,7793,1,False
+20220529,386,si,slovenia,7794,1,False
 20220529,386011,si,pomurska,661,0,True
 20220529,386012,si,podravska,1570,0,True
 20220529,386013,si,koroska,297,0,True
@@ -1922,7 +1961,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220529,386016,si,posavska,347,0,True
 20220529,386017,si,jugovzhodna_slovenija,535,0,True
 20220529,386018,si,primorsko_notranjska,217,0,True
-20220529,386021,si,osrednjeslovenska,1579,1,True
+20220529,386021,si,osrednjeslovenska,1580,1,True
 20220529,386022,si,gorenjska,642,0,True
 20220529,386023,si,goriska,429,0,True
 20220529,386024,si,obalno_kraska,324,0,True
@@ -1969,7 +2008,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220529,4307,at,salzburg,1152,0,True
 20220529,4308,at,vorarlberg,638,0,True
 20220529,4309,at,burgenland,600,0,True
-20220528,386,si,slovenia,7792,1,False
+20220528,386,si,slovenia,7793,1,False
 20220528,386011,si,pomurska,661,0,True
 20220528,386012,si,podravska,1570,0,True
 20220528,386013,si,koroska,297,0,True
@@ -1978,7 +2017,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220528,386016,si,posavska,347,0,True
 20220528,386017,si,jugovzhodna_slovenija,535,0,True
 20220528,386018,si,primorsko_notranjska,217,0,True
-20220528,386021,si,osrednjeslovenska,1578,1,True
+20220528,386021,si,osrednjeslovenska,1579,1,True
 20220528,386022,si,gorenjska,642,0,True
 20220528,386023,si,goriska,429,0,True
 20220528,386024,si,obalno_kraska,324,0,True
@@ -2025,7 +2064,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220528,4307,at,salzburg,1152,0,True
 20220528,4308,at,vorarlberg,638,0,True
 20220528,4309,at,burgenland,600,0,True
-20220527,386,si,slovenia,7791,3,False
+20220527,386,si,slovenia,7792,3,False
 20220527,386011,si,pomurska,661,1,True
 20220527,386012,si,podravska,1570,0,True
 20220527,386013,si,koroska,297,0,True
@@ -2034,7 +2073,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220527,386016,si,posavska,347,0,True
 20220527,386017,si,jugovzhodna_slovenija,535,0,True
 20220527,386018,si,primorsko_notranjska,217,0,True
-20220527,386021,si,osrednjeslovenska,1577,2,True
+20220527,386021,si,osrednjeslovenska,1578,2,True
 20220527,386022,si,gorenjska,642,0,True
 20220527,386023,si,goriska,429,0,True
 20220527,386024,si,obalno_kraska,324,0,True
@@ -2085,7 +2124,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220527,4307,at,salzburg,1152,0,True
 20220527,4308,at,vorarlberg,638,0,True
 20220527,4309,at,burgenland,600,0,True
-20220526,386,si,slovenia,7788,3,False
+20220526,386,si,slovenia,7789,3,False
 20220526,386011,si,pomurska,660,0,True
 20220526,386012,si,podravska,1570,1,True
 20220526,386013,si,koroska,297,0,True
@@ -2094,7 +2133,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220526,386016,si,posavska,347,1,True
 20220526,386017,si,jugovzhodna_slovenija,535,0,True
 20220526,386018,si,primorsko_notranjska,217,0,True
-20220526,386021,si,osrednjeslovenska,1575,1,True
+20220526,386021,si,osrednjeslovenska,1576,1,True
 20220526,386022,si,gorenjska,642,0,True
 20220526,386023,si,goriska,429,0,True
 20220526,386024,si,obalno_kraska,324,0,True
@@ -2142,7 +2181,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220526,4307,at,salzburg,1152,1,True
 20220526,4308,at,vorarlberg,638,0,True
 20220526,4309,at,burgenland,600,0,True
-20220525,386,si,slovenia,7785,1,False
+20220525,386,si,slovenia,7786,1,False
 20220525,386011,si,pomurska,660,0,True
 20220525,386012,si,podravska,1569,0,True
 20220525,386013,si,koroska,297,0,True
@@ -2151,7 +2190,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220525,386016,si,posavska,346,0,True
 20220525,386017,si,jugovzhodna_slovenija,535,0,True
 20220525,386018,si,primorsko_notranjska,217,0,True
-20220525,386021,si,osrednjeslovenska,1574,0,True
+20220525,386021,si,osrednjeslovenska,1575,0,True
 20220525,386022,si,gorenjska,642,0,True
 20220525,386023,si,goriska,429,1,True
 20220525,386024,si,obalno_kraska,324,0,True
@@ -2202,7 +2241,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220525,4307,at,salzburg,1151,0,True
 20220525,4308,at,vorarlberg,638,0,True
 20220525,4309,at,burgenland,600,0,True
-20220524,386,si,slovenia,7784,1,False
+20220524,386,si,slovenia,7785,1,False
 20220524,386011,si,pomurska,660,0,True
 20220524,386012,si,podravska,1569,0,True
 20220524,386013,si,koroska,297,0,True
@@ -2211,7 +2250,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220524,386016,si,posavska,346,0,True
 20220524,386017,si,jugovzhodna_slovenija,535,0,True
 20220524,386018,si,primorsko_notranjska,217,0,True
-20220524,386021,si,osrednjeslovenska,1574,0,True
+20220524,386021,si,osrednjeslovenska,1575,0,True
 20220524,386022,si,gorenjska,642,1,True
 20220524,386023,si,goriska,428,0,True
 20220524,386024,si,obalno_kraska,324,0,True
@@ -2262,7 +2301,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220524,4307,at,salzburg,1151,1,True
 20220524,4308,at,vorarlberg,638,1,True
 20220524,4309,at,burgenland,600,0,True
-20220523,386,si,slovenia,7783,1,False
+20220523,386,si,slovenia,7784,1,False
 20220523,386011,si,pomurska,660,0,True
 20220523,386012,si,podravska,1569,0,True
 20220523,386013,si,koroska,297,0,True
@@ -2271,7 +2310,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220523,386016,si,posavska,346,0,True
 20220523,386017,si,jugovzhodna_slovenija,535,0,True
 20220523,386018,si,primorsko_notranjska,217,0,True
-20220523,386021,si,osrednjeslovenska,1574,1,True
+20220523,386021,si,osrednjeslovenska,1575,1,True
 20220523,386022,si,gorenjska,641,0,True
 20220523,386023,si,goriska,428,0,True
 20220523,386024,si,obalno_kraska,324,0,True
@@ -2323,7 +2362,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220523,4307,at,salzburg,1150,1,True
 20220523,4308,at,vorarlberg,637,0,True
 20220523,4309,at,burgenland,600,0,True
-20220522,386,si,slovenia,7782,2,False
+20220522,386,si,slovenia,7783,2,False
 20220522,386011,si,pomurska,660,0,True
 20220522,386012,si,podravska,1569,1,True
 20220522,386013,si,koroska,297,0,True
@@ -2332,7 +2371,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220522,386016,si,posavska,346,0,True
 20220522,386017,si,jugovzhodna_slovenija,535,0,True
 20220522,386018,si,primorsko_notranjska,217,0,True
-20220522,386021,si,osrednjeslovenska,1573,1,True
+20220522,386021,si,osrednjeslovenska,1574,1,True
 20220522,386022,si,gorenjska,641,0,True
 20220522,386023,si,goriska,428,0,True
 20220522,386024,si,obalno_kraska,324,0,True
@@ -2379,7 +2418,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220522,4307,at,salzburg,1149,0,True
 20220522,4308,at,vorarlberg,637,0,True
 20220522,4309,at,burgenland,600,0,True
-20220521,386,si,slovenia,7780,1,False
+20220521,386,si,slovenia,7781,1,False
 20220521,386011,si,pomurska,660,0,True
 20220521,386012,si,podravska,1568,1,True
 20220521,386013,si,koroska,297,0,True
@@ -2388,7 +2427,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220521,386016,si,posavska,346,0,True
 20220521,386017,si,jugovzhodna_slovenija,535,0,True
 20220521,386018,si,primorsko_notranjska,217,0,True
-20220521,386021,si,osrednjeslovenska,1572,0,True
+20220521,386021,si,osrednjeslovenska,1573,0,True
 20220521,386022,si,gorenjska,641,0,True
 20220521,386023,si,goriska,428,0,True
 20220521,386024,si,obalno_kraska,324,0,True
@@ -2435,7 +2474,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220521,4307,at,salzburg,1149,1,True
 20220521,4308,at,vorarlberg,637,0,True
 20220521,4309,at,burgenland,600,0,True
-20220520,386,si,slovenia,7779,6,False
+20220520,386,si,slovenia,7780,6,False
 20220520,386011,si,pomurska,660,0,True
 20220520,386012,si,podravska,1567,2,True
 20220520,386013,si,koroska,297,0,True
@@ -2444,7 +2483,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220520,386016,si,posavska,346,0,True
 20220520,386017,si,jugovzhodna_slovenija,535,0,True
 20220520,386018,si,primorsko_notranjska,217,1,True
-20220520,386021,si,osrednjeslovenska,1572,0,True
+20220520,386021,si,osrednjeslovenska,1573,0,True
 20220520,386022,si,gorenjska,641,0,True
 20220520,386023,si,goriska,428,2,True
 20220520,386024,si,obalno_kraska,324,0,True
@@ -2495,7 +2534,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220520,4307,at,salzburg,1148,0,True
 20220520,4308,at,vorarlberg,637,0,True
 20220520,4309,at,burgenland,600,0,True
-20220519,386,si,slovenia,7773,3,False
+20220519,386,si,slovenia,7774,3,False
 20220519,386011,si,pomurska,660,0,True
 20220519,386012,si,podravska,1565,0,True
 20220519,386013,si,koroska,297,0,True
@@ -2504,7 +2543,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220519,386016,si,posavska,346,0,True
 20220519,386017,si,jugovzhodna_slovenija,535,0,True
 20220519,386018,si,primorsko_notranjska,216,0,True
-20220519,386021,si,osrednjeslovenska,1572,2,True
+20220519,386021,si,osrednjeslovenska,1573,2,True
 20220519,386022,si,gorenjska,641,0,True
 20220519,386023,si,goriska,426,0,True
 20220519,386024,si,obalno_kraska,324,1,True
@@ -2555,7 +2594,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220519,4307,at,salzburg,1148,0,True
 20220519,4308,at,vorarlberg,637,0,True
 20220519,4309,at,burgenland,600,0,True
-20220518,386,si,slovenia,7770,4,False
+20220518,386,si,slovenia,7771,4,False
 20220518,386011,si,pomurska,660,0,True
 20220518,386012,si,podravska,1565,0,True
 20220518,386013,si,koroska,297,0,True
@@ -2564,7 +2603,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220518,386016,si,posavska,346,0,True
 20220518,386017,si,jugovzhodna_slovenija,535,1,True
 20220518,386018,si,primorsko_notranjska,216,0,True
-20220518,386021,si,osrednjeslovenska,1570,1,True
+20220518,386021,si,osrednjeslovenska,1571,1,True
 20220518,386022,si,gorenjska,641,0,True
 20220518,386023,si,goriska,426,0,True
 20220518,386024,si,obalno_kraska,323,0,True
@@ -2634,7 +2673,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220517,3324,fr,reunion,792,4,True
 20220517,3325,fr,mayotte,162,0,True
 20220517,3333,fr,saint_martin,0,0,True
-20220517,386,si,slovenia,7766,1,False
+20220517,386,si,slovenia,7767,1,False
 20220517,386011,si,pomurska,660,0,True
 20220517,386012,si,podravska,1565,0,True
 20220517,386013,si,koroska,297,0,True
@@ -2643,7 +2682,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220517,386016,si,posavska,346,1,True
 20220517,386017,si,jugovzhodna_slovenija,534,0,True
 20220517,386018,si,primorsko_notranjska,216,0,True
-20220517,386021,si,osrednjeslovenska,1569,0,True
+20220517,386021,si,osrednjeslovenska,1570,0,True
 20220517,386022,si,gorenjska,641,0,True
 20220517,386023,si,goriska,426,0,True
 20220517,386024,si,obalno_kraska,323,0,True
@@ -2713,7 +2752,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220516,3324,fr,reunion,788,2,True
 20220516,3325,fr,mayotte,162,0,True
 20220516,3333,fr,saint_martin,0,0,True
-20220516,386,si,slovenia,7765,1,False
+20220516,386,si,slovenia,7766,1,False
 20220516,386011,si,pomurska,660,0,True
 20220516,386012,si,podravska,1565,0,True
 20220516,386013,si,koroska,297,0,True
@@ -2722,7 +2761,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220516,386016,si,posavska,345,0,True
 20220516,386017,si,jugovzhodna_slovenija,534,0,True
 20220516,386018,si,primorsko_notranjska,216,0,True
-20220516,386021,si,osrednjeslovenska,1569,1,True
+20220516,386021,si,osrednjeslovenska,1570,1,True
 20220516,386022,si,gorenjska,641,0,True
 20220516,386023,si,goriska,426,0,True
 20220516,386024,si,obalno_kraska,323,0,True
@@ -2793,7 +2832,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220515,3324,fr,reunion,786,0,True
 20220515,3325,fr,mayotte,162,0,True
 20220515,3333,fr,saint_martin,0,0,True
-20220515,386,si,slovenia,7764,4,False
+20220515,386,si,slovenia,7765,4,False
 20220515,386011,si,pomurska,660,0,True
 20220515,386012,si,podravska,1565,0,True
 20220515,386013,si,koroska,297,0,True
@@ -2802,7 +2841,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220515,386016,si,posavska,345,0,True
 20220515,386017,si,jugovzhodna_slovenija,534,1,True
 20220515,386018,si,primorsko_notranjska,216,1,True
-20220515,386021,si,osrednjeslovenska,1568,1,True
+20220515,386021,si,osrednjeslovenska,1569,1,True
 20220515,386022,si,gorenjska,641,0,True
 20220515,386023,si,goriska,426,0,True
 20220515,386024,si,obalno_kraska,323,0,True
@@ -2868,7 +2907,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220514,3324,fr,reunion,786,2,True
 20220514,3325,fr,mayotte,162,0,True
 20220514,3333,fr,saint_martin,0,0,True
-20220514,386,si,slovenia,7760,4,False
+20220514,386,si,slovenia,7761,4,False
 20220514,386011,si,pomurska,660,1,True
 20220514,386012,si,podravska,1565,2,True
 20220514,386013,si,koroska,297,0,True
@@ -2877,7 +2916,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220514,386016,si,posavska,345,0,True
 20220514,386017,si,jugovzhodna_slovenija,533,0,True
 20220514,386018,si,primorsko_notranjska,215,0,True
-20220514,386021,si,osrednjeslovenska,1567,0,True
+20220514,386021,si,osrednjeslovenska,1568,0,True
 20220514,386022,si,gorenjska,641,1,True
 20220514,386023,si,goriska,426,0,True
 20220514,386024,si,obalno_kraska,323,0,True
@@ -2943,7 +2982,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220513,3324,fr,reunion,784,2,True
 20220513,3325,fr,mayotte,162,0,True
 20220513,3333,fr,saint_martin,0,0,True
-20220513,386,si,slovenia,7756,7,False
+20220513,386,si,slovenia,7757,7,False
 20220513,386011,si,pomurska,659,0,True
 20220513,386012,si,podravska,1563,2,True
 20220513,386013,si,koroska,297,0,True
@@ -2952,7 +2991,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220513,386016,si,posavska,345,0,True
 20220513,386017,si,jugovzhodna_slovenija,533,0,True
 20220513,386018,si,primorsko_notranjska,215,0,True
-20220513,386021,si,osrednjeslovenska,1567,1,True
+20220513,386021,si,osrednjeslovenska,1568,1,True
 20220513,386022,si,gorenjska,640,2,True
 20220513,386023,si,goriska,426,0,True
 20220513,386024,si,obalno_kraska,323,0,True
@@ -3022,7 +3061,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220512,3324,fr,reunion,782,0,True
 20220512,3325,fr,mayotte,162,0,True
 20220512,3333,fr,saint_martin,0,0,True
-20220512,386,si,slovenia,7749,5,False
+20220512,386,si,slovenia,7750,5,False
 20220512,386011,si,pomurska,659,0,True
 20220512,386012,si,podravska,1561,1,True
 20220512,386013,si,koroska,297,0,True
@@ -3031,7 +3070,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220512,386016,si,posavska,345,0,True
 20220512,386017,si,jugovzhodna_slovenija,533,0,True
 20220512,386018,si,primorsko_notranjska,215,0,True
-20220512,386021,si,osrednjeslovenska,1566,0,True
+20220512,386021,si,osrednjeslovenska,1567,0,True
 20220512,386022,si,gorenjska,638,1,True
 20220512,386023,si,goriska,426,1,True
 20220512,386024,si,obalno_kraska,323,0,True
@@ -3101,7 +3140,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220511,3324,fr,reunion,782,2,True
 20220511,3325,fr,mayotte,162,0,True
 20220511,3333,fr,saint_martin,0,0,True
-20220511,386,si,slovenia,7744,3,False
+20220511,386,si,slovenia,7745,3,False
 20220511,386011,si,pomurska,659,1,True
 20220511,386012,si,podravska,1560,1,True
 20220511,386013,si,koroska,297,0,True
@@ -3110,7 +3149,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220511,386016,si,posavska,345,0,True
 20220511,386017,si,jugovzhodna_slovenija,533,0,True
 20220511,386018,si,primorsko_notranjska,215,0,True
-20220511,386021,si,osrednjeslovenska,1566,0,True
+20220511,386021,si,osrednjeslovenska,1567,0,True
 20220511,386022,si,gorenjska,637,0,True
 20220511,386023,si,goriska,425,0,True
 20220511,386024,si,obalno_kraska,323,0,True
@@ -3181,7 +3220,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220510,3324,fr,reunion,780,0,True
 20220510,3325,fr,mayotte,162,0,True
 20220510,3333,fr,saint_martin,0,0,True
-20220510,386,si,slovenia,7741,4,False
+20220510,386,si,slovenia,7742,4,False
 20220510,386011,si,pomurska,658,1,True
 20220510,386012,si,podravska,1559,0,True
 20220510,386013,si,koroska,297,1,True
@@ -3190,7 +3229,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220510,386016,si,posavska,345,0,True
 20220510,386017,si,jugovzhodna_slovenija,533,1,True
 20220510,386018,si,primorsko_notranjska,215,0,True
-20220510,386021,si,osrednjeslovenska,1566,0,True
+20220510,386021,si,osrednjeslovenska,1567,0,True
 20220510,386022,si,gorenjska,637,0,True
 20220510,386023,si,goriska,425,0,True
 20220510,386024,si,obalno_kraska,323,0,True
@@ -3260,7 +3299,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220509,3324,fr,reunion,780,1,True
 20220509,3325,fr,mayotte,162,0,True
 20220509,3333,fr,saint_martin,0,0,True
-20220509,386,si,slovenia,7737,4,False
+20220509,386,si,slovenia,7738,4,False
 20220509,386011,si,pomurska,657,0,True
 20220509,386012,si,podravska,1559,1,True
 20220509,386013,si,koroska,296,0,True
@@ -3269,7 +3308,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220509,386016,si,posavska,345,0,True
 20220509,386017,si,jugovzhodna_slovenija,532,0,True
 20220509,386018,si,primorsko_notranjska,215,0,True
-20220509,386021,si,osrednjeslovenska,1566,0,True
+20220509,386021,si,osrednjeslovenska,1567,0,True
 20220509,386022,si,gorenjska,637,1,True
 20220509,386023,si,goriska,425,0,True
 20220509,386024,si,obalno_kraska,323,0,True
@@ -3340,7 +3379,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220508,3324,fr,reunion,779,1,True
 20220508,3325,fr,mayotte,162,0,True
 20220508,3333,fr,saint_martin,0,0,True
-20220508,386,si,slovenia,7733,3,False
+20220508,386,si,slovenia,7734,3,False
 20220508,386011,si,pomurska,657,0,True
 20220508,386012,si,podravska,1558,1,True
 20220508,386013,si,koroska,296,0,True
@@ -3349,7 +3388,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220508,386016,si,posavska,345,0,True
 20220508,386017,si,jugovzhodna_slovenija,532,0,True
 20220508,386018,si,primorsko_notranjska,215,1,True
-20220508,386021,si,osrednjeslovenska,1566,1,True
+20220508,386021,si,osrednjeslovenska,1567,1,True
 20220508,386022,si,gorenjska,636,0,True
 20220508,386023,si,goriska,425,0,True
 20220508,386024,si,obalno_kraska,323,0,True
@@ -3415,7 +3454,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220507,3324,fr,reunion,778,0,True
 20220507,3325,fr,mayotte,162,0,True
 20220507,3333,fr,saint_martin,0,0,True
-20220507,386,si,slovenia,7730,2,False
+20220507,386,si,slovenia,7731,2,False
 20220507,386011,si,pomurska,657,0,True
 20220507,386012,si,podravska,1557,1,True
 20220507,386013,si,koroska,296,0,True
@@ -3424,7 +3463,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220507,386016,si,posavska,345,0,True
 20220507,386017,si,jugovzhodna_slovenija,532,0,True
 20220507,386018,si,primorsko_notranjska,214,0,True
-20220507,386021,si,osrednjeslovenska,1565,0,True
+20220507,386021,si,osrednjeslovenska,1566,0,True
 20220507,386022,si,gorenjska,636,0,True
 20220507,386023,si,goriska,425,0,True
 20220507,386024,si,obalno_kraska,323,0,True
@@ -3490,7 +3529,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220506,3324,fr,reunion,778,0,True
 20220506,3325,fr,mayotte,162,0,True
 20220506,3333,fr,saint_martin,0,0,True
-20220506,386,si,slovenia,7728,6,False
+20220506,386,si,slovenia,7729,6,False
 20220506,386011,si,pomurska,657,1,True
 20220506,386012,si,podravska,1556,1,True
 20220506,386013,si,koroska,296,0,True
@@ -3499,7 +3538,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220506,386016,si,posavska,345,0,True
 20220506,386017,si,jugovzhodna_slovenija,532,1,True
 20220506,386018,si,primorsko_notranjska,214,1,True
-20220506,386021,si,osrednjeslovenska,1565,0,True
+20220506,386021,si,osrednjeslovenska,1566,0,True
 20220506,386022,si,gorenjska,636,0,True
 20220506,386023,si,goriska,425,0,True
 20220506,386024,si,obalno_kraska,323,0,True
@@ -3569,7 +3608,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220505,3324,fr,reunion,778,1,True
 20220505,3325,fr,mayotte,162,0,True
 20220505,3333,fr,saint_martin,0,0,True
-20220505,386,si,slovenia,7722,7,False
+20220505,386,si,slovenia,7723,7,False
 20220505,386011,si,pomurska,656,1,True
 20220505,386012,si,podravska,1555,0,True
 20220505,386013,si,koroska,296,0,True
@@ -3578,7 +3617,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220505,386016,si,posavska,345,0,True
 20220505,386017,si,jugovzhodna_slovenija,531,0,True
 20220505,386018,si,primorsko_notranjska,213,0,True
-20220505,386021,si,osrednjeslovenska,1565,1,True
+20220505,386021,si,osrednjeslovenska,1566,1,True
 20220505,386022,si,gorenjska,636,3,True
 20220505,386023,si,goriska,425,0,True
 20220505,386024,si,obalno_kraska,323,0,True
@@ -3649,7 +3688,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220504,3324,fr,reunion,777,0,True
 20220504,3325,fr,mayotte,162,0,True
 20220504,3333,fr,saint_martin,0,0,True
-20220504,386,si,slovenia,7715,10,False
+20220504,386,si,slovenia,7716,10,False
 20220504,386011,si,pomurska,655,0,True
 20220504,386012,si,podravska,1555,2,True
 20220504,386013,si,koroska,296,0,True
@@ -3658,7 +3697,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220504,386016,si,posavska,345,0,True
 20220504,386017,si,jugovzhodna_slovenija,531,3,True
 20220504,386018,si,primorsko_notranjska,213,0,True
-20220504,386021,si,osrednjeslovenska,1564,1,True
+20220504,386021,si,osrednjeslovenska,1565,1,True
 20220504,386022,si,gorenjska,633,0,True
 20220504,386023,si,goriska,425,1,True
 20220504,386024,si,obalno_kraska,323,0,True
@@ -3729,7 +3768,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220503,3324,fr,reunion,777,3,True
 20220503,3325,fr,mayotte,162,0,True
 20220503,3333,fr,saint_martin,0,0,True
-20220503,386,si,slovenia,7705,6,False
+20220503,386,si,slovenia,7706,6,False
 20220503,386011,si,pomurska,655,0,True
 20220503,386012,si,podravska,1553,2,True
 20220503,386013,si,koroska,296,0,True
@@ -3738,7 +3777,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220503,386016,si,posavska,345,0,True
 20220503,386017,si,jugovzhodna_slovenija,528,0,True
 20220503,386018,si,primorsko_notranjska,213,0,True
-20220503,386021,si,osrednjeslovenska,1563,1,True
+20220503,386021,si,osrednjeslovenska,1564,1,True
 20220503,386022,si,gorenjska,633,0,True
 20220503,386023,si,goriska,424,0,True
 20220503,386024,si,obalno_kraska,323,0,True
@@ -3809,7 +3848,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220502,3324,fr,reunion,774,0,True
 20220502,3325,fr,mayotte,162,0,True
 20220502,3333,fr,saint_martin,0,0,True
-20220502,386,si,slovenia,7699,8,False
+20220502,386,si,slovenia,7700,8,False
 20220502,386011,si,pomurska,655,1,True
 20220502,386012,si,podravska,1551,1,True
 20220502,386013,si,koroska,296,0,True
@@ -3818,7 +3857,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220502,386016,si,posavska,345,0,True
 20220502,386017,si,jugovzhodna_slovenija,528,2,True
 20220502,386018,si,primorsko_notranjska,213,1,True
-20220502,386021,si,osrednjeslovenska,1562,1,True
+20220502,386021,si,osrednjeslovenska,1563,1,True
 20220502,386022,si,gorenjska,633,0,True
 20220502,386023,si,goriska,424,0,True
 20220502,386024,si,obalno_kraska,323,1,True
@@ -3889,7 +3928,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220501,3324,fr,reunion,774,0,True
 20220501,3325,fr,mayotte,162,0,True
 20220501,3333,fr,saint_martin,0,0,True
-20220501,386,si,slovenia,7691,4,False
+20220501,386,si,slovenia,7692,4,False
 20220501,386011,si,pomurska,654,0,True
 20220501,386012,si,podravska,1550,0,True
 20220501,386013,si,koroska,296,0,True
@@ -3898,7 +3937,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220501,386016,si,posavska,345,0,True
 20220501,386017,si,jugovzhodna_slovenija,526,0,True
 20220501,386018,si,primorsko_notranjska,212,1,True
-20220501,386021,si,osrednjeslovenska,1561,1,True
+20220501,386021,si,osrednjeslovenska,1562,1,True
 20220501,386022,si,gorenjska,633,0,True
 20220501,386023,si,goriska,424,0,True
 20220501,386024,si,obalno_kraska,322,1,True
@@ -3965,7 +4004,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220430,3324,fr,reunion,774,1,True
 20220430,3325,fr,mayotte,162,0,True
 20220430,3333,fr,saint_martin,0,0,True
-20220430,386,si,slovenia,7687,4,False
+20220430,386,si,slovenia,7688,4,False
 20220430,386011,si,pomurska,654,0,True
 20220430,386012,si,podravska,1550,1,True
 20220430,386013,si,koroska,296,0,True
@@ -3974,7 +4013,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220430,386016,si,posavska,345,1,True
 20220430,386017,si,jugovzhodna_slovenija,526,0,True
 20220430,386018,si,primorsko_notranjska,211,0,True
-20220430,386021,si,osrednjeslovenska,1560,0,True
+20220430,386021,si,osrednjeslovenska,1561,0,True
 20220430,386022,si,gorenjska,633,0,True
 20220430,386023,si,goriska,424,1,True
 20220430,386024,si,obalno_kraska,321,0,True
@@ -4040,7 +4079,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220429,3324,fr,reunion,773,1,True
 20220429,3325,fr,mayotte,162,0,True
 20220429,3333,fr,saint_martin,0,0,True
-20220429,386,si,slovenia,7683,6,False
+20220429,386,si,slovenia,7684,6,False
 20220429,386011,si,pomurska,654,0,True
 20220429,386012,si,podravska,1549,2,True
 20220429,386013,si,koroska,296,1,True
@@ -4049,7 +4088,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220429,386016,si,posavska,344,0,True
 20220429,386017,si,jugovzhodna_slovenija,526,1,True
 20220429,386018,si,primorsko_notranjska,211,1,True
-20220429,386021,si,osrednjeslovenska,1560,0,True
+20220429,386021,si,osrednjeslovenska,1561,0,True
 20220429,386022,si,gorenjska,633,1,True
 20220429,386023,si,goriska,423,0,True
 20220429,386024,si,obalno_kraska,321,0,True
@@ -4119,7 +4158,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220428,3324,fr,reunion,772,2,True
 20220428,3325,fr,mayotte,162,0,True
 20220428,3333,fr,saint_martin,0,0,True
-20220428,386,si,slovenia,7677,8,False
+20220428,386,si,slovenia,7678,8,False
 20220428,386011,si,pomurska,654,2,True
 20220428,386012,si,podravska,1547,2,True
 20220428,386013,si,koroska,295,0,True
@@ -4128,7 +4167,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220428,386016,si,posavska,344,0,True
 20220428,386017,si,jugovzhodna_slovenija,525,0,True
 20220428,386018,si,primorsko_notranjska,210,0,True
-20220428,386021,si,osrednjeslovenska,1560,3,True
+20220428,386021,si,osrednjeslovenska,1561,3,True
 20220428,386022,si,gorenjska,632,0,True
 20220428,386023,si,goriska,423,0,True
 20220428,386024,si,obalno_kraska,321,0,True
@@ -4199,7 +4238,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220427,3324,fr,reunion,770,1,True
 20220427,3325,fr,mayotte,162,0,True
 20220427,3333,fr,saint_martin,0,0,True
-20220427,386,si,slovenia,7669,3,False
+20220427,386,si,slovenia,7670,3,False
 20220427,386011,si,pomurska,652,0,True
 20220427,386012,si,podravska,1545,1,True
 20220427,386013,si,koroska,295,0,True
@@ -4208,7 +4247,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220427,386016,si,posavska,344,0,True
 20220427,386017,si,jugovzhodna_slovenija,525,0,True
 20220427,386018,si,primorsko_notranjska,210,0,True
-20220427,386021,si,osrednjeslovenska,1557,0,True
+20220427,386021,si,osrednjeslovenska,1558,0,True
 20220427,386022,si,gorenjska,632,0,True
 20220427,386023,si,goriska,423,0,True
 20220427,386024,si,obalno_kraska,321,0,True
@@ -4279,7 +4318,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220426,3324,fr,reunion,769,2,True
 20220426,3325,fr,mayotte,162,0,True
 20220426,3333,fr,saint_martin,0,0,True
-20220426,386,si,slovenia,7666,4,False
+20220426,386,si,slovenia,7667,4,False
 20220426,386011,si,pomurska,652,0,True
 20220426,386012,si,podravska,1544,1,True
 20220426,386013,si,koroska,295,0,True
@@ -4288,7 +4327,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220426,386016,si,posavska,344,0,True
 20220426,386017,si,jugovzhodna_slovenija,525,1,True
 20220426,386018,si,primorsko_notranjska,210,0,True
-20220426,386021,si,osrednjeslovenska,1557,1,True
+20220426,386021,si,osrednjeslovenska,1558,1,True
 20220426,386022,si,gorenjska,632,0,True
 20220426,386023,si,goriska,423,0,True
 20220426,386024,si,obalno_kraska,321,0,True
@@ -4359,7 +4398,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220425,3324,fr,reunion,767,2,True
 20220425,3325,fr,mayotte,162,0,True
 20220425,3333,fr,saint_martin,0,0,True
-20220425,386,si,slovenia,7662,11,False
+20220425,386,si,slovenia,7663,11,False
 20220425,386011,si,pomurska,652,0,True
 20220425,386012,si,podravska,1543,1,True
 20220425,386013,si,koroska,295,0,True
@@ -4368,7 +4407,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220425,386016,si,posavska,344,0,True
 20220425,386017,si,jugovzhodna_slovenija,524,1,True
 20220425,386018,si,primorsko_notranjska,210,2,True
-20220425,386021,si,osrednjeslovenska,1556,2,True
+20220425,386021,si,osrednjeslovenska,1557,2,True
 20220425,386022,si,gorenjska,632,1,True
 20220425,386023,si,goriska,423,0,True
 20220425,386024,si,obalno_kraska,321,0,True
@@ -4439,7 +4478,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220424,3324,fr,reunion,765,1,True
 20220424,3325,fr,mayotte,162,0,True
 20220424,3333,fr,saint_martin,0,0,True
-20220424,386,si,slovenia,7651,10,False
+20220424,386,si,slovenia,7652,10,False
 20220424,386011,si,pomurska,652,0,True
 20220424,386012,si,podravska,1542,5,True
 20220424,386013,si,koroska,295,2,True
@@ -4448,7 +4487,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220424,386016,si,posavska,344,0,True
 20220424,386017,si,jugovzhodna_slovenija,523,0,True
 20220424,386018,si,primorsko_notranjska,208,0,True
-20220424,386021,si,osrednjeslovenska,1554,2,True
+20220424,386021,si,osrednjeslovenska,1555,2,True
 20220424,386022,si,gorenjska,631,0,True
 20220424,386023,si,goriska,423,0,True
 20220424,386024,si,obalno_kraska,321,0,True
@@ -4515,7 +4554,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220423,3324,fr,reunion,764,1,True
 20220423,3325,fr,mayotte,162,0,True
 20220423,3333,fr,saint_martin,0,0,True
-20220423,386,si,slovenia,7641,8,False
+20220423,386,si,slovenia,7642,8,False
 20220423,386011,si,pomurska,652,0,True
 20220423,386012,si,podravska,1537,1,True
 20220423,386013,si,koroska,293,1,True
@@ -4524,7 +4563,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220423,386016,si,posavska,344,0,True
 20220423,386017,si,jugovzhodna_slovenija,523,0,True
 20220423,386018,si,primorsko_notranjska,208,1,True
-20220423,386021,si,osrednjeslovenska,1552,2,True
+20220423,386021,si,osrednjeslovenska,1553,2,True
 20220423,386022,si,gorenjska,631,2,True
 20220423,386023,si,goriska,423,0,True
 20220423,386024,si,obalno_kraska,321,0,True
@@ -4590,7 +4629,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220422,3324,fr,reunion,763,2,True
 20220422,3325,fr,mayotte,162,0,True
 20220422,3333,fr,saint_martin,0,0,True
-20220422,386,si,slovenia,7633,11,False
+20220422,386,si,slovenia,7634,11,False
 20220422,386011,si,pomurska,652,1,True
 20220422,386012,si,podravska,1536,3,True
 20220422,386013,si,koroska,292,0,True
@@ -4599,7 +4638,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220422,386016,si,posavska,344,0,True
 20220422,386017,si,jugovzhodna_slovenija,523,1,True
 20220422,386018,si,primorsko_notranjska,207,1,True
-20220422,386021,si,osrednjeslovenska,1550,2,True
+20220422,386021,si,osrednjeslovenska,1551,2,True
 20220422,386022,si,gorenjska,629,1,True
 20220422,386023,si,goriska,423,0,True
 20220422,386024,si,obalno_kraska,321,0,True
@@ -4669,7 +4708,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220421,3324,fr,reunion,761,1,True
 20220421,3325,fr,mayotte,162,0,True
 20220421,3333,fr,saint_martin,0,0,True
-20220421,386,si,slovenia,7622,6,False
+20220421,386,si,slovenia,7623,6,False
 20220421,386011,si,pomurska,651,0,True
 20220421,386012,si,podravska,1533,2,True
 20220421,386013,si,koroska,292,1,True
@@ -4678,7 +4717,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220421,386016,si,posavska,344,1,True
 20220421,386017,si,jugovzhodna_slovenija,522,2,True
 20220421,386018,si,primorsko_notranjska,206,0,True
-20220421,386021,si,osrednjeslovenska,1548,0,True
+20220421,386021,si,osrednjeslovenska,1549,0,True
 20220421,386022,si,gorenjska,628,0,True
 20220421,386023,si,goriska,423,0,True
 20220421,386024,si,obalno_kraska,321,0,True
@@ -4749,7 +4788,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220420,3324,fr,reunion,760,2,True
 20220420,3325,fr,mayotte,162,0,True
 20220420,3333,fr,saint_martin,0,0,True
-20220420,386,si,slovenia,7616,5,False
+20220420,386,si,slovenia,7617,5,False
 20220420,386011,si,pomurska,651,0,True
 20220420,386012,si,podravska,1531,1,True
 20220420,386013,si,koroska,291,0,True
@@ -4758,7 +4797,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220420,386016,si,posavska,343,1,True
 20220420,386017,si,jugovzhodna_slovenija,520,0,True
 20220420,386018,si,primorsko_notranjska,206,1,True
-20220420,386021,si,osrednjeslovenska,1548,0,True
+20220420,386021,si,osrednjeslovenska,1549,0,True
 20220420,386022,si,gorenjska,628,0,True
 20220420,386023,si,goriska,423,2,True
 20220420,386024,si,obalno_kraska,321,0,True
@@ -4829,7 +4868,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220419,3324,fr,reunion,758,2,True
 20220419,3325,fr,mayotte,162,0,True
 20220419,3333,fr,saint_martin,0,0,True
-20220419,386,si,slovenia,7611,6,False
+20220419,386,si,slovenia,7612,6,False
 20220419,386011,si,pomurska,651,2,True
 20220419,386012,si,podravska,1530,0,True
 20220419,386013,si,koroska,291,0,True
@@ -4838,7 +4877,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220419,386016,si,posavska,342,0,True
 20220419,386017,si,jugovzhodna_slovenija,520,0,True
 20220419,386018,si,primorsko_notranjska,205,0,True
-20220419,386021,si,osrednjeslovenska,1548,2,True
+20220419,386021,si,osrednjeslovenska,1549,2,True
 20220419,386022,si,gorenjska,628,2,True
 20220419,386023,si,goriska,421,0,True
 20220419,386024,si,obalno_kraska,321,0,True
@@ -4909,7 +4948,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220418,3324,fr,reunion,756,0,True
 20220418,3325,fr,mayotte,162,0,True
 20220418,3333,fr,saint_martin,0,0,True
-20220418,386,si,slovenia,7605,10,False
+20220418,386,si,slovenia,7606,10,False
 20220418,386011,si,pomurska,649,0,True
 20220418,386012,si,podravska,1530,1,True
 20220418,386013,si,koroska,291,1,True
@@ -4918,7 +4957,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220418,386016,si,posavska,342,1,True
 20220418,386017,si,jugovzhodna_slovenija,520,1,True
 20220418,386018,si,primorsko_notranjska,205,0,True
-20220418,386021,si,osrednjeslovenska,1546,3,True
+20220418,386021,si,osrednjeslovenska,1547,3,True
 20220418,386022,si,gorenjska,626,0,True
 20220418,386023,si,goriska,421,2,True
 20220418,386024,si,obalno_kraska,321,0,True
@@ -4986,7 +5025,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220417,3324,fr,reunion,756,0,True
 20220417,3325,fr,mayotte,162,0,True
 20220417,3333,fr,saint_martin,0,0,True
-20220417,386,si,slovenia,7595,4,False
+20220417,386,si,slovenia,7596,4,False
 20220417,386011,si,pomurska,649,1,True
 20220417,386012,si,podravska,1529,0,True
 20220417,386013,si,koroska,290,0,True
@@ -4995,7 +5034,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220417,386016,si,posavska,341,0,True
 20220417,386017,si,jugovzhodna_slovenija,519,0,True
 20220417,386018,si,primorsko_notranjska,205,0,True
-20220417,386021,si,osrednjeslovenska,1543,2,True
+20220417,386021,si,osrednjeslovenska,1544,2,True
 20220417,386022,si,gorenjska,626,0,True
 20220417,386023,si,goriska,419,1,True
 20220417,386024,si,obalno_kraska,321,0,True
@@ -5061,7 +5100,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220416,3324,fr,reunion,756,0,True
 20220416,3325,fr,mayotte,162,0,True
 20220416,3333,fr,saint_martin,0,0,True
-20220416,386,si,slovenia,7591,5,False
+20220416,386,si,slovenia,7592,5,False
 20220416,386011,si,pomurska,648,2,True
 20220416,386012,si,podravska,1529,1,True
 20220416,386013,si,koroska,290,0,True
@@ -5070,7 +5109,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220416,386016,si,posavska,341,0,True
 20220416,386017,si,jugovzhodna_slovenija,519,0,True
 20220416,386018,si,primorsko_notranjska,205,0,True
-20220416,386021,si,osrednjeslovenska,1541,1,True
+20220416,386021,si,osrednjeslovenska,1542,1,True
 20220416,386022,si,gorenjska,626,1,True
 20220416,386023,si,goriska,418,0,True
 20220416,386024,si,obalno_kraska,321,0,True
@@ -5136,7 +5175,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220415,3324,fr,reunion,756,3,True
 20220415,3325,fr,mayotte,162,0,True
 20220415,3333,fr,saint_martin,0,0,True
-20220415,386,si,slovenia,7586,6,False
+20220415,386,si,slovenia,7587,6,False
 20220415,386011,si,pomurska,646,0,True
 20220415,386012,si,podravska,1528,2,True
 20220415,386013,si,koroska,290,0,True
@@ -5145,7 +5184,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220415,386016,si,posavska,341,0,True
 20220415,386017,si,jugovzhodna_slovenija,519,1,True
 20220415,386018,si,primorsko_notranjska,205,1,True
-20220415,386021,si,osrednjeslovenska,1540,0,True
+20220415,386021,si,osrednjeslovenska,1541,0,True
 20220415,386022,si,gorenjska,625,0,True
 20220415,386023,si,goriska,418,1,True
 20220415,386024,si,obalno_kraska,321,0,True
@@ -5212,7 +5251,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220414,3324,fr,reunion,753,0,True
 20220414,3325,fr,mayotte,162,0,True
 20220414,3333,fr,saint_martin,0,0,True
-20220414,386,si,slovenia,7580,8,False
+20220414,386,si,slovenia,7581,8,False
 20220414,386011,si,pomurska,646,1,True
 20220414,386012,si,podravska,1526,4,True
 20220414,386013,si,koroska,290,0,True
@@ -5221,7 +5260,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220414,386016,si,posavska,341,1,True
 20220414,386017,si,jugovzhodna_slovenija,518,1,True
 20220414,386018,si,primorsko_notranjska,204,0,True
-20220414,386021,si,osrednjeslovenska,1540,0,True
+20220414,386021,si,osrednjeslovenska,1541,0,True
 20220414,386022,si,gorenjska,625,0,True
 20220414,386023,si,goriska,417,0,True
 20220414,386024,si,obalno_kraska,321,0,True
@@ -5290,7 +5329,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220413,3324,fr,reunion,753,3,True
 20220413,3325,fr,mayotte,162,0,True
 20220413,3333,fr,saint_martin,0,0,True
-20220413,386,si,slovenia,7572,14,False
+20220413,386,si,slovenia,7573,14,False
 20220413,386011,si,pomurska,645,3,True
 20220413,386012,si,podravska,1522,3,True
 20220413,386013,si,koroska,290,1,True
@@ -5299,7 +5338,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220413,386016,si,posavska,340,1,True
 20220413,386017,si,jugovzhodna_slovenija,517,0,True
 20220413,386018,si,primorsko_notranjska,204,0,True
-20220413,386021,si,osrednjeslovenska,1540,2,True
+20220413,386021,si,osrednjeslovenska,1541,2,True
 20220413,386022,si,gorenjska,625,3,True
 20220413,386023,si,goriska,417,0,True
 20220413,386024,si,obalno_kraska,321,0,True
@@ -5369,7 +5408,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220412,3324,fr,reunion,750,1,True
 20220412,3325,fr,mayotte,162,0,True
 20220412,3333,fr,saint_martin,0,0,True
-20220412,386,si,slovenia,7558,5,False
+20220412,386,si,slovenia,7559,5,False
 20220412,386011,si,pomurska,642,0,True
 20220412,386012,si,podravska,1519,1,True
 20220412,386013,si,koroska,289,1,True
@@ -5378,7 +5417,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220412,386016,si,posavska,339,0,True
 20220412,386017,si,jugovzhodna_slovenija,517,0,True
 20220412,386018,si,primorsko_notranjska,204,0,True
-20220412,386021,si,osrednjeslovenska,1538,3,True
+20220412,386021,si,osrednjeslovenska,1539,3,True
 20220412,386022,si,gorenjska,622,0,True
 20220412,386023,si,goriska,417,0,True
 20220412,386024,si,obalno_kraska,321,0,True
@@ -5448,7 +5487,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220411,3324,fr,reunion,749,1,True
 20220411,3325,fr,mayotte,162,0,True
 20220411,3333,fr,saint_martin,0,0,True
-20220411,386,si,slovenia,7553,9,False
+20220411,386,si,slovenia,7554,9,False
 20220411,386011,si,pomurska,642,0,True
 20220411,386012,si,podravska,1518,1,True
 20220411,386013,si,koroska,288,1,True
@@ -5457,7 +5496,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220411,386016,si,posavska,339,1,True
 20220411,386017,si,jugovzhodna_slovenija,517,1,True
 20220411,386018,si,primorsko_notranjska,204,0,True
-20220411,386021,si,osrednjeslovenska,1535,2,True
+20220411,386021,si,osrednjeslovenska,1536,2,True
 20220411,386022,si,gorenjska,622,1,True
 20220411,386023,si,goriska,417,0,True
 20220411,386024,si,obalno_kraska,321,0,True
@@ -5528,7 +5567,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220410,3324,fr,reunion,748,0,True
 20220410,3325,fr,mayotte,162,0,True
 20220410,3333,fr,saint_martin,0,0,True
-20220410,386,si,slovenia,7544,11,False
+20220410,386,si,slovenia,7545,11,False
 20220410,386011,si,pomurska,642,1,True
 20220410,386012,si,podravska,1517,5,True
 20220410,386013,si,koroska,287,1,True
@@ -5537,7 +5576,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220410,386016,si,posavska,338,0,True
 20220410,386017,si,jugovzhodna_slovenija,516,0,True
 20220410,386018,si,primorsko_notranjska,204,0,True
-20220410,386021,si,osrednjeslovenska,1533,2,True
+20220410,386021,si,osrednjeslovenska,1534,2,True
 20220410,386022,si,gorenjska,621,1,True
 20220410,386023,si,goriska,417,1,True
 20220410,386024,si,obalno_kraska,321,0,True
@@ -5604,7 +5643,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220409,3324,fr,reunion,748,5,True
 20220409,3325,fr,mayotte,162,0,True
 20220409,3333,fr,saint_martin,0,0,True
-20220409,386,si,slovenia,7533,5,False
+20220409,386,si,slovenia,7534,5,False
 20220409,386011,si,pomurska,641,0,True
 20220409,386012,si,podravska,1512,2,True
 20220409,386013,si,koroska,286,0,True
@@ -5613,7 +5652,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220409,386016,si,posavska,338,0,True
 20220409,386017,si,jugovzhodna_slovenija,516,0,True
 20220409,386018,si,primorsko_notranjska,204,0,True
-20220409,386021,si,osrednjeslovenska,1531,1,True
+20220409,386021,si,osrednjeslovenska,1532,1,True
 20220409,386022,si,gorenjska,620,1,True
 20220409,386023,si,goriska,416,0,True
 20220409,386024,si,obalno_kraska,321,0,True
@@ -5678,7 +5717,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220408,3324,fr,reunion,743,0,True
 20220408,3325,fr,mayotte,162,0,True
 20220408,3333,fr,saint_martin,0,0,True
-20220408,386,si,slovenia,7528,7,False
+20220408,386,si,slovenia,7529,7,False
 20220408,386011,si,pomurska,641,0,True
 20220408,386012,si,podravska,1510,1,True
 20220408,386013,si,koroska,286,0,True
@@ -5687,7 +5726,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220408,386016,si,posavska,338,0,True
 20220408,386017,si,jugovzhodna_slovenija,516,0,True
 20220408,386018,si,primorsko_notranjska,204,1,True
-20220408,386021,si,osrednjeslovenska,1530,0,True
+20220408,386021,si,osrednjeslovenska,1531,0,True
 20220408,386022,si,gorenjska,619,1,True
 20220408,386023,si,goriska,416,0,True
 20220408,386024,si,obalno_kraska,321,3,True
@@ -5756,7 +5795,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220407,3324,fr,reunion,743,3,True
 20220407,3325,fr,mayotte,162,0,True
 20220407,3333,fr,saint_martin,0,0,True
-20220407,386,si,slovenia,7521,7,False
+20220407,386,si,slovenia,7522,7,False
 20220407,386011,si,pomurska,641,0,True
 20220407,386012,si,podravska,1509,1,True
 20220407,386013,si,koroska,286,0,True
@@ -5765,7 +5804,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220407,386016,si,posavska,338,0,True
 20220407,386017,si,jugovzhodna_slovenija,516,0,True
 20220407,386018,si,primorsko_notranjska,203,0,True
-20220407,386021,si,osrednjeslovenska,1530,3,True
+20220407,386021,si,osrednjeslovenska,1531,3,True
 20220407,386022,si,gorenjska,618,0,True
 20220407,386023,si,goriska,416,1,True
 20220407,386024,si,obalno_kraska,318,0,True
@@ -5836,7 +5875,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220406,3324,fr,reunion,740,1,True
 20220406,3325,fr,mayotte,162,0,True
 20220406,3333,fr,saint_martin,0,0,True
-20220406,386,si,slovenia,7514,7,False
+20220406,386,si,slovenia,7515,7,False
 20220406,386011,si,pomurska,641,1,True
 20220406,386012,si,podravska,1508,2,True
 20220406,386013,si,koroska,286,0,True
@@ -5845,7 +5884,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220406,386016,si,posavska,338,2,True
 20220406,386017,si,jugovzhodna_slovenija,516,0,True
 20220406,386018,si,primorsko_notranjska,203,0,True
-20220406,386021,si,osrednjeslovenska,1527,0,True
+20220406,386021,si,osrednjeslovenska,1528,0,True
 20220406,386022,si,gorenjska,618,1,True
 20220406,386023,si,goriska,415,0,True
 20220406,386024,si,obalno_kraska,318,0,True
@@ -5916,7 +5955,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220405,3324,fr,reunion,739,0,True
 20220405,3325,fr,mayotte,162,0,True
 20220405,3333,fr,saint_martin,0,0,True
-20220405,386,si,slovenia,7507,9,False
+20220405,386,si,slovenia,7508,9,False
 20220405,386011,si,pomurska,640,2,True
 20220405,386012,si,podravska,1506,1,True
 20220405,386013,si,koroska,286,0,True
@@ -5925,7 +5964,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220405,386016,si,posavska,336,0,True
 20220405,386017,si,jugovzhodna_slovenija,516,1,True
 20220405,386018,si,primorsko_notranjska,203,1,True
-20220405,386021,si,osrednjeslovenska,1527,1,True
+20220405,386021,si,osrednjeslovenska,1528,1,True
 20220405,386022,si,gorenjska,617,1,True
 20220405,386023,si,goriska,415,0,True
 20220405,386024,si,obalno_kraska,318,0,True
@@ -5996,7 +6035,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220404,3324,fr,reunion,739,1,True
 20220404,3325,fr,mayotte,162,0,True
 20220404,3333,fr,saint_martin,0,0,True
-20220404,386,si,slovenia,7498,10,False
+20220404,386,si,slovenia,7499,10,False
 20220404,386011,si,pomurska,638,3,True
 20220404,386012,si,podravska,1505,2,True
 20220404,386013,si,koroska,286,0,True
@@ -6005,7 +6044,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220404,386016,si,posavska,336,0,True
 20220404,386017,si,jugovzhodna_slovenija,515,0,True
 20220404,386018,si,primorsko_notranjska,202,0,True
-20220404,386021,si,osrednjeslovenska,1526,3,True
+20220404,386021,si,osrednjeslovenska,1527,3,True
 20220404,386022,si,gorenjska,616,0,True
 20220404,386023,si,goriska,415,1,True
 20220404,386024,si,obalno_kraska,318,0,True
@@ -6076,7 +6115,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220403,3324,fr,reunion,738,0,True
 20220403,3325,fr,mayotte,162,0,True
 20220403,3333,fr,saint_martin,0,0,True
-20220403,386,si,slovenia,7488,7,False
+20220403,386,si,slovenia,7489,7,False
 20220403,386011,si,pomurska,635,0,True
 20220403,386012,si,podravska,1503,0,True
 20220403,386013,si,koroska,286,0,True
@@ -6085,7 +6124,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220403,386016,si,posavska,336,1,True
 20220403,386017,si,jugovzhodna_slovenija,515,1,True
 20220403,386018,si,primorsko_notranjska,202,0,True
-20220403,386021,si,osrednjeslovenska,1523,3,True
+20220403,386021,si,osrednjeslovenska,1524,3,True
 20220403,386022,si,gorenjska,616,0,True
 20220403,386023,si,goriska,414,0,True
 20220403,386024,si,obalno_kraska,318,0,True
@@ -6152,7 +6191,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220402,3324,fr,reunion,738,0,True
 20220402,3325,fr,mayotte,162,0,True
 20220402,3333,fr,saint_martin,0,0,True
-20220402,386,si,slovenia,7481,12,False
+20220402,386,si,slovenia,7482,12,False
 20220402,386011,si,pomurska,635,1,True
 20220402,386012,si,podravska,1503,3,True
 20220402,386013,si,koroska,286,0,True
@@ -6161,7 +6200,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220402,386016,si,posavska,335,1,True
 20220402,386017,si,jugovzhodna_slovenija,514,0,True
 20220402,386018,si,primorsko_notranjska,202,1,True
-20220402,386021,si,osrednjeslovenska,1520,2,True
+20220402,386021,si,osrednjeslovenska,1521,2,True
 20220402,386022,si,gorenjska,616,0,True
 20220402,386023,si,goriska,414,1,True
 20220402,386024,si,obalno_kraska,318,2,True
@@ -6227,7 +6266,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220401,3324,fr,reunion,738,2,True
 20220401,3325,fr,mayotte,162,0,True
 20220401,3333,fr,saint_martin,0,0,True
-20220401,386,si,slovenia,7469,5,False
+20220401,386,si,slovenia,7470,5,False
 20220401,386011,si,pomurska,634,1,True
 20220401,386012,si,podravska,1500,0,True
 20220401,386013,si,koroska,286,1,True
@@ -6236,7 +6275,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220401,386016,si,posavska,334,0,True
 20220401,386017,si,jugovzhodna_slovenija,514,0,True
 20220401,386018,si,primorsko_notranjska,201,0,True
-20220401,386021,si,osrednjeslovenska,1518,0,True
+20220401,386021,si,osrednjeslovenska,1519,0,True
 20220401,386022,si,gorenjska,616,0,True
 20220401,386023,si,goriska,413,0,True
 20220401,386024,si,obalno_kraska,316,1,True
@@ -6306,7 +6345,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220331,3324,fr,reunion,736,0,True
 20220331,3325,fr,mayotte,162,0,True
 20220331,3333,fr,saint_martin,0,0,True
-20220331,386,si,slovenia,7464,10,False
+20220331,386,si,slovenia,7465,10,False
 20220331,386011,si,pomurska,633,1,True
 20220331,386012,si,podravska,1500,2,True
 20220331,386013,si,koroska,285,0,True
@@ -6315,7 +6354,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220331,386016,si,posavska,334,1,True
 20220331,386017,si,jugovzhodna_slovenija,514,0,True
 20220331,386018,si,primorsko_notranjska,201,0,True
-20220331,386021,si,osrednjeslovenska,1518,2,True
+20220331,386021,si,osrednjeslovenska,1519,2,True
 20220331,386022,si,gorenjska,616,2,True
 20220331,386023,si,goriska,413,0,True
 20220331,386024,si,obalno_kraska,315,2,True
@@ -6390,7 +6429,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220330,3324,fr,reunion,736,1,True
 20220330,3325,fr,mayotte,162,0,True
 20220330,3333,fr,saint_martin,0,0,True
-20220330,386,si,slovenia,7454,12,False
+20220330,386,si,slovenia,7455,12,False
 20220330,386011,si,pomurska,632,1,True
 20220330,386012,si,podravska,1498,2,True
 20220330,386013,si,koroska,285,0,True
@@ -6399,7 +6438,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220330,386016,si,posavska,333,1,True
 20220330,386017,si,jugovzhodna_slovenija,514,1,True
 20220330,386018,si,primorsko_notranjska,201,1,True
-20220330,386021,si,osrednjeslovenska,1516,5,True
+20220330,386021,si,osrednjeslovenska,1517,5,True
 20220330,386022,si,gorenjska,614,1,True
 20220330,386023,si,goriska,413,0,True
 20220330,386024,si,obalno_kraska,313,0,True
@@ -6474,7 +6513,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220329,3324,fr,reunion,735,2,True
 20220329,3325,fr,mayotte,162,0,True
 20220329,3333,fr,saint_martin,0,0,True
-20220329,386,si,slovenia,7442,10,False
+20220329,386,si,slovenia,7443,10,False
 20220329,386011,si,pomurska,631,3,True
 20220329,386012,si,podravska,1496,2,True
 20220329,386013,si,koroska,285,2,True
@@ -6483,7 +6522,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220329,386016,si,posavska,332,0,True
 20220329,386017,si,jugovzhodna_slovenija,513,0,True
 20220329,386018,si,primorsko_notranjska,200,1,True
-20220329,386021,si,osrednjeslovenska,1511,0,True
+20220329,386021,si,osrednjeslovenska,1512,0,True
 20220329,386022,si,gorenjska,613,0,True
 20220329,386023,si,goriska,413,0,True
 20220329,386024,si,obalno_kraska,313,1,True
@@ -6558,7 +6597,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220328,3324,fr,reunion,733,1,True
 20220328,3325,fr,mayotte,162,0,True
 20220328,3333,fr,saint_martin,0,0,True
-20220328,386,si,slovenia,7432,4,False
+20220328,386,si,slovenia,7433,4,False
 20220328,386011,si,pomurska,628,0,True
 20220328,386012,si,podravska,1494,1,True
 20220328,386013,si,koroska,283,0,True
@@ -6567,7 +6606,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220328,386016,si,posavska,332,0,True
 20220328,386017,si,jugovzhodna_slovenija,513,1,True
 20220328,386018,si,primorsko_notranjska,199,0,True
-20220328,386021,si,osrednjeslovenska,1511,0,True
+20220328,386021,si,osrednjeslovenska,1512,0,True
 20220328,386022,si,gorenjska,613,1,True
 20220328,386023,si,goriska,413,0,True
 20220328,386024,si,obalno_kraska,312,0,True
@@ -6642,7 +6681,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220327,3324,fr,reunion,732,1,True
 20220327,3325,fr,mayotte,162,0,True
 20220327,3333,fr,saint_martin,0,0,True
-20220327,386,si,slovenia,7428,7,False
+20220327,386,si,slovenia,7429,7,False
 20220327,386011,si,pomurska,628,0,True
 20220327,386012,si,podravska,1493,0,True
 20220327,386013,si,koroska,283,1,True
@@ -6651,7 +6690,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220327,386016,si,posavska,332,0,True
 20220327,386017,si,jugovzhodna_slovenija,512,0,True
 20220327,386018,si,primorsko_notranjska,199,1,True
-20220327,386021,si,osrednjeslovenska,1511,3,True
+20220327,386021,si,osrednjeslovenska,1512,3,True
 20220327,386022,si,gorenjska,612,0,True
 20220327,386023,si,goriska,413,0,True
 20220327,386024,si,obalno_kraska,312,0,True
@@ -6721,7 +6760,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220326,3324,fr,reunion,731,1,True
 20220326,3325,fr,mayotte,162,0,True
 20220326,3333,fr,saint_martin,0,0,True
-20220326,386,si,slovenia,7421,5,False
+20220326,386,si,slovenia,7422,5,False
 20220326,386011,si,pomurska,628,1,True
 20220326,386012,si,podravska,1493,0,True
 20220326,386013,si,koroska,282,0,True
@@ -6730,7 +6769,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220326,386016,si,posavska,332,0,True
 20220326,386017,si,jugovzhodna_slovenija,512,0,True
 20220326,386018,si,primorsko_notranjska,198,0,True
-20220326,386021,si,osrednjeslovenska,1508,1,True
+20220326,386021,si,osrednjeslovenska,1509,1,True
 20220326,386022,si,gorenjska,612,0,True
 20220326,386023,si,goriska,413,1,True
 20220326,386024,si,obalno_kraska,312,1,True
@@ -6798,7 +6837,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220325,3324,fr,reunion,730,1,True
 20220325,3325,fr,mayotte,162,0,True
 20220325,3333,fr,saint_martin,0,0,True
-20220325,386,si,slovenia,7416,6,False
+20220325,386,si,slovenia,7417,6,False
 20220325,386011,si,pomurska,627,0,True
 20220325,386012,si,podravska,1493,0,True
 20220325,386013,si,koroska,282,1,True
@@ -6807,7 +6846,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220325,386016,si,posavska,332,0,True
 20220325,386017,si,jugovzhodna_slovenija,512,1,True
 20220325,386018,si,primorsko_notranjska,198,0,True
-20220325,386021,si,osrednjeslovenska,1507,3,True
+20220325,386021,si,osrednjeslovenska,1508,3,True
 20220325,386022,si,gorenjska,612,0,True
 20220325,386023,si,goriska,412,0,True
 20220325,386024,si,obalno_kraska,311,0,True
@@ -6880,7 +6919,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220324,3324,fr,reunion,729,1,True
 20220324,3325,fr,mayotte,162,0,True
 20220324,3333,fr,saint_martin,0,0,True
-20220324,386,si,slovenia,7410,13,False
+20220324,386,si,slovenia,7411,13,False
 20220324,386011,si,pomurska,627,3,True
 20220324,386012,si,podravska,1493,3,True
 20220324,386013,si,koroska,281,0,True
@@ -6889,7 +6928,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220324,386016,si,posavska,332,1,True
 20220324,386017,si,jugovzhodna_slovenija,511,1,True
 20220324,386018,si,primorsko_notranjska,198,0,True
-20220324,386021,si,osrednjeslovenska,1504,2,True
+20220324,386021,si,osrednjeslovenska,1505,2,True
 20220324,386022,si,gorenjska,612,2,True
 20220324,386023,si,goriska,412,0,True
 20220324,386024,si,obalno_kraska,311,1,True
@@ -6964,7 +7003,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220323,3324,fr,reunion,728,1,True
 20220323,3325,fr,mayotte,162,0,True
 20220323,3333,fr,saint_martin,0,0,True
-20220323,386,si,slovenia,7397,9,False
+20220323,386,si,slovenia,7398,9,False
 20220323,386011,si,pomurska,624,3,True
 20220323,386012,si,podravska,1490,0,True
 20220323,386013,si,koroska,281,0,True
@@ -6973,7 +7012,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220323,386016,si,posavska,331,1,True
 20220323,386017,si,jugovzhodna_slovenija,510,0,True
 20220323,386018,si,primorsko_notranjska,198,0,True
-20220323,386021,si,osrednjeslovenska,1502,2,True
+20220323,386021,si,osrednjeslovenska,1503,2,True
 20220323,386022,si,gorenjska,610,0,True
 20220323,386023,si,goriska,412,1,True
 20220323,386024,si,obalno_kraska,310,1,True
@@ -7049,7 +7088,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220322,3324,fr,reunion,727,3,True
 20220322,3325,fr,mayotte,162,0,True
 20220322,3333,fr,saint_martin,0,0,True
-20220322,386,si,slovenia,7388,4,False
+20220322,386,si,slovenia,7389,4,False
 20220322,386011,si,pomurska,621,0,True
 20220322,386012,si,podravska,1490,0,True
 20220322,386013,si,koroska,281,1,True
@@ -7058,7 +7097,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220322,386016,si,posavska,330,0,True
 20220322,386017,si,jugovzhodna_slovenija,510,0,True
 20220322,386018,si,primorsko_notranjska,198,0,True
-20220322,386021,si,osrednjeslovenska,1500,1,True
+20220322,386021,si,osrednjeslovenska,1501,1,True
 20220322,386022,si,gorenjska,610,2,True
 20220322,386023,si,goriska,411,0,True
 20220322,386024,si,obalno_kraska,309,0,True
@@ -7134,7 +7173,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220321,3324,fr,reunion,724,7,True
 20220321,3325,fr,mayotte,162,0,True
 20220321,3333,fr,saint_martin,0,0,True
-20220321,386,si,slovenia,7384,6,False
+20220321,386,si,slovenia,7385,6,False
 20220321,386011,si,pomurska,621,1,True
 20220321,386012,si,podravska,1490,3,True
 20220321,386013,si,koroska,280,0,True
@@ -7143,7 +7182,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220321,386016,si,posavska,330,0,True
 20220321,386017,si,jugovzhodna_slovenija,510,0,True
 20220321,386018,si,primorsko_notranjska,198,0,True
-20220321,386021,si,osrednjeslovenska,1499,0,True
+20220321,386021,si,osrednjeslovenska,1500,0,True
 20220321,386022,si,gorenjska,608,0,True
 20220321,386023,si,goriska,411,1,True
 20220321,386024,si,obalno_kraska,309,1,True
@@ -7218,7 +7257,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220320,3324,fr,reunion,717,0,True
 20220320,3325,fr,mayotte,162,0,True
 20220320,3333,fr,saint_martin,0,0,True
-20220320,386,si,slovenia,7378,10,False
+20220320,386,si,slovenia,7379,10,False
 20220320,386011,si,pomurska,620,0,True
 20220320,386012,si,podravska,1487,2,True
 20220320,386013,si,koroska,280,0,True
@@ -7227,7 +7266,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220320,386016,si,posavska,330,1,True
 20220320,386017,si,jugovzhodna_slovenija,510,1,True
 20220320,386018,si,primorsko_notranjska,198,1,True
-20220320,386021,si,osrednjeslovenska,1499,0,True
+20220320,386021,si,osrednjeslovenska,1500,0,True
 20220320,386022,si,gorenjska,608,1,True
 20220320,386023,si,goriska,410,0,True
 20220320,386024,si,obalno_kraska,308,1,True
@@ -7299,7 +7338,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220319,3324,fr,reunion,717,1,True
 20220319,3325,fr,mayotte,162,0,True
 20220319,3333,fr,saint_martin,0,0,True
-20220319,386,si,slovenia,7368,11,False
+20220319,386,si,slovenia,7369,11,False
 20220319,386011,si,pomurska,620,1,True
 20220319,386012,si,podravska,1485,2,True
 20220319,386013,si,koroska,280,0,True
@@ -7308,7 +7347,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220319,386016,si,posavska,329,0,True
 20220319,386017,si,jugovzhodna_slovenija,509,1,True
 20220319,386018,si,primorsko_notranjska,197,1,True
-20220319,386021,si,osrednjeslovenska,1499,1,True
+20220319,386021,si,osrednjeslovenska,1500,1,True
 20220319,386022,si,gorenjska,607,0,True
 20220319,386023,si,goriska,410,1,True
 20220319,386024,si,obalno_kraska,307,0,True
@@ -7378,7 +7417,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220318,3324,fr,reunion,716,2,True
 20220318,3325,fr,mayotte,162,0,True
 20220318,3333,fr,saint_martin,0,0,True
-20220318,386,si,slovenia,7357,11,False
+20220318,386,si,slovenia,7358,11,False
 20220318,386011,si,pomurska,619,1,True
 20220318,386012,si,podravska,1483,2,True
 20220318,386013,si,koroska,280,0,True
@@ -7387,7 +7426,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220318,386016,si,posavska,329,0,True
 20220318,386017,si,jugovzhodna_slovenija,508,1,True
 20220318,386018,si,primorsko_notranjska,196,1,True
-20220318,386021,si,osrednjeslovenska,1498,2,True
+20220318,386021,si,osrednjeslovenska,1499,2,True
 20220318,386022,si,gorenjska,607,1,True
 20220318,386023,si,goriska,409,0,True
 20220318,386024,si,obalno_kraska,307,3,True
@@ -7462,7 +7501,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220317,3324,fr,reunion,714,3,True
 20220317,3325,fr,mayotte,162,0,True
 20220317,3333,fr,saint_martin,0,0,True
-20220317,386,si,slovenia,7346,5,False
+20220317,386,si,slovenia,7347,5,False
 20220317,386011,si,pomurska,618,0,True
 20220317,386012,si,podravska,1481,0,True
 20220317,386013,si,koroska,280,0,True
@@ -7471,7 +7510,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220317,386016,si,posavska,329,0,True
 20220317,386017,si,jugovzhodna_slovenija,507,0,True
 20220317,386018,si,primorsko_notranjska,195,1,True
-20220317,386021,si,osrednjeslovenska,1496,1,True
+20220317,386021,si,osrednjeslovenska,1497,1,True
 20220317,386022,si,gorenjska,606,1,True
 20220317,386023,si,goriska,409,2,True
 20220317,386024,si,obalno_kraska,304,0,True
@@ -7548,7 +7587,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220316,3324,fr,reunion,711,0,True
 20220316,3325,fr,mayotte,162,0,True
 20220316,3333,fr,saint_martin,0,0,True
-20220316,386,si,slovenia,7341,8,False
+20220316,386,si,slovenia,7342,9,False
 20220316,386011,si,pomurska,618,1,True
 20220316,386012,si,podravska,1481,1,True
 20220316,386013,si,koroska,280,0,True
@@ -7557,7 +7596,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220316,386016,si,posavska,329,1,True
 20220316,386017,si,jugovzhodna_slovenija,507,1,True
 20220316,386018,si,primorsko_notranjska,194,1,True
-20220316,386021,si,osrednjeslovenska,1495,1,True
+20220316,386021,si,osrednjeslovenska,1496,2,True
 20220316,386022,si,gorenjska,605,1,True
 20220316,386023,si,goriska,407,0,True
 20220316,386024,si,obalno_kraska,304,0,True
