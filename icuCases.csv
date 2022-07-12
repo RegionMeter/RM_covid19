@@ -24,8 +24,10 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220712,3946,it,calabria,11,True
 20220712,3951,it,sicilia,47,True
 20220712,3952,it,sardegna,9,True
+20220712,4107,ch,nidwalden,0,True
 20220712,4111,ch,solothurn,0,True
 20220712,4112,ch,basel_stadt,3,True
+20220712,4113,ch,basel_landschaft,1,True
 20220712,4117,ch,st_gallen,1,True
 20220712,43,at,austria,56,False
 20220712,4301,at,wien,17,True
@@ -65,6 +67,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220711,4107,ch,nidwalden,0,True
 20220711,4111,ch,solothurn,0,True
 20220711,4112,ch,basel_stadt,5,True
+20220711,4113,ch,basel_landschaft,0,True
 20220711,4114,ch,schaffhausen,0,True
 20220711,4117,ch,st_gallen,0,True
 20220711,4120,ch,thurgau,2,True
@@ -106,6 +109,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220710,3951,it,sicilia,43,True
 20220710,3952,it,sardegna,13,True
 20220710,4110,ch,fribourg,0,True
+20220710,4113,ch,basel_landschaft,1,True
 20220710,4114,ch,schaffhausen,0,True
 20220710,4117,ch,st_gallen,0,True
 20220710,4120,ch,thurgau,2,True
@@ -147,6 +151,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220709,3951,it,sicilia,41,True
 20220709,3952,it,sardegna,12,True
 20220709,4110,ch,fribourg,1,True
+20220709,4113,ch,basel_landschaft,1,True
 20220709,4117,ch,st_gallen,0,True
 20220709,4120,ch,thurgau,2,True
 20220709,4124,ch,neuchatel,3,True
@@ -190,6 +195,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220708,4110,ch,fribourg,0,True
 20220708,4111,ch,solothurn,2,True
 20220708,4112,ch,basel_stadt,3,True
+20220708,4113,ch,basel_landschaft,2,True
 20220708,4117,ch,st_gallen,0,True
 20220708,4120,ch,thurgau,2,True
 20220708,4124,ch,neuchatel,2,True
@@ -233,6 +239,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220707,4110,ch,fribourg,0,True
 20220707,4111,ch,solothurn,1,True
 20220707,4112,ch,basel_stadt,4,True
+20220707,4113,ch,basel_landschaft,5,True
 20220707,4114,ch,schaffhausen,0,True
 20220707,4117,ch,st_gallen,1,True
 20220707,4120,ch,thurgau,2,True
@@ -279,6 +286,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220706,4110,ch,fribourg,1,True
 20220706,4111,ch,solothurn,2,True
 20220706,4112,ch,basel_stadt,4,True
+20220706,4113,ch,basel_landschaft,4,True
 20220706,4114,ch,schaffhausen,0,True
 20220706,4117,ch,st_gallen,1,True
 20220706,4120,ch,thurgau,2,True
