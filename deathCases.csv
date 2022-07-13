@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
+20220713,4121,ch,ticino,1206,4,True
 20220712,39,it,italy,169390,157,False
 20220712,3911,it,piemonte,13491,6,True
 20220712,3912,it,valle_daosta,537,0,True
@@ -24,6 +25,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220712,4107,ch,nidwalden,36,0,True
 20220712,4111,ch,solothurn,368,0,True
 20220712,4112,ch,basel_stadt,291,0,True
+20220712,4114,ch,schaffhausen,133,0,True
+20220712,4121,ch,ticino,1202,1,True
 20220712,423,li,liechtenstein,85,0,True
 20220711,386,si,slovenia,7842,0,False
 20220711,386011,si,pomurska,666,0,True
@@ -67,6 +70,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220711,4114,ch,schaffhausen,133,0,True
 20220711,4117,ch,st_gallen,861,1,True
 20220711,4120,ch,thurgau,695,0,True
+20220711,4121,ch,ticino,1201,2,True
 20220711,4124,ch,neuchatel,472,0,True
 20220711,423,li,liechtenstein,85,0,True
 20220711,43,at,austria,20152,5,False
@@ -1864,7 +1868,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220609,4113,ch,basel_landschaft,299,0,True
 20220609,4114,ch,schaffhausen,133,0,True
 20220609,4120,ch,thurgau,689,0,True
-20220609,4121,ch,ticino,1193,0,True
+20220609,4121,ch,ticino,1193,-6,True
 20220609,4124,ch,neuchatel,469,0,True
 20220609,423,li,liechtenstein,85,0,True
 20220609,43,at,austria,19972,6,False
@@ -1922,7 +1926,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220608,4113,ch,basel_landschaft,299,0,True
 20220608,4114,ch,schaffhausen,133,1,True
 20220608,4120,ch,thurgau,689,0,True
-20220608,4121,ch,ticino,1193,0,True
+20220608,4121,ch,ticino,1199,0,True
 20220608,4124,ch,neuchatel,469,0,True
 20220608,423,li,liechtenstein,85,1,True
 20220608,43,at,austria,19966,2,False
@@ -1980,7 +1984,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220607,4113,ch,basel_landschaft,299,0,True
 20220607,4114,ch,schaffhausen,132,0,True
 20220607,4120,ch,thurgau,689,0,True
-20220607,4121,ch,ticino,1193,1,True
+20220607,4121,ch,ticino,1199,7,True
 20220607,4124,ch,neuchatel,469,0,True
 20220607,423,li,liechtenstein,84,0,True
 20220607,43,at,austria,19964,2,False
