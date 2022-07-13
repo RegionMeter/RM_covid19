@@ -1,10 +1,13 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
+20220713,,TI,,158742,91,5,,,1206,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github_storico.xlsx
 20220712,,BL,,,42,1,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20220712,12:00,BS,,89316,86,3,,88150,291,https://www.gesundheit.bs.ch
 20220712,00:00,FL,,18257,2,,,17931,85,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220712,,NW,,19262,2,0,,,36,http://www.nw.ch/coronastatistik
 20220712,,SG,,,36,1,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
+20220712,,SH,,34194,11,0,,,133,https://coviddashboard.sh.ch/
 20220712,,SO,,121356,26,0,,,368,https://corona.so.ch/bevoelkerung/daten/
+20220712,,TI,,158187,96,7,,,1202,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github_storico.xlsx
 20220711,,BL,,133925,42,0,,,301,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20220711,12:00,BS,,89083,91,5,,87918,291,https://www.gesundheit.bs.ch
 20220711,00:00,FL,,18227,2,,,17900,85,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
@@ -16,6 +19,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220711,,SH,,34097,14,0,,,133,https://coviddashboard.sh.ch/
 20220711,,SO,,121127,21,0,,,368,https://corona.so.ch/bevoelkerung/daten/
 20220711,10:00,TG,,125284,27,2,,2754,695,
+20220711,,TI,,157727,97,7,,,1201,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github_storico.xlsx
 20220710,,BL,,133626,38,1,,,301,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20220710,00:00,FL,,18201,2,,,17868,85,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220710,,FR,,148925,33,0,,2152,577,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -25,6 +29,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220710,,SG,,220417,17,0,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220710,,SH,,34039,10,0,,,133,https://coviddashboard.sh.ch/
 20220710,10:00,TG,,125283,27,2,,2754,695,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+20220710,,VD,,,161,6,,,,https://www.infosan.vd.ch/fileadmin/2-PUBLICATIONS/SANTE_POPULATION/SSP_20220712_COVID_Bulletin_hebdomadaire_epidemio.pdf
 20220709,,BL,,133491,38,1,,,301,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
 20220709,00:00,FL,,18196,1,,,17862,85,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220709,,FR,,148787,31,1,,2150,577,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -482,7 +487,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220608,,SH,,32629,7,0,,,133,https://coviddashboard.sh.ch/
 20220608,,SO,,116363,7,0,,,366,https://corona.so.ch/bevoelkerung/daten/
 20220608,10:00,TG,,121217,10,2,,2680,689,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-20220608,,TI,,150342,37,0,,,1193,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github_storico.xlsx
+20220608,,TI,,156966,83,6,,,1199,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github_storico.xlsx
 20220608,08:00,ZG,,51046,3,0,,,170,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20220608,14:30,ZH,,641721,38,3,1,,1803,https://www.zh.ch/de/gesundheit/coronavirus.html
 20220607,,BL,,127388,4,0,,,299,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -498,7 +503,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220607,,SH,,32578,5,0,,,132,https://coviddashboard.sh.ch/
 20220607,,SO,,116304,6,1,,,366,https://corona.so.ch/bevoelkerung/daten/
 20220607,10:00,TG,,121152,11,2,,2678,689,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-20220607,,TI,,150250,34,0,,,1193,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github_storico.xlsx
+20220607,,TI,,156591,77,6,,,1199,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github_storico.xlsx
 20220607,08:00,ZG,,51008,2,0,,,170,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 20220607,14:30,ZH,,641058,40,2,0,,1803,https://www.zh.ch/de/gesundheit/coronavirus.html
 20220606,,BL,,127274,3,0,,,299,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
