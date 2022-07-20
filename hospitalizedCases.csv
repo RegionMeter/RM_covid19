@@ -1,4 +1,6 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
+20220720,4109,ch,zug,6,True
+20220720,4121,ch,ticino,100,True
 20220719,386011,si,pomurska,17,True
 20220719,386012,si,podravska,37,True
 20220719,386013,si,koroska,0,True
@@ -30,12 +32,15 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220719,3946,it,calabria,328,True
 20220719,3951,it,sicilia,1032,True
 20220719,3952,it,sardegna,174,True
+20220719,4103,ch,luzern,25,True
 20220719,4107,ch,nidwalden,6,True
+20220719,4109,ch,zug,4,True
 20220719,4111,ch,solothurn,32,True
 20220719,4112,ch,basel_stadt,94,True
 20220719,4113,ch,basel_landschaft,47,True
 20220719,4117,ch,st_gallen,36,True
-20220719,4125,ch,geneve,308,True
+20220719,4121,ch,ticino,103,True
+20220719,4125,ch,geneve,315,True
 20220719,423,li,liechtenstein,1,True
 20220719,43,at,austria,1399,False
 20220719,4301,at,wien,312,True
@@ -79,12 +84,14 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220718,3951,it,sicilia,1032,True
 20220718,3952,it,sardegna,175,True
 20220718,4107,ch,nidwalden,6,True
+20220718,4109,ch,zug,4,True
 20220718,4111,ch,solothurn,36,True
 20220718,4112,ch,basel_stadt,92,True
 20220718,4113,ch,basel_landschaft,47,True
 20220718,4114,ch,schaffhausen,18,True
 20220718,4117,ch,st_gallen,39,True
 20220718,4120,ch,thurgau,26,True
+20220718,4121,ch,ticino,104,True
 20220718,4125,ch,geneve,315,True
 20220718,423,li,liechtenstein,1,True
 20220718,43,at,austria,1301,False
@@ -128,6 +135,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220717,3946,it,calabria,317,True
 20220717,3951,it,sicilia,1011,True
 20220717,3952,it,sardegna,176,True
+20220717,4109,ch,zug,4,True
 20220717,4110,ch,fribourg,33,True
 20220717,4113,ch,basel_landschaft,39,True
 20220717,4114,ch,schaffhausen,15,True
@@ -177,6 +185,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220716,3946,it,calabria,319,True
 20220716,3951,it,sicilia,1014,True
 20220716,3952,it,sardegna,170,True
+20220716,4109,ch,zug,4,True
 20220716,4110,ch,fribourg,30,True
 20220716,4113,ch,basel_landschaft,39,True
 20220716,4117,ch,st_gallen,35,True
@@ -225,6 +234,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220715,3951,it,sicilia,1021,True
 20220715,3952,it,sardegna,170,True
 20220715,4107,ch,nidwalden,5,True
+20220715,4109,ch,zug,4,True
 20220715,4110,ch,fribourg,27,True
 20220715,4111,ch,solothurn,34,True
 20220715,4112,ch,basel_stadt,81,True
@@ -232,6 +242,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220715,4114,ch,schaffhausen,13,True
 20220715,4117,ch,st_gallen,35,True
 20220715,4120,ch,thurgau,23,True
+20220715,4121,ch,ticino,98,True
 20220715,4125,ch,geneve,313,True
 20220715,423,li,liechtenstein,0,True
 20220715,43,at,austria,1133,False
@@ -274,6 +285,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220714,3951,it,sicilia,1000,True
 20220714,3952,it,sardegna,155,True
 20220714,4107,ch,nidwalden,5,True
+20220714,4109,ch,zug,4,True
 20220714,4110,ch,fribourg,31,True
 20220714,4111,ch,solothurn,31,True
 20220714,4112,ch,basel_stadt,83,True
@@ -281,6 +293,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220714,4114,ch,schaffhausen,13,True
 20220714,4117,ch,st_gallen,43,True
 20220714,4120,ch,thurgau,26,True
+20220714,4121,ch,ticino,97,True
 20220714,4125,ch,geneve,305,True
 20220714,423,li,liechtenstein,0,True
 20220714,43,at,austria,1095,False
