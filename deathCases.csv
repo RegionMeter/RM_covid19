@@ -24,6 +24,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220803,4101,ch,zurich,1835,3,True
 20220803,4107,ch,nidwalden,36,0,True
 20220803,4111,ch,solothurn,371,1,True
+20220803,4112,ch,basel_stadt,293,0,True
 20220803,4121,ch,ticino,1215,3,True
 20220802,386,si,slovenia,7933,0,False
 20220802,386011,si,pomurska,670,0,True
@@ -63,7 +64,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220802,4101,ch,zurich,1832,0,True
 20220802,4107,ch,nidwalden,36,0,True
 20220802,4111,ch,solothurn,370,2,True
-20220802,4112,ch,basel_stadt,291,0,True
+20220802,4112,ch,basel_stadt,293,0,True
 20220802,4114,ch,schaffhausen,135,0,True
 20220802,4120,ch,thurgau,700,0,True
 20220802,4121,ch,ticino,1212,2,True
@@ -275,7 +276,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220729,4107,ch,nidwalden,36,0,True
 20220729,4110,ch,fribourg,578,0,True
 20220729,4111,ch,solothurn,368,0,True
-20220729,4112,ch,basel_stadt,291,0,True
+20220729,4112,ch,basel_stadt,293,0,True
 20220729,4113,ch,basel_landschaft,308,0,True
 20220729,4114,ch,schaffhausen,135,0,True
 20220729,4120,ch,thurgau,699,1,True
@@ -331,7 +332,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220728,4107,ch,nidwalden,36,0,True
 20220728,4110,ch,fribourg,578,0,True
 20220728,4111,ch,solothurn,368,0,True
-20220728,4112,ch,basel_stadt,291,0,True
+20220728,4112,ch,basel_stadt,293,0,True
 20220728,4113,ch,basel_landschaft,308,0,True
 20220728,4114,ch,schaffhausen,135,0,True
 20220728,4120,ch,thurgau,698,0,True
@@ -388,7 +389,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220727,4107,ch,nidwalden,36,0,True
 20220727,4110,ch,fribourg,578,0,True
 20220727,4111,ch,solothurn,368,0,True
-20220727,4112,ch,basel_stadt,291,0,True
+20220727,4112,ch,basel_stadt,293,0,True
 20220727,4113,ch,basel_landschaft,308,1,True
 20220727,4114,ch,schaffhausen,135,0,True
 20220727,4120,ch,thurgau,698,0,True
@@ -445,7 +446,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220726,4107,ch,nidwalden,36,0,True
 20220726,4110,ch,fribourg,578,0,True
 20220726,4111,ch,solothurn,368,0,True
-20220726,4112,ch,basel_stadt,291,0,True
+20220726,4112,ch,basel_stadt,293,0,True
 20220726,4113,ch,basel_landschaft,307,1,True
 20220726,4114,ch,schaffhausen,135,0,True
 20220726,4120,ch,thurgau,698,0,True
@@ -502,7 +503,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220725,4107,ch,nidwalden,36,0,True
 20220725,4110,ch,fribourg,578,0,True
 20220725,4111,ch,solothurn,368,0,True
-20220725,4112,ch,basel_stadt,291,0,True
+20220725,4112,ch,basel_stadt,293,0,True
 20220725,4113,ch,basel_landschaft,306,3,True
 20220725,4114,ch,schaffhausen,135,0,True
 20220725,4117,ch,st_gallen,862,1,True
@@ -664,7 +665,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220722,4107,ch,nidwalden,36,0,True
 20220722,4110,ch,fribourg,578,0,True
 20220722,4111,ch,solothurn,368,0,True
-20220722,4112,ch,basel_stadt,291,0,True
+20220722,4112,ch,basel_stadt,293,1,True
 20220722,4113,ch,basel_landschaft,303,0,True
 20220722,4114,ch,schaffhausen,135,0,True
 20220722,4120,ch,thurgau,698,1,True
@@ -721,7 +722,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220721,4107,ch,nidwalden,36,0,True
 20220721,4110,ch,fribourg,578,0,True
 20220721,4111,ch,solothurn,368,0,True
-20220721,4112,ch,basel_stadt,291,0,True
+20220721,4112,ch,basel_stadt,292,0,True
 20220721,4113,ch,basel_landschaft,303,0,True
 20220721,4114,ch,schaffhausen,135,1,True
 20220721,4120,ch,thurgau,697,0,True
@@ -779,7 +780,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220720,4109,ch,zug,171,0,True
 20220720,4110,ch,fribourg,578,0,True
 20220720,4111,ch,solothurn,368,0,True
-20220720,4112,ch,basel_stadt,291,0,True
+20220720,4112,ch,basel_stadt,292,0,True
 20220720,4113,ch,basel_landschaft,303,0,True
 20220720,4114,ch,schaffhausen,134,1,True
 20220720,4120,ch,thurgau,697,0,True
@@ -837,7 +838,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220719,4109,ch,zug,171,0,True
 20220719,4110,ch,fribourg,578,0,True
 20220719,4111,ch,solothurn,368,0,True
-20220719,4112,ch,basel_stadt,291,0,True
+20220719,4112,ch,basel_stadt,292,0,True
 20220719,4113,ch,basel_landschaft,303,0,True
 20220719,4114,ch,schaffhausen,133,0,True
 20220719,4120,ch,thurgau,697,0,True
@@ -895,7 +896,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220718,4109,ch,zug,171,0,True
 20220718,4110,ch,fribourg,578,0,True
 20220718,4111,ch,solothurn,368,0,True
-20220718,4112,ch,basel_stadt,291,0,True
+20220718,4112,ch,basel_stadt,292,1,True
 20220718,4113,ch,basel_landschaft,303,0,True
 20220718,4114,ch,schaffhausen,133,0,True
 20220718,4117,ch,st_gallen,861,0,True
