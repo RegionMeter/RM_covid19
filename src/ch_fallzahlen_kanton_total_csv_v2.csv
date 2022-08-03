@@ -1,4 +1,5 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
+20220803,,NW,,19681,0,0,,,36,http://www.nw.ch/coronastatistik
 20220803,,SO,,125014,22,0,,,371,https://corona.so.ch/bevoelkerung/daten/
 20220803,,TI,,164271,76,5,,,1215,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github_storico.xlsx
 20220802,,BL,,,31,1,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/
@@ -6,7 +7,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220802,00:00,FL,,18774,1,,,18500,86,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220802,00:00,GE,,231822,307,2,,,,https://infocovid.smc.unige.ch/
 20220802,,LU,,191337,30,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
-20220802,,NW,,19673,0,0,,,36,http://www.nw.ch/coronastatistik
+20220802,,NW,,19672,0,0,,,36,http://www.nw.ch/coronastatistik
 20220802,,SG,,,28,3,2,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220802,,SH,,35231,10,0,,,135,https://coviddashboard.sh.ch/
 20220802,,SO,,124873,23,1,,,370,https://corona.so.ch/bevoelkerung/daten/
