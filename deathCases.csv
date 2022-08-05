@@ -41,6 +41,16 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220804,4112,ch,basel_stadt,293,2,True
 20220804,4114,ch,schaffhausen,135,0,True
 20220804,423,li,liechtenstein,86,0,True
+20220804,43,at,austria,20424,6,False
+20220804,4301,at,wien,4132,3,True
+20220804,4302,at,niederosterreich,4010,2,True
+20220804,4303,at,oberosterreich,3358,1,True
+20220804,4304,at,steiermark,3440,0,True
+20220804,4305,at,tirol,1377,0,True
+20220804,4306,at,karnten,1652,0,True
+20220804,4307,at,salzburg,1183,0,True
+20220804,4308,at,vorarlberg,655,0,True
+20220804,4309,at,burgenland,617,0,True
 20220803,386,si,slovenia,7933,0,False
 20220803,386011,si,pomurska,670,0,True
 20220803,386012,si,podravska,1597,0,True
@@ -84,15 +94,15 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220803,4114,ch,schaffhausen,135,0,True
 20220803,4121,ch,ticino,1215,3,True
 20220803,423,li,liechtenstein,86,0,True
-20220803,43,at,austria,20411,9,False
+20220803,43,at,austria,20418,11,False
 20220803,4301,at,wien,4129,4,True
-20220803,4302,at,niederosterreich,4005,1,True
-20220803,4303,at,oberosterreich,3356,0,True
-20220803,4304,at,steiermark,3439,0,True
-20220803,4305,at,tirol,1376,1,True
+20220803,4302,at,niederosterreich,4008,2,True
+20220803,4303,at,oberosterreich,3357,0,True
+20220803,4304,at,steiermark,3440,0,True
+20220803,4305,at,tirol,1377,2,True
 20220803,4306,at,karnten,1652,0,True
 20220803,4307,at,salzburg,1183,3,True
-20220803,4308,at,vorarlberg,654,0,True
+20220803,4308,at,vorarlberg,655,0,True
 20220803,4309,at,burgenland,617,0,True
 20220802,386,si,slovenia,7933,0,False
 20220802,386011,si,pomurska,670,0,True
@@ -139,15 +149,15 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220802,4120,ch,thurgau,700,0,True
 20220802,4121,ch,ticino,1212,2,True
 20220802,423,li,liechtenstein,86,0,True
-20220802,43,at,austria,20402,5,False
+20220802,43,at,austria,20407,6,False
 20220802,4301,at,wien,4125,2,True
-20220802,4302,at,niederosterreich,4004,0,True
-20220802,4303,at,oberosterreich,3356,1,True
-20220802,4304,at,steiermark,3439,1,True
+20220802,4302,at,niederosterreich,4006,1,True
+20220802,4303,at,oberosterreich,3357,1,True
+20220802,4304,at,steiermark,3440,1,True
 20220802,4305,at,tirol,1375,0,True
 20220802,4306,at,karnten,1652,0,True
 20220802,4307,at,salzburg,1180,0,True
-20220802,4308,at,vorarlberg,654,1,True
+20220802,4308,at,vorarlberg,655,1,True
 20220802,4309,at,burgenland,617,0,True
 20220801,386,si,slovenia,7933,0,False
 20220801,386011,si,pomurska,670,0,True
@@ -194,15 +204,15 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220801,4120,ch,thurgau,700,0,True
 20220801,4124,ch,neuchatel,475,0,True
 20220801,423,li,liechtenstein,86,0,True
-20220801,43,at,austria,20397,5,False
+20220801,43,at,austria,20401,6,False
 20220801,4301,at,wien,4123,0,True
-20220801,4302,at,niederosterreich,4004,1,True
-20220801,4303,at,oberosterreich,3355,0,True
-20220801,4304,at,steiermark,3438,1,True
+20220801,4302,at,niederosterreich,4005,1,True
+20220801,4303,at,oberosterreich,3356,1,True
+20220801,4304,at,steiermark,3439,1,True
 20220801,4305,at,tirol,1375,0,True
 20220801,4306,at,karnten,1652,1,True
 20220801,4307,at,salzburg,1180,2,True
-20220801,4308,at,vorarlberg,653,0,True
+20220801,4308,at,vorarlberg,654,0,True
 20220801,4309,at,burgenland,617,0,True
 20220731,386,si,slovenia,7933,1,False
 20220731,386011,si,pomurska,670,0,True
@@ -247,15 +257,15 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220731,4120,ch,thurgau,700,1,True
 20220731,4124,ch,neuchatel,475,0,True
 20220731,423,li,liechtenstein,86,0,True
-20220731,43,at,austria,20392,11,False
+20220731,43,at,austria,20395,11,False
 20220731,4301,at,wien,4123,1,True
-20220731,4302,at,niederosterreich,4003,1,True
+20220731,4302,at,niederosterreich,4004,1,True
 20220731,4303,at,oberosterreich,3355,2,True
-20220731,4304,at,steiermark,3437,3,True
+20220731,4304,at,steiermark,3438,3,True
 20220731,4305,at,tirol,1375,1,True
 20220731,4306,at,karnten,1651,1,True
 20220731,4307,at,salzburg,1178,1,True
-20220731,4308,at,vorarlberg,653,0,True
+20220731,4308,at,vorarlberg,654,0,True
 20220731,4309,at,burgenland,617,1,True
 20220730,386,si,slovenia,7932,0,False
 20220730,386011,si,pomurska,670,0,True
@@ -300,15 +310,15 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220730,4120,ch,thurgau,699,0,True
 20220730,4124,ch,neuchatel,475,0,True
 20220730,423,li,liechtenstein,86,0,True
-20220730,43,at,austria,20381,12,False
+20220730,43,at,austria,20384,12,False
 20220730,4301,at,wien,4122,5,True
-20220730,4302,at,niederosterreich,4002,1,True
+20220730,4302,at,niederosterreich,4003,1,True
 20220730,4303,at,oberosterreich,3353,2,True
-20220730,4304,at,steiermark,3434,0,True
+20220730,4304,at,steiermark,3435,0,True
 20220730,4305,at,tirol,1374,1,True
 20220730,4306,at,karnten,1650,0,True
 20220730,4307,at,salzburg,1177,1,True
-20220730,4308,at,vorarlberg,653,1,True
+20220730,4308,at,vorarlberg,654,1,True
 20220730,4309,at,burgenland,616,1,True
 20220729,386,si,slovenia,7932,1,False
 20220729,386011,si,pomurska,670,0,True
@@ -357,15 +367,15 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220729,4121,ch,ticino,1210,0,True
 20220729,4124,ch,neuchatel,475,0,True
 20220729,423,li,liechtenstein,86,0,True
-20220729,43,at,austria,20369,17,False
+20220729,43,at,austria,20372,17,False
 20220729,4301,at,wien,4117,8,True
-20220729,4302,at,niederosterreich,4001,2,True
+20220729,4302,at,niederosterreich,4002,2,True
 20220729,4303,at,oberosterreich,3351,3,True
-20220729,4304,at,steiermark,3434,0,True
+20220729,4304,at,steiermark,3435,0,True
 20220729,4305,at,tirol,1373,0,True
 20220729,4306,at,karnten,1650,1,True
 20220729,4307,at,salzburg,1176,0,True
-20220729,4308,at,vorarlberg,652,2,True
+20220729,4308,at,vorarlberg,653,2,True
 20220729,4309,at,burgenland,615,1,True
 20220728,386,si,slovenia,7931,0,False
 20220728,386011,si,pomurska,670,0,True
@@ -414,15 +424,15 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220728,4121,ch,ticino,1210,1,True
 20220728,4124,ch,neuchatel,475,0,True
 20220728,423,li,liechtenstein,86,0,True
-20220728,43,at,austria,20352,14,False
+20220728,43,at,austria,20355,14,False
 20220728,4301,at,wien,4109,6,True
-20220728,4302,at,niederosterreich,3999,4,True
+20220728,4302,at,niederosterreich,4000,4,True
 20220728,4303,at,oberosterreich,3348,1,True
-20220728,4304,at,steiermark,3434,1,True
+20220728,4304,at,steiermark,3435,1,True
 20220728,4305,at,tirol,1373,0,True
 20220728,4306,at,karnten,1649,1,True
 20220728,4307,at,salzburg,1176,1,True
-20220728,4308,at,vorarlberg,650,0,True
+20220728,4308,at,vorarlberg,651,0,True
 20220728,4309,at,burgenland,614,0,True
 20220727,386,si,slovenia,7931,4,False
 20220727,386011,si,pomurska,670,1,True
@@ -472,15 +482,15 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220727,4121,ch,ticino,1209,1,True
 20220727,4124,ch,neuchatel,475,0,True
 20220727,423,li,liechtenstein,86,0,True
-20220727,43,at,austria,20338,13,False
+20220727,43,at,austria,20341,14,False
 20220727,4301,at,wien,4103,4,True
-20220727,4302,at,niederosterreich,3995,2,True
+20220727,4302,at,niederosterreich,3996,3,True
 20220727,4303,at,oberosterreich,3347,2,True
-20220727,4304,at,steiermark,3433,3,True
+20220727,4304,at,steiermark,3434,3,True
 20220727,4305,at,tirol,1373,0,True
 20220727,4306,at,karnten,1648,1,True
 20220727,4307,at,salzburg,1175,0,True
-20220727,4308,at,vorarlberg,650,1,True
+20220727,4308,at,vorarlberg,651,1,True
 20220727,4309,at,burgenland,614,0,True
 20220726,386,si,slovenia,7927,2,False
 20220726,386011,si,pomurska,669,0,True
@@ -530,15 +540,15 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220726,4121,ch,ticino,1208,0,True
 20220726,4124,ch,neuchatel,475,0,True
 20220726,423,li,liechtenstein,86,0,True
-20220726,43,at,austria,20325,9,False
+20220726,43,at,austria,20327,9,False
 20220726,4301,at,wien,4099,1,True
 20220726,4302,at,niederosterreich,3993,2,True
 20220726,4303,at,oberosterreich,3345,2,True
-20220726,4304,at,steiermark,3430,2,True
+20220726,4304,at,steiermark,3431,2,True
 20220726,4305,at,tirol,1373,0,True
 20220726,4306,at,karnten,1647,1,True
 20220726,4307,at,salzburg,1175,1,True
-20220726,4308,at,vorarlberg,649,0,True
+20220726,4308,at,vorarlberg,650,0,True
 20220726,4309,at,burgenland,614,0,True
 20220725,386,si,slovenia,7925,8,False
 20220725,386011,si,pomurska,669,1,True
@@ -589,15 +599,15 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220725,4121,ch,ticino,1208,0,True
 20220725,4124,ch,neuchatel,475,0,True
 20220725,423,li,liechtenstein,86,0,True
-20220725,43,at,austria,20316,14,False
+20220725,43,at,austria,20318,15,False
 20220725,4301,at,wien,4098,5,True
 20220725,4302,at,niederosterreich,3991,4,True
 20220725,4303,at,oberosterreich,3343,0,True
-20220725,4304,at,steiermark,3428,1,True
+20220725,4304,at,steiermark,3429,2,True
 20220725,4305,at,tirol,1373,1,True
 20220725,4306,at,karnten,1646,0,True
 20220725,4307,at,salzburg,1174,2,True
-20220725,4308,at,vorarlberg,649,0,True
+20220725,4308,at,vorarlberg,650,0,True
 20220725,4309,at,burgenland,614,1,True
 20220724,386,si,slovenia,7917,5,False
 20220724,386011,si,pomurska,668,1,True
@@ -642,7 +652,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220724,4120,ch,thurgau,698,0,True
 20220724,4124,ch,neuchatel,475,0,True
 20220724,423,li,liechtenstein,86,1,True
-20220724,43,at,austria,20302,16,False
+20220724,43,at,austria,20303,16,False
 20220724,4301,at,wien,4093,7,True
 20220724,4302,at,niederosterreich,3987,2,True
 20220724,4303,at,oberosterreich,3343,2,True
@@ -650,7 +660,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220724,4305,at,tirol,1372,0,True
 20220724,4306,at,karnten,1646,0,True
 20220724,4307,at,salzburg,1172,1,True
-20220724,4308,at,vorarlberg,649,1,True
+20220724,4308,at,vorarlberg,650,1,True
 20220724,4309,at,burgenland,613,0,True
 20220723,386,si,slovenia,7912,4,False
 20220723,386011,si,pomurska,667,0,True
@@ -695,7 +705,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220723,4120,ch,thurgau,698,0,True
 20220723,4124,ch,neuchatel,475,0,True
 20220723,423,li,liechtenstein,85,0,True
-20220723,43,at,austria,20286,11,False
+20220723,43,at,austria,20287,11,False
 20220723,4301,at,wien,4086,4,True
 20220723,4302,at,niederosterreich,3985,3,True
 20220723,4303,at,oberosterreich,3341,2,True
@@ -703,7 +713,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220723,4305,at,tirol,1372,1,True
 20220723,4306,at,karnten,1646,1,True
 20220723,4307,at,salzburg,1171,0,True
-20220723,4308,at,vorarlberg,648,0,True
+20220723,4308,at,vorarlberg,649,0,True
 20220723,4309,at,burgenland,613,0,True
 20220722,386,si,slovenia,7908,3,False
 20220722,386011,si,pomurska,667,0,True
@@ -753,7 +763,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220722,4121,ch,ticino,1208,0,True
 20220722,4124,ch,neuchatel,475,0,True
 20220722,423,li,liechtenstein,85,0,True
-20220722,43,at,austria,20275,14,False
+20220722,43,at,austria,20276,14,False
 20220722,4301,at,wien,4082,4,True
 20220722,4302,at,niederosterreich,3982,2,True
 20220722,4303,at,oberosterreich,3339,1,True
@@ -761,7 +771,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220722,4305,at,tirol,1371,2,True
 20220722,4306,at,karnten,1645,2,True
 20220722,4307,at,salzburg,1171,1,True
-20220722,4308,at,vorarlberg,648,1,True
+20220722,4308,at,vorarlberg,649,1,True
 20220722,4309,at,burgenland,613,0,True
 20220721,386,si,slovenia,7905,2,False
 20220721,386011,si,pomurska,667,0,True
@@ -811,7 +821,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220721,4121,ch,ticino,1208,0,True
 20220721,4124,ch,neuchatel,475,0,True
 20220721,423,li,liechtenstein,85,0,True
-20220721,43,at,austria,20261,14,False
+20220721,43,at,austria,20262,14,False
 20220721,4301,at,wien,4078,6,True
 20220721,4302,at,niederosterreich,3980,4,True
 20220721,4303,at,oberosterreich,3338,1,True
@@ -819,7 +829,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220721,4305,at,tirol,1369,0,True
 20220721,4306,at,karnten,1643,0,True
 20220721,4307,at,salzburg,1170,0,True
-20220721,4308,at,vorarlberg,647,0,True
+20220721,4308,at,vorarlberg,648,0,True
 20220721,4309,at,burgenland,613,2,True
 20220720,386,si,slovenia,7903,9,False
 20220720,386011,si,pomurska,667,0,True
@@ -869,7 +879,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220720,4121,ch,ticino,1208,2,True
 20220720,4124,ch,neuchatel,475,0,True
 20220720,423,li,liechtenstein,85,0,True
-20220720,43,at,austria,20247,10,False
+20220720,43,at,austria,20248,10,False
 20220720,4301,at,wien,4072,4,True
 20220720,4302,at,niederosterreich,3976,4,True
 20220720,4303,at,oberosterreich,3337,2,True
@@ -877,7 +887,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220720,4305,at,tirol,1369,0,True
 20220720,4306,at,karnten,1643,0,True
 20220720,4307,at,salzburg,1170,0,True
-20220720,4308,at,vorarlberg,647,0,True
+20220720,4308,at,vorarlberg,648,0,True
 20220720,4309,at,burgenland,611,0,True
 20220719,386,si,slovenia,7894,6,False
 20220719,386011,si,pomurska,667,0,True
@@ -927,7 +937,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220719,4121,ch,ticino,1206,0,True
 20220719,4124,ch,neuchatel,475,0,True
 20220719,423,li,liechtenstein,85,0,True
-20220719,43,at,austria,20237,8,False
+20220719,43,at,austria,20238,8,False
 20220719,4301,at,wien,4068,2,True
 20220719,4302,at,niederosterreich,3972,0,True
 20220719,4303,at,oberosterreich,3335,3,True
@@ -935,7 +945,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220719,4305,at,tirol,1369,1,True
 20220719,4306,at,karnten,1643,0,True
 20220719,4307,at,salzburg,1170,1,True
-20220719,4308,at,vorarlberg,647,0,True
+20220719,4308,at,vorarlberg,648,0,True
 20220719,4309,at,burgenland,611,0,True
 20220718,386,si,slovenia,7888,4,False
 20220718,386011,si,pomurska,667,0,True
@@ -986,7 +996,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220718,4121,ch,ticino,1206,0,True
 20220718,4124,ch,neuchatel,475,0,True
 20220718,423,li,liechtenstein,85,0,True
-20220718,43,at,austria,20229,14,False
+20220718,43,at,austria,20230,14,False
 20220718,4301,at,wien,4066,8,True
 20220718,4302,at,niederosterreich,3972,1,True
 20220718,4303,at,oberosterreich,3332,2,True
@@ -994,7 +1004,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220718,4305,at,tirol,1368,1,True
 20220718,4306,at,karnten,1643,0,True
 20220718,4307,at,salzburg,1169,0,True
-20220718,4308,at,vorarlberg,647,0,True
+20220718,4308,at,vorarlberg,648,0,True
 20220718,4309,at,burgenland,611,2,True
 20220717,386,si,slovenia,7884,4,False
 20220717,386011,si,pomurska,667,0,True
@@ -1039,7 +1049,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220717,4120,ch,thurgau,697,0,True
 20220717,4124,ch,neuchatel,475,0,True
 20220717,423,li,liechtenstein,85,0,True
-20220717,43,at,austria,20215,13,False
+20220717,43,at,austria,20216,13,False
 20220717,4301,at,wien,4058,9,True
 20220717,4302,at,niederosterreich,3971,0,True
 20220717,4303,at,oberosterreich,3330,0,True
@@ -1047,7 +1057,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220717,4305,at,tirol,1367,1,True
 20220717,4306,at,karnten,1643,0,True
 20220717,4307,at,salzburg,1169,1,True
-20220717,4308,at,vorarlberg,647,1,True
+20220717,4308,at,vorarlberg,648,1,True
 20220717,4309,at,burgenland,609,0,True
 20220716,386,si,slovenia,7880,2,False
 20220716,386011,si,pomurska,667,0,True
@@ -1093,7 +1103,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220716,4120,ch,thurgau,697,0,True
 20220716,4124,ch,neuchatel,475,0,True
 20220716,423,li,liechtenstein,85,0,True
-20220716,43,at,austria,20202,9,False
+20220716,43,at,austria,20203,9,False
 20220716,4301,at,wien,4049,1,True
 20220716,4302,at,niederosterreich,3971,1,True
 20220716,4303,at,oberosterreich,3330,0,True
@@ -1101,7 +1111,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220716,4305,at,tirol,1366,1,True
 20220716,4306,at,karnten,1643,1,True
 20220716,4307,at,salzburg,1168,2,True
-20220716,4308,at,vorarlberg,646,0,True
+20220716,4308,at,vorarlberg,647,0,True
 20220716,4309,at,burgenland,609,1,True
 20220715,386,si,slovenia,7878,4,False
 20220715,386011,si,pomurska,667,0,True
@@ -1151,7 +1161,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220715,4121,ch,ticino,1206,0,True
 20220715,4124,ch,neuchatel,475,0,True
 20220715,423,li,liechtenstein,85,0,True
-20220715,43,at,austria,20193,8,False
+20220715,43,at,austria,20194,8,False
 20220715,4301,at,wien,4048,3,True
 20220715,4302,at,niederosterreich,3970,2,True
 20220715,4303,at,oberosterreich,3330,2,True
@@ -1159,7 +1169,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220715,4305,at,tirol,1365,0,True
 20220715,4306,at,karnten,1642,0,True
 20220715,4307,at,salzburg,1166,0,True
-20220715,4308,at,vorarlberg,646,0,True
+20220715,4308,at,vorarlberg,647,0,True
 20220715,4309,at,burgenland,608,0,True
 20220714,386,si,slovenia,7874,3,False
 20220714,386011,si,pomurska,667,0,True
@@ -1209,7 +1219,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220714,4121,ch,ticino,1206,0,True
 20220714,4124,ch,neuchatel,475,1,True
 20220714,423,li,liechtenstein,85,0,True
-20220714,43,at,austria,20185,4,False
+20220714,43,at,austria,20186,4,False
 20220714,4301,at,wien,4045,0,True
 20220714,4302,at,niederosterreich,3968,1,True
 20220714,4303,at,oberosterreich,3328,0,True
@@ -1217,7 +1227,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220714,4305,at,tirol,1365,0,True
 20220714,4306,at,karnten,1642,1,True
 20220714,4307,at,salzburg,1166,1,True
-20220714,4308,at,vorarlberg,646,1,True
+20220714,4308,at,vorarlberg,647,1,True
 20220714,4309,at,burgenland,608,0,True
 20220713,386,si,slovenia,7871,5,False
 20220713,386011,si,pomurska,667,0,True
@@ -1267,7 +1277,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220713,4121,ch,ticino,1206,4,True
 20220713,4124,ch,neuchatel,474,0,True
 20220713,423,li,liechtenstein,85,0,True
-20220713,43,at,austria,20181,7,False
+20220713,43,at,austria,20182,7,False
 20220713,4301,at,wien,4045,1,True
 20220713,4302,at,niederosterreich,3967,3,True
 20220713,4303,at,oberosterreich,3328,0,True
@@ -1275,7 +1285,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220713,4305,at,tirol,1365,0,True
 20220713,4306,at,karnten,1641,1,True
 20220713,4307,at,salzburg,1165,0,True
-20220713,4308,at,vorarlberg,645,1,True
+20220713,4308,at,vorarlberg,646,1,True
 20220713,4309,at,burgenland,608,1,True
 20220712,386,si,slovenia,7866,5,False
 20220712,386011,si,pomurska,667,0,True
@@ -1325,7 +1335,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220712,4121,ch,ticino,1202,1,True
 20220712,4124,ch,neuchatel,474,0,True
 20220712,423,li,liechtenstein,85,0,True
-20220712,43,at,austria,20174,6,False
+20220712,43,at,austria,20175,6,False
 20220712,4301,at,wien,4044,3,True
 20220712,4302,at,niederosterreich,3964,2,True
 20220712,4303,at,oberosterreich,3328,0,True
@@ -1333,7 +1343,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220712,4305,at,tirol,1365,0,True
 20220712,4306,at,karnten,1640,0,True
 20220712,4307,at,salzburg,1165,1,True
-20220712,4308,at,vorarlberg,644,0,True
+20220712,4308,at,vorarlberg,645,0,True
 20220712,4309,at,burgenland,607,0,True
 20220711,386,si,slovenia,7861,1,False
 20220711,386011,si,pomurska,667,0,True
@@ -1384,7 +1394,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220711,4121,ch,ticino,1201,2,True
 20220711,4124,ch,neuchatel,474,0,True
 20220711,423,li,liechtenstein,85,0,True
-20220711,43,at,austria,20168,8,False
+20220711,43,at,austria,20169,8,False
 20220711,4301,at,wien,4041,1,True
 20220711,4302,at,niederosterreich,3962,0,True
 20220711,4303,at,oberosterreich,3328,2,True
@@ -1392,7 +1402,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220711,4305,at,tirol,1365,1,True
 20220711,4306,at,karnten,1640,0,True
 20220711,4307,at,salzburg,1164,1,True
-20220711,4308,at,vorarlberg,644,1,True
+20220711,4308,at,vorarlberg,645,1,True
 20220711,4309,at,burgenland,607,1,True
 20220710,386,si,slovenia,7860,3,False
 20220710,386011,si,pomurska,667,0,True
@@ -1437,7 +1447,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220710,4120,ch,thurgau,695,0,True
 20220710,4124,ch,neuchatel,474,1,True
 20220710,423,li,liechtenstein,85,0,True
-20220710,43,at,austria,20160,6,False
+20220710,43,at,austria,20161,6,False
 20220710,4301,at,wien,4040,2,True
 20220710,4302,at,niederosterreich,3962,0,True
 20220710,4303,at,oberosterreich,3326,0,True
@@ -1445,7 +1455,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220710,4305,at,tirol,1364,1,True
 20220710,4306,at,karnten,1640,0,True
 20220710,4307,at,salzburg,1163,0,True
-20220710,4308,at,vorarlberg,643,1,True
+20220710,4308,at,vorarlberg,644,1,True
 20220710,4309,at,burgenland,606,0,True
 20220709,386,si,slovenia,7857,1,False
 20220709,386011,si,pomurska,667,0,True
@@ -1490,7 +1500,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220709,4120,ch,thurgau,695,0,True
 20220709,4124,ch,neuchatel,473,1,True
 20220709,423,li,liechtenstein,85,0,True
-20220709,43,at,austria,20154,11,False
+20220709,43,at,austria,20155,11,False
 20220709,4301,at,wien,4038,4,True
 20220709,4302,at,niederosterreich,3962,1,True
 20220709,4303,at,oberosterreich,3326,3,True
@@ -1498,7 +1508,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220709,4305,at,tirol,1363,2,True
 20220709,4306,at,karnten,1640,1,True
 20220709,4307,at,salzburg,1163,0,True
-20220709,4308,at,vorarlberg,642,0,True
+20220709,4308,at,vorarlberg,643,0,True
 20220709,4309,at,burgenland,606,0,True
 20220708,386,si,slovenia,7856,3,False
 20220708,386011,si,pomurska,667,0,True
@@ -1548,7 +1558,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220708,4121,ch,ticino,1199,0,True
 20220708,4124,ch,neuchatel,472,0,True
 20220708,423,li,liechtenstein,85,0,True
-20220708,43,at,austria,20143,8,False
+20220708,43,at,austria,20144,8,False
 20220708,4301,at,wien,4034,0,True
 20220708,4302,at,niederosterreich,3961,3,True
 20220708,4303,at,oberosterreich,3323,1,True
@@ -1556,7 +1566,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220708,4305,at,tirol,1361,2,True
 20220708,4306,at,karnten,1639,1,True
 20220708,4307,at,salzburg,1163,0,True
-20220708,4308,at,vorarlberg,642,0,True
+20220708,4308,at,vorarlberg,643,0,True
 20220708,4309,at,burgenland,606,0,True
 20220707,386,si,slovenia,7853,4,False
 20220707,386011,si,pomurska,667,1,True
@@ -1606,7 +1616,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220707,4121,ch,ticino,1199,0,True
 20220707,4124,ch,neuchatel,472,0,True
 20220707,423,li,liechtenstein,85,0,True
-20220707,43,at,austria,20135,15,False
+20220707,43,at,austria,20136,15,False
 20220707,4301,at,wien,4034,3,True
 20220707,4302,at,niederosterreich,3958,2,True
 20220707,4303,at,oberosterreich,3322,2,True
@@ -1614,7 +1624,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220707,4305,at,tirol,1359,0,True
 20220707,4306,at,karnten,1638,4,True
 20220707,4307,at,salzburg,1163,1,True
-20220707,4308,at,vorarlberg,642,0,True
+20220707,4308,at,vorarlberg,643,0,True
 20220707,4309,at,burgenland,606,2,True
 20220706,386,si,slovenia,7849,3,False
 20220706,386011,si,pomurska,666,0,True
@@ -1664,7 +1674,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220706,4121,ch,ticino,1199,0,True
 20220706,4124,ch,neuchatel,472,1,True
 20220706,423,li,liechtenstein,85,0,True
-20220706,43,at,austria,20120,9,False
+20220706,43,at,austria,20121,9,False
 20220706,4301,at,wien,4031,3,True
 20220706,4302,at,niederosterreich,3956,3,True
 20220706,4303,at,oberosterreich,3320,0,True
@@ -1672,7 +1682,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220706,4305,at,tirol,1359,1,True
 20220706,4306,at,karnten,1634,1,True
 20220706,4307,at,salzburg,1162,0,True
-20220706,4308,at,vorarlberg,642,1,True
+20220706,4308,at,vorarlberg,643,1,True
 20220706,4309,at,burgenland,604,0,True
 20220705,386,si,slovenia,7846,2,False
 20220705,386011,si,pomurska,666,0,True
@@ -1722,7 +1732,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220705,4121,ch,ticino,1199,0,True
 20220705,4124,ch,neuchatel,471,0,True
 20220705,423,li,liechtenstein,85,0,True
-20220705,43,at,austria,20111,6,False
+20220705,43,at,austria,20112,6,False
 20220705,4301,at,wien,4028,0,True
 20220705,4302,at,niederosterreich,3953,0,True
 20220705,4303,at,oberosterreich,3320,2,True
@@ -1730,7 +1740,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220705,4305,at,tirol,1358,1,True
 20220705,4306,at,karnten,1633,1,True
 20220705,4307,at,salzburg,1162,0,True
-20220705,4308,at,vorarlberg,641,0,True
+20220705,4308,at,vorarlberg,642,0,True
 20220705,4309,at,burgenland,604,1,True
 20220704,386,si,slovenia,7844,4,False
 20220704,386011,si,pomurska,666,0,True
@@ -1782,7 +1792,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220704,4121,ch,ticino,1199,2,True
 20220704,4124,ch,neuchatel,471,0,True
 20220704,423,li,liechtenstein,85,0,True
-20220704,43,at,austria,20105,9,False
+20220704,43,at,austria,20106,9,False
 20220704,4301,at,wien,4028,3,True
 20220704,4302,at,niederosterreich,3953,3,True
 20220704,4303,at,oberosterreich,3318,0,True
@@ -1790,7 +1800,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220704,4305,at,tirol,1357,0,True
 20220704,4306,at,karnten,1632,0,True
 20220704,4307,at,salzburg,1162,1,True
-20220704,4308,at,vorarlberg,641,1,True
+20220704,4308,at,vorarlberg,642,1,True
 20220704,4309,at,burgenland,603,0,True
 20220703,386,si,slovenia,7840,1,False
 20220703,386011,si,pomurska,666,0,True
@@ -1835,7 +1845,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220703,4120,ch,thurgau,693,1,True
 20220703,4124,ch,neuchatel,471,0,True
 20220703,423,li,liechtenstein,85,0,True
-20220703,43,at,austria,20096,5,False
+20220703,43,at,austria,20097,5,False
 20220703,4301,at,wien,4025,1,True
 20220703,4302,at,niederosterreich,3950,2,True
 20220703,4303,at,oberosterreich,3318,1,True
@@ -1843,7 +1853,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220703,4305,at,tirol,1357,0,True
 20220703,4306,at,karnten,1632,0,True
 20220703,4307,at,salzburg,1161,1,True
-20220703,4308,at,vorarlberg,640,0,True
+20220703,4308,at,vorarlberg,641,0,True
 20220703,4309,at,burgenland,603,0,True
 20220702,386,si,slovenia,7839,2,False
 20220702,386011,si,pomurska,666,0,True
@@ -1888,7 +1898,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220702,4120,ch,thurgau,692,0,True
 20220702,4124,ch,neuchatel,471,0,True
 20220702,423,li,liechtenstein,85,0,True
-20220702,43,at,austria,20091,4,False
+20220702,43,at,austria,20092,4,False
 20220702,4301,at,wien,4024,1,True
 20220702,4302,at,niederosterreich,3948,1,True
 20220702,4303,at,oberosterreich,3317,0,True
@@ -1896,7 +1906,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220702,4305,at,tirol,1357,1,True
 20220702,4306,at,karnten,1632,1,True
 20220702,4307,at,salzburg,1160,0,True
-20220702,4308,at,vorarlberg,640,0,True
+20220702,4308,at,vorarlberg,641,0,True
 20220702,4309,at,burgenland,603,0,True
 20220701,386,si,slovenia,7837,4,False
 20220701,386011,si,pomurska,666,1,True
@@ -1946,7 +1956,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220701,4121,ch,ticino,1197,0,True
 20220701,4124,ch,neuchatel,471,0,True
 20220701,423,li,liechtenstein,85,0,True
-20220701,43,at,austria,20087,10,False
+20220701,43,at,austria,20088,10,False
 20220701,4301,at,wien,4023,1,True
 20220701,4302,at,niederosterreich,3947,2,True
 20220701,4303,at,oberosterreich,3317,2,True
@@ -1954,7 +1964,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220701,4305,at,tirol,1356,2,True
 20220701,4306,at,karnten,1631,0,True
 20220701,4307,at,salzburg,1160,2,True
-20220701,4308,at,vorarlberg,640,0,True
+20220701,4308,at,vorarlberg,641,0,True
 20220701,4309,at,burgenland,603,0,True
 20220630,386,si,slovenia,7833,1,False
 20220630,386011,si,pomurska,665,0,True
@@ -2003,7 +2013,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220630,4121,ch,ticino,1197,0,True
 20220630,4124,ch,neuchatel,471,0,True
 20220630,423,li,liechtenstein,85,0,True
-20220630,43,at,austria,20077,6,False
+20220630,43,at,austria,20078,6,False
 20220630,4301,at,wien,4022,0,True
 20220630,4302,at,niederosterreich,3945,3,True
 20220630,4303,at,oberosterreich,3315,0,True
@@ -2011,7 +2021,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220630,4305,at,tirol,1354,1,True
 20220630,4306,at,karnten,1631,0,True
 20220630,4307,at,salzburg,1158,0,True
-20220630,4308,at,vorarlberg,640,0,True
+20220630,4308,at,vorarlberg,641,0,True
 20220630,4309,at,burgenland,603,0,True
 20220629,386,si,slovenia,7832,1,False
 20220629,386011,si,pomurska,665,0,True
@@ -2060,7 +2070,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220629,4120,ch,thurgau,692,0,True
 20220629,4124,ch,neuchatel,471,0,True
 20220629,423,li,liechtenstein,85,0,True
-20220629,43,at,austria,20071,6,False
+20220629,43,at,austria,20072,6,False
 20220629,4301,at,wien,4022,2,True
 20220629,4302,at,niederosterreich,3942,1,True
 20220629,4303,at,oberosterreich,3315,0,True
@@ -2068,7 +2078,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220629,4305,at,tirol,1353,2,True
 20220629,4306,at,karnten,1631,0,True
 20220629,4307,at,salzburg,1158,0,True
-20220629,4308,at,vorarlberg,640,0,True
+20220629,4308,at,vorarlberg,641,0,True
 20220629,4309,at,burgenland,603,0,True
 20220628,386,si,slovenia,7831,1,False
 20220628,386011,si,pomurska,665,0,True
@@ -2118,7 +2128,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220628,4121,ch,ticino,1197,0,True
 20220628,4124,ch,neuchatel,471,1,True
 20220628,423,li,liechtenstein,85,0,True
-20220628,43,at,austria,20065,5,False
+20220628,43,at,austria,20066,5,False
 20220628,4301,at,wien,4020,3,True
 20220628,4302,at,niederosterreich,3941,0,True
 20220628,4303,at,oberosterreich,3315,0,True
@@ -2126,7 +2136,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220628,4305,at,tirol,1351,1,True
 20220628,4306,at,karnten,1631,0,True
 20220628,4307,at,salzburg,1158,0,True
-20220628,4308,at,vorarlberg,640,1,True
+20220628,4308,at,vorarlberg,641,1,True
 20220628,4309,at,burgenland,603,0,True
 20220627,386,si,slovenia,7830,1,False
 20220627,386011,si,pomurska,665,0,True
@@ -2177,7 +2187,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220627,4121,ch,ticino,1197,2,True
 20220627,4124,ch,neuchatel,470,0,True
 20220627,423,li,liechtenstein,85,0,True
-20220627,43,at,austria,20060,12,False
+20220627,43,at,austria,20061,12,False
 20220627,4301,at,wien,4017,4,True
 20220627,4302,at,niederosterreich,3941,4,True
 20220627,4303,at,oberosterreich,3315,0,True
@@ -2185,7 +2195,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220627,4305,at,tirol,1350,3,True
 20220627,4306,at,karnten,1631,0,True
 20220627,4307,at,salzburg,1158,1,True
-20220627,4308,at,vorarlberg,639,0,True
+20220627,4308,at,vorarlberg,640,0,True
 20220627,4309,at,burgenland,603,0,True
 20220626,386,si,slovenia,7829,2,False
 20220626,386011,si,pomurska,665,0,True
@@ -2230,7 +2240,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220626,4120,ch,thurgau,692,0,True
 20220626,4124,ch,neuchatel,470,0,True
 20220626,423,li,liechtenstein,85,0,True
-20220626,43,at,austria,20048,6,False
+20220626,43,at,austria,20049,6,False
 20220626,4301,at,wien,4013,3,True
 20220626,4302,at,niederosterreich,3937,0,True
 20220626,4303,at,oberosterreich,3315,0,True
@@ -2238,7 +2248,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220626,4305,at,tirol,1347,2,True
 20220626,4306,at,karnten,1631,0,True
 20220626,4307,at,salzburg,1157,0,True
-20220626,4308,at,vorarlberg,639,1,True
+20220626,4308,at,vorarlberg,640,1,True
 20220626,4309,at,burgenland,603,0,True
 20220625,386,si,slovenia,7827,0,False
 20220625,386011,si,pomurska,665,0,True
@@ -2284,7 +2294,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220625,4120,ch,thurgau,692,0,True
 20220625,4124,ch,neuchatel,470,0,True
 20220625,423,li,liechtenstein,85,0,True
-20220625,43,at,austria,20042,4,False
+20220625,43,at,austria,20043,4,False
 20220625,4301,at,wien,4010,2,True
 20220625,4302,at,niederosterreich,3937,1,True
 20220625,4303,at,oberosterreich,3315,1,True
@@ -2292,7 +2302,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220625,4305,at,tirol,1345,0,True
 20220625,4306,at,karnten,1631,0,True
 20220625,4307,at,salzburg,1157,0,True
-20220625,4308,at,vorarlberg,638,0,True
+20220625,4308,at,vorarlberg,639,0,True
 20220625,4309,at,burgenland,603,0,True
 20220624,386,si,slovenia,7827,0,False
 20220624,386011,si,pomurska,665,0,True
@@ -2342,7 +2352,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220624,4121,ch,ticino,1195,0,True
 20220624,4124,ch,neuchatel,470,0,True
 20220624,423,li,liechtenstein,85,0,True
-20220624,43,at,austria,20038,8,False
+20220624,43,at,austria,20039,8,False
 20220624,4301,at,wien,4008,1,True
 20220624,4302,at,niederosterreich,3936,3,True
 20220624,4303,at,oberosterreich,3314,1,True
@@ -2350,7 +2360,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220624,4305,at,tirol,1345,1,True
 20220624,4306,at,karnten,1631,1,True
 20220624,4307,at,salzburg,1157,0,True
-20220624,4308,at,vorarlberg,638,0,True
+20220624,4308,at,vorarlberg,639,0,True
 20220624,4309,at,burgenland,603,1,True
 20220623,386,si,slovenia,7827,1,False
 20220623,386011,si,pomurska,665,0,True
@@ -2400,7 +2410,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220623,4121,ch,ticino,1195,1,True
 20220623,4124,ch,neuchatel,470,1,True
 20220623,423,li,liechtenstein,85,0,True
-20220623,43,at,austria,20030,2,False
+20220623,43,at,austria,20031,2,False
 20220623,4301,at,wien,4007,1,True
 20220623,4302,at,niederosterreich,3933,1,True
 20220623,4303,at,oberosterreich,3313,0,True
@@ -2408,7 +2418,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220623,4305,at,tirol,1344,0,True
 20220623,4306,at,karnten,1630,0,True
 20220623,4307,at,salzburg,1157,0,True
-20220623,4308,at,vorarlberg,638,0,True
+20220623,4308,at,vorarlberg,639,0,True
 20220623,4309,at,burgenland,602,0,True
 20220622,386,si,slovenia,7826,0,False
 20220622,386011,si,pomurska,665,0,True
@@ -2458,7 +2468,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220622,4121,ch,ticino,1194,0,True
 20220622,4124,ch,neuchatel,469,0,True
 20220622,423,li,liechtenstein,85,0,True
-20220622,43,at,austria,20028,7,False
+20220622,43,at,austria,20029,7,False
 20220622,4301,at,wien,4006,4,True
 20220622,4302,at,niederosterreich,3932,2,True
 20220622,4303,at,oberosterreich,3313,0,True
@@ -2466,7 +2476,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220622,4305,at,tirol,1344,1,True
 20220622,4306,at,karnten,1630,0,True
 20220622,4307,at,salzburg,1157,0,True
-20220622,4308,at,vorarlberg,638,0,True
+20220622,4308,at,vorarlberg,639,0,True
 20220622,4309,at,burgenland,602,0,True
 20220621,386,si,slovenia,7826,1,False
 20220621,386011,si,pomurska,665,0,True
@@ -2516,7 +2526,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220621,4121,ch,ticino,1194,0,True
 20220621,4124,ch,neuchatel,469,0,True
 20220621,423,li,liechtenstein,85,0,True
-20220621,43,at,austria,20021,3,False
+20220621,43,at,austria,20022,3,False
 20220621,4301,at,wien,4002,0,True
 20220621,4302,at,niederosterreich,3930,0,True
 20220621,4303,at,oberosterreich,3313,2,True
@@ -2524,7 +2534,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220621,4305,at,tirol,1343,1,True
 20220621,4306,at,karnten,1630,0,True
 20220621,4307,at,salzburg,1157,0,True
-20220621,4308,at,vorarlberg,638,0,True
+20220621,4308,at,vorarlberg,639,0,True
 20220621,4309,at,burgenland,602,0,True
 20220620,386,si,slovenia,7825,0,False
 20220620,386011,si,pomurska,665,0,True
@@ -2575,7 +2585,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220620,4121,ch,ticino,1194,0,True
 20220620,4124,ch,neuchatel,469,0,True
 20220620,423,li,liechtenstein,85,0,True
-20220620,43,at,austria,20018,5,False
+20220620,43,at,austria,20019,5,False
 20220620,4301,at,wien,4002,1,True
 20220620,4302,at,niederosterreich,3930,0,True
 20220620,4303,at,oberosterreich,3311,1,True
@@ -2583,7 +2593,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220620,4305,at,tirol,1342,1,True
 20220620,4306,at,karnten,1630,0,True
 20220620,4307,at,salzburg,1157,0,True
-20220620,4308,at,vorarlberg,638,0,True
+20220620,4308,at,vorarlberg,639,0,True
 20220620,4309,at,burgenland,602,0,True
 20220619,386,si,slovenia,7825,0,False
 20220619,386011,si,pomurska,665,0,True
@@ -2628,7 +2638,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220619,4120,ch,thurgau,691,0,True
 20220619,4124,ch,neuchatel,469,0,True
 20220619,423,li,liechtenstein,85,0,True
-20220619,43,at,austria,20013,5,False
+20220619,43,at,austria,20014,5,False
 20220619,4301,at,wien,4001,0,True
 20220619,4302,at,niederosterreich,3930,3,True
 20220619,4303,at,oberosterreich,3310,0,True
@@ -2636,7 +2646,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220619,4305,at,tirol,1341,1,True
 20220619,4306,at,karnten,1630,1,True
 20220619,4307,at,salzburg,1157,0,True
-20220619,4308,at,vorarlberg,638,0,True
+20220619,4308,at,vorarlberg,639,0,True
 20220619,4309,at,burgenland,602,0,True
 20220618,386,si,slovenia,7825,0,False
 20220618,386011,si,pomurska,665,0,True
@@ -2681,7 +2691,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220618,4120,ch,thurgau,691,0,True
 20220618,4124,ch,neuchatel,469,0,True
 20220618,423,li,liechtenstein,85,0,True
-20220618,43,at,austria,20008,2,False
+20220618,43,at,austria,20009,2,False
 20220618,4301,at,wien,4001,0,True
 20220618,4302,at,niederosterreich,3927,1,True
 20220618,4303,at,oberosterreich,3310,1,True
@@ -2689,7 +2699,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220618,4305,at,tirol,1340,0,True
 20220618,4306,at,karnten,1629,0,True
 20220618,4307,at,salzburg,1157,0,True
-20220618,4308,at,vorarlberg,638,0,True
+20220618,4308,at,vorarlberg,639,0,True
 20220618,4309,at,burgenland,602,0,True
 20220617,386,si,slovenia,7825,1,False
 20220617,386011,si,pomurska,665,0,True
@@ -2739,7 +2749,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220617,4121,ch,ticino,1194,1,True
 20220617,4124,ch,neuchatel,469,0,True
 20220617,423,li,liechtenstein,85,0,True
-20220617,43,at,austria,20006,7,False
+20220617,43,at,austria,20007,7,False
 20220617,4301,at,wien,4001,3,True
 20220617,4302,at,niederosterreich,3926,1,True
 20220617,4303,at,oberosterreich,3309,0,True
@@ -2747,7 +2757,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220617,4305,at,tirol,1340,0,True
 20220617,4306,at,karnten,1629,0,True
 20220617,4307,at,salzburg,1157,1,True
-20220617,4308,at,vorarlberg,638,0,True
+20220617,4308,at,vorarlberg,639,0,True
 20220617,4309,at,burgenland,602,0,True
 20220616,386,si,slovenia,7824,0,False
 20220616,386011,si,pomurska,665,0,True
@@ -2795,7 +2805,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220616,4120,ch,thurgau,691,0,True
 20220616,4124,ch,neuchatel,469,0,True
 20220616,423,li,liechtenstein,85,0,True
-20220616,43,at,austria,19999,3,False
+20220616,43,at,austria,20000,3,False
 20220616,4301,at,wien,3998,2,True
 20220616,4302,at,niederosterreich,3925,0,True
 20220616,4303,at,oberosterreich,3309,1,True
@@ -2803,7 +2813,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220616,4305,at,tirol,1340,0,True
 20220616,4306,at,karnten,1629,0,True
 20220616,4307,at,salzburg,1156,0,True
-20220616,4308,at,vorarlberg,638,0,True
+20220616,4308,at,vorarlberg,639,0,True
 20220616,4309,at,burgenland,602,0,True
 20220615,386,si,slovenia,7824,2,False
 20220615,386011,si,pomurska,665,1,True
@@ -2853,7 +2863,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220615,4121,ch,ticino,1193,0,True
 20220615,4124,ch,neuchatel,469,0,True
 20220615,423,li,liechtenstein,85,0,True
-20220615,43,at,austria,19996,4,False
+20220615,43,at,austria,19997,4,False
 20220615,4301,at,wien,3996,0,True
 20220615,4302,at,niederosterreich,3925,1,True
 20220615,4303,at,oberosterreich,3308,3,True
@@ -2861,7 +2871,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220615,4305,at,tirol,1340,0,True
 20220615,4306,at,karnten,1629,0,True
 20220615,4307,at,salzburg,1156,0,True
-20220615,4308,at,vorarlberg,638,0,True
+20220615,4308,at,vorarlberg,639,0,True
 20220615,4309,at,burgenland,602,0,True
 20220614,386,si,slovenia,7822,3,False
 20220614,386011,si,pomurska,664,0,True
@@ -2911,7 +2921,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220614,4121,ch,ticino,1193,0,True
 20220614,4124,ch,neuchatel,469,0,True
 20220614,423,li,liechtenstein,85,0,True
-20220614,43,at,austria,19992,2,False
+20220614,43,at,austria,19993,2,False
 20220614,4301,at,wien,3996,0,True
 20220614,4302,at,niederosterreich,3924,1,True
 20220614,4303,at,oberosterreich,3305,0,True
@@ -2919,7 +2929,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220614,4305,at,tirol,1340,1,True
 20220614,4306,at,karnten,1629,0,True
 20220614,4307,at,salzburg,1156,0,True
-20220614,4308,at,vorarlberg,638,0,True
+20220614,4308,at,vorarlberg,639,0,True
 20220614,4309,at,burgenland,602,0,True
 20220613,386,si,slovenia,7819,1,False
 20220613,386011,si,pomurska,664,0,True
@@ -2970,7 +2980,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220613,4121,ch,ticino,1193,0,True
 20220613,4124,ch,neuchatel,469,0,True
 20220613,423,li,liechtenstein,85,0,True
-20220613,43,at,austria,19990,7,False
+20220613,43,at,austria,19991,7,False
 20220613,4301,at,wien,3996,1,True
 20220613,4302,at,niederosterreich,3923,3,True
 20220613,4303,at,oberosterreich,3305,0,True
@@ -2978,7 +2988,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220613,4305,at,tirol,1339,0,True
 20220613,4306,at,karnten,1629,1,True
 20220613,4307,at,salzburg,1156,1,True
-20220613,4308,at,vorarlberg,638,0,True
+20220613,4308,at,vorarlberg,639,0,True
 20220613,4309,at,burgenland,602,0,True
 20220612,386,si,slovenia,7818,1,False
 20220612,386011,si,pomurska,664,0,True
@@ -3024,7 +3034,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220612,4120,ch,thurgau,690,1,True
 20220612,4124,ch,neuchatel,469,0,True
 20220612,423,li,liechtenstein,85,0,True
-20220612,43,at,austria,19983,4,False
+20220612,43,at,austria,19984,4,False
 20220612,4301,at,wien,3995,2,True
 20220612,4302,at,niederosterreich,3920,2,True
 20220612,4303,at,oberosterreich,3305,0,True
@@ -3032,7 +3042,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220612,4305,at,tirol,1339,0,True
 20220612,4306,at,karnten,1628,0,True
 20220612,4307,at,salzburg,1155,0,True
-20220612,4308,at,vorarlberg,638,0,True
+20220612,4308,at,vorarlberg,639,0,True
 20220612,4309,at,burgenland,602,0,True
 20220611,386,si,slovenia,7817,3,False
 20220611,386011,si,pomurska,664,1,True
@@ -3078,7 +3088,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220611,4120,ch,thurgau,689,0,True
 20220611,4124,ch,neuchatel,469,0,True
 20220611,423,li,liechtenstein,85,0,True
-20220611,43,at,austria,19979,4,False
+20220611,43,at,austria,19980,4,False
 20220611,4301,at,wien,3993,2,True
 20220611,4302,at,niederosterreich,3918,1,True
 20220611,4303,at,oberosterreich,3305,0,True
@@ -3086,7 +3096,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220611,4305,at,tirol,1339,0,True
 20220611,4306,at,karnten,1628,0,True
 20220611,4307,at,salzburg,1155,0,True
-20220611,4308,at,vorarlberg,638,0,True
+20220611,4308,at,vorarlberg,639,0,True
 20220611,4309,at,burgenland,602,0,True
 20220610,386,si,slovenia,7814,1,False
 20220610,386011,si,pomurska,663,0,True
@@ -3136,7 +3146,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220610,4121,ch,ticino,1193,0,True
 20220610,4124,ch,neuchatel,469,0,True
 20220610,423,li,liechtenstein,85,0,True
-20220610,43,at,austria,19975,2,False
+20220610,43,at,austria,19976,2,False
 20220610,4301,at,wien,3991,0,True
 20220610,4302,at,niederosterreich,3917,1,True
 20220610,4303,at,oberosterreich,3305,0,True
@@ -3144,7 +3154,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220610,4305,at,tirol,1339,0,True
 20220610,4306,at,karnten,1628,1,True
 20220610,4307,at,salzburg,1155,0,True
-20220610,4308,at,vorarlberg,638,0,True
+20220610,4308,at,vorarlberg,639,0,True
 20220610,4309,at,burgenland,602,0,True
 20220609,386,si,slovenia,7813,1,False
 20220609,386011,si,pomurska,663,0,True
@@ -3194,7 +3204,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220609,4121,ch,ticino,1193,0,True
 20220609,4124,ch,neuchatel,469,0,True
 20220609,423,li,liechtenstein,85,0,True
-20220609,43,at,austria,19973,6,False
+20220609,43,at,austria,19974,6,False
 20220609,4301,at,wien,3991,1,True
 20220609,4302,at,niederosterreich,3916,2,True
 20220609,4303,at,oberosterreich,3305,0,True
@@ -3202,7 +3212,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220609,4305,at,tirol,1339,0,True
 20220609,4306,at,karnten,1627,1,True
 20220609,4307,at,salzburg,1155,1,True
-20220609,4308,at,vorarlberg,638,0,True
+20220609,4308,at,vorarlberg,639,0,True
 20220609,4309,at,burgenland,602,1,True
 20220608,386,si,slovenia,7812,1,False
 20220608,386011,si,pomurska,663,0,True
@@ -3252,7 +3262,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220608,4121,ch,ticino,1193,0,True
 20220608,4124,ch,neuchatel,469,0,True
 20220608,423,li,liechtenstein,85,1,True
-20220608,43,at,austria,19967,2,False
+20220608,43,at,austria,19968,2,False
 20220608,4301,at,wien,3990,1,True
 20220608,4302,at,niederosterreich,3914,0,True
 20220608,4303,at,oberosterreich,3305,0,True
@@ -3260,7 +3270,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220608,4305,at,tirol,1339,0,True
 20220608,4306,at,karnten,1626,0,True
 20220608,4307,at,salzburg,1154,0,True
-20220608,4308,at,vorarlberg,638,0,True
+20220608,4308,at,vorarlberg,639,0,True
 20220608,4309,at,burgenland,601,0,True
 20220607,386,si,slovenia,7811,0,False
 20220607,386011,si,pomurska,663,0,True
@@ -3310,7 +3320,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220607,4121,ch,ticino,1193,1,True
 20220607,4124,ch,neuchatel,469,0,True
 20220607,423,li,liechtenstein,84,0,True
-20220607,43,at,austria,19965,2,False
+20220607,43,at,austria,19966,2,False
 20220607,4301,at,wien,3989,0,True
 20220607,4302,at,niederosterreich,3914,1,True
 20220607,4303,at,oberosterreich,3305,0,True
@@ -3318,7 +3328,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220607,4305,at,tirol,1339,0,True
 20220607,4306,at,karnten,1626,0,True
 20220607,4307,at,salzburg,1154,0,True
-20220607,4308,at,vorarlberg,638,0,True
+20220607,4308,at,vorarlberg,639,0,True
 20220607,4309,at,burgenland,601,1,True
 20220606,386,si,slovenia,7811,2,False
 20220606,386011,si,pomurska,663,0,True
@@ -3366,7 +3376,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220606,4120,ch,thurgau,689,0,True
 20220606,4124,ch,neuchatel,469,0,True
 20220606,423,li,liechtenstein,84,0,True
-20220606,43,at,austria,19963,3,False
+20220606,43,at,austria,19964,3,False
 20220606,4301,at,wien,3989,1,True
 20220606,4302,at,niederosterreich,3913,1,True
 20220606,4303,at,oberosterreich,3305,0,True
@@ -3374,7 +3384,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220606,4305,at,tirol,1339,0,True
 20220606,4306,at,karnten,1626,0,True
 20220606,4307,at,salzburg,1154,1,True
-20220606,4308,at,vorarlberg,638,0,True
+20220606,4308,at,vorarlberg,639,0,True
 20220606,4309,at,burgenland,600,0,True
 20220605,386,si,slovenia,7809,4,False
 20220605,386011,si,pomurska,663,1,True
@@ -3420,7 +3430,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220605,4120,ch,thurgau,689,0,True
 20220605,4124,ch,neuchatel,469,0,True
 20220605,423,li,liechtenstein,84,0,True
-20220605,43,at,austria,19960,3,False
+20220605,43,at,austria,19961,3,False
 20220605,4301,at,wien,3988,1,True
 20220605,4302,at,niederosterreich,3912,1,True
 20220605,4303,at,oberosterreich,3305,0,True
@@ -3428,7 +3438,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220605,4305,at,tirol,1339,0,True
 20220605,4306,at,karnten,1626,0,True
 20220605,4307,at,salzburg,1153,0,True
-20220605,4308,at,vorarlberg,638,0,True
+20220605,4308,at,vorarlberg,639,0,True
 20220605,4309,at,burgenland,600,0,True
 20220604,386,si,slovenia,7805,1,False
 20220604,386011,si,pomurska,662,0,True
@@ -3474,7 +3484,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220604,4120,ch,thurgau,689,0,True
 20220604,4124,ch,neuchatel,469,0,True
 20220604,423,li,liechtenstein,84,0,True
-20220604,43,at,austria,19957,3,False
+20220604,43,at,austria,19958,3,False
 20220604,4301,at,wien,3987,2,True
 20220604,4302,at,niederosterreich,3911,1,True
 20220604,4303,at,oberosterreich,3305,0,True
@@ -3482,7 +3492,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220604,4305,at,tirol,1339,0,True
 20220604,4306,at,karnten,1626,0,True
 20220604,4307,at,salzburg,1153,0,True
-20220604,4308,at,vorarlberg,638,0,True
+20220604,4308,at,vorarlberg,639,0,True
 20220604,4309,at,burgenland,600,0,True
 20220603,386,si,slovenia,7804,0,False
 20220603,386011,si,pomurska,662,0,True
@@ -3533,7 +3543,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220603,4124,ch,neuchatel,469,0,True
 20220603,4126,ch,jura_ch,244,0,True
 20220603,423,li,liechtenstein,84,0,True
-20220603,43,at,austria,19954,1,False
+20220603,43,at,austria,19955,1,False
 20220603,4301,at,wien,3985,0,True
 20220603,4302,at,niederosterreich,3910,1,True
 20220603,4303,at,oberosterreich,3305,0,True
@@ -3541,7 +3551,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220603,4305,at,tirol,1339,0,True
 20220603,4306,at,karnten,1626,0,True
 20220603,4307,at,salzburg,1153,0,True
-20220603,4308,at,vorarlberg,638,0,True
+20220603,4308,at,vorarlberg,639,0,True
 20220603,4309,at,burgenland,600,0,True
 20220602,386,si,slovenia,7804,2,False
 20220602,386011,si,pomurska,662,0,True
@@ -3592,7 +3602,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220602,4124,ch,neuchatel,469,0,True
 20220602,4126,ch,jura_ch,244,0,True
 20220602,423,li,liechtenstein,84,0,True
-20220602,43,at,austria,19953,6,False
+20220602,43,at,austria,19954,6,False
 20220602,4301,at,wien,3985,1,True
 20220602,4302,at,niederosterreich,3909,2,True
 20220602,4303,at,oberosterreich,3305,0,True
@@ -3600,7 +3610,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220602,4305,at,tirol,1339,1,True
 20220602,4306,at,karnten,1626,1,True
 20220602,4307,at,salzburg,1153,0,True
-20220602,4308,at,vorarlberg,638,0,True
+20220602,4308,at,vorarlberg,639,0,True
 20220602,4309,at,burgenland,600,0,True
 20220601,386,si,slovenia,7802,2,False
 20220601,386011,si,pomurska,662,0,True
@@ -3651,7 +3661,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220601,4124,ch,neuchatel,469,0,True
 20220601,4126,ch,jura_ch,244,0,True
 20220601,423,li,liechtenstein,84,0,True
-20220601,43,at,austria,19947,3,False
+20220601,43,at,austria,19948,3,False
 20220601,4301,at,wien,3984,1,True
 20220601,4302,at,niederosterreich,3907,2,True
 20220601,4303,at,oberosterreich,3305,0,True
@@ -3659,7 +3669,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220601,4305,at,tirol,1338,0,True
 20220601,4306,at,karnten,1625,0,True
 20220601,4307,at,salzburg,1153,0,True
-20220601,4308,at,vorarlberg,638,0,True
+20220601,4308,at,vorarlberg,639,0,True
 20220601,4309,at,burgenland,600,0,True
 20220531,386,si,slovenia,7800,4,False
 20220531,386011,si,pomurska,662,1,True
@@ -3710,7 +3720,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220531,4124,ch,neuchatel,469,0,True
 20220531,4126,ch,jura_ch,244,0,True
 20220531,423,li,liechtenstein,84,0,True
-20220531,43,at,austria,19944,5,False
+20220531,43,at,austria,19945,5,False
 20220531,4301,at,wien,3983,0,True
 20220531,4302,at,niederosterreich,3905,2,True
 20220531,4303,at,oberosterreich,3305,0,True
@@ -3718,7 +3728,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220531,4305,at,tirol,1338,0,True
 20220531,4306,at,karnten,1625,0,True
 20220531,4307,at,salzburg,1153,1,True
-20220531,4308,at,vorarlberg,638,0,True
+20220531,4308,at,vorarlberg,639,0,True
 20220531,4309,at,burgenland,600,0,True
 20220530,386,si,slovenia,7796,0,False
 20220530,386011,si,pomurska,661,0,True
@@ -3770,7 +3780,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220530,4124,ch,neuchatel,469,0,True
 20220530,4126,ch,jura_ch,244,0,True
 20220530,423,li,liechtenstein,84,0,True
-20220530,43,at,austria,19939,3,False
+20220530,43,at,austria,19940,3,False
 20220530,4301,at,wien,3983,1,True
 20220530,4302,at,niederosterreich,3903,0,True
 20220530,4303,at,oberosterreich,3305,0,True
@@ -3778,7 +3788,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220530,4305,at,tirol,1338,1,True
 20220530,4306,at,karnten,1625,1,True
 20220530,4307,at,salzburg,1152,0,True
-20220530,4308,at,vorarlberg,638,0,True
+20220530,4308,at,vorarlberg,639,0,True
 20220530,4309,at,burgenland,600,0,True
 20220529,386,si,slovenia,7796,1,False
 20220529,386011,si,pomurska,661,0,True
@@ -3826,7 +3836,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220529,4124,ch,neuchatel,469,0,True
 20220529,4126,ch,jura_ch,244,0,True
 20220529,423,li,liechtenstein,84,0,True
-20220529,43,at,austria,19936,0,False
+20220529,43,at,austria,19937,0,False
 20220529,4301,at,wien,3982,0,True
 20220529,4302,at,niederosterreich,3903,0,True
 20220529,4303,at,oberosterreich,3305,0,True
@@ -3834,7 +3844,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220529,4305,at,tirol,1337,0,True
 20220529,4306,at,karnten,1624,0,True
 20220529,4307,at,salzburg,1152,0,True
-20220529,4308,at,vorarlberg,638,0,True
+20220529,4308,at,vorarlberg,639,0,True
 20220529,4309,at,burgenland,600,0,True
 20220528,386,si,slovenia,7795,1,False
 20220528,386011,si,pomurska,661,0,True
@@ -3882,7 +3892,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220528,4124,ch,neuchatel,469,0,True
 20220528,4126,ch,jura_ch,244,0,True
 20220528,423,li,liechtenstein,84,0,True
-20220528,43,at,austria,19936,2,False
+20220528,43,at,austria,19937,2,False
 20220528,4301,at,wien,3982,0,True
 20220528,4302,at,niederosterreich,3903,1,True
 20220528,4303,at,oberosterreich,3305,1,True
@@ -3890,7 +3900,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220528,4305,at,tirol,1337,0,True
 20220528,4306,at,karnten,1624,0,True
 20220528,4307,at,salzburg,1152,0,True
-20220528,4308,at,vorarlberg,638,0,True
+20220528,4308,at,vorarlberg,639,0,True
 20220528,4309,at,burgenland,600,0,True
 20220527,386,si,slovenia,7794,3,False
 20220527,386011,si,pomurska,661,1,True
@@ -3942,7 +3952,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220527,4124,ch,neuchatel,469,0,True
 20220527,4126,ch,jura_ch,244,0,True
 20220527,423,li,liechtenstein,84,0,True
-20220527,43,at,austria,19934,2,False
+20220527,43,at,austria,19935,2,False
 20220527,4301,at,wien,3982,0,True
 20220527,4302,at,niederosterreich,3902,2,True
 20220527,4303,at,oberosterreich,3304,0,True
@@ -3950,7 +3960,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220527,4305,at,tirol,1337,0,True
 20220527,4306,at,karnten,1624,0,True
 20220527,4307,at,salzburg,1152,0,True
-20220527,4308,at,vorarlberg,638,0,True
+20220527,4308,at,vorarlberg,639,0,True
 20220527,4309,at,burgenland,600,0,True
 20220526,386,si,slovenia,7791,3,False
 20220526,386011,si,pomurska,660,0,True
@@ -3999,7 +4009,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220526,4124,ch,neuchatel,469,0,True
 20220526,4126,ch,jura_ch,244,0,True
 20220526,423,li,liechtenstein,84,0,True
-20220526,43,at,austria,19932,7,False
+20220526,43,at,austria,19933,7,False
 20220526,4301,at,wien,3982,1,True
 20220526,4302,at,niederosterreich,3900,3,True
 20220526,4303,at,oberosterreich,3304,1,True
@@ -4007,7 +4017,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220526,4305,at,tirol,1337,0,True
 20220526,4306,at,karnten,1624,0,True
 20220526,4307,at,salzburg,1152,1,True
-20220526,4308,at,vorarlberg,638,0,True
+20220526,4308,at,vorarlberg,639,0,True
 20220526,4309,at,burgenland,600,0,True
 20220525,386,si,slovenia,7788,1,False
 20220525,386011,si,pomurska,660,0,True
@@ -4059,7 +4069,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220525,4124,ch,neuchatel,469,0,True
 20220525,4126,ch,jura_ch,244,0,True
 20220525,423,li,liechtenstein,84,0,True
-20220525,43,at,austria,19925,2,False
+20220525,43,at,austria,19926,2,False
 20220525,4301,at,wien,3981,0,True
 20220525,4302,at,niederosterreich,3897,2,True
 20220525,4303,at,oberosterreich,3303,0,True
@@ -4067,7 +4077,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220525,4305,at,tirol,1337,0,True
 20220525,4306,at,karnten,1624,0,True
 20220525,4307,at,salzburg,1151,0,True
-20220525,4308,at,vorarlberg,638,0,True
+20220525,4308,at,vorarlberg,639,0,True
 20220525,4309,at,burgenland,600,0,True
 20220524,386,si,slovenia,7787,1,False
 20220524,386011,si,pomurska,660,0,True
@@ -4119,7 +4129,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220524,4124,ch,neuchatel,469,0,True
 20220524,4126,ch,jura_ch,244,0,True
 20220524,423,li,liechtenstein,84,0,True
-20220524,43,at,austria,19923,13,False
+20220524,43,at,austria,19924,13,False
 20220524,4301,at,wien,3981,5,True
 20220524,4302,at,niederosterreich,3895,3,True
 20220524,4303,at,oberosterreich,3303,1,True
@@ -4127,7 +4137,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220524,4305,at,tirol,1337,1,True
 20220524,4306,at,karnten,1624,0,True
 20220524,4307,at,salzburg,1151,1,True
-20220524,4308,at,vorarlberg,638,1,True
+20220524,4308,at,vorarlberg,639,1,True
 20220524,4309,at,burgenland,600,0,True
 20220523,386,si,slovenia,7786,1,False
 20220523,386011,si,pomurska,660,0,True
@@ -4180,7 +4190,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220523,4124,ch,neuchatel,469,0,True
 20220523,4126,ch,jura_ch,244,0,True
 20220523,423,li,liechtenstein,84,0,True
-20220523,43,at,austria,19910,4,False
+20220523,43,at,austria,19911,4,False
 20220523,4301,at,wien,3976,0,True
 20220523,4302,at,niederosterreich,3892,2,True
 20220523,4303,at,oberosterreich,3302,0,True
@@ -4188,7 +4198,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220523,4305,at,tirol,1336,0,True
 20220523,4306,at,karnten,1624,1,True
 20220523,4307,at,salzburg,1150,1,True
-20220523,4308,at,vorarlberg,637,0,True
+20220523,4308,at,vorarlberg,638,0,True
 20220523,4309,at,burgenland,600,0,True
 20220522,386,si,slovenia,7785,2,False
 20220522,386011,si,pomurska,660,0,True
@@ -4236,7 +4246,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220522,4124,ch,neuchatel,469,0,True
 20220522,4126,ch,jura_ch,244,0,True
 20220522,423,li,liechtenstein,84,0,True
-20220522,43,at,austria,19906,4,False
+20220522,43,at,austria,19907,4,False
 20220522,4301,at,wien,3976,3,True
 20220522,4302,at,niederosterreich,3890,0,True
 20220522,4303,at,oberosterreich,3302,0,True
@@ -4244,7 +4254,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220522,4305,at,tirol,1336,1,True
 20220522,4306,at,karnten,1623,0,True
 20220522,4307,at,salzburg,1149,0,True
-20220522,4308,at,vorarlberg,637,0,True
+20220522,4308,at,vorarlberg,638,0,True
 20220522,4309,at,burgenland,600,0,True
 20220521,386,si,slovenia,7783,1,False
 20220521,386011,si,pomurska,660,0,True
@@ -4292,7 +4302,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220521,4124,ch,neuchatel,469,0,True
 20220521,4126,ch,jura_ch,244,0,True
 20220521,423,li,liechtenstein,84,0,True
-20220521,43,at,austria,19902,5,False
+20220521,43,at,austria,19903,5,False
 20220521,4301,at,wien,3973,1,True
 20220521,4302,at,niederosterreich,3890,2,True
 20220521,4303,at,oberosterreich,3302,0,True
@@ -4300,7 +4310,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220521,4305,at,tirol,1335,0,True
 20220521,4306,at,karnten,1623,1,True
 20220521,4307,at,salzburg,1149,1,True
-20220521,4308,at,vorarlberg,637,0,True
+20220521,4308,at,vorarlberg,638,0,True
 20220521,4309,at,burgenland,600,0,True
 20220520,386,si,slovenia,7782,6,False
 20220520,386011,si,pomurska,660,0,True
@@ -4352,7 +4362,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220520,4124,ch,neuchatel,469,0,True
 20220520,4126,ch,jura_ch,244,0,True
 20220520,423,li,liechtenstein,84,0,True
-20220520,43,at,austria,19897,3,False
+20220520,43,at,austria,19898,3,False
 20220520,4301,at,wien,3972,1,True
 20220520,4302,at,niederosterreich,3888,1,True
 20220520,4303,at,oberosterreich,3302,0,True
@@ -4360,7 +4370,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220520,4305,at,tirol,1335,0,True
 20220520,4306,at,karnten,1622,1,True
 20220520,4307,at,salzburg,1148,0,True
-20220520,4308,at,vorarlberg,637,0,True
+20220520,4308,at,vorarlberg,638,0,True
 20220520,4309,at,burgenland,600,0,True
 20220519,386,si,slovenia,7776,3,False
 20220519,386011,si,pomurska,660,0,True
@@ -4412,7 +4422,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220519,4124,ch,neuchatel,469,0,True
 20220519,4126,ch,jura_ch,244,0,True
 20220519,423,li,liechtenstein,84,0,True
-20220519,43,at,austria,19894,6,False
+20220519,43,at,austria,19895,6,False
 20220519,4301,at,wien,3971,2,True
 20220519,4302,at,niederosterreich,3887,0,True
 20220519,4303,at,oberosterreich,3302,1,True
@@ -4420,7 +4430,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220519,4305,at,tirol,1335,1,True
 20220519,4306,at,karnten,1621,0,True
 20220519,4307,at,salzburg,1148,0,True
-20220519,4308,at,vorarlberg,637,0,True
+20220519,4308,at,vorarlberg,638,0,True
 20220519,4309,at,burgenland,600,0,True
 20220518,386,si,slovenia,7773,4,False
 20220518,386011,si,pomurska,660,0,True
@@ -4472,7 +4482,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220518,4124,ch,neuchatel,469,0,True
 20220518,4126,ch,jura_ch,244,0,True
 20220518,423,li,liechtenstein,84,0,True
-20220518,43,at,austria,19888,5,False
+20220518,43,at,austria,19889,5,False
 20220518,4301,at,wien,3969,2,True
 20220518,4302,at,niederosterreich,3887,0,True
 20220518,4303,at,oberosterreich,3301,1,True
@@ -4480,7 +4490,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220518,4305,at,tirol,1334,1,True
 20220518,4306,at,karnten,1621,0,True
 20220518,4307,at,salzburg,1148,1,True
-20220518,4308,at,vorarlberg,637,0,True
+20220518,4308,at,vorarlberg,638,0,True
 20220518,4309,at,burgenland,600,0,True
 20220517,3301,fr,ile_de_france,26154,13,True
 20220517,3302,fr,centre_val_de_loire,3758,0,True
@@ -4551,7 +4561,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220517,4124,ch,neuchatel,469,0,True
 20220517,4126,ch,jura_ch,244,0,True
 20220517,423,li,liechtenstein,84,0,True
-20220517,43,at,austria,19883,4,False
+20220517,43,at,austria,19884,4,False
 20220517,4301,at,wien,3967,3,True
 20220517,4302,at,niederosterreich,3887,1,True
 20220517,4303,at,oberosterreich,3300,0,True
@@ -4559,7 +4569,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220517,4305,at,tirol,1333,0,True
 20220517,4306,at,karnten,1621,0,True
 20220517,4307,at,salzburg,1147,0,True
-20220517,4308,at,vorarlberg,637,0,True
+20220517,4308,at,vorarlberg,638,0,True
 20220517,4309,at,burgenland,600,0,True
 20220516,3301,fr,ile_de_france,26141,15,True
 20220516,3302,fr,centre_val_de_loire,3758,6,True
@@ -4631,7 +4641,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220516,4124,ch,neuchatel,469,0,True
 20220516,4126,ch,jura_ch,244,0,True
 20220516,423,li,liechtenstein,84,0,True
-20220516,43,at,austria,19879,8,False
+20220516,43,at,austria,19880,8,False
 20220516,4301,at,wien,3964,3,True
 20220516,4302,at,niederosterreich,3886,2,True
 20220516,4303,at,oberosterreich,3300,1,True
@@ -4639,7 +4649,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220516,4305,at,tirol,1333,0,True
 20220516,4306,at,karnten,1621,0,True
 20220516,4307,at,salzburg,1147,0,True
-20220516,4308,at,vorarlberg,637,0,True
+20220516,4308,at,vorarlberg,638,0,True
 20220516,4309,at,burgenland,600,1,True
 20220515,3301,fr,ile_de_france,26126,2,True
 20220515,3302,fr,centre_val_de_loire,3752,1,True
@@ -4706,7 +4716,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220515,4124,ch,neuchatel,469,0,True
 20220515,4126,ch,jura_ch,244,0,True
 20220515,423,li,liechtenstein,84,0,True
-20220515,43,at,austria,19871,4,False
+20220515,43,at,austria,19872,4,False
 20220515,4301,at,wien,3961,0,True
 20220515,4302,at,niederosterreich,3884,1,True
 20220515,4303,at,oberosterreich,3299,2,True
@@ -4714,7 +4724,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220515,4305,at,tirol,1333,1,True
 20220515,4306,at,karnten,1621,0,True
 20220515,4307,at,salzburg,1147,0,True
-20220515,4308,at,vorarlberg,637,0,True
+20220515,4308,at,vorarlberg,638,0,True
 20220515,4309,at,burgenland,599,0,True
 20220514,3301,fr,ile_de_france,26124,11,True
 20220514,3302,fr,centre_val_de_loire,3751,1,True
@@ -4781,7 +4791,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220514,4124,ch,neuchatel,469,1,True
 20220514,4126,ch,jura_ch,244,0,True
 20220514,423,li,liechtenstein,84,0,True
-20220514,43,at,austria,19867,3,False
+20220514,43,at,austria,19868,3,False
 20220514,4301,at,wien,3961,0,True
 20220514,4302,at,niederosterreich,3883,2,True
 20220514,4303,at,oberosterreich,3297,0,True
@@ -4789,7 +4799,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220514,4305,at,tirol,1332,0,True
 20220514,4306,at,karnten,1621,0,True
 20220514,4307,at,salzburg,1147,1,True
-20220514,4308,at,vorarlberg,637,0,True
+20220514,4308,at,vorarlberg,638,0,True
 20220514,4309,at,burgenland,599,0,True
 20220513,3301,fr,ile_de_france,26113,14,True
 20220513,3302,fr,centre_val_de_loire,3750,3,True
@@ -4860,7 +4870,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220513,4124,ch,neuchatel,468,0,True
 20220513,4126,ch,jura_ch,244,0,True
 20220513,423,li,liechtenstein,84,0,True
-20220513,43,at,austria,19864,3,False
+20220513,43,at,austria,19865,3,False
 20220513,4301,at,wien,3961,0,True
 20220513,4302,at,niederosterreich,3881,2,True
 20220513,4303,at,oberosterreich,3297,0,True
@@ -4868,7 +4878,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220513,4305,at,tirol,1332,0,True
 20220513,4306,at,karnten,1621,0,True
 20220513,4307,at,salzburg,1146,0,True
-20220513,4308,at,vorarlberg,637,0,True
+20220513,4308,at,vorarlberg,638,0,True
 20220513,4309,at,burgenland,599,0,True
 20220512,3301,fr,ile_de_france,26099,8,True
 20220512,3302,fr,centre_val_de_loire,3747,3,True
@@ -4939,7 +4949,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220512,4124,ch,neuchatel,468,1,True
 20220512,4126,ch,jura_ch,244,0,True
 20220512,423,li,liechtenstein,84,0,True
-20220512,43,at,austria,19861,12,False
+20220512,43,at,austria,19862,12,False
 20220512,4301,at,wien,3961,1,True
 20220512,4302,at,niederosterreich,3879,4,True
 20220512,4303,at,oberosterreich,3297,1,True
@@ -4947,7 +4957,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220512,4305,at,tirol,1332,1,True
 20220512,4306,at,karnten,1621,4,True
 20220512,4307,at,salzburg,1146,1,True
-20220512,4308,at,vorarlberg,637,0,True
+20220512,4308,at,vorarlberg,638,0,True
 20220512,4309,at,burgenland,599,0,True
 20220511,3301,fr,ile_de_france,26091,6,True
 20220511,3302,fr,centre_val_de_loire,3744,3,True
@@ -5019,7 +5029,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220511,4124,ch,neuchatel,467,0,True
 20220511,4126,ch,jura_ch,244,0,True
 20220511,423,li,liechtenstein,84,0,True
-20220511,43,at,austria,19849,6,False
+20220511,43,at,austria,19850,6,False
 20220511,4301,at,wien,3960,1,True
 20220511,4302,at,niederosterreich,3875,2,True
 20220511,4303,at,oberosterreich,3296,1,True
@@ -5027,7 +5037,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220511,4305,at,tirol,1331,0,True
 20220511,4306,at,karnten,1617,1,True
 20220511,4307,at,salzburg,1145,1,True
-20220511,4308,at,vorarlberg,637,0,True
+20220511,4308,at,vorarlberg,638,0,True
 20220511,4309,at,burgenland,599,0,True
 20220510,3301,fr,ile_de_france,26085,29,True
 20220510,3302,fr,centre_val_de_loire,3741,5,True
@@ -5098,7 +5108,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220510,4124,ch,neuchatel,467,0,True
 20220510,4126,ch,jura_ch,244,0,True
 20220510,423,li,liechtenstein,84,0,True
-20220510,43,at,austria,19843,7,False
+20220510,43,at,austria,19844,7,False
 20220510,4301,at,wien,3959,2,True
 20220510,4302,at,niederosterreich,3873,3,True
 20220510,4303,at,oberosterreich,3295,1,True
@@ -5106,7 +5116,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220510,4305,at,tirol,1331,0,True
 20220510,4306,at,karnten,1616,0,True
 20220510,4307,at,salzburg,1144,0,True
-20220510,4308,at,vorarlberg,637,0,True
+20220510,4308,at,vorarlberg,638,0,True
 20220510,4309,at,burgenland,599,1,True
 20220509,3301,fr,ile_de_france,26056,12,True
 20220509,3302,fr,centre_val_de_loire,3736,7,True
@@ -5178,7 +5188,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220509,4124,ch,neuchatel,467,0,True
 20220509,4126,ch,jura_ch,244,0,True
 20220509,423,li,liechtenstein,84,0,True
-20220509,43,at,austria,19836,7,False
+20220509,43,at,austria,19837,7,False
 20220509,4301,at,wien,3957,1,True
 20220509,4302,at,niederosterreich,3870,3,True
 20220509,4303,at,oberosterreich,3294,0,True
@@ -5186,7 +5196,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220509,4305,at,tirol,1331,0,True
 20220509,4306,at,karnten,1616,0,True
 20220509,4307,at,salzburg,1144,0,True
-20220509,4308,at,vorarlberg,637,2,True
+20220509,4308,at,vorarlberg,638,2,True
 20220509,4309,at,burgenland,598,0,True
 20220508,3301,fr,ile_de_france,26044,4,True
 20220508,3302,fr,centre_val_de_loire,3729,2,True
@@ -5253,7 +5263,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220508,4124,ch,neuchatel,467,0,True
 20220508,4126,ch,jura_ch,244,0,True
 20220508,423,li,liechtenstein,84,0,True
-20220508,43,at,austria,19829,19,False
+20220508,43,at,austria,19830,19,False
 20220508,4301,at,wien,3956,6,True
 20220508,4302,at,niederosterreich,3867,7,True
 20220508,4303,at,oberosterreich,3294,1,True
@@ -5261,7 +5271,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220508,4305,at,tirol,1331,2,True
 20220508,4306,at,karnten,1616,2,True
 20220508,4307,at,salzburg,1144,0,True
-20220508,4308,at,vorarlberg,635,0,True
+20220508,4308,at,vorarlberg,636,0,True
 20220508,4309,at,burgenland,598,0,True
 20220507,3301,fr,ile_de_france,26040,10,True
 20220507,3302,fr,centre_val_de_loire,3727,3,True
@@ -5328,7 +5338,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220507,4124,ch,neuchatel,467,0,True
 20220507,4126,ch,jura_ch,244,0,True
 20220507,423,li,liechtenstein,84,0,True
-20220507,43,at,austria,19810,6,False
+20220507,43,at,austria,19811,6,False
 20220507,4301,at,wien,3950,2,True
 20220507,4302,at,niederosterreich,3860,1,True
 20220507,4303,at,oberosterreich,3293,2,True
@@ -5336,7 +5346,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220507,4305,at,tirol,1329,0,True
 20220507,4306,at,karnten,1614,0,True
 20220507,4307,at,salzburg,1144,0,True
-20220507,4308,at,vorarlberg,635,0,True
+20220507,4308,at,vorarlberg,636,0,True
 20220507,4309,at,burgenland,598,0,True
 20220506,3301,fr,ile_de_france,26030,13,True
 20220506,3302,fr,centre_val_de_loire,3724,2,True
@@ -5407,7 +5417,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220506,4124,ch,neuchatel,467,0,True
 20220506,4126,ch,jura_ch,244,0,True
 20220506,423,li,liechtenstein,84,0,True
-20220506,43,at,austria,19804,10,False
+20220506,43,at,austria,19805,10,False
 20220506,4301,at,wien,3948,1,True
 20220506,4302,at,niederosterreich,3859,4,True
 20220506,4303,at,oberosterreich,3291,0,True
@@ -5415,7 +5425,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220506,4305,at,tirol,1329,1,True
 20220506,4306,at,karnten,1614,0,True
 20220506,4307,at,salzburg,1144,1,True
-20220506,4308,at,vorarlberg,635,0,True
+20220506,4308,at,vorarlberg,636,0,True
 20220506,4309,at,burgenland,598,0,True
 20220505,3301,fr,ile_de_france,26017,18,True
 20220505,3302,fr,centre_val_de_loire,3722,5,True
@@ -5487,7 +5497,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220505,4124,ch,neuchatel,467,0,True
 20220505,4126,ch,jura_ch,244,0,True
 20220505,423,li,liechtenstein,84,0,True
-20220505,43,at,austria,19794,6,False
+20220505,43,at,austria,19795,6,False
 20220505,4301,at,wien,3947,3,True
 20220505,4302,at,niederosterreich,3855,0,True
 20220505,4303,at,oberosterreich,3291,0,True
@@ -5495,7 +5505,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220505,4305,at,tirol,1328,2,True
 20220505,4306,at,karnten,1614,0,True
 20220505,4307,at,salzburg,1143,1,True
-20220505,4308,at,vorarlberg,635,0,True
+20220505,4308,at,vorarlberg,636,0,True
 20220505,4309,at,burgenland,598,0,True
 20220504,3301,fr,ile_de_france,25999,14,True
 20220504,3302,fr,centre_val_de_loire,3717,5,True
@@ -5567,7 +5577,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220504,4124,ch,neuchatel,467,0,True
 20220504,4126,ch,jura_ch,244,0,True
 20220504,423,li,liechtenstein,84,0,True
-20220504,43,at,austria,19788,9,False
+20220504,43,at,austria,19789,9,False
 20220504,4301,at,wien,3944,3,True
 20220504,4302,at,niederosterreich,3855,1,True
 20220504,4303,at,oberosterreich,3291,2,True
@@ -5575,7 +5585,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220504,4305,at,tirol,1326,0,True
 20220504,4306,at,karnten,1614,0,True
 20220504,4307,at,salzburg,1142,0,True
-20220504,4308,at,vorarlberg,635,0,True
+20220504,4308,at,vorarlberg,636,0,True
 20220504,4309,at,burgenland,598,1,True
 20220503,3301,fr,ile_de_france,25985,19,True
 20220503,3302,fr,centre_val_de_loire,3712,6,True
@@ -5647,7 +5657,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220503,4124,ch,neuchatel,467,1,True
 20220503,4126,ch,jura_ch,244,0,True
 20220503,423,li,liechtenstein,84,0,True
-20220503,43,at,austria,19779,14,False
+20220503,43,at,austria,19780,14,False
 20220503,4301,at,wien,3941,3,True
 20220503,4302,at,niederosterreich,3854,6,True
 20220503,4303,at,oberosterreich,3289,2,True
@@ -5655,7 +5665,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220503,4305,at,tirol,1326,0,True
 20220503,4306,at,karnten,1614,1,True
 20220503,4307,at,salzburg,1142,0,True
-20220503,4308,at,vorarlberg,635,0,True
+20220503,4308,at,vorarlberg,636,0,True
 20220503,4309,at,burgenland,597,0,True
 20220502,3301,fr,ile_de_france,25966,30,True
 20220502,3302,fr,centre_val_de_loire,3706,7,True
@@ -5727,7 +5737,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220502,4124,ch,neuchatel,466,2,True
 20220502,4126,ch,jura_ch,244,0,True
 20220502,423,li,liechtenstein,84,0,True
-20220502,43,at,austria,19765,13,False
+20220502,43,at,austria,19766,13,False
 20220502,4301,at,wien,3938,3,True
 20220502,4302,at,niederosterreich,3848,5,True
 20220502,4303,at,oberosterreich,3287,2,True
@@ -5735,7 +5745,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220502,4305,at,tirol,1326,0,True
 20220502,4306,at,karnten,1613,0,True
 20220502,4307,at,salzburg,1142,0,True
-20220502,4308,at,vorarlberg,635,0,True
+20220502,4308,at,vorarlberg,636,0,True
 20220502,4309,at,burgenland,597,0,True
 20220501,3301,fr,ile_de_france,25936,2,True
 20220501,3302,fr,centre_val_de_loire,3699,0,True
@@ -5803,7 +5813,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220501,4124,ch,neuchatel,464,1,True
 20220501,4126,ch,jura_ch,244,0,True
 20220501,423,li,liechtenstein,84,0,True
-20220501,43,at,austria,19752,14,False
+20220501,43,at,austria,19753,14,False
 20220501,4301,at,wien,3935,2,True
 20220501,4302,at,niederosterreich,3843,7,True
 20220501,4303,at,oberosterreich,3285,0,True
@@ -5811,7 +5821,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220501,4305,at,tirol,1326,0,True
 20220501,4306,at,karnten,1613,0,True
 20220501,4307,at,salzburg,1142,1,True
-20220501,4308,at,vorarlberg,635,0,True
+20220501,4308,at,vorarlberg,636,0,True
 20220501,4309,at,burgenland,597,0,True
 20220430,3301,fr,ile_de_france,25934,7,True
 20220430,3302,fr,centre_val_de_loire,3699,5,True
@@ -5878,7 +5888,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220430,4124,ch,neuchatel,463,0,True
 20220430,4126,ch,jura_ch,244,0,True
 20220430,423,li,liechtenstein,84,0,True
-20220430,43,at,austria,19738,7,False
+20220430,43,at,austria,19739,7,False
 20220430,4301,at,wien,3933,2,True
 20220430,4302,at,niederosterreich,3836,1,True
 20220430,4303,at,oberosterreich,3285,1,True
@@ -5886,7 +5896,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220430,4305,at,tirol,1326,0,True
 20220430,4306,at,karnten,1613,0,True
 20220430,4307,at,salzburg,1141,0,True
-20220430,4308,at,vorarlberg,635,0,True
+20220430,4308,at,vorarlberg,636,0,True
 20220430,4309,at,burgenland,597,1,True
 20220429,3301,fr,ile_de_france,25927,34,True
 20220429,3302,fr,centre_val_de_loire,3694,5,True
@@ -5957,7 +5967,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220429,4124,ch,neuchatel,463,0,True
 20220429,4126,ch,jura_ch,244,0,True
 20220429,423,li,liechtenstein,84,0,True
-20220429,43,at,austria,19731,9,False
+20220429,43,at,austria,19732,9,False
 20220429,4301,at,wien,3931,2,True
 20220429,4302,at,niederosterreich,3835,4,True
 20220429,4303,at,oberosterreich,3284,1,True
@@ -5965,7 +5975,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220429,4305,at,tirol,1326,0,True
 20220429,4306,at,karnten,1613,0,True
 20220429,4307,at,salzburg,1141,0,True
-20220429,4308,at,vorarlberg,635,1,True
+20220429,4308,at,vorarlberg,636,1,True
 20220429,4309,at,burgenland,596,1,True
 20220428,3301,fr,ile_de_france,25893,21,True
 20220428,3302,fr,centre_val_de_loire,3689,5,True
@@ -6037,7 +6047,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220428,4124,ch,neuchatel,463,0,True
 20220428,4126,ch,jura_ch,244,0,True
 20220428,423,li,liechtenstein,84,0,True
-20220428,43,at,austria,19722,15,False
+20220428,43,at,austria,19723,15,False
 20220428,4301,at,wien,3929,3,True
 20220428,4302,at,niederosterreich,3831,2,True
 20220428,4303,at,oberosterreich,3283,2,True
@@ -6045,7 +6055,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220428,4305,at,tirol,1326,1,True
 20220428,4306,at,karnten,1613,2,True
 20220428,4307,at,salzburg,1141,3,True
-20220428,4308,at,vorarlberg,634,1,True
+20220428,4308,at,vorarlberg,635,1,True
 20220428,4309,at,burgenland,595,0,True
 20220427,3301,fr,ile_de_france,25872,25,True
 20220427,3302,fr,centre_val_de_loire,3684,6,True
@@ -6117,7 +6127,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220427,4124,ch,neuchatel,463,1,True
 20220427,4126,ch,jura_ch,244,0,True
 20220427,423,li,liechtenstein,84,0,True
-20220427,43,at,austria,19707,17,False
+20220427,43,at,austria,19708,17,False
 20220427,4301,at,wien,3926,2,True
 20220427,4302,at,niederosterreich,3829,6,True
 20220427,4303,at,oberosterreich,3281,1,True
@@ -6125,7 +6135,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220427,4305,at,tirol,1325,0,True
 20220427,4306,at,karnten,1611,1,True
 20220427,4307,at,salzburg,1138,2,True
-20220427,4308,at,vorarlberg,633,1,True
+20220427,4308,at,vorarlberg,634,1,True
 20220427,4309,at,burgenland,595,1,True
 20220426,3301,fr,ile_de_france,25847,22,True
 20220426,3302,fr,centre_val_de_loire,3678,8,True
@@ -6197,7 +6207,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220426,4124,ch,neuchatel,462,0,True
 20220426,4126,ch,jura_ch,244,0,True
 20220426,423,li,liechtenstein,84,0,True
-20220426,43,at,austria,19690,14,False
+20220426,43,at,austria,19691,14,False
 20220426,4301,at,wien,3924,2,True
 20220426,4302,at,niederosterreich,3823,2,True
 20220426,4303,at,oberosterreich,3280,1,True
@@ -6205,7 +6215,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220426,4305,at,tirol,1325,0,True
 20220426,4306,at,karnten,1610,1,True
 20220426,4307,at,salzburg,1136,3,True
-20220426,4308,at,vorarlberg,632,1,True
+20220426,4308,at,vorarlberg,633,1,True
 20220426,4309,at,burgenland,594,1,True
 20220425,3301,fr,ile_de_france,25825,21,True
 20220425,3302,fr,centre_val_de_loire,3670,6,True
@@ -6277,7 +6287,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220425,4124,ch,neuchatel,462,0,True
 20220425,4126,ch,jura_ch,244,0,True
 20220425,423,li,liechtenstein,84,0,True
-20220425,43,at,austria,19676,15,False
+20220425,43,at,austria,19677,15,False
 20220425,4301,at,wien,3922,4,True
 20220425,4302,at,niederosterreich,3821,3,True
 20220425,4303,at,oberosterreich,3279,1,True
@@ -6285,7 +6295,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220425,4305,at,tirol,1325,0,True
 20220425,4306,at,karnten,1609,3,True
 20220425,4307,at,salzburg,1133,1,True
-20220425,4308,at,vorarlberg,631,1,True
+20220425,4308,at,vorarlberg,632,1,True
 20220425,4309,at,burgenland,593,0,True
 20220424,3301,fr,ile_de_france,25804,4,True
 20220424,3302,fr,centre_val_de_loire,3664,1,True
@@ -6353,7 +6363,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220424,4124,ch,neuchatel,462,0,True
 20220424,4126,ch,jura_ch,244,0,True
 20220424,423,li,liechtenstein,84,0,True
-20220424,43,at,austria,19661,12,False
+20220424,43,at,austria,19662,12,False
 20220424,4301,at,wien,3918,3,True
 20220424,4302,at,niederosterreich,3818,3,True
 20220424,4303,at,oberosterreich,3278,3,True
@@ -6361,7 +6371,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220424,4305,at,tirol,1325,0,True
 20220424,4306,at,karnten,1606,0,True
 20220424,4307,at,salzburg,1132,0,True
-20220424,4308,at,vorarlberg,630,1,True
+20220424,4308,at,vorarlberg,631,1,True
 20220424,4309,at,burgenland,593,0,True
 20220423,3301,fr,ile_de_france,25800,9,True
 20220423,3302,fr,centre_val_de_loire,3663,1,True
@@ -6428,7 +6438,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220423,4124,ch,neuchatel,462,0,True
 20220423,4126,ch,jura_ch,244,0,True
 20220423,423,li,liechtenstein,84,0,True
-20220423,43,at,austria,19649,17,False
+20220423,43,at,austria,19650,17,False
 20220423,4301,at,wien,3915,7,True
 20220423,4302,at,niederosterreich,3815,4,True
 20220423,4303,at,oberosterreich,3275,1,True
@@ -6436,7 +6446,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220423,4305,at,tirol,1325,2,True
 20220423,4306,at,karnten,1606,0,True
 20220423,4307,at,salzburg,1132,1,True
-20220423,4308,at,vorarlberg,629,0,True
+20220423,4308,at,vorarlberg,630,0,True
 20220423,4309,at,burgenland,593,0,True
 20220422,3301,fr,ile_de_france,25791,19,True
 20220422,3302,fr,centre_val_de_loire,3662,1,True
@@ -6507,7 +6517,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220422,4124,ch,neuchatel,462,0,True
 20220422,4126,ch,jura_ch,244,0,True
 20220422,423,li,liechtenstein,84,0,True
-20220422,43,at,austria,19632,22,False
+20220422,43,at,austria,19633,22,False
 20220422,4301,at,wien,3908,4,True
 20220422,4302,at,niederosterreich,3811,4,True
 20220422,4303,at,oberosterreich,3274,7,True
@@ -6515,7 +6525,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220422,4305,at,tirol,1323,1,True
 20220422,4306,at,karnten,1606,1,True
 20220422,4307,at,salzburg,1131,0,True
-20220422,4308,at,vorarlberg,629,0,True
+20220422,4308,at,vorarlberg,630,0,True
 20220422,4309,at,burgenland,593,2,True
 20220421,3301,fr,ile_de_france,25772,18,True
 20220421,3302,fr,centre_val_de_loire,3661,8,True
@@ -6587,7 +6597,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220421,4124,ch,neuchatel,462,0,True
 20220421,4126,ch,jura_ch,244,0,True
 20220421,423,li,liechtenstein,84,0,True
-20220421,43,at,austria,19610,27,False
+20220421,43,at,austria,19611,27,False
 20220421,4301,at,wien,3904,6,True
 20220421,4302,at,niederosterreich,3807,10,True
 20220421,4303,at,oberosterreich,3267,4,True
@@ -6595,7 +6605,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220421,4305,at,tirol,1322,1,True
 20220421,4306,at,karnten,1605,0,True
 20220421,4307,at,salzburg,1131,0,True
-20220421,4308,at,vorarlberg,629,1,True
+20220421,4308,at,vorarlberg,630,1,True
 20220421,4309,at,burgenland,591,1,True
 20220420,3301,fr,ile_de_france,25754,25,True
 20220420,3302,fr,centre_val_de_loire,3653,9,True
@@ -6667,7 +6677,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220420,4124,ch,neuchatel,462,0,True
 20220420,4126,ch,jura_ch,244,0,True
 20220420,423,li,liechtenstein,84,0,True
-20220420,43,at,austria,19583,14,False
+20220420,43,at,austria,19584,14,False
 20220420,4301,at,wien,3898,4,True
 20220420,4302,at,niederosterreich,3797,4,True
 20220420,4303,at,oberosterreich,3263,1,True
@@ -6675,7 +6685,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220420,4305,at,tirol,1321,0,True
 20220420,4306,at,karnten,1605,0,True
 20220420,4307,at,salzburg,1131,0,True
-20220420,4308,at,vorarlberg,628,1,True
+20220420,4308,at,vorarlberg,629,1,True
 20220420,4309,at,burgenland,590,0,True
 20220419,3301,fr,ile_de_france,25729,19,True
 20220419,3302,fr,centre_val_de_loire,3644,7,True
@@ -6747,7 +6757,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220419,4124,ch,neuchatel,462,1,True
 20220419,4126,ch,jura_ch,244,0,True
 20220419,423,li,liechtenstein,84,0,True
-20220419,43,at,austria,19569,20,False
+20220419,43,at,austria,19570,20,False
 20220419,4301,at,wien,3894,5,True
 20220419,4302,at,niederosterreich,3793,4,True
 20220419,4303,at,oberosterreich,3262,3,True
@@ -6755,7 +6765,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220419,4305,at,tirol,1321,0,True
 20220419,4306,at,karnten,1605,2,True
 20220419,4307,at,salzburg,1131,0,True
-20220419,4308,at,vorarlberg,627,0,True
+20220419,4308,at,vorarlberg,628,0,True
 20220419,4309,at,burgenland,590,2,True
 20220418,3301,fr,ile_de_france,25710,2,True
 20220418,3302,fr,centre_val_de_loire,3637,3,True
@@ -6824,7 +6834,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220418,4124,ch,neuchatel,461,0,True
 20220418,4126,ch,jura_ch,244,0,True
 20220418,423,li,liechtenstein,84,0,True
-20220418,43,at,austria,19549,15,False
+20220418,43,at,austria,19550,15,False
 20220418,4301,at,wien,3889,5,True
 20220418,4302,at,niederosterreich,3789,7,True
 20220418,4303,at,oberosterreich,3259,0,True
@@ -6832,7 +6842,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220418,4305,at,tirol,1321,0,True
 20220418,4306,at,karnten,1603,0,True
 20220418,4307,at,salzburg,1131,0,True
-20220418,4308,at,vorarlberg,627,1,True
+20220418,4308,at,vorarlberg,628,1,True
 20220418,4309,at,burgenland,588,0,True
 20220417,3301,fr,ile_de_france,25708,3,True
 20220417,3302,fr,centre_val_de_loire,3634,2,True
@@ -6899,7 +6909,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220417,4124,ch,neuchatel,461,0,True
 20220417,4126,ch,jura_ch,244,0,True
 20220417,423,li,liechtenstein,84,0,True
-20220417,43,at,austria,19534,20,False
+20220417,43,at,austria,19535,20,False
 20220417,4301,at,wien,3884,4,True
 20220417,4302,at,niederosterreich,3782,6,True
 20220417,4303,at,oberosterreich,3259,4,True
@@ -6907,7 +6917,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220417,4305,at,tirol,1321,0,True
 20220417,4306,at,karnten,1603,1,True
 20220417,4307,at,salzburg,1131,2,True
-20220417,4308,at,vorarlberg,626,0,True
+20220417,4308,at,vorarlberg,627,0,True
 20220417,4309,at,burgenland,588,0,True
 20220416,3301,fr,ile_de_france,25705,10,True
 20220416,3302,fr,centre_val_de_loire,3632,0,True
@@ -6974,7 +6984,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220416,4124,ch,neuchatel,461,0,True
 20220416,4126,ch,jura_ch,244,0,True
 20220416,423,li,liechtenstein,84,0,True
-20220416,43,at,austria,19514,23,False
+20220416,43,at,austria,19515,23,False
 20220416,4301,at,wien,3880,0,True
 20220416,4302,at,niederosterreich,3776,10,True
 20220416,4303,at,oberosterreich,3255,4,True
@@ -6982,7 +6992,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220416,4305,at,tirol,1321,3,True
 20220416,4306,at,karnten,1602,1,True
 20220416,4307,at,salzburg,1129,1,True
-20220416,4308,at,vorarlberg,626,0,True
+20220416,4308,at,vorarlberg,627,0,True
 20220416,4309,at,burgenland,588,1,True
 20220415,3301,fr,ile_de_france,25695,16,True
 20220415,3302,fr,centre_val_de_loire,3632,7,True
@@ -7050,7 +7060,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220415,4123,ch,valais,815,0,True
 20220415,4124,ch,neuchatel,461,0,True
 20220415,4126,ch,jura_ch,244,0,True
-20220415,43,at,austria,19491,22,False
+20220415,43,at,austria,19492,22,False
 20220415,4301,at,wien,3880,1,True
 20220415,4302,at,niederosterreich,3766,9,True
 20220415,4303,at,oberosterreich,3251,6,True
@@ -7058,7 +7068,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220415,4305,at,tirol,1318,1,True
 20220415,4306,at,karnten,1601,1,True
 20220415,4307,at,salzburg,1128,1,True
-20220415,4308,at,vorarlberg,626,0,True
+20220415,4308,at,vorarlberg,627,0,True
 20220415,4309,at,burgenland,587,0,True
 20220414,3301,fr,ile_de_france,25679,22,True
 20220414,3302,fr,centre_val_de_loire,3625,5,True
@@ -7128,7 +7138,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220414,4123,ch,valais,815,0,True
 20220414,4124,ch,neuchatel,461,1,True
 20220414,4126,ch,jura_ch,244,0,True
-20220414,43,at,austria,19469,16,False
+20220414,43,at,austria,19470,16,False
 20220414,4301,at,wien,3879,5,True
 20220414,4302,at,niederosterreich,3757,4,True
 20220414,4303,at,oberosterreich,3245,1,True
@@ -7136,7 +7146,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220414,4305,at,tirol,1317,1,True
 20220414,4306,at,karnten,1600,2,True
 20220414,4307,at,salzburg,1127,2,True
-20220414,4308,at,vorarlberg,626,0,True
+20220414,4308,at,vorarlberg,627,0,True
 20220414,4309,at,burgenland,587,1,True
 20220413,3301,fr,ile_de_france,25657,21,True
 20220413,3302,fr,centre_val_de_loire,3620,3,True
@@ -7207,7 +7217,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220413,4124,ch,neuchatel,460,1,True
 20220413,4126,ch,jura_ch,244,0,True
 20220413,423,li,liechtenstein,84,0,True
-20220413,43,at,austria,19453,24,False
+20220413,43,at,austria,19454,24,False
 20220413,4301,at,wien,3874,6,True
 20220413,4302,at,niederosterreich,3753,6,True
 20220413,4303,at,oberosterreich,3244,1,True
@@ -7215,7 +7225,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220413,4305,at,tirol,1316,1,True
 20220413,4306,at,karnten,1598,2,True
 20220413,4307,at,salzburg,1125,2,True
-20220413,4308,at,vorarlberg,626,2,True
+20220413,4308,at,vorarlberg,627,2,True
 20220413,4309,at,burgenland,586,0,True
 20220412,3301,fr,ile_de_france,25636,22,True
 20220412,3302,fr,centre_val_de_loire,3617,6,True
@@ -7286,7 +7296,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220412,4124,ch,neuchatel,459,0,True
 20220412,4126,ch,jura_ch,244,0,True
 20220412,423,li,liechtenstein,84,0,True
-20220412,43,at,austria,19429,33,False
+20220412,43,at,austria,19430,33,False
 20220412,4301,at,wien,3868,6,True
 20220412,4302,at,niederosterreich,3747,8,True
 20220412,4303,at,oberosterreich,3243,6,True
@@ -7294,7 +7304,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220412,4305,at,tirol,1315,1,True
 20220412,4306,at,karnten,1596,3,True
 20220412,4307,at,salzburg,1123,2,True
-20220412,4308,at,vorarlberg,624,1,True
+20220412,4308,at,vorarlberg,625,1,True
 20220412,4309,at,burgenland,586,0,True
 20220411,3301,fr,ile_de_france,25614,25,True
 20220411,3302,fr,centre_val_de_loire,3611,8,True
@@ -7366,7 +7376,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220411,4124,ch,neuchatel,459,0,True
 20220411,4126,ch,jura_ch,244,0,True
 20220411,423,li,liechtenstein,84,0,True
-20220411,43,at,austria,19396,29,False
+20220411,43,at,austria,19397,29,False
 20220411,4301,at,wien,3862,6,True
 20220411,4302,at,niederosterreich,3739,5,True
 20220411,4303,at,oberosterreich,3237,5,True
@@ -7374,7 +7384,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220411,4305,at,tirol,1314,2,True
 20220411,4306,at,karnten,1593,4,True
 20220411,4307,at,salzburg,1121,1,True
-20220411,4308,at,vorarlberg,623,0,True
+20220411,4308,at,vorarlberg,624,0,True
 20220411,4309,at,burgenland,586,1,True
 20220410,3301,fr,ile_de_france,25589,2,True
 20220410,3302,fr,centre_val_de_loire,3603,1,True
@@ -7442,7 +7452,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220410,4124,ch,neuchatel,459,0,True
 20220410,4126,ch,jura_ch,244,0,True
 20220410,423,li,liechtenstein,84,0,True
-20220410,43,at,austria,19367,26,False
+20220410,43,at,austria,19368,26,False
 20220410,4301,at,wien,3856,6,True
 20220410,4302,at,niederosterreich,3734,10,True
 20220410,4303,at,oberosterreich,3232,2,True
@@ -7450,7 +7460,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220410,4305,at,tirol,1312,0,True
 20220410,4306,at,karnten,1589,0,True
 20220410,4307,at,salzburg,1120,2,True
-20220410,4308,at,vorarlberg,623,0,True
+20220410,4308,at,vorarlberg,624,0,True
 20220410,4309,at,burgenland,585,2,True
 20220409,3301,fr,ile_de_france,25587,9,True
 20220409,3302,fr,centre_val_de_loire,3602,6,True
@@ -7516,7 +7526,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220409,4123,ch,valais,814,0,True
 20220409,4124,ch,neuchatel,459,0,True
 20220409,4126,ch,jura_ch,244,0,True
-20220409,43,at,austria,19341,30,False
+20220409,43,at,austria,19342,30,False
 20220409,4301,at,wien,3850,8,True
 20220409,4302,at,niederosterreich,3724,8,True
 20220409,4303,at,oberosterreich,3230,3,True
@@ -7524,7 +7534,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220409,4305,at,tirol,1312,0,True
 20220409,4306,at,karnten,1589,2,True
 20220409,4307,at,salzburg,1118,1,True
-20220409,4308,at,vorarlberg,623,0,True
+20220409,4308,at,vorarlberg,624,0,True
 20220409,4309,at,burgenland,583,0,True
 20220408,3301,fr,ile_de_france,25578,13,True
 20220408,3302,fr,centre_val_de_loire,3596,4,True
@@ -7594,7 +7604,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220408,4123,ch,valais,814,0,True
 20220408,4124,ch,neuchatel,459,0,True
 20220408,4126,ch,jura_ch,244,0,True
-20220408,43,at,austria,19311,28,False
+20220408,43,at,austria,19312,28,False
 20220408,4301,at,wien,3842,3,True
 20220408,4302,at,niederosterreich,3716,12,True
 20220408,4303,at,oberosterreich,3227,3,True
@@ -7602,7 +7612,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220408,4305,at,tirol,1312,0,True
 20220408,4306,at,karnten,1587,0,True
 20220408,4307,at,salzburg,1117,3,True
-20220408,4308,at,vorarlberg,623,1,True
+20220408,4308,at,vorarlberg,624,1,True
 20220408,4309,at,burgenland,583,1,True
 20220407,3301,fr,ile_de_france,25565,14,True
 20220407,3302,fr,centre_val_de_loire,3592,5,True
@@ -7674,7 +7684,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220407,4124,ch,neuchatel,459,0,True
 20220407,4126,ch,jura_ch,244,0,True
 20220407,423,li,liechtenstein,84,0,True
-20220407,43,at,austria,19283,31,False
+20220407,43,at,austria,19284,31,False
 20220407,4301,at,wien,3839,7,True
 20220407,4302,at,niederosterreich,3704,9,True
 20220407,4303,at,oberosterreich,3224,7,True
@@ -7682,7 +7692,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220407,4305,at,tirol,1312,0,True
 20220407,4306,at,karnten,1587,2,True
 20220407,4307,at,salzburg,1114,1,True
-20220407,4308,at,vorarlberg,622,0,True
+20220407,4308,at,vorarlberg,623,0,True
 20220407,4309,at,burgenland,582,0,True
 20220406,3301,fr,ile_de_france,25551,18,True
 20220406,3302,fr,centre_val_de_loire,3587,4,True
@@ -7754,7 +7764,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220406,4124,ch,neuchatel,459,0,True
 20220406,4126,ch,jura_ch,244,0,True
 20220406,423,li,liechtenstein,84,0,True
-20220406,43,at,austria,19252,38,False
+20220406,43,at,austria,19253,38,False
 20220406,4301,at,wien,3832,6,True
 20220406,4302,at,niederosterreich,3695,19,True
 20220406,4303,at,oberosterreich,3217,5,True
@@ -7762,7 +7772,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220406,4305,at,tirol,1312,0,True
 20220406,4306,at,karnten,1585,0,True
 20220406,4307,at,salzburg,1113,2,True
-20220406,4308,at,vorarlberg,622,0,True
+20220406,4308,at,vorarlberg,623,0,True
 20220406,4309,at,burgenland,582,1,True
 20220405,3301,fr,ile_de_france,25533,19,True
 20220405,3302,fr,centre_val_de_loire,3583,5,True
@@ -7834,7 +7844,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220405,4124,ch,neuchatel,459,0,True
 20220405,4126,ch,jura_ch,244,0,True
 20220405,423,li,liechtenstein,84,0,True
-20220405,43,at,austria,19214,36,False
+20220405,43,at,austria,19215,36,False
 20220405,4301,at,wien,3826,6,True
 20220405,4302,at,niederosterreich,3676,12,True
 20220405,4303,at,oberosterreich,3212,3,True
@@ -7842,7 +7852,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220405,4305,at,tirol,1312,0,True
 20220405,4306,at,karnten,1585,2,True
 20220405,4307,at,salzburg,1111,1,True
-20220405,4308,at,vorarlberg,622,2,True
+20220405,4308,at,vorarlberg,623,2,True
 20220405,4309,at,burgenland,581,0,True
 20220404,3301,fr,ile_de_france,25514,21,True
 20220404,3302,fr,centre_val_de_loire,3578,3,True
@@ -7914,7 +7924,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220404,4124,ch,neuchatel,459,0,True
 20220404,4126,ch,jura_ch,244,0,True
 20220404,423,li,liechtenstein,84,0,True
-20220404,43,at,austria,19178,27,False
+20220404,43,at,austria,19179,27,False
 20220404,4301,at,wien,3820,3,True
 20220404,4302,at,niederosterreich,3664,7,True
 20220404,4303,at,oberosterreich,3209,4,True
@@ -7922,7 +7932,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220404,4305,at,tirol,1312,2,True
 20220404,4306,at,karnten,1583,1,True
 20220404,4307,at,salzburg,1110,4,True
-20220404,4308,at,vorarlberg,620,0,True
+20220404,4308,at,vorarlberg,621,0,True
 20220404,4309,at,burgenland,581,0,True
 20220403,3301,fr,ile_de_france,25493,0,True
 20220403,3302,fr,centre_val_de_loire,3575,2,True
@@ -7990,7 +8000,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220403,4124,ch,neuchatel,459,0,True
 20220403,4126,ch,jura_ch,244,0,True
 20220403,423,li,liechtenstein,84,0,True
-20220403,43,at,austria,19151,41,False
+20220403,43,at,austria,19152,41,False
 20220403,4301,at,wien,3817,6,True
 20220403,4302,at,niederosterreich,3657,9,True
 20220403,4303,at,oberosterreich,3205,5,True
@@ -7998,7 +8008,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220403,4305,at,tirol,1310,8,True
 20220403,4306,at,karnten,1582,3,True
 20220403,4307,at,salzburg,1106,5,True
-20220403,4308,at,vorarlberg,620,1,True
+20220403,4308,at,vorarlberg,621,1,True
 20220403,4309,at,burgenland,581,0,True
 20220402,3301,fr,ile_de_france,25493,9,True
 20220402,3302,fr,centre_val_de_loire,3573,1,True
@@ -8065,7 +8075,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220402,4124,ch,neuchatel,459,0,True
 20220402,4126,ch,jura_ch,244,0,True
 20220402,423,li,liechtenstein,84,0,True
-20220402,43,at,austria,19110,27,False
+20220402,43,at,austria,19111,27,False
 20220402,4301,at,wien,3811,6,True
 20220402,4302,at,niederosterreich,3648,6,True
 20220402,4303,at,oberosterreich,3200,8,True
@@ -8073,7 +8083,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220402,4305,at,tirol,1302,0,True
 20220402,4306,at,karnten,1579,2,True
 20220402,4307,at,salzburg,1101,3,True
-20220402,4308,at,vorarlberg,619,0,True
+20220402,4308,at,vorarlberg,620,0,True
 20220402,4309,at,burgenland,581,0,True
 20220401,3301,fr,ile_de_france,25484,17,True
 20220401,3302,fr,centre_val_de_loire,3572,7,True
@@ -8144,7 +8154,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220401,4124,ch,neuchatel,459,0,True
 20220401,4126,ch,jura_ch,244,0,True
 20220401,423,li,liechtenstein,84,0,True
-20220401,43,at,austria,19083,52,False
+20220401,43,at,austria,19084,52,False
 20220401,4301,at,wien,3805,14,True
 20220401,4302,at,niederosterreich,3642,7,True
 20220401,4303,at,oberosterreich,3192,8,True
@@ -8152,7 +8162,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220401,4305,at,tirol,1302,2,True
 20220401,4306,at,karnten,1577,3,True
 20220401,4307,at,salzburg,1098,6,True
-20220401,4308,at,vorarlberg,619,3,True
+20220401,4308,at,vorarlberg,620,3,True
 20220401,4309,at,burgenland,581,4,True
 20220331,3301,fr,ile_de_france,25467,12,True
 20220331,3302,fr,centre_val_de_loire,3565,3,True
@@ -8228,7 +8238,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220331,4124,ch,neuchatel,459,0,True
 20220331,4126,ch,jura_ch,244,0,True
 20220331,423,li,liechtenstein,84,0,True
-20220331,43,at,austria,19031,43,False
+20220331,43,at,austria,19032,43,False
 20220331,4301,at,wien,3791,10,True
 20220331,4302,at,niederosterreich,3635,10,True
 20220331,4303,at,oberosterreich,3184,9,True
@@ -8236,7 +8246,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220331,4305,at,tirol,1300,1,True
 20220331,4306,at,karnten,1574,3,True
 20220331,4307,at,salzburg,1092,1,True
-20220331,4308,at,vorarlberg,616,1,True
+20220331,4308,at,vorarlberg,617,1,True
 20220331,4309,at,burgenland,577,2,True
 20220330,3301,fr,ile_de_france,25455,16,True
 20220330,3302,fr,centre_val_de_loire,3562,4,True
@@ -8312,7 +8322,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220330,4124,ch,neuchatel,459,0,True
 20220330,4126,ch,jura_ch,244,0,True
 20220330,423,li,liechtenstein,84,0,True
-20220330,43,at,austria,18988,49,False
+20220330,43,at,austria,18989,49,False
 20220330,4301,at,wien,3781,8,True
 20220330,4302,at,niederosterreich,3625,14,True
 20220330,4303,at,oberosterreich,3175,8,True
@@ -8320,7 +8330,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220330,4305,at,tirol,1299,3,True
 20220330,4306,at,karnten,1571,2,True
 20220330,4307,at,salzburg,1091,4,True
-20220330,4308,at,vorarlberg,615,1,True
+20220330,4308,at,vorarlberg,616,1,True
 20220330,4309,at,burgenland,575,2,True
 20220329,3301,fr,ile_de_france,25439,17,True
 20220329,3302,fr,centre_val_de_loire,3558,5,True
@@ -8396,7 +8406,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220329,4124,ch,neuchatel,459,0,True
 20220329,4126,ch,jura_ch,244,0,True
 20220329,423,li,liechtenstein,84,0,True
-20220329,43,at,austria,18939,39,False
+20220329,43,at,austria,18940,39,False
 20220329,4301,at,wien,3773,8,True
 20220329,4302,at,niederosterreich,3611,12,True
 20220329,4303,at,oberosterreich,3167,3,True
@@ -8404,7 +8414,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220329,4305,at,tirol,1296,4,True
 20220329,4306,at,karnten,1569,2,True
 20220329,4307,at,salzburg,1087,1,True
-20220329,4308,at,vorarlberg,614,0,True
+20220329,4308,at,vorarlberg,615,0,True
 20220329,4309,at,burgenland,573,0,True
 20220328,3301,fr,ile_de_france,25422,13,True
 20220328,3302,fr,centre_val_de_loire,3553,6,True
@@ -8480,7 +8490,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220328,4124,ch,neuchatel,459,1,True
 20220328,4126,ch,jura_ch,244,0,True
 20220328,423,li,liechtenstein,84,1,True
-20220328,43,at,austria,18900,35,False
+20220328,43,at,austria,18901,35,False
 20220328,4301,at,wien,3765,7,True
 20220328,4302,at,niederosterreich,3599,10,True
 20220328,4303,at,oberosterreich,3164,5,True
@@ -8488,7 +8498,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220328,4305,at,tirol,1292,2,True
 20220328,4306,at,karnten,1567,2,True
 20220328,4307,at,salzburg,1086,0,True
-20220328,4308,at,vorarlberg,614,3,True
+20220328,4308,at,vorarlberg,615,3,True
 20220328,4309,at,burgenland,573,2,True
 20220327,3301,fr,ile_de_france,25409,2,True
 20220327,3302,fr,centre_val_de_loire,3547,1,True
@@ -8559,7 +8569,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220327,4124,ch,neuchatel,458,0,True
 20220327,4126,ch,jura_ch,244,0,True
 20220327,423,li,liechtenstein,83,0,True
-20220327,43,at,austria,18865,34,False
+20220327,43,at,austria,18866,34,False
 20220327,4301,at,wien,3758,5,True
 20220327,4302,at,niederosterreich,3589,14,True
 20220327,4303,at,oberosterreich,3159,2,True
@@ -8567,7 +8577,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220327,4305,at,tirol,1290,0,True
 20220327,4306,at,karnten,1565,3,True
 20220327,4307,at,salzburg,1086,0,True
-20220327,4308,at,vorarlberg,611,1,True
+20220327,4308,at,vorarlberg,612,1,True
 20220327,4309,at,burgenland,571,1,True
 20220326,3301,fr,ile_de_france,25407,5,True
 20220326,3302,fr,centre_val_de_loire,3546,2,True
@@ -8636,7 +8646,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220326,4123,ch,valais,813,0,True
 20220326,4124,ch,neuchatel,458,0,True
 20220326,4126,ch,jura_ch,244,0,True
-20220326,43,at,austria,18831,39,False
+20220326,43,at,austria,18832,39,False
 20220326,4301,at,wien,3753,7,True
 20220326,4302,at,niederosterreich,3575,7,True
 20220326,4303,at,oberosterreich,3157,7,True
@@ -8644,7 +8654,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220326,4305,at,tirol,1290,2,True
 20220326,4306,at,karnten,1562,3,True
 20220326,4307,at,salzburg,1086,1,True
-20220326,4308,at,vorarlberg,610,1,True
+20220326,4308,at,vorarlberg,611,1,True
 20220326,4309,at,burgenland,570,1,True
 20220325,3301,fr,ile_de_france,25402,8,True
 20220325,3302,fr,centre_val_de_loire,3544,1,True
@@ -8718,7 +8728,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220325,4123,ch,valais,813,0,True
 20220325,4124,ch,neuchatel,458,0,True
 20220325,4126,ch,jura_ch,244,0,True
-20220325,43,at,austria,18792,46,False
+20220325,43,at,austria,18793,46,False
 20220325,4301,at,wien,3746,10,True
 20220325,4302,at,niederosterreich,3568,7,True
 20220325,4303,at,oberosterreich,3150,9,True
@@ -8726,7 +8736,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220325,4305,at,tirol,1288,1,True
 20220325,4306,at,karnten,1559,4,True
 20220325,4307,at,salzburg,1085,4,True
-20220325,4308,at,vorarlberg,609,1,True
+20220325,4308,at,vorarlberg,610,1,True
 20220325,4309,at,burgenland,569,1,True
 20220324,3301,fr,ile_de_france,25394,22,True
 20220324,3302,fr,centre_val_de_loire,3543,3,True
@@ -8802,7 +8812,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220324,4124,ch,neuchatel,458,0,True
 20220324,4126,ch,jura_ch,244,0,True
 20220324,423,li,liechtenstein,83,0,True
-20220324,43,at,austria,18746,42,False
+20220324,43,at,austria,18747,42,False
 20220324,4301,at,wien,3736,8,True
 20220324,4302,at,niederosterreich,3561,12,True
 20220324,4303,at,oberosterreich,3141,5,True
@@ -8810,7 +8820,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220324,4305,at,tirol,1287,0,True
 20220324,4306,at,karnten,1555,5,True
 20220324,4307,at,salzburg,1081,1,True
-20220324,4308,at,vorarlberg,608,2,True
+20220324,4308,at,vorarlberg,609,2,True
 20220324,4309,at,burgenland,568,1,True
 20220323,3301,fr,ile_de_france,25372,14,True
 20220323,3302,fr,centre_val_de_loire,3540,5,True
@@ -8887,7 +8897,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220323,4124,ch,neuchatel,458,0,True
 20220323,4126,ch,jura_ch,244,0,True
 20220323,423,li,liechtenstein,83,0,True
-20220323,43,at,austria,18704,49,False
+20220323,43,at,austria,18705,49,False
 20220323,4301,at,wien,3728,11,True
 20220323,4302,at,niederosterreich,3549,9,True
 20220323,4303,at,oberosterreich,3136,11,True
@@ -8895,7 +8905,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220323,4305,at,tirol,1287,2,True
 20220323,4306,at,karnten,1550,4,True
 20220323,4307,at,salzburg,1080,2,True
-20220323,4308,at,vorarlberg,606,1,True
+20220323,4308,at,vorarlberg,607,1,True
 20220323,4309,at,burgenland,567,1,True
 20220322,3301,fr,ile_de_france,25358,13,True
 20220322,3302,fr,centre_val_de_loire,3535,3,True
@@ -8972,7 +8982,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220322,4124,ch,neuchatel,458,0,True
 20220322,4126,ch,jura_ch,244,0,True
 20220322,423,li,liechtenstein,83,0,True
-20220322,43,at,austria,18655,35,False
+20220322,43,at,austria,18656,35,False
 20220322,4301,at,wien,3717,7,True
 20220322,4302,at,niederosterreich,3540,13,True
 20220322,4303,at,oberosterreich,3125,6,True
@@ -8980,7 +8990,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220322,4305,at,tirol,1285,1,True
 20220322,4306,at,karnten,1546,1,True
 20220322,4307,at,salzburg,1078,0,True
-20220322,4308,at,vorarlberg,605,0,True
+20220322,4308,at,vorarlberg,606,0,True
 20220322,4309,at,burgenland,566,1,True
 20220321,3301,fr,ile_de_france,25345,15,True
 20220321,3302,fr,centre_val_de_loire,3532,6,True
@@ -9056,7 +9066,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220321,4125,ch,geneve,995,0,True
 20220321,4126,ch,jura_ch,244,0,True
 20220321,423,li,liechtenstein,83,0,True
-20220321,43,at,austria,18620,38,False
+20220321,43,at,austria,18621,38,False
 20220321,4301,at,wien,3710,10,True
 20220321,4302,at,niederosterreich,3527,6,True
 20220321,4303,at,oberosterreich,3119,11,True
@@ -9064,7 +9074,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220321,4305,at,tirol,1284,2,True
 20220321,4306,at,karnten,1545,1,True
 20220321,4307,at,salzburg,1078,1,True
-20220321,4308,at,vorarlberg,605,0,True
+20220321,4308,at,vorarlberg,606,0,True
 20220321,4309,at,burgenland,565,1,True
 20220320,3301,fr,ile_de_france,25330,2,True
 20220320,3302,fr,centre_val_de_loire,3526,2,True
@@ -9137,7 +9147,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220320,4125,ch,geneve,995,0,True
 20220320,4126,ch,jura_ch,244,0,True
 20220320,423,li,liechtenstein,83,2,True
-20220320,43,at,austria,18582,36,False
+20220320,43,at,austria,18583,36,False
 20220320,4301,at,wien,3700,7,True
 20220320,4302,at,niederosterreich,3521,6,True
 20220320,4303,at,oberosterreich,3108,11,True
@@ -9145,7 +9155,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220320,4305,at,tirol,1282,2,True
 20220320,4306,at,karnten,1544,5,True
 20220320,4307,at,salzburg,1077,0,True
-20220320,4308,at,vorarlberg,605,0,True
+20220320,4308,at,vorarlberg,606,0,True
 20220320,4309,at,burgenland,564,1,True
 20220319,3301,fr,ile_de_france,25328,8,True
 20220319,3302,fr,centre_val_de_loire,3524,2,True
@@ -9216,7 +9226,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220319,4124,ch,neuchatel,458,0,True
 20220319,4125,ch,geneve,995,0,True
 20220319,4126,ch,jura_ch,244,0,True
-20220319,43,at,austria,18546,34,False
+20220319,43,at,austria,18547,34,False
 20220319,4301,at,wien,3693,7,True
 20220319,4302,at,niederosterreich,3515,7,True
 20220319,4303,at,oberosterreich,3097,5,True
@@ -9224,7 +9234,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220319,4305,at,tirol,1280,2,True
 20220319,4306,at,karnten,1539,2,True
 20220319,4307,at,salzburg,1077,2,True
-20220319,4308,at,vorarlberg,605,1,True
+20220319,4308,at,vorarlberg,606,1,True
 20220319,4309,at,burgenland,563,0,True
 20220318,3301,fr,ile_de_france,25320,11,True
 20220318,3302,fr,centre_val_de_loire,3522,5,True
@@ -9300,7 +9310,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220318,4124,ch,neuchatel,458,1,True
 20220318,4125,ch,geneve,995,0,True
 20220318,4126,ch,jura_ch,244,0,True
-20220318,43,at,austria,18512,41,False
+20220318,43,at,austria,18513,41,False
 20220318,4301,at,wien,3686,8,True
 20220318,4302,at,niederosterreich,3508,11,True
 20220318,4303,at,oberosterreich,3092,14,True
@@ -9308,7 +9318,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220318,4305,at,tirol,1278,2,True
 20220318,4306,at,karnten,1537,1,True
 20220318,4307,at,salzburg,1075,2,True
-20220318,4308,at,vorarlberg,604,1,True
+20220318,4308,at,vorarlberg,605,1,True
 20220318,4309,at,burgenland,563,0,True
 20220317,3301,fr,ile_de_france,25309,8,True
 20220317,3302,fr,centre_val_de_loire,3517,2,True
@@ -9386,7 +9396,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220317,4125,ch,geneve,995,0,True
 20220317,4126,ch,jura_ch,244,0,True
 20220317,423,li,liechtenstein,81,0,True
-20220317,43,at,austria,18471,40,False
+20220317,43,at,austria,18472,40,False
 20220317,4301,at,wien,3678,9,True
 20220317,4302,at,niederosterreich,3497,10,True
 20220317,4303,at,oberosterreich,3078,7,True
@@ -9394,7 +9404,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220317,4305,at,tirol,1276,0,True
 20220317,4306,at,karnten,1536,1,True
 20220317,4307,at,salzburg,1073,1,True
-20220317,4308,at,vorarlberg,603,2,True
+20220317,4308,at,vorarlberg,604,2,True
 20220317,4309,at,burgenland,563,3,True
 20220316,3301,fr,ile_de_france,25301,16,True
 20220316,3302,fr,centre_val_de_loire,3515,7,True
@@ -9471,7 +9481,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220316,4125,ch,geneve,995,0,True
 20220316,4126,ch,jura_ch,244,0,True
 20220316,423,li,liechtenstein,81,0,True
-20220316,43,at,austria,18431,25,False
+20220316,43,at,austria,18432,25,False
 20220316,4301,at,wien,3669,6,True
 20220316,4302,at,niederosterreich,3487,7,True
 20220316,4303,at,oberosterreich,3071,4,True
@@ -9479,7 +9489,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220316,4305,at,tirol,1276,2,True
 20220316,4306,at,karnten,1535,2,True
 20220316,4307,at,salzburg,1072,0,True
-20220316,4308,at,vorarlberg,601,0,True
+20220316,4308,at,vorarlberg,602,0,True
 20220316,4309,at,burgenland,560,1,True
 20220315,3301,fr,ile_de_france,25285,13,True
 20220315,3302,fr,centre_val_de_loire,3508,8,True
@@ -9556,7 +9566,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220315,4125,ch,geneve,995,0,True
 20220315,4126,ch,jura_ch,244,0,True
 20220315,423,li,liechtenstein,81,2,True
-20220315,43,at,austria,18406,35,False
+20220315,43,at,austria,18407,35,False
 20220315,4301,at,wien,3663,6,True
 20220315,4302,at,niederosterreich,3480,11,True
 20220315,4303,at,oberosterreich,3067,9,True
@@ -9564,7 +9574,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220315,4305,at,tirol,1274,2,True
 20220315,4306,at,karnten,1533,0,True
 20220315,4307,at,salzburg,1072,4,True
-20220315,4308,at,vorarlberg,601,0,True
+20220315,4308,at,vorarlberg,602,0,True
 20220315,4309,at,burgenland,559,0,True
 20220314,3301,fr,ile_de_france,25272,18,True
 20220314,3302,fr,centre_val_de_loire,3500,2,True
@@ -9640,7 +9650,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220314,4125,ch,geneve,995,0,True
 20220314,4126,ch,jura_ch,244,0,True
 20220314,423,li,liechtenstein,79,0,True
-20220314,43,at,austria,18371,28,False
+20220314,43,at,austria,18372,28,False
 20220314,4301,at,wien,3657,4,True
 20220314,4302,at,niederosterreich,3469,9,True
 20220314,4303,at,oberosterreich,3058,3,True
@@ -9648,7 +9658,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220314,4305,at,tirol,1272,2,True
 20220314,4306,at,karnten,1533,0,True
 20220314,4307,at,salzburg,1068,4,True
-20220314,4308,at,vorarlberg,601,2,True
+20220314,4308,at,vorarlberg,602,2,True
 20220314,4309,at,burgenland,559,2,True
 20220313,3301,fr,ile_de_france,25254,2,True
 20220313,3302,fr,centre_val_de_loire,3498,0,True
@@ -9720,7 +9730,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220313,4125,ch,geneve,995,0,True
 20220313,4126,ch,jura_ch,244,0,True
 20220313,423,li,liechtenstein,79,0,True
-20220313,43,at,austria,18343,27,False
+20220313,43,at,austria,18344,27,False
 20220313,4301,at,wien,3653,3,True
 20220313,4302,at,niederosterreich,3460,11,True
 20220313,4303,at,oberosterreich,3055,4,True
@@ -9728,7 +9738,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220313,4305,at,tirol,1270,4,True
 20220313,4306,at,karnten,1533,1,True
 20220313,4307,at,salzburg,1064,1,True
-20220313,4308,at,vorarlberg,599,0,True
+20220313,4308,at,vorarlberg,600,0,True
 20220313,4309,at,burgenland,557,0,True
 20220312,3301,fr,ile_de_france,25252,2,True
 20220312,3302,fr,centre_val_de_loire,3498,3,True
@@ -9799,7 +9809,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220312,4124,ch,neuchatel,456,0,True
 20220312,4125,ch,geneve,995,0,True
 20220312,4126,ch,jura_ch,244,0,True
-20220312,43,at,austria,18316,29,False
+20220312,43,at,austria,18317,29,False
 20220312,4301,at,wien,3650,6,True
 20220312,4302,at,niederosterreich,3449,7,True
 20220312,4303,at,oberosterreich,3051,7,True
@@ -9807,7 +9817,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220312,4305,at,tirol,1266,0,True
 20220312,4306,at,karnten,1532,2,True
 20220312,4307,at,salzburg,1063,2,True
-20220312,4308,at,vorarlberg,599,1,True
+20220312,4308,at,vorarlberg,600,1,True
 20220312,4309,at,burgenland,557,0,True
 20220311,3301,fr,ile_de_france,25250,25,True
 20220311,3302,fr,centre_val_de_loire,3495,2,True
@@ -9884,7 +9894,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220311,4125,ch,geneve,995,0,True
 20220311,4126,ch,jura_ch,244,0,True
 20220311,423,li,liechtenstein,79,0,True
-20220311,43,at,austria,18287,28,False
+20220311,43,at,austria,18288,28,False
 20220311,4301,at,wien,3644,3,True
 20220311,4302,at,niederosterreich,3442,9,True
 20220311,4303,at,oberosterreich,3044,6,True
@@ -9892,7 +9902,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220311,4305,at,tirol,1266,1,True
 20220311,4306,at,karnten,1530,3,True
 20220311,4307,at,salzburg,1061,1,True
-20220311,4308,at,vorarlberg,598,0,True
+20220311,4308,at,vorarlberg,599,0,True
 20220311,4309,at,burgenland,557,1,True
 20220310,3301,fr,ile_de_france,25225,12,True
 20220310,3302,fr,centre_val_de_loire,3493,3,True
@@ -9970,7 +9980,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220310,4125,ch,geneve,995,1,True
 20220310,4126,ch,jura_ch,244,1,True
 20220310,423,li,liechtenstein,79,0,True
-20220310,43,at,austria,18259,26,False
+20220310,43,at,austria,18260,26,False
 20220310,4301,at,wien,3641,4,True
 20220310,4302,at,niederosterreich,3433,4,True
 20220310,4303,at,oberosterreich,3038,3,True
@@ -9978,7 +9988,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220310,4305,at,tirol,1265,1,True
 20220310,4306,at,karnten,1527,4,True
 20220310,4307,at,salzburg,1060,0,True
-20220310,4308,at,vorarlberg,598,1,True
+20220310,4308,at,vorarlberg,599,1,True
 20220310,4309,at,burgenland,556,3,True
 20220309,3301,fr,ile_de_france,25213,22,True
 20220309,3302,fr,centre_val_de_loire,3490,9,True
@@ -10055,7 +10065,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220309,4125,ch,geneve,994,0,True
 20220309,4126,ch,jura_ch,243,0,True
 20220309,423,li,liechtenstein,79,0,True
-20220309,43,at,austria,18233,24,False
+20220309,43,at,austria,18234,24,False
 20220309,4301,at,wien,3637,4,True
 20220309,4302,at,niederosterreich,3429,6,True
 20220309,4303,at,oberosterreich,3035,3,True
@@ -10063,7 +10073,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220309,4305,at,tirol,1264,3,True
 20220309,4306,at,karnten,1523,3,True
 20220309,4307,at,salzburg,1060,1,True
-20220309,4308,at,vorarlberg,597,0,True
+20220309,4308,at,vorarlberg,598,0,True
 20220309,4309,at,burgenland,553,0,True
 20220308,3301,fr,ile_de_france,25191,19,True
 20220308,3302,fr,centre_val_de_loire,3481,8,True
@@ -10140,7 +10150,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220308,4125,ch,geneve,994,0,True
 20220308,4126,ch,jura_ch,243,0,True
 20220308,423,li,liechtenstein,79,0,True
-20220308,43,at,austria,18209,27,False
+20220308,43,at,austria,18210,27,False
 20220308,4301,at,wien,3633,3,True
 20220308,4302,at,niederosterreich,3423,10,True
 20220308,4303,at,oberosterreich,3032,4,True
@@ -10148,7 +10158,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220308,4305,at,tirol,1261,2,True
 20220308,4306,at,karnten,1520,0,True
 20220308,4307,at,salzburg,1059,3,True
-20220308,4308,at,vorarlberg,597,0,True
+20220308,4308,at,vorarlberg,598,0,True
 20220308,4309,at,burgenland,553,1,True
 20220307,3301,fr,ile_de_france,25172,25,True
 20220307,3302,fr,centre_val_de_loire,3473,6,True
@@ -10225,7 +10235,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220307,4125,ch,geneve,994,0,True
 20220307,4126,ch,jura_ch,243,0,True
 20220307,423,li,liechtenstein,79,1,True
-20220307,43,at,austria,18182,32,False
+20220307,43,at,austria,18183,32,False
 20220307,4301,at,wien,3630,8,True
 20220307,4302,at,niederosterreich,3413,9,True
 20220307,4303,at,oberosterreich,3028,4,True
@@ -10233,7 +10243,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220307,4305,at,tirol,1259,1,True
 20220307,4306,at,karnten,1520,1,True
 20220307,4307,at,salzburg,1056,1,True
-20220307,4308,at,vorarlberg,597,2,True
+20220307,4308,at,vorarlberg,598,2,True
 20220307,4309,at,burgenland,552,0,True
 20220306,3301,fr,ile_de_france,25147,4,True
 20220306,3302,fr,centre_val_de_loire,3467,0,True
@@ -10307,7 +10317,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220306,4125,ch,geneve,994,0,True
 20220306,4126,ch,jura_ch,243,0,True
 20220306,423,li,liechtenstein,78,0,True
-20220306,43,at,austria,18150,23,False
+20220306,43,at,austria,18151,23,False
 20220306,4301,at,wien,3622,5,True
 20220306,4302,at,niederosterreich,3404,6,True
 20220306,4303,at,oberosterreich,3024,3,True
@@ -10315,7 +10325,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220306,4305,at,tirol,1258,1,True
 20220306,4306,at,karnten,1519,3,True
 20220306,4307,at,salzburg,1055,1,True
-20220306,4308,at,vorarlberg,595,1,True
+20220306,4308,at,vorarlberg,596,1,True
 20220306,4309,at,burgenland,552,1,True
 20220305,3301,fr,ile_de_france,25143,24,True
 20220305,3302,fr,centre_val_de_loire,3467,5,True
@@ -10386,7 +10396,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220305,4124,ch,neuchatel,456,0,True
 20220305,4125,ch,geneve,994,0,True
 20220305,4126,ch,jura_ch,243,0,True
-20220305,43,at,austria,18127,31,False
+20220305,43,at,austria,18128,31,False
 20220305,4301,at,wien,3617,7,True
 20220305,4302,at,niederosterreich,3398,6,True
 20220305,4303,at,oberosterreich,3021,5,True
@@ -10394,7 +10404,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220305,4305,at,tirol,1257,4,True
 20220305,4306,at,karnten,1516,2,True
 20220305,4307,at,salzburg,1054,2,True
-20220305,4308,at,vorarlberg,594,1,True
+20220305,4308,at,vorarlberg,595,1,True
 20220305,4309,at,burgenland,551,1,True
 20220304,3301,fr,ile_de_france,25119,28,True
 20220304,3302,fr,centre_val_de_loire,3462,5,True
@@ -10470,7 +10480,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220304,4124,ch,neuchatel,456,0,True
 20220304,4125,ch,geneve,994,0,True
 20220304,4126,ch,jura_ch,243,0,True
-20220304,43,at,austria,18096,32,False
+20220304,43,at,austria,18097,32,False
 20220304,4301,at,wien,3610,9,True
 20220304,4302,at,niederosterreich,3392,7,True
 20220304,4303,at,oberosterreich,3016,6,True
@@ -10478,7 +10488,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220304,4305,at,tirol,1253,0,True
 20220304,4306,at,karnten,1514,4,True
 20220304,4307,at,salzburg,1052,0,True
-20220304,4308,at,vorarlberg,593,1,True
+20220304,4308,at,vorarlberg,594,1,True
 20220304,4309,at,burgenland,550,1,True
 20220303,3301,fr,ile_de_france,25091,18,True
 20220303,3302,fr,centre_val_de_loire,3457,6,True
@@ -10556,7 +10566,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220303,4125,ch,geneve,994,0,True
 20220303,4126,ch,jura_ch,243,0,True
 20220303,423,li,liechtenstein,78,0,True
-20220303,43,at,austria,18064,32,False
+20220303,43,at,austria,18065,32,False
 20220303,4301,at,wien,3601,9,True
 20220303,4302,at,niederosterreich,3385,4,True
 20220303,4303,at,oberosterreich,3010,6,True
@@ -10564,7 +10574,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220303,4305,at,tirol,1253,2,True
 20220303,4306,at,karnten,1510,2,True
 20220303,4307,at,salzburg,1052,0,True
-20220303,4308,at,vorarlberg,592,1,True
+20220303,4308,at,vorarlberg,593,1,True
 20220303,4309,at,burgenland,549,2,True
 20220302,3301,fr,ile_de_france,25073,27,True
 20220302,3302,fr,centre_val_de_loire,3451,6,True
@@ -10643,7 +10653,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220302,4125,ch,geneve,994,0,True
 20220302,4126,ch,jura_ch,243,0,True
 20220302,423,li,liechtenstein,78,0,True
-20220302,43,at,austria,18032,30,False
+20220302,43,at,austria,18033,30,False
 20220302,4301,at,wien,3592,12,True
 20220302,4302,at,niederosterreich,3381,3,True
 20220302,4303,at,oberosterreich,3004,3,True
@@ -10651,7 +10661,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220302,4305,at,tirol,1251,4,True
 20220302,4306,at,karnten,1508,3,True
 20220302,4307,at,salzburg,1052,1,True
-20220302,4308,at,vorarlberg,591,2,True
+20220302,4308,at,vorarlberg,592,2,True
 20220302,4309,at,burgenland,547,0,True
 20220301,3301,fr,ile_de_france,25046,25,True
 20220301,3302,fr,centre_val_de_loire,3445,7,True
@@ -10730,7 +10740,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220301,4125,ch,geneve,994,0,True
 20220301,4126,ch,jura_ch,243,0,True
 20220301,423,li,liechtenstein,78,0,True
-20220301,43,at,austria,18002,41,False
+20220301,43,at,austria,18003,41,False
 20220301,4301,at,wien,3580,10,True
 20220301,4302,at,niederosterreich,3378,11,True
 20220301,4303,at,oberosterreich,3001,10,True
@@ -10738,7 +10748,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220301,4305,at,tirol,1247,2,True
 20220301,4306,at,karnten,1505,1,True
 20220301,4307,at,salzburg,1051,3,True
-20220301,4308,at,vorarlberg,589,0,True
+20220301,4308,at,vorarlberg,590,0,True
 20220301,4309,at,burgenland,547,0,True
 20220228,3301,fr,ile_de_france,25021,17,True
 20220228,3302,fr,centre_val_de_loire,3438,7,True
@@ -10816,7 +10826,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220228,4125,ch,geneve,994,0,True
 20220228,4126,ch,jura_ch,243,0,True
 20220228,423,li,liechtenstein,78,0,True
-20220228,43,at,austria,17961,32,False
+20220228,43,at,austria,17962,32,False
 20220228,4301,at,wien,3570,4,True
 20220228,4302,at,niederosterreich,3367,6,True
 20220228,4303,at,oberosterreich,2991,7,True
@@ -10824,7 +10834,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220228,4305,at,tirol,1245,1,True
 20220228,4306,at,karnten,1504,3,True
 20220228,4307,at,salzburg,1048,1,True
-20220228,4308,at,vorarlberg,589,0,True
+20220228,4308,at,vorarlberg,590,0,True
 20220228,4309,at,burgenland,547,0,True
 20220227,3301,fr,ile_de_france,25004,6,True
 20220227,3302,fr,centre_val_de_loire,3431,1,True
@@ -10899,7 +10909,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220227,4125,ch,geneve,994,0,True
 20220227,4126,ch,jura_ch,243,0,True
 20220227,423,li,liechtenstein,78,0,True
-20220227,43,at,austria,17929,27,False
+20220227,43,at,austria,17930,27,False
 20220227,4301,at,wien,3566,5,True
 20220227,4302,at,niederosterreich,3361,4,True
 20220227,4303,at,oberosterreich,2984,3,True
@@ -10907,7 +10917,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220227,4305,at,tirol,1244,0,True
 20220227,4306,at,karnten,1501,3,True
 20220227,4307,at,salzburg,1047,4,True
-20220227,4308,at,vorarlberg,589,3,True
+20220227,4308,at,vorarlberg,590,3,True
 20220227,4309,at,burgenland,547,1,True
 20220226,3301,fr,ile_de_france,24998,15,True
 20220226,3302,fr,centre_val_de_loire,3430,4,True
@@ -10979,7 +10989,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220226,4124,ch,neuchatel,456,0,True
 20220226,4125,ch,geneve,994,0,True
 20220226,4126,ch,jura_ch,243,1,True
-20220226,43,at,austria,17902,31,False
+20220226,43,at,austria,17903,31,False
 20220226,4301,at,wien,3561,6,True
 20220226,4302,at,niederosterreich,3357,9,True
 20220226,4303,at,oberosterreich,2981,1,True
@@ -10987,7 +10997,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220226,4305,at,tirol,1244,0,True
 20220226,4306,at,karnten,1498,5,True
 20220226,4307,at,salzburg,1043,3,True
-20220226,4308,at,vorarlberg,586,0,True
+20220226,4308,at,vorarlberg,587,0,True
 20220226,4309,at,burgenland,546,0,True
 20220225,3301,fr,ile_de_france,24983,28,True
 20220225,3302,fr,centre_val_de_loire,3426,12,True
@@ -11064,7 +11074,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220225,4124,ch,neuchatel,456,1,True
 20220225,4125,ch,geneve,994,0,True
 20220225,4126,ch,jura_ch,242,0,True
-20220225,43,at,austria,17871,39,False
+20220225,43,at,austria,17872,39,False
 20220225,4301,at,wien,3555,7,True
 20220225,4302,at,niederosterreich,3348,9,True
 20220225,4303,at,oberosterreich,2980,7,True
@@ -11072,7 +11082,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220225,4305,at,tirol,1244,0,True
 20220225,4306,at,karnten,1493,4,True
 20220225,4307,at,salzburg,1040,1,True
-20220225,4308,at,vorarlberg,586,2,True
+20220225,4308,at,vorarlberg,587,2,True
 20220225,4309,at,burgenland,546,2,True
 20220224,3301,fr,ile_de_france,24955,19,True
 20220224,3302,fr,centre_val_de_loire,3414,5,True
@@ -11151,7 +11161,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220224,4125,ch,geneve,994,3,True
 20220224,4126,ch,jura_ch,242,1,True
 20220224,423,li,liechtenstein,78,1,True
-20220224,43,at,austria,17832,32,False
+20220224,43,at,austria,17833,32,False
 20220224,4301,at,wien,3548,8,True
 20220224,4302,at,niederosterreich,3339,9,True
 20220224,4303,at,oberosterreich,2973,6,True
@@ -11159,7 +11169,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220224,4305,at,tirol,1244,3,True
 20220224,4306,at,karnten,1489,2,True
 20220224,4307,at,salzburg,1039,0,True
-20220224,4308,at,vorarlberg,584,1,True
+20220224,4308,at,vorarlberg,585,1,True
 20220224,4309,at,burgenland,544,0,True
 20220223,3301,fr,ile_de_france,24936,36,True
 20220223,3302,fr,centre_val_de_loire,3409,10,True
@@ -11238,7 +11248,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220223,4125,ch,geneve,991,3,True
 20220223,4126,ch,jura_ch,241,2,True
 20220223,423,li,liechtenstein,77,1,True
-20220223,43,at,austria,17800,28,False
+20220223,43,at,austria,17801,28,False
 20220223,4301,at,wien,3540,6,True
 20220223,4302,at,niederosterreich,3330,4,True
 20220223,4303,at,oberosterreich,2967,6,True
@@ -11246,7 +11256,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220223,4305,at,tirol,1241,1,True
 20220223,4306,at,karnten,1487,1,True
 20220223,4307,at,salzburg,1039,0,True
-20220223,4308,at,vorarlberg,583,2,True
+20220223,4308,at,vorarlberg,584,2,True
 20220223,4309,at,burgenland,544,1,True
 20220222,3301,fr,ile_de_france,24900,43,True
 20220222,3302,fr,centre_val_de_loire,3399,5,True
@@ -11325,7 +11335,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220222,4125,ch,geneve,988,0,True
 20220222,4126,ch,jura_ch,239,0,True
 20220222,423,li,liechtenstein,76,0,True
-20220222,43,at,austria,17772,30,False
+20220222,43,at,austria,17773,30,False
 20220222,4301,at,wien,3534,1,True
 20220222,4302,at,niederosterreich,3326,9,True
 20220222,4303,at,oberosterreich,2961,3,True
@@ -11333,7 +11343,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220222,4305,at,tirol,1240,3,True
 20220222,4306,at,karnten,1486,4,True
 20220222,4307,at,salzburg,1039,2,True
-20220222,4308,at,vorarlberg,581,1,True
+20220222,4308,at,vorarlberg,582,1,True
 20220222,4309,at,burgenland,543,2,True
 20220221,3301,fr,ile_de_france,24857,40,True
 20220221,3302,fr,centre_val_de_loire,3394,11,True
@@ -11411,7 +11421,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220221,4125,ch,geneve,988,1,True
 20220221,4126,ch,jura_ch,239,0,True
 20220221,423,li,liechtenstein,76,1,True
-20220221,43,at,austria,17742,28,False
+20220221,43,at,austria,17743,28,False
 20220221,4301,at,wien,3533,9,True
 20220221,4302,at,niederosterreich,3317,4,True
 20220221,4303,at,oberosterreich,2958,4,True
@@ -11419,7 +11429,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220221,4305,at,tirol,1237,1,True
 20220221,4306,at,karnten,1482,3,True
 20220221,4307,at,salzburg,1037,1,True
-20220221,4308,at,vorarlberg,580,3,True
+20220221,4308,at,vorarlberg,581,3,True
 20220221,4309,at,burgenland,541,0,True
 20220220,3301,fr,ile_de_france,24817,5,True
 20220220,3302,fr,centre_val_de_loire,3383,2,True
@@ -11493,7 +11503,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220220,4125,ch,geneve,987,1,True
 20220220,4126,ch,jura_ch,239,0,True
 20220220,423,li,liechtenstein,75,0,True
-20220220,43,at,austria,17714,24,False
+20220220,43,at,austria,17715,24,False
 20220220,4301,at,wien,3524,3,True
 20220220,4302,at,niederosterreich,3313,7,True
 20220220,4303,at,oberosterreich,2954,1,True
@@ -11501,7 +11511,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220220,4305,at,tirol,1236,4,True
 20220220,4306,at,karnten,1479,2,True
 20220220,4307,at,salzburg,1036,3,True
-20220220,4308,at,vorarlberg,577,1,True
+20220220,4308,at,vorarlberg,578,1,True
 20220220,4309,at,burgenland,541,1,True
 20220219,3301,fr,ile_de_france,24812,14,True
 20220219,3302,fr,centre_val_de_loire,3381,3,True
@@ -11574,7 +11584,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220219,4124,ch,neuchatel,453,0,True
 20220219,4125,ch,geneve,986,0,True
 20220219,4126,ch,jura_ch,239,0,True
-20220219,43,at,austria,17690,29,False
+20220219,43,at,austria,17691,29,False
 20220219,4301,at,wien,3521,4,True
 20220219,4302,at,niederosterreich,3306,9,True
 20220219,4303,at,oberosterreich,2953,5,True
@@ -11582,7 +11592,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220219,4305,at,tirol,1232,6,True
 20220219,4306,at,karnten,1477,1,True
 20220219,4307,at,salzburg,1033,1,True
-20220219,4308,at,vorarlberg,576,0,True
+20220219,4308,at,vorarlberg,577,0,True
 20220219,4309,at,burgenland,540,0,True
 20220218,3301,fr,ile_de_france,24798,43,True
 20220218,3302,fr,centre_val_de_loire,3378,9,True
@@ -11659,7 +11669,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220218,4124,ch,neuchatel,453,1,True
 20220218,4125,ch,geneve,986,1,True
 20220218,4126,ch,jura_ch,239,0,True
-20220218,43,at,austria,17661,20,False
+20220218,43,at,austria,17662,20,False
 20220218,4301,at,wien,3517,4,True
 20220218,4302,at,niederosterreich,3297,4,True
 20220218,4303,at,oberosterreich,2948,4,True
@@ -11667,7 +11677,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220218,4305,at,tirol,1226,3,True
 20220218,4306,at,karnten,1476,0,True
 20220218,4307,at,salzburg,1032,1,True
-20220218,4308,at,vorarlberg,576,0,True
+20220218,4308,at,vorarlberg,577,0,True
 20220218,4309,at,burgenland,540,2,True
 20220217,3301,fr,ile_de_france,24755,44,True
 20220217,3302,fr,centre_val_de_loire,3369,10,True
@@ -11746,7 +11756,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220217,4125,ch,geneve,985,1,True
 20220217,4126,ch,jura_ch,239,0,True
 20220217,423,li,liechtenstein,75,0,True
-20220217,43,at,austria,17641,30,False
+20220217,43,at,austria,17642,30,False
 20220217,4301,at,wien,3513,7,True
 20220217,4302,at,niederosterreich,3293,6,True
 20220217,4303,at,oberosterreich,2944,3,True
@@ -11754,7 +11764,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220217,4305,at,tirol,1223,2,True
 20220217,4306,at,karnten,1476,3,True
 20220217,4307,at,salzburg,1031,3,True
-20220217,4308,at,vorarlberg,576,2,True
+20220217,4308,at,vorarlberg,577,2,True
 20220217,4309,at,burgenland,538,1,True
 20220216,3301,fr,ile_de_france,24711,44,True
 20220216,3302,fr,centre_val_de_loire,3359,7,True
@@ -11833,7 +11843,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220216,4125,ch,geneve,984,1,True
 20220216,4126,ch,jura_ch,239,2,True
 20220216,423,li,liechtenstein,75,0,True
-20220216,43,at,austria,17611,24,False
+20220216,43,at,austria,17612,24,False
 20220216,4301,at,wien,3506,4,True
 20220216,4302,at,niederosterreich,3287,5,True
 20220216,4303,at,oberosterreich,2941,8,True
@@ -11841,7 +11851,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220216,4305,at,tirol,1221,1,True
 20220216,4306,at,karnten,1473,1,True
 20220216,4307,at,salzburg,1028,2,True
-20220216,4308,at,vorarlberg,574,0,True
+20220216,4308,at,vorarlberg,575,0,True
 20220216,4309,at,burgenland,537,0,True
 20220215,3301,fr,ile_de_france,24667,52,True
 20220215,3302,fr,centre_val_de_loire,3352,14,True
@@ -11921,7 +11931,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220215,4125,ch,geneve,983,1,True
 20220215,4126,ch,jura_ch,237,0,True
 20220215,423,li,liechtenstein,75,0,True
-20220215,43,at,austria,17587,31,False
+20220215,43,at,austria,17588,31,False
 20220215,4301,at,wien,3502,7,True
 20220215,4302,at,niederosterreich,3282,6,True
 20220215,4303,at,oberosterreich,2933,4,True
@@ -11929,7 +11939,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220215,4305,at,tirol,1220,1,True
 20220215,4306,at,karnten,1472,2,True
 20220215,4307,at,salzburg,1026,0,True
-20220215,4308,at,vorarlberg,574,3,True
+20220215,4308,at,vorarlberg,575,3,True
 20220215,4309,at,burgenland,537,0,True
 20220214,3301,fr,ile_de_france,24615,65,True
 20220214,3302,fr,centre_val_de_loire,3338,20,True
@@ -12007,7 +12017,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220214,4125,ch,geneve,982,0,True
 20220214,4126,ch,jura_ch,237,0,True
 20220214,423,li,liechtenstein,75,1,True
-20220214,43,at,austria,17556,33,False
+20220214,43,at,austria,17557,33,False
 20220214,4301,at,wien,3495,10,True
 20220214,4302,at,niederosterreich,3276,7,True
 20220214,4303,at,oberosterreich,2929,6,True
@@ -12015,7 +12025,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220214,4305,at,tirol,1219,1,True
 20220214,4306,at,karnten,1470,6,True
 20220214,4307,at,salzburg,1026,0,True
-20220214,4308,at,vorarlberg,571,0,True
+20220214,4308,at,vorarlberg,572,0,True
 20220214,4309,at,burgenland,537,2,True
 20220213,3301,fr,ile_de_france,24550,10,True
 20220213,3302,fr,centre_val_de_loire,3318,2,True
@@ -12090,7 +12100,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220213,4125,ch,geneve,982,0,True
 20220213,4126,ch,jura_ch,237,0,True
 20220213,423,li,liechtenstein,74,0,True
-20220213,43,at,austria,17523,23,False
+20220213,43,at,austria,17524,23,False
 20220213,4301,at,wien,3485,6,True
 20220213,4302,at,niederosterreich,3269,7,True
 20220213,4303,at,oberosterreich,2923,1,True
@@ -12098,7 +12108,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220213,4305,at,tirol,1218,0,True
 20220213,4306,at,karnten,1464,4,True
 20220213,4307,at,salzburg,1026,2,True
-20220213,4308,at,vorarlberg,571,1,True
+20220213,4308,at,vorarlberg,572,1,True
 20220213,4309,at,burgenland,535,0,True
 20220212,3301,fr,ile_de_france,24540,24,True
 20220212,3302,fr,centre_val_de_loire,3316,5,True
@@ -12172,7 +12182,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220212,4124,ch,neuchatel,449,0,True
 20220212,4125,ch,geneve,982,1,True
 20220212,4126,ch,jura_ch,237,0,True
-20220212,43,at,austria,17500,33,False
+20220212,43,at,austria,17501,33,False
 20220212,4301,at,wien,3479,10,True
 20220212,4302,at,niederosterreich,3262,5,True
 20220212,4303,at,oberosterreich,2922,3,True
@@ -12180,7 +12190,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220212,4305,at,tirol,1218,0,True
 20220212,4306,at,karnten,1460,1,True
 20220212,4307,at,salzburg,1024,3,True
-20220212,4308,at,vorarlberg,570,3,True
+20220212,4308,at,vorarlberg,571,3,True
 20220212,4309,at,burgenland,535,0,True
 20220211,3301,fr,ile_de_france,24516,38,True
 20220211,3302,fr,centre_val_de_loire,3311,6,True
@@ -12257,7 +12267,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220211,4124,ch,neuchatel,449,1,True
 20220211,4125,ch,geneve,981,5,True
 20220211,4126,ch,jura_ch,237,0,True
-20220211,43,at,austria,17467,32,False
+20220211,43,at,austria,17468,32,False
 20220211,4301,at,wien,3469,8,True
 20220211,4302,at,niederosterreich,3257,4,True
 20220211,4303,at,oberosterreich,2919,5,True
@@ -12265,7 +12275,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220211,4305,at,tirol,1218,0,True
 20220211,4306,at,karnten,1459,4,True
 20220211,4307,at,salzburg,1021,3,True
-20220211,4308,at,vorarlberg,567,3,True
+20220211,4308,at,vorarlberg,568,3,True
 20220211,4309,at,burgenland,535,0,True
 20220210,3301,fr,ile_de_france,24478,65,True
 20220210,3302,fr,centre_val_de_loire,3305,10,True
@@ -12344,7 +12354,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220210,4125,ch,geneve,976,1,True
 20220210,4126,ch,jura_ch,237,1,True
 20220210,423,li,liechtenstein,74,0,True
-20220210,43,at,austria,17435,28,False
+20220210,43,at,austria,17436,28,False
 20220210,4301,at,wien,3461,6,True
 20220210,4302,at,niederosterreich,3253,5,True
 20220210,4303,at,oberosterreich,2914,7,True
@@ -12352,7 +12362,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220210,4305,at,tirol,1218,4,True
 20220210,4306,at,karnten,1455,2,True
 20220210,4307,at,salzburg,1018,0,True
-20220210,4308,at,vorarlberg,564,0,True
+20220210,4308,at,vorarlberg,565,0,True
 20220210,4309,at,burgenland,535,0,True
 20220209,3301,fr,ile_de_france,24413,39,True
 20220209,3302,fr,centre_val_de_loire,3295,10,True
@@ -12432,7 +12442,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220209,4125,ch,geneve,975,1,True
 20220209,4126,ch,jura_ch,236,0,True
 20220209,423,li,liechtenstein,74,0,True
-20220209,43,at,austria,17407,19,False
+20220209,43,at,austria,17408,19,False
 20220209,4301,at,wien,3455,5,True
 20220209,4302,at,niederosterreich,3248,5,True
 20220209,4303,at,oberosterreich,2907,5,True
@@ -12440,7 +12450,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220209,4305,at,tirol,1214,1,True
 20220209,4306,at,karnten,1453,1,True
 20220209,4307,at,salzburg,1018,1,True
-20220209,4308,at,vorarlberg,564,0,True
+20220209,4308,at,vorarlberg,565,0,True
 20220209,4309,at,burgenland,535,0,True
 20220208,3301,fr,ile_de_france,24374,53,True
 20220208,3302,fr,centre_val_de_loire,3285,11,True
@@ -12521,7 +12531,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220208,4125,ch,geneve,974,1,True
 20220208,4126,ch,jura_ch,236,0,True
 20220208,423,li,liechtenstein,74,0,True
-20220208,43,at,austria,17388,19,False
+20220208,43,at,austria,17389,19,False
 20220208,4301,at,wien,3450,4,True
 20220208,4302,at,niederosterreich,3243,5,True
 20220208,4303,at,oberosterreich,2902,5,True
@@ -12529,7 +12539,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220208,4305,at,tirol,1213,0,True
 20220208,4306,at,karnten,1452,1,True
 20220208,4307,at,salzburg,1017,1,True
-20220208,4308,at,vorarlberg,564,2,True
+20220208,4308,at,vorarlberg,565,2,True
 20220208,4309,at,burgenland,535,0,True
 20220207,3301,fr,ile_de_france,24321,63,True
 20220207,3302,fr,centre_val_de_loire,3274,12,True
@@ -12609,7 +12619,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220207,4125,ch,geneve,973,2,True
 20220207,4126,ch,jura_ch,236,0,True
 20220207,423,li,liechtenstein,74,0,True
-20220207,43,at,austria,17369,24,False
+20220207,43,at,austria,17370,24,False
 20220207,4301,at,wien,3446,8,True
 20220207,4302,at,niederosterreich,3238,4,True
 20220207,4303,at,oberosterreich,2897,5,True
@@ -12617,7 +12627,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220207,4305,at,tirol,1213,0,True
 20220207,4306,at,karnten,1451,2,True
 20220207,4307,at,salzburg,1016,0,True
-20220207,4308,at,vorarlberg,562,1,True
+20220207,4308,at,vorarlberg,563,1,True
 20220207,4309,at,burgenland,535,1,True
 20220206,3301,fr,ile_de_france,24258,15,True
 20220206,3302,fr,centre_val_de_loire,3262,5,True
@@ -12692,7 +12702,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220206,4125,ch,geneve,971,1,True
 20220206,4126,ch,jura_ch,236,0,True
 20220206,423,li,liechtenstein,74,0,True
-20220206,43,at,austria,17345,20,False
+20220206,43,at,austria,17346,20,False
 20220206,4301,at,wien,3438,8,True
 20220206,4302,at,niederosterreich,3234,2,True
 20220206,4303,at,oberosterreich,2892,2,True
@@ -12700,7 +12710,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220206,4305,at,tirol,1213,2,True
 20220206,4306,at,karnten,1449,0,True
 20220206,4307,at,salzburg,1016,1,True
-20220206,4308,at,vorarlberg,561,2,True
+20220206,4308,at,vorarlberg,562,2,True
 20220206,4309,at,burgenland,534,2,True
 20220205,3301,fr,ile_de_france,24243,26,True
 20220205,3302,fr,centre_val_de_loire,3257,5,True
@@ -12774,7 +12784,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220205,4124,ch,neuchatel,445,0,True
 20220205,4125,ch,geneve,970,1,True
 20220205,4126,ch,jura_ch,236,1,True
-20220205,43,at,austria,17325,26,False
+20220205,43,at,austria,17326,26,False
 20220205,4301,at,wien,3430,7,True
 20220205,4302,at,niederosterreich,3232,5,True
 20220205,4303,at,oberosterreich,2890,4,True
@@ -12782,7 +12792,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220205,4305,at,tirol,1211,2,True
 20220205,4306,at,karnten,1449,1,True
 20220205,4307,at,salzburg,1015,1,True
-20220205,4308,at,vorarlberg,559,0,True
+20220205,4308,at,vorarlberg,560,0,True
 20220205,4309,at,burgenland,532,1,True
 20220204,3301,fr,ile_de_france,24217,63,True
 20220204,3302,fr,centre_val_de_loire,3252,19,True
@@ -12860,7 +12870,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220204,4124,ch,neuchatel,445,1,True
 20220204,4125,ch,geneve,969,0,True
 20220204,4126,ch,jura_ch,235,0,True
-20220204,43,at,austria,17299,20,False
+20220204,43,at,austria,17300,20,False
 20220204,4301,at,wien,3423,4,True
 20220204,4302,at,niederosterreich,3227,2,True
 20220204,4303,at,oberosterreich,2886,5,True
@@ -12868,7 +12878,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220204,4305,at,tirol,1209,1,True
 20220204,4306,at,karnten,1448,1,True
 20220204,4307,at,salzburg,1014,1,True
-20220204,4308,at,vorarlberg,559,1,True
+20220204,4308,at,vorarlberg,560,1,True
 20220204,4309,at,burgenland,531,1,True
 20220203,3301,fr,ile_de_france,24154,71,True
 20220203,3302,fr,centre_val_de_loire,3233,-1,True
@@ -12948,7 +12958,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220203,4125,ch,geneve,969,1,True
 20220203,4126,ch,jura_ch,235,0,True
 20220203,423,li,liechtenstein,74,0,True
-20220203,43,at,austria,17279,25,False
+20220203,43,at,austria,17280,25,False
 20220203,4301,at,wien,3419,6,True
 20220203,4302,at,niederosterreich,3225,3,True
 20220203,4303,at,oberosterreich,2881,5,True
@@ -12956,7 +12966,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220203,4305,at,tirol,1208,1,True
 20220203,4306,at,karnten,1447,2,True
 20220203,4307,at,salzburg,1013,1,True
-20220203,4308,at,vorarlberg,558,3,True
+20220203,4308,at,vorarlberg,559,3,True
 20220203,4309,at,burgenland,530,0,True
 20220202,3301,fr,ile_de_france,24083,44,True
 20220202,3302,fr,centre_val_de_loire,3234,6,True
@@ -13036,7 +13046,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220202,4125,ch,geneve,968,5,True
 20220202,4126,ch,jura_ch,235,0,True
 20220202,423,li,liechtenstein,74,0,True
-20220202,43,at,austria,17254,21,False
+20220202,43,at,austria,17255,21,False
 20220202,4301,at,wien,3413,7,True
 20220202,4302,at,niederosterreich,3222,5,True
 20220202,4303,at,oberosterreich,2876,4,True
@@ -13044,7 +13054,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220202,4305,at,tirol,1207,1,True
 20220202,4306,at,karnten,1445,0,True
 20220202,4307,at,salzburg,1012,1,True
-20220202,4308,at,vorarlberg,555,0,True
+20220202,4308,at,vorarlberg,556,0,True
 20220202,4309,at,burgenland,530,0,True
 20220201,3301,fr,ile_de_france,24039,69,True
 20220201,3302,fr,centre_val_de_loire,3228,12,True
@@ -13124,7 +13134,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220201,4124,ch,neuchatel,443,0,True
 20220201,4125,ch,geneve,963,1,True
 20220201,4126,ch,jura_ch,235,1,True
-20220201,43,at,austria,17233,15,False
+20220201,43,at,austria,17234,15,False
 20220201,4301,at,wien,3406,6,True
 20220201,4302,at,niederosterreich,3217,5,True
 20220201,4303,at,oberosterreich,2872,0,True
@@ -13132,7 +13142,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220201,4305,at,tirol,1206,1,True
 20220201,4306,at,karnten,1445,2,True
 20220201,4307,at,salzburg,1011,0,True
-20220201,4308,at,vorarlberg,555,0,True
+20220201,4308,at,vorarlberg,556,0,True
 20220201,4309,at,burgenland,530,1,True
 20220131,3301,fr,ile_de_france,23970,58,True
 20220131,3302,fr,centre_val_de_loire,3216,13,True
@@ -13212,7 +13222,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220131,4125,ch,geneve,962,0,True
 20220131,4126,ch,jura_ch,234,0,True
 20220131,423,li,liechtenstein,74,1,True
-20220131,43,at,austria,17218,14,False
+20220131,43,at,austria,17219,14,False
 20220131,4301,at,wien,3400,6,True
 20220131,4302,at,niederosterreich,3212,3,True
 20220131,4303,at,oberosterreich,2872,1,True
@@ -13220,7 +13230,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220131,4305,at,tirol,1205,0,True
 20220131,4306,at,karnten,1443,1,True
 20220131,4307,at,salzburg,1011,0,True
-20220131,4308,at,vorarlberg,555,1,True
+20220131,4308,at,vorarlberg,556,1,True
 20220131,4309,at,burgenland,529,1,True
 20220130,3301,fr,ile_de_france,23912,28,True
 20220130,3302,fr,centre_val_de_loire,3203,2,True
@@ -13295,7 +13305,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220130,4125,ch,geneve,962,1,True
 20220130,4126,ch,jura_ch,234,0,True
 20220130,423,li,liechtenstein,73,0,True
-20220130,43,at,austria,17204,16,False
+20220130,43,at,austria,17205,16,False
 20220130,4301,at,wien,3394,2,True
 20220130,4302,at,niederosterreich,3209,1,True
 20220130,4303,at,oberosterreich,2871,2,True
@@ -13303,7 +13313,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220130,4305,at,tirol,1205,4,True
 20220130,4306,at,karnten,1442,1,True
 20220130,4307,at,salzburg,1011,3,True
-20220130,4308,at,vorarlberg,554,1,True
+20220130,4308,at,vorarlberg,555,1,True
 20220130,4309,at,burgenland,528,0,True
 20220129,3301,fr,ile_de_france,23884,43,True
 20220129,3302,fr,centre_val_de_loire,3201,6,True
@@ -13376,7 +13386,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220129,4124,ch,neuchatel,441,1,True
 20220129,4125,ch,geneve,961,1,True
 20220129,4126,ch,jura_ch,234,1,True
-20220129,43,at,austria,17188,15,False
+20220129,43,at,austria,17189,15,False
 20220129,4301,at,wien,3392,2,True
 20220129,4302,at,niederosterreich,3208,6,True
 20220129,4303,at,oberosterreich,2869,1,True
@@ -13384,7 +13394,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220129,4305,at,tirol,1201,0,True
 20220129,4306,at,karnten,1441,0,True
 20220129,4307,at,salzburg,1008,2,True
-20220129,4308,at,vorarlberg,553,1,True
+20220129,4308,at,vorarlberg,554,1,True
 20220129,4309,at,burgenland,528,0,True
 20220128,3301,fr,ile_de_france,23841,55,True
 20220128,3302,fr,centre_val_de_loire,3195,8,True
@@ -13463,7 +13473,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220128,4124,ch,neuchatel,440,0,True
 20220128,4125,ch,geneve,960,2,True
 20220128,4126,ch,jura_ch,233,0,True
-20220128,43,at,austria,17173,20,False
+20220128,43,at,austria,17174,20,False
 20220128,4301,at,wien,3390,8,True
 20220128,4302,at,niederosterreich,3202,1,True
 20220128,4303,at,oberosterreich,2868,1,True
@@ -13471,7 +13481,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220128,4305,at,tirol,1201,2,True
 20220128,4306,at,karnten,1441,2,True
 20220128,4307,at,salzburg,1006,1,True
-20220128,4308,at,vorarlberg,552,1,True
+20220128,4308,at,vorarlberg,553,1,True
 20220128,4309,at,burgenland,528,1,True
 20220127,3301,fr,ile_de_france,23786,69,True
 20220127,3302,fr,centre_val_de_loire,3187,9,True
@@ -13552,7 +13562,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220127,4125,ch,geneve,958,1,True
 20220127,4126,ch,jura_ch,233,0,True
 20220127,423,li,liechtenstein,73,0,True
-20220127,43,at,austria,17153,17,False
+20220127,43,at,austria,17154,17,False
 20220127,4301,at,wien,3382,5,True
 20220127,4302,at,niederosterreich,3201,3,True
 20220127,4303,at,oberosterreich,2867,2,True
@@ -13560,7 +13570,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220127,4305,at,tirol,1199,1,True
 20220127,4306,at,karnten,1439,0,True
 20220127,4307,at,salzburg,1005,1,True
-20220127,4308,at,vorarlberg,551,2,True
+20220127,4308,at,vorarlberg,552,2,True
 20220127,4309,at,burgenland,527,0,True
 20220126,3301,fr,ile_de_france,23717,63,True
 20220126,3302,fr,centre_val_de_loire,3178,3,True
@@ -13641,7 +13651,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220126,4125,ch,geneve,957,0,True
 20220126,4126,ch,jura_ch,233,1,True
 20220126,423,li,liechtenstein,73,0,True
-20220126,43,at,austria,17136,10,False
+20220126,43,at,austria,17137,10,False
 20220126,4301,at,wien,3377,5,True
 20220126,4302,at,niederosterreich,3198,0,True
 20220126,4303,at,oberosterreich,2865,0,True
@@ -13649,7 +13659,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220126,4305,at,tirol,1198,1,True
 20220126,4306,at,karnten,1439,1,True
 20220126,4307,at,salzburg,1004,0,True
-20220126,4308,at,vorarlberg,549,1,True
+20220126,4308,at,vorarlberg,550,1,True
 20220126,4309,at,burgenland,527,0,True
 20220125,3301,fr,ile_de_france,23654,103,True
 20220125,3302,fr,centre_val_de_loire,3175,7,True
@@ -13730,7 +13740,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220125,4125,ch,geneve,957,3,True
 20220125,4126,ch,jura_ch,232,0,True
 20220125,423,li,liechtenstein,73,0,True
-20220125,43,at,austria,17126,16,False
+20220125,43,at,austria,17127,16,False
 20220125,4301,at,wien,3372,1,True
 20220125,4302,at,niederosterreich,3198,6,True
 20220125,4303,at,oberosterreich,2865,5,True
@@ -13738,7 +13748,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220125,4305,at,tirol,1197,2,True
 20220125,4306,at,karnten,1438,1,True
 20220125,4307,at,salzburg,1004,0,True
-20220125,4308,at,vorarlberg,548,0,True
+20220125,4308,at,vorarlberg,549,0,True
 20220125,4309,at,burgenland,527,0,True
 20220124,3301,fr,ile_de_france,23551,91,True
 20220124,3302,fr,centre_val_de_loire,3168,9,True
@@ -13818,7 +13828,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220124,4125,ch,geneve,954,0,True
 20220124,4126,ch,jura_ch,232,0,True
 20220124,423,li,liechtenstein,73,0,True
-20220124,43,at,austria,17110,12,False
+20220124,43,at,austria,17111,13,False
 20220124,4301,at,wien,3371,6,True
 20220124,4302,at,niederosterreich,3192,1,True
 20220124,4303,at,oberosterreich,2860,1,True
@@ -13826,7 +13836,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220124,4305,at,tirol,1195,0,True
 20220124,4306,at,karnten,1437,1,True
 20220124,4307,at,salzburg,1004,0,True
-20220124,4308,at,vorarlberg,548,2,True
+20220124,4308,at,vorarlberg,549,3,True
 20220124,4309,at,burgenland,527,0,True
 20220123,3301,fr,ile_de_france,23460,21,True
 20220123,3302,fr,centre_val_de_loire,3159,0,True
