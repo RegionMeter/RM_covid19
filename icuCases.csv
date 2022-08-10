@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,icuCases,isLeaf
+20220810,4121,ch,ticino,4,True
 20220809,386012,si,podravska,5,True
 20220809,386014,si,savinjska,2,True
 20220809,386021,si,osrednjeslovenska,7,True
@@ -31,6 +32,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220809,4113,ch,basel_landschaft,0,True
 20220809,4114,ch,schaffhausen,0,True
 20220809,4117,ch,st_gallen,1,True
+20220809,4121,ch,ticino,4,True
+20220809,4125,ch,geneve,1,True
 20220809,43,at,austria,77,False
 20220809,4301,at,wien,26,True
 20220809,4302,at,niederosterreich,16,True
@@ -74,6 +77,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220808,4114,ch,schaffhausen,0,True
 20220808,4117,ch,st_gallen,2,True
 20220808,4120,ch,thurgau,2,True
+20220808,4121,ch,ticino,4,True
 20220808,4124,ch,neuchatel,0,True
 20220808,4125,ch,geneve,2,True
 20220808,43,at,austria,81,False
@@ -117,6 +121,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220807,4114,ch,schaffhausen,1,True
 20220807,4117,ch,st_gallen,0,True
 20220807,4120,ch,thurgau,2,True
+20220807,4122,ch,vaud,5,True
 20220807,4124,ch,neuchatel,1,True
 20220807,4125,ch,geneve,3,True
 20220807,43,at,austria,72,False
@@ -204,6 +209,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220805,4113,ch,basel_landschaft,2,True
 20220805,4117,ch,st_gallen,0,True
 20220805,4120,ch,thurgau,1,True
+20220805,4121,ch,ticino,4,True
 20220805,4124,ch,neuchatel,2,True
 20220805,4125,ch,geneve,4,True
 20220805,43,at,austria,73,False
@@ -250,6 +256,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220804,4114,ch,schaffhausen,2,True
 20220804,4117,ch,st_gallen,0,True
 20220804,4120,ch,thurgau,1,True
+20220804,4121,ch,ticino,5,True
 20220804,4124,ch,neuchatel,1,True
 20220804,4125,ch,geneve,4,True
 20220804,43,at,austria,83,False
