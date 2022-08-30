@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
+20220830,4107,ch,nidwalden,2,True
 20220829,386011,si,pomurska,0,True
 20220829,386012,si,podravska,20,True
 20220829,386013,si,koroska,0,True
@@ -31,7 +32,9 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220829,3952,it,sardegna,101,True
 20220829,4107,ch,nidwalden,2,True
 20220829,4112,ch,basel_stadt,42,True
+20220829,4114,ch,schaffhausen,8,True
 20220829,4120,ch,thurgau,13,True
+20220829,4124,ch,neuchatel,20,True
 20220829,4125,ch,geneve,190,True
 20220829,423,li,liechtenstein,1,True
 20220829,43,at,austria,1025,False
@@ -77,6 +80,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220828,4110,ch,fribourg,15,True
 20220828,4114,ch,schaffhausen,6,True
 20220828,4120,ch,thurgau,13,True
+20220828,4124,ch,neuchatel,14,True
 20220828,4125,ch,geneve,228,True
 20220828,423,li,liechtenstein,1,True
 20220828,43,at,austria,986,False
@@ -121,6 +125,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220827,3952,it,sardegna,104,True
 20220827,4110,ch,fribourg,14,True
 20220827,4120,ch,thurgau,13,True
+20220827,4124,ch,neuchatel,14,True
 20220827,4125,ch,geneve,229,True
 20220827,423,li,liechtenstein,1,True
 20220827,43,at,austria,1001,False
@@ -168,6 +173,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220826,4111,ch,solothurn,10,True
 20220826,4112,ch,basel_stadt,40,True
 20220826,4120,ch,thurgau,15,True
+20220826,4124,ch,neuchatel,15,True
 20220826,4125,ch,geneve,231,True
 20220826,423,li,liechtenstein,1,True
 20220826,43,at,austria,1005,False
@@ -216,6 +222,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220825,4112,ch,basel_stadt,43,True
 20220825,4114,ch,schaffhausen,7,True
 20220825,4120,ch,thurgau,17,True
+20220825,4124,ch,neuchatel,10,True
 20220825,4125,ch,geneve,236,True
 20220825,423,li,liechtenstein,2,True
 20220825,43,at,austria,1043,False
@@ -267,6 +274,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220824,4114,ch,schaffhausen,6,True
 20220824,4120,ch,thurgau,18,True
 20220824,4121,ch,ticino,46,True
+20220824,4124,ch,neuchatel,11,True
 20220824,4125,ch,geneve,242,True
 20220824,423,li,liechtenstein,2,True
 20220824,43,at,austria,1039,False
@@ -321,6 +329,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220823,4117,ch,st_gallen,17,True
 20220823,4120,ch,thurgau,19,True
 20220823,4121,ch,ticino,47,True
+20220823,4124,ch,neuchatel,11,True
 20220823,4125,ch,geneve,249,True
 20220823,423,li,liechtenstein,2,True
 20220823,43,at,austria,1098,False
