@@ -1,16 +1,21 @@
 dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,current_icu,current_vent,ncumul_released,ncumul_deceased,source
 20220902,12:00,BS,,94461,33,2,,93875,300,https://www.gesundheit.bs.ch
 20220902,00:00,GE,,234437,178,,,,,https://infocovid.smc.unige.ch/
+20220902,,NW,,20005,1,0,,,38,http://www.nw.ch/coronastatistik
 20220902,,SO,,127762,5,0,,,373,https://corona.so.ch/bevoelkerung/daten/
 20220901,12:00,BS,,94403,40,3,,93864,300,https://www.gesundheit.bs.ch
+20220901,00:00,FL,,19183,0,,,18970,86,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220901,00:00,GE,,234430,222,1,,,,https://infocovid.smc.unige.ch/
 20220901,,LU,,194466,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
+20220901,,NW,,19999,2,0,,,38,http://www.nw.ch/coronastatistik
 20220901,,SH,,36103,10,0,,,135,https://coviddashboard.sh.ch/
 20220901,,SO,,127670,8,0,,,373,https://corona.so.ch/bevoelkerung/daten/
 20220831,12:00,BS,,94340,38,2,,93810,300,https://www.gesundheit.bs.ch
+20220831,00:00,FL,,19166,0,,,18970,86,https://www.llv.li/files/ag/aktuelle-fallzahlen.xlsx
 20220831,00:00,GE,,234356,222,0,,,,https://infocovid.smc.unige.ch/
 20220831,,LU,,194356,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220831,,NW,,19993,2,0,,,38,http://www.nw.ch/coronastatistik
+20220831,00:00,OW,,18184,0,,,,62,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220831,,SH,,36078,9,0,,,135,https://coviddashboard.sh.ch/
 20220831,,SO,,127565,8,0,,,373,https://corona.so.ch/bevoelkerung/daten/
 20220831,,TI,,167591,38,2,,,1228,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_UMC_per_github_storico.xlsx
@@ -22,6 +27,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220830,00:00,GE,,234261,234,0,,,,https://infocovid.smc.unige.ch/
 20220830,,LU,,194251,9,,1,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220830,,NW,,19983,2,0,,,38,http://www.nw.ch/coronastatistik
+20220830,00:00,OW,,18175,0,,,,62,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220830,,SG,,,12,0,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220830,,SH,,36050,10,0,,,135,https://coviddashboard.sh.ch/
 20220830,,SO,,127480,10,0,,,373,https://corona.so.ch/bevoelkerung/daten/
@@ -35,6 +41,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220829,,LU,,194131,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220829,,NE,,84571,20,0,0,,477,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220829,,NW,,19973,2,0,,,38,http://www.nw.ch/coronastatistik
+20220829,00:00,OW,,18171,0,,,,62,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220829,,SG,,228767,13,0,0,,867,https://www.sg.ch/tools/informationen-coronavirus.html
 20220829,,SH,,36027,8,0,,,135,https://coviddashboard.sh.ch/
 20220829,10:00,TG,,130742,13,2,,2946,703,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -72,6 +79,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220826,,LU,,193902,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220826,,NE,,84514,15,0,0,,477,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220826,,NW,,19952,1,0,,,38,http://www.nw.ch/coronastatistik
+20220826,00:00,OW,,18145,,,,,62,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220826,,SG,,228546,15,0,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220826,,SH,,35963,,,,,135,https://coviddashboard.sh.ch/
 20220826,,SO,,127171,10,0,,,373,https://corona.so.ch/bevoelkerung/daten/
@@ -87,6 +95,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220825,,LU,,193811,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220825,,NE,,84475,10,1,0,,477,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220825,,NW,,19945,1,0,,,38,http://www.nw.ch/coronastatistik
+20220825,00:00,OW,,18141,0,,,,62,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220825,,SG,,228422,18,0,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220825,,SH,,35947,7,0,,,135,https://coviddashboard.sh.ch/
 20220825,,SO,,127089,9,0,,,373,https://corona.so.ch/bevoelkerung/daten/
@@ -102,6 +111,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220824,,LU,,193729,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220824,,NE,,84437,11,2,0,,477,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220824,,NW,,19928,3,0,,,38,http://www.nw.ch/coronastatistik
+20220824,00:00,OW,,18129,,,,,62,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220824,,SG,,228312,16,0,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220824,,SH,,35922,6,0,,,135,https://coviddashboard.sh.ch/
 20220824,,SO,,126996,11,0,,,373,https://corona.so.ch/bevoelkerung/daten/
@@ -117,6 +127,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220823,,LU,,193620,14,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220823,,NE,,84379,11,1,0,,477,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220823,,NW,,19916,2,0,,,38,http://www.nw.ch/coronastatistik
+20220823,00:00,OW,,18118,0,,,,61,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220823,,SG,,228181,17,0,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220823,,SH,,35902,6,0,,,135,https://coviddashboard.sh.ch/
 20220823,,SO,,126871,9,0,,,373,https://corona.so.ch/bevoelkerung/daten/
@@ -132,6 +143,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220822,,LU,,193477,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220822,,NE,,84331,13,0,0,,477,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220822,,NW,,19900,2,0,,,38,http://www.nw.ch/coronastatistik
+20220822,00:00,OW,,18102,0,,,,61,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220822,,SG,,228083,16,0,0,,866,https://www.sg.ch/tools/informationen-coronavirus.html
 20220822,,SH,,35867,6,1,,,135,https://coviddashboard.sh.ch/
 20220822,,SO,,126794,12,0,,,373,https://corona.so.ch/bevoelkerung/daten/
@@ -170,6 +182,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220819,,LU,,193241,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220819,,NE,,84236,15,1,0,,477,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220819,,NW,,19863,1,0,,,36,http://www.nw.ch/coronastatistik
+20220819,00:00,OW,,18081,0,,,,61,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220819,,SG,,227829,14,0,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220819,,SH,,35820,,,,,135,https://coviddashboard.sh.ch/
 20220819,,SO,,126609,13,0,,,373,https://corona.so.ch/bevoelkerung/daten/
@@ -185,6 +198,7 @@ dateid,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,current_hosp,cu
 20220818,,LU,,193116,,,,,,https://www.lustat.ch/files_ftp/daten/covid/web/w142_200t_kt0003_zz_d_0000.xlsx
 20220818,,NE,,84196,13,2,1,,477,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 20220818,,NW,,19846,1,0,,,36,http://www.nw.ch/coronastatistik
+20220818,00:00,OW,,18077,,,,,61,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 20220818,,SG,,227723,19,0,0,,,https://www.sg.ch/tools/informationen-coronavirus.html
 20220818,,SH,,35792,6,1,,,135,https://coviddashboard.sh.ch/
 20220818,,SO,,126508,13,0,,,372,https://corona.so.ch/bevoelkerung/daten/
