@@ -1,4 +1,6 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
+20220905,4107,ch,nidwalden,0,True
+20220905,4111,ch,solothurn,5,True
 20220904,386011,si,pomurska,0,True
 20220904,386012,si,podravska,20,True
 20220904,386013,si,koroska,0,True
@@ -30,6 +32,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220904,3951,it,sicilia,379,True
 20220904,3952,it,sardegna,85,True
 20220904,4114,ch,schaffhausen,11,True
+20220904,4125,ch,geneve,210,True
 20220904,423,li,liechtenstein,2,True
 20220904,43,at,austria,903,False
 20220904,4301,at,wien,264,True
@@ -71,7 +74,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220903,3946,it,calabria,149,True
 20220903,3951,it,sicilia,402,True
 20220903,3952,it,sardegna,85,True
-20220903,4125,ch,geneve,40,True
+20220903,4125,ch,geneve,216,True
 20220903,423,li,liechtenstein,1,True
 20220903,43,at,austria,918,False
 20220903,4301,at,wien,279,True
