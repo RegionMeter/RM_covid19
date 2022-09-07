@@ -4,7 +4,9 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220907,386021,si,osrednjeslovenska,6,True
 20220907,386022,si,gorenjska,0,True
 20220907,4107,ch,nidwalden,0,True
+20220907,4109,ch,zug,0,True
 20220907,4111,ch,solothurn,1,True
+20220907,4112,ch,basel_stadt,2,True
 20220907,4121,ch,ticino,1,True
 20220907,43,at,austria,46,False
 20220907,4301,at,wien,19,True
@@ -43,6 +45,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220906,3951,it,sicilia,27,True
 20220906,3952,it,sardegna,6,True
 20220906,4107,ch,nidwalden,0,True
+20220906,4109,ch,zug,1,True
 20220906,4111,ch,solothurn,0,True
 20220906,4112,ch,basel_stadt,2,True
 20220906,4113,ch,basel_landschaft,1,True
@@ -87,6 +90,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220905,3951,it,sicilia,25,True
 20220905,3952,it,sardegna,7,True
 20220905,4107,ch,nidwalden,0,True
+20220905,4109,ch,zug,1,True
 20220905,4111,ch,solothurn,0,True
 20220905,4112,ch,basel_stadt,4,True
 20220905,4113,ch,basel_landschaft,1,True
@@ -133,6 +137,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220904,3951,it,sicilia,24,True
 20220904,3952,it,sardegna,7,True
 20220904,4107,ch,nidwalden,0,True
+20220904,4109,ch,zug,1,True
 20220904,4113,ch,basel_landschaft,3,True
 20220904,4114,ch,schaffhausen,0,True
 20220904,4117,ch,st_gallen,0,True
@@ -176,6 +181,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220903,3951,it,sicilia,22,True
 20220903,3952,it,sardegna,8,True
 20220903,4107,ch,nidwalden,0,True
+20220903,4109,ch,zug,1,True
 20220903,4113,ch,basel_landschaft,3,True
 20220903,4117,ch,st_gallen,0,True
 20220903,4120,ch,thurgau,5,True
@@ -218,6 +224,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220902,3951,it,sicilia,24,True
 20220902,3952,it,sardegna,7,True
 20220902,4107,ch,nidwalden,0,True
+20220902,4109,ch,zug,1,True
 20220902,4111,ch,solothurn,0,True
 20220902,4112,ch,basel_stadt,2,True
 20220902,4113,ch,basel_landschaft,2,True
@@ -263,6 +270,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220901,3951,it,sicilia,21,True
 20220901,3952,it,sardegna,8,True
 20220901,4107,ch,nidwalden,0,True
+20220901,4109,ch,zug,1,True
 20220901,4111,ch,solothurn,0,True
 20220901,4112,ch,basel_stadt,3,True
 20220901,4113,ch,basel_landschaft,2,True
@@ -310,7 +318,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20220831,3952,it,sardegna,7,True
 20220831,4101,ch,zurich,4,True
 20220831,4107,ch,nidwalden,0,True
-20220831,4109,ch,zug,1,True
+20220831,4109,ch,zug,0,True
 20220831,4111,ch,solothurn,0,True
 20220831,4112,ch,basel_stadt,2,True
 20220831,4113,ch,basel_landschaft,2,True
