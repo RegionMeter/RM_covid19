@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
+20220913,4107,ch,nidwalden,0,True
 20220912,386011,si,pomurska,0,True
 20220912,386012,si,podravska,25,True
 20220912,386013,si,koroska,0,True
@@ -35,6 +36,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220912,4114,ch,schaffhausen,8,True
 20220912,4120,ch,thurgau,14,True
 20220912,4124,ch,neuchatel,11,True
+20220912,4125,ch,geneve,214,True
 20220912,423,li,liechtenstein,2,True
 20220912,43,at,austria,871,False
 20220912,4301,at,wien,260,True
@@ -79,6 +81,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220911,4114,ch,schaffhausen,12,True
 20220911,4120,ch,thurgau,14,True
 20220911,4124,ch,neuchatel,4,True
+20220911,4125,ch,geneve,199,True
 20220911,423,li,liechtenstein,2,True
 20220911,43,at,austria,848,False
 20220911,4301,at,wien,240,True
@@ -122,7 +125,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220910,3952,it,sardegna,80,True
 20220910,4120,ch,thurgau,13,True
 20220910,4124,ch,neuchatel,4,True
-20220910,4125,ch,geneve,45,True
+20220910,4125,ch,geneve,209,True
 20220910,423,li,liechtenstein,2,True
 20220910,43,at,austria,855,False
 20220910,4301,at,wien,247,True
