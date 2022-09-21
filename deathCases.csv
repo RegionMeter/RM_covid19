@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
+20220921,4121,ch,ticino,1231,1,True
 20220920,39,it,italy,176669,60,False
 20220920,3911,it,piemonte,13614,1,True
 20220920,3912,it,valle_daosta,549,1,True
@@ -24,6 +25,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220920,4107,ch,nidwalden,39,0,True
 20220920,4111,ch,solothurn,373,0,True
 20220920,4112,ch,basel_stadt,303,0,True
+20220920,4114,ch,schaffhausen,135,0,True
+20220920,4121,ch,ticino,1230,0,True
 20220920,423,li,liechtenstein,86,0,True
 20220919,386,si,slovenia,8216,0,False
 20220919,386011,si,pomurska,696,0,True
@@ -67,6 +70,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220919,4114,ch,schaffhausen,135,0,True
 20220919,4117,ch,st_gallen,869,1,True
 20220919,4120,ch,thurgau,706,1,True
+20220919,4121,ch,ticino,1230,0,True
 20220919,4124,ch,neuchatel,478,0,True
 20220919,423,li,liechtenstein,86,0,True
 20220919,43,at,austria,20683,1,False
@@ -223,6 +227,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220916,4113,ch,basel_landschaft,314,0,True
 20220916,4114,ch,schaffhausen,135,0,True
 20220916,4120,ch,thurgau,704,0,True
+20220916,4121,ch,ticino,1230,0,True
 20220916,4124,ch,neuchatel,478,0,True
 20220916,423,li,liechtenstein,86,0,True
 20220916,43,at,austria,20681,1,False
@@ -277,6 +282,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220915,4113,ch,basel_landschaft,314,0,True
 20220915,4114,ch,schaffhausen,135,0,True
 20220915,4120,ch,thurgau,704,0,True
+20220915,4121,ch,ticino,1230,0,True
 20220915,4124,ch,neuchatel,478,0,True
 20220915,423,li,liechtenstein,86,0,True
 20220915,43,at,austria,20680,2,False
