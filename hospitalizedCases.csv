@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
+20221010,4120,ch,thurgau,25,True
 20221009,386011,si,pomurska,0,True
 20221009,386012,si,podravska,36,True
 20221009,386013,si,koroska,0,True
@@ -32,6 +33,9 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221009,3946,it,calabria,135,True
 20221009,3951,it,sicilia,216,True
 20221009,3952,it,sardegna,86,True
+20221009,4110,ch,fribourg,33,True
+20221009,4120,ch,thurgau,25,True
+20221009,4125,ch,geneve,202,True
 20221009,423,li,liechtenstein,0,True
 20221008,386011,si,pomurska,0,True
 20221008,386012,si,podravska,34,True
@@ -66,7 +70,9 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221008,3946,it,calabria,132,True
 20221008,3951,it,sicilia,208,True
 20221008,3952,it,sardegna,79,True
-20221008,4125,ch,geneve,80,True
+20221008,4110,ch,fribourg,32,True
+20221008,4120,ch,thurgau,24,True
+20221008,4125,ch,geneve,193,True
 20221008,423,li,liechtenstein,0,True
 20221007,386011,si,pomurska,0,True
 20221007,386012,si,podravska,36,True
@@ -101,8 +107,10 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221007,3951,it,sicilia,197,True
 20221007,3952,it,sardegna,65,True
 20221007,4107,ch,nidwalden,2,True
+20221007,4110,ch,fribourg,35,True
 20221007,4111,ch,solothurn,16,True
 20221007,4112,ch,basel_stadt,48,True
+20221007,4120,ch,thurgau,27,True
 20221007,4125,ch,geneve,196,True
 20221007,423,li,liechtenstein,0,True
 20221007,43,at,austria,2096,False
@@ -147,8 +155,10 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221006,3951,it,sicilia,195,True
 20221006,3952,it,sardegna,62,True
 20221006,4107,ch,nidwalden,3,True
+20221006,4110,ch,fribourg,35,True
 20221006,4111,ch,solothurn,18,True
 20221006,4112,ch,basel_stadt,51,True
+20221006,4120,ch,thurgau,28,True
 20221006,4125,ch,geneve,202,True
 20221006,423,li,liechtenstein,1,True
 20221006,43,at,austria,2016,False
@@ -196,8 +206,10 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221005,4106,ch,obwalden,0,True
 20221005,4107,ch,nidwalden,3,True
 20221005,4109,ch,zug,5,True
+20221005,4110,ch,fribourg,34,True
 20221005,4111,ch,solothurn,16,True
 20221005,4112,ch,basel_stadt,48,True
+20221005,4120,ch,thurgau,32,True
 20221005,4121,ch,ticino,98,True
 20221005,4125,ch,geneve,208,True
 20221005,423,li,liechtenstein,3,True
@@ -248,10 +260,12 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221004,4106,ch,obwalden,0,True
 20221004,4107,ch,nidwalden,4,True
 20221004,4109,ch,zug,4,True
+20221004,4110,ch,fribourg,37,True
 20221004,4111,ch,solothurn,19,True
 20221004,4112,ch,basel_stadt,57,True
 20221004,4113,ch,basel_landschaft,33,True
 20221004,4117,ch,st_gallen,39,True
+20221004,4120,ch,thurgau,33,True
 20221004,4121,ch,ticino,88,True
 20221004,4125,ch,geneve,209,True
 20221004,423,li,liechtenstein,3,True
@@ -299,11 +313,12 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221003,4106,ch,obwalden,0,True
 20221003,4107,ch,nidwalden,4,True
 20221003,4109,ch,zug,4,True
+20221003,4110,ch,fribourg,34,True
 20221003,4111,ch,solothurn,18,True
 20221003,4112,ch,basel_stadt,61,True
 20221003,4113,ch,basel_landschaft,33,True
 20221003,4117,ch,st_gallen,40,True
-20221003,4120,ch,thurgau,19,True
+20221003,4120,ch,thurgau,34,True
 20221003,4121,ch,ticino,83,True
 20221003,4124,ch,neuchatel,26,True
 20221003,4125,ch,geneve,211,True
@@ -354,7 +369,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221002,4113,ch,basel_landschaft,25,True
 20221002,4114,ch,schaffhausen,14,True
 20221002,4117,ch,st_gallen,30,True
-20221002,4120,ch,thurgau,19,True
+20221002,4120,ch,thurgau,31,True
 20221002,4122,ch,vaud,77,True
 20221002,4124,ch,neuchatel,25,True
 20221002,4125,ch,geneve,198,True
@@ -404,7 +419,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221001,4110,ch,fribourg,30,True
 20221001,4113,ch,basel_landschaft,25,True
 20221001,4117,ch,st_gallen,30,True
-20221001,4120,ch,thurgau,17,True
+20221001,4120,ch,thurgau,26,True
 20221001,4124,ch,neuchatel,24,True
 20221001,4125,ch,geneve,203,True
 20221001,423,li,liechtenstein,4,True
@@ -456,7 +471,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220930,4112,ch,basel_stadt,61,True
 20220930,4113,ch,basel_landschaft,25,True
 20220930,4117,ch,st_gallen,30,True
-20220930,4120,ch,thurgau,18,True
+20220930,4120,ch,thurgau,24,True
 20220930,4121,ch,ticino,63,True
 20220930,4124,ch,neuchatel,20,True
 20220930,4125,ch,geneve,202,True
@@ -511,7 +526,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220929,4113,ch,basel_landschaft,29,True
 20220929,4114,ch,schaffhausen,7,True
 20220929,4117,ch,st_gallen,26,True
-20220929,4120,ch,thurgau,21,True
+20220929,4120,ch,thurgau,23,True
 20220929,4121,ch,ticino,54,True
 20220929,4124,ch,neuchatel,17,True
 20220929,4125,ch,geneve,202,True
@@ -677,7 +692,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220926,4113,ch,basel_landschaft,19,True
 20220926,4114,ch,schaffhausen,6,True
 20220926,4117,ch,st_gallen,20,True
-20220926,4120,ch,thurgau,26,True
+20220926,4120,ch,thurgau,25,True
 20220926,4121,ch,ticino,43,True
 20220926,4124,ch,neuchatel,17,True
 20220926,4125,ch,geneve,209,True
@@ -728,7 +743,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220925,4113,ch,basel_landschaft,13,True
 20220925,4114,ch,schaffhausen,6,True
 20220925,4117,ch,st_gallen,11,True
-20220925,4120,ch,thurgau,24,True
+20220925,4120,ch,thurgau,23,True
 20220925,4122,ch,vaud,71,True
 20220925,4124,ch,neuchatel,15,True
 20220925,4125,ch,geneve,193,True
@@ -778,7 +793,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220924,4110,ch,fribourg,14,True
 20220924,4113,ch,basel_landschaft,13,True
 20220924,4117,ch,st_gallen,11,True
-20220924,4120,ch,thurgau,24,True
+20220924,4120,ch,thurgau,23,True
 20220924,4124,ch,neuchatel,16,True
 20220924,4125,ch,geneve,194,True
 20220924,423,li,liechtenstein,0,True
@@ -831,7 +846,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20220923,4112,ch,basel_stadt,24,True
 20220923,4113,ch,basel_landschaft,13,True
 20220923,4117,ch,st_gallen,11,True
-20220923,4120,ch,thurgau,19,True
+20220923,4120,ch,thurgau,18,True
 20220923,4121,ch,ticino,40,True
 20220923,4124,ch,neuchatel,17,True
 20220923,4125,ch,geneve,197,True
