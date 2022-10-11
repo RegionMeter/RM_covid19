@@ -1,6 +1,8 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221011,4107,ch,nidwalden,3,True
 20221011,4111,ch,solothurn,31,True
+20221011,4112,ch,basel_stadt,79,True
+20221011,4113,ch,basel_landschaft,36,True
 20221011,4117,ch,st_gallen,53,True
 20221011,43,at,austria,2418,False
 20221011,4301,at,wien,576,True
@@ -48,6 +50,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221010,4107,ch,nidwalden,3,True
 20221010,4111,ch,solothurn,29,True
 20221010,4112,ch,basel_stadt,66,True
+20221010,4113,ch,basel_landschaft,36,True
 20221010,4117,ch,st_gallen,51,True
 20221010,4120,ch,thurgau,25,True
 20221010,4124,ch,neuchatel,37,True
@@ -97,6 +100,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221009,3951,it,sicilia,216,True
 20221009,3952,it,sardegna,86,True
 20221009,4110,ch,fribourg,33,True
+20221009,4113,ch,basel_landschaft,35,True
 20221009,4117,ch,st_gallen,35,True
 20221009,4120,ch,thurgau,25,True
 20221009,4124,ch,neuchatel,35,True
@@ -146,6 +150,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221008,3951,it,sicilia,208,True
 20221008,3952,it,sardegna,79,True
 20221008,4110,ch,fribourg,32,True
+20221008,4113,ch,basel_landschaft,35,True
 20221008,4117,ch,st_gallen,35,True
 20221008,4120,ch,thurgau,24,True
 20221008,4124,ch,neuchatel,29,True
@@ -197,6 +202,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221007,4110,ch,fribourg,35,True
 20221007,4111,ch,solothurn,16,True
 20221007,4112,ch,basel_stadt,48,True
+20221007,4113,ch,basel_landschaft,35,True
 20221007,4117,ch,st_gallen,35,True
 20221007,4120,ch,thurgau,27,True
 20221007,4124,ch,neuchatel,33,True
@@ -247,6 +253,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221006,4110,ch,fribourg,35,True
 20221006,4111,ch,solothurn,18,True
 20221006,4112,ch,basel_stadt,51,True
+20221006,4113,ch,basel_landschaft,30,True
 20221006,4117,ch,st_gallen,35,True
 20221006,4120,ch,thurgau,28,True
 20221006,4124,ch,neuchatel,30,True
@@ -300,6 +307,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221005,4110,ch,fribourg,34,True
 20221005,4111,ch,solothurn,16,True
 20221005,4112,ch,basel_stadt,48,True
+20221005,4113,ch,basel_landschaft,32,True
 20221005,4117,ch,st_gallen,33,True
 20221005,4120,ch,thurgau,32,True
 20221005,4121,ch,ticino,98,True
