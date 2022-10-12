@@ -1,5 +1,6 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221012,4109,ch,zug,6,True
+20221012,4121,ch,ticino,161,True
 20221011,386011,si,pomurska,0,True
 20221011,386012,si,podravska,38,True
 20221011,386013,si,koroska,0,True
@@ -38,7 +39,8 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221011,4112,ch,basel_stadt,79,True
 20221011,4113,ch,basel_landschaft,36,True
 20221011,4117,ch,st_gallen,53,True
-20221011,4125,ch,geneve,211,True
+20221011,4121,ch,ticino,158,True
+20221011,4125,ch,geneve,217,True
 20221011,423,li,liechtenstein,5,True
 20221011,43,at,austria,2418,False
 20221011,4301,at,wien,576,True
@@ -90,8 +92,9 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221010,4113,ch,basel_landschaft,36,True
 20221010,4117,ch,st_gallen,51,True
 20221010,4120,ch,thurgau,25,True
+20221010,4121,ch,ticino,164,True
 20221010,4124,ch,neuchatel,37,True
-20221010,4125,ch,geneve,201,True
+20221010,4125,ch,geneve,204,True
 20221010,423,li,liechtenstein,2,True
 20221010,43,at,austria,2310,False
 20221010,4301,at,wien,558,True
@@ -141,6 +144,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221009,4113,ch,basel_landschaft,35,True
 20221009,4117,ch,st_gallen,35,True
 20221009,4120,ch,thurgau,25,True
+20221009,4122,ch,vaud,118,True
 20221009,4124,ch,neuchatel,35,True
 20221009,4125,ch,geneve,202,True
 20221009,423,li,liechtenstein,0,True
@@ -245,6 +249,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221007,4113,ch,basel_landschaft,35,True
 20221007,4117,ch,st_gallen,35,True
 20221007,4120,ch,thurgau,27,True
+20221007,4121,ch,ticino,124,True
 20221007,4124,ch,neuchatel,33,True
 20221007,4125,ch,geneve,196,True
 20221007,423,li,liechtenstein,0,True
@@ -297,6 +302,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221006,4113,ch,basel_landschaft,30,True
 20221006,4117,ch,st_gallen,35,True
 20221006,4120,ch,thurgau,28,True
+20221006,4121,ch,ticino,113,True
 20221006,4124,ch,neuchatel,30,True
 20221006,4125,ch,geneve,202,True
 20221006,423,li,liechtenstein,1,True
