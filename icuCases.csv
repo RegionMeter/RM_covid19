@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,icuCases,isLeaf
+20221019,4121,ch,ticino,10,True
 20221018,386012,si,podravska,7,True
 20221018,386013,si,koroska,1,True
 20221018,386014,si,savinjska,3,True
@@ -34,6 +35,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221018,4112,ch,basel_stadt,3,True
 20221018,4113,ch,basel_landschaft,5,True
 20221018,4117,ch,st_gallen,0,True
+20221018,4121,ch,ticino,9,True
 20221018,43,at,austria,120,False
 20221018,4301,at,wien,31,True
 20221018,4302,at,niederosterreich,24,True
@@ -80,6 +82,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221017,4113,ch,basel_landschaft,3,True
 20221017,4117,ch,st_gallen,0,True
 20221017,4120,ch,thurgau,2,True
+20221017,4121,ch,ticino,10,True
 20221017,4124,ch,neuchatel,0,True
 20221017,43,at,austria,120,False
 20221017,4301,at,wien,31,True
@@ -125,7 +128,9 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221016,4113,ch,basel_landschaft,2,True
 20221016,4117,ch,st_gallen,0,True
 20221016,4120,ch,thurgau,3,True
+20221016,4122,ch,vaud,11,True
 20221016,4124,ch,neuchatel,0,True
+20221016,4125,ch,geneve,0,True
 20221016,43,at,austria,120,False
 20221016,4301,at,wien,33,True
 20221016,4302,at,niederosterreich,23,True
@@ -171,6 +176,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221015,4117,ch,st_gallen,0,True
 20221015,4120,ch,thurgau,3,True
 20221015,4124,ch,neuchatel,1,True
+20221015,4125,ch,geneve,0,True
 20221015,43,at,austria,120,False
 20221015,4301,at,wien,33,True
 20221015,4302,at,niederosterreich,23,True
@@ -218,7 +224,9 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221014,4113,ch,basel_landschaft,1,True
 20221014,4117,ch,st_gallen,0,True
 20221014,4120,ch,thurgau,3,True
+20221014,4121,ch,ticino,7,True
 20221014,4124,ch,neuchatel,0,True
+20221014,4125,ch,geneve,0,True
 20221014,43,at,austria,121,False
 20221014,4301,at,wien,33,True
 20221014,4302,at,niederosterreich,24,True
@@ -266,6 +274,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221013,4113,ch,basel_landschaft,1,True
 20221013,4117,ch,st_gallen,0,True
 20221013,4120,ch,thurgau,3,True
+20221013,4121,ch,ticino,5,True
 20221013,4124,ch,neuchatel,0,True
 20221013,43,at,austria,125,False
 20221013,4301,at,wien,37,True
