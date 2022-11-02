@@ -1,5 +1,5 @@
 dateId,areaCode,country,areaName,icuCases,isLeaf
-20221102,4111,ch,solothurn,1,True
+20221102,4111,ch,solothurn,0,True
 20221102,4121,ch,ticino,7,True
 20221101,386012,si,podravska,10,True
 20221101,386014,si,savinjska,0,True
@@ -9,6 +9,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221101,4101,ch,zurich,12,True
 20221101,4112,ch,basel_stadt,4,True
 20221101,4117,ch,st_gallen,1,True
+20221101,4125,ch,geneve,0,True
 20221101,43,at,austria,100,False
 20221101,4301,at,wien,26,True
 20221101,4302,at,niederosterreich,18,True
