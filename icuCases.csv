@@ -1,4 +1,6 @@
 dateId,areaCode,country,areaName,icuCases,isLeaf
+20221102,4111,ch,solothurn,1,True
+20221102,4121,ch,ticino,7,True
 20221101,386012,si,podravska,10,True
 20221101,386014,si,savinjska,0,True
 20221101,386015,si,zasavska,1,True
@@ -28,6 +30,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221031,4112,ch,basel_stadt,3,True
 20221031,4117,ch,st_gallen,1,True
 20221031,4120,ch,thurgau,6,True
+20221031,4121,ch,ticino,5,True
 20221031,4124,ch,neuchatel,0,True
 20221031,4125,ch,geneve,0,True
 20221031,43,at,austria,98,False
@@ -49,6 +52,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221030,4110,ch,fribourg,3,True
 20221030,4117,ch,st_gallen,1,True
 20221030,4120,ch,thurgau,6,True
+20221030,4122,ch,vaud,4,True
 20221030,4124,ch,neuchatel,0,True
 20221030,4125,ch,geneve,0,True
 20221030,43,at,austria,100,False
@@ -138,6 +142,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221028,4112,ch,basel_stadt,7,True
 20221028,4117,ch,st_gallen,1,True
 20221028,4120,ch,thurgau,4,True
+20221028,4121,ch,ticino,8,True
 20221028,4124,ch,neuchatel,0,True
 20221028,4125,ch,geneve,1,True
 20221028,43,at,austria,99,False
@@ -184,6 +189,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221027,4112,ch,basel_stadt,8,True
 20221027,4117,ch,st_gallen,1,True
 20221027,4120,ch,thurgau,4,True
+20221027,4121,ch,ticino,8,True
 20221027,4124,ch,neuchatel,0,True
 20221027,4125,ch,geneve,2,True
 20221027,43,at,austria,99,False
