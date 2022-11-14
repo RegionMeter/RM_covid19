@@ -1,5 +1,10 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
+20221114,4120,ch,thurgau,720,0,True
+20221113,4110,ch,fribourg,583,0,True
+20221113,4120,ch,thurgau,720,0,True
 20221113,423,li,liechtenstein,87,0,True
+20221112,4110,ch,fribourg,583,0,True
+20221112,4120,ch,thurgau,720,1,True
 20221112,423,li,liechtenstein,87,0,True
 20221112,43,at,austria,21093,0,False
 20221112,4301,at,wien,4354,0,True
@@ -12,8 +17,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221112,4308,at,vorarlberg,671,0,True
 20221112,4309,at,burgenland,625,0,True
 20221111,4107,ch,nidwalden,40,0,True
+20221111,4110,ch,fribourg,583,0,True
 20221111,4111,ch,solothurn,377,0,True
 20221111,4112,ch,basel_stadt,308,0,True
+20221111,4120,ch,thurgau,719,0,True
 20221111,423,li,liechtenstein,87,0,True
 20221111,43,at,austria,21093,1,False
 20221111,4301,at,wien,4354,1,True
@@ -60,8 +67,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221110,3946,it,calabria,3085,2,True
 20221110,3951,it,sicilia,12260,1,True
 20221110,3952,it,sardegna,2806,5,True
+20221110,4110,ch,fribourg,583,0,True
 20221110,4111,ch,solothurn,377,0,True
 20221110,4112,ch,basel_stadt,308,0,True
+20221110,4120,ch,thurgau,719,0,True
 20221110,423,li,liechtenstein,87,0,True
 20221110,43,at,austria,21092,8,False
 20221110,4301,at,wien,4353,5,True
@@ -110,8 +119,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221109,3952,it,sardegna,2801,3,True
 20221109,4106,ch,obwalden,64,0,True
 20221109,4109,ch,zug,172,0,True
+20221109,4110,ch,fribourg,583,0,True
 20221109,4111,ch,solothurn,377,0,True
 20221109,4112,ch,basel_stadt,308,0,True
+20221109,4120,ch,thurgau,719,0,True
 20221109,4121,ch,ticino,1270,0,True
 20221109,423,li,liechtenstein,87,0,True
 20221109,43,at,austria,21084,9,False
@@ -162,8 +173,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221108,4101,ch,zurich,1874,0,True
 20221108,4106,ch,obwalden,64,0,True
 20221108,4109,ch,zug,172,0,True
+20221108,4110,ch,fribourg,583,0,True
 20221108,4111,ch,solothurn,377,0,True
 20221108,4112,ch,basel_stadt,308,0,True
+20221108,4120,ch,thurgau,719,0,True
 20221108,4121,ch,ticino,1270,0,True
 20221108,423,li,liechtenstein,87,0,True
 20221108,43,at,austria,21075,8,False
@@ -214,6 +227,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221107,4101,ch,zurich,1874,0,True
 20221107,4106,ch,obwalden,64,0,True
 20221107,4109,ch,zug,172,0,True
+20221107,4110,ch,fribourg,583,0,True
 20221107,4111,ch,solothurn,377,0,True
 20221107,4112,ch,basel_stadt,308,0,True
 20221107,4113,ch,basel_landschaft,315,0,True
