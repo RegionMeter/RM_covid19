@@ -25,6 +25,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221127,386023,si,goriska,2,True
 20221127,4110,ch,fribourg,1,True
 20221127,4120,ch,thurgau,3,True
+20221127,4125,ch,geneve,1,True
 20221127,43,at,austria,68,False
 20221127,4301,at,wien,15,True
 20221127,4302,at,niederosterreich,16,True
@@ -42,6 +43,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221126,386023,si,goriska,1,True
 20221126,4110,ch,fribourg,1,True
 20221126,4120,ch,thurgau,3,True
+20221126,4125,ch,geneve,0,True
 20221126,43,at,austria,69,False
 20221126,4301,at,wien,15,True
 20221126,4302,at,niederosterreich,17,True
@@ -62,6 +64,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221125,4111,ch,solothurn,1,True
 20221125,4112,ch,basel_stadt,1,True
 20221125,4120,ch,thurgau,2,True
+20221125,4125,ch,geneve,1,True
 20221125,43,at,austria,67,False
 20221125,4301,at,wien,15,True
 20221125,4302,at,niederosterreich,15,True
@@ -103,6 +106,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221124,4111,ch,solothurn,1,True
 20221124,4112,ch,basel_stadt,2,True
 20221124,4120,ch,thurgau,2,True
+20221124,4125,ch,geneve,1,True
 20221124,43,at,austria,67,False
 20221124,4301,at,wien,17,True
 20221124,4302,at,niederosterreich,15,True
@@ -147,6 +151,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221123,4112,ch,basel_stadt,2,True
 20221123,4120,ch,thurgau,3,True
 20221123,4121,ch,ticino,4,True
+20221123,4125,ch,geneve,2,True
 20221123,43,at,austria,75,False
 20221123,4301,at,wien,22,True
 20221123,4302,at,niederosterreich,16,True
@@ -194,6 +199,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221122,4117,ch,st_gallen,0,True
 20221122,4120,ch,thurgau,3,True
 20221122,4121,ch,ticino,3,True
+20221122,4125,ch,geneve,1,True
 20221122,43,at,austria,70,False
 20221122,4301,at,wien,18,True
 20221122,4302,at,niederosterreich,17,True
@@ -242,6 +248,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221121,4120,ch,thurgau,3,True
 20221121,4121,ch,ticino,4,True
 20221121,4124,ch,neuchatel,1,True
+20221121,4125,ch,geneve,0,True
 20221121,43,at,austria,73,False
 20221121,4301,at,wien,20,True
 20221121,4302,at,niederosterreich,21,True
@@ -289,6 +296,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221120,4120,ch,thurgau,4,True
 20221120,4122,ch,vaud,3,True
 20221120,4124,ch,neuchatel,2,True
+20221120,4125,ch,geneve,0,True
 20221120,43,at,austria,76,False
 20221120,4301,at,wien,20,True
 20221120,4302,at,niederosterreich,21,True
@@ -334,6 +342,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221119,4117,ch,st_gallen,0,True
 20221119,4120,ch,thurgau,6,True
 20221119,4124,ch,neuchatel,2,True
+20221119,4125,ch,geneve,1,True
 20221119,43,at,austria,76,False
 20221119,4301,at,wien,20,True
 20221119,4302,at,niederosterreich,21,True
@@ -383,6 +392,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221118,4120,ch,thurgau,5,True
 20221118,4121,ch,ticino,2,True
 20221118,4124,ch,neuchatel,1,True
+20221118,4125,ch,geneve,2,True
 20221118,43,at,austria,72,False
 20221118,4301,at,wien,20,True
 20221118,4302,at,niederosterreich,17,True
@@ -433,6 +443,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221117,4120,ch,thurgau,4,True
 20221117,4121,ch,ticino,1,True
 20221117,4124,ch,neuchatel,1,True
+20221117,4125,ch,geneve,2,True
 20221117,43,at,austria,70,False
 20221117,4301,at,wien,18,True
 20221117,4302,at,niederosterreich,15,True
@@ -483,6 +494,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221116,4120,ch,thurgau,5,True
 20221116,4121,ch,ticino,2,True
 20221116,4124,ch,neuchatel,1,True
+20221116,4125,ch,geneve,1,True
 20221116,43,at,austria,76,False
 20221116,4301,at,wien,20,True
 20221116,4302,at,niederosterreich,20,True
@@ -532,6 +544,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221115,4120,ch,thurgau,5,True
 20221115,4121,ch,ticino,3,True
 20221115,4124,ch,neuchatel,1,True
+20221115,4125,ch,geneve,2,True
 20221115,43,at,austria,75,False
 20221115,4301,at,wien,21,True
 20221115,4302,at,niederosterreich,19,True
@@ -581,6 +594,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221114,4120,ch,thurgau,5,True
 20221114,4121,ch,ticino,7,True
 20221114,4124,ch,neuchatel,1,True
+20221114,4125,ch,geneve,1,True
 20221114,43,at,austria,74,False
 20221114,4301,at,wien,21,True
 20221114,4302,at,niederosterreich,18,True
