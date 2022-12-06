@@ -1,4 +1,7 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
+20221206,4101,ch,zurich,1881,1,True
+20221206,4111,ch,solothurn,378,0,True
+20221206,4112,ch,basel_stadt,310,0,True
 20221205,386,si,slovenia,8582,0,False
 20221205,386011,si,pomurska,716,0,True
 20221205,386012,si,podravska,1737,0,True
@@ -12,6 +15,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221205,386022,si,gorenjska,706,0,True
 20221205,386023,si,goriska,476,0,True
 20221205,386024,si,obalno_kraska,359,0,True
+20221205,4101,ch,zurich,1880,1,True
 20221205,4107,ch,nidwalden,41,0,True
 20221205,4111,ch,solothurn,378,0,True
 20221205,4112,ch,basel_stadt,310,0,True
@@ -41,6 +45,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221204,386022,si,gorenjska,706,0,True
 20221204,386023,si,goriska,476,0,True
 20221204,386024,si,obalno_kraska,359,0,True
+20221204,4101,ch,zurich,1879,0,True
 20221204,4110,ch,fribourg,587,0,True
 20221204,4120,ch,thurgau,723,0,True
 20221204,4124,ch,neuchatel,489,0,True
@@ -68,6 +73,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221203,386022,si,gorenjska,706,0,True
 20221203,386023,si,goriska,476,0,True
 20221203,386024,si,obalno_kraska,359,0,True
+20221203,4101,ch,zurich,1879,0,True
 20221203,4110,ch,fribourg,587,0,True
 20221203,4120,ch,thurgau,723,0,True
 20221203,4124,ch,neuchatel,489,1,True
@@ -95,6 +101,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221202,386022,si,gorenjska,706,0,True
 20221202,386023,si,goriska,476,0,True
 20221202,386024,si,obalno_kraska,359,0,True
+20221202,4101,ch,zurich,1879,1,True
 20221202,4107,ch,nidwalden,41,0,True
 20221202,4110,ch,fribourg,587,0,True
 20221202,4111,ch,solothurn,378,0,True
@@ -147,6 +154,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221201,3946,it,calabria,3128,1,True
 20221201,3951,it,sicilia,12328,2,True
 20221201,3952,it,sardegna,2841,2,True
+20221201,4101,ch,zurich,1878,0,True
 20221201,4107,ch,nidwalden,41,0,True
 20221201,4110,ch,fribourg,587,0,True
 20221201,4111,ch,solothurn,378,0,True
@@ -199,6 +207,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221130,3946,it,calabria,3127,4,True
 20221130,3951,it,sicilia,12326,4,True
 20221130,3952,it,sardegna,2839,1,True
+20221130,4101,ch,zurich,1878,0,True
 20221130,4106,ch,obwalden,64,0,True
 20221130,4107,ch,nidwalden,41,0,True
 20221130,4110,ch,fribourg,587,0,True
