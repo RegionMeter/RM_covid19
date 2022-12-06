@@ -3,6 +3,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221205,4111,ch,solothurn,378,0,True
 20221205,4112,ch,basel_stadt,310,0,True
 20221205,4120,ch,thurgau,723,0,True
+20221205,4124,ch,neuchatel,489,0,True
+20221205,423,li,liechtenstein,88,1,True
 20221204,386,si,slovenia,8563,0,False
 20221204,386011,si,pomurska,716,0,True
 20221204,386012,si,podravska,1734,0,True
@@ -18,6 +20,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221204,386024,si,obalno_kraska,359,0,True
 20221204,4110,ch,fribourg,587,0,True
 20221204,4120,ch,thurgau,723,0,True
+20221204,4124,ch,neuchatel,489,0,True
+20221204,423,li,liechtenstein,87,0,True
 20221204,43,at,austria,21230,0,False
 20221204,4301,at,wien,4406,0,True
 20221204,4302,at,niederosterreich,4193,0,True
@@ -43,6 +47,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221203,386024,si,obalno_kraska,359,0,True
 20221203,4110,ch,fribourg,587,0,True
 20221203,4120,ch,thurgau,723,0,True
+20221203,4124,ch,neuchatel,489,1,True
+20221203,423,li,liechtenstein,87,0,True
 20221203,43,at,austria,21230,0,False
 20221203,4301,at,wien,4406,0,True
 20221203,4302,at,niederosterreich,4193,0,True
@@ -71,6 +77,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221202,4111,ch,solothurn,378,0,True
 20221202,4112,ch,basel_stadt,310,0,True
 20221202,4120,ch,thurgau,723,0,True
+20221202,4124,ch,neuchatel,488,0,True
+20221202,423,li,liechtenstein,87,0,True
 20221202,43,at,austria,21230,0,False
 20221202,4301,at,wien,4406,0,True
 20221202,4302,at,niederosterreich,4193,0,True
@@ -121,6 +129,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221201,4111,ch,solothurn,378,0,True
 20221201,4112,ch,basel_stadt,310,0,True
 20221201,4120,ch,thurgau,723,0,True
+20221201,4124,ch,neuchatel,488,0,True
 20221201,423,li,liechtenstein,87,0,True
 20221201,43,at,austria,21230,5,False
 20221201,4301,at,wien,4406,0,True
@@ -174,6 +183,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221130,4112,ch,basel_stadt,310,1,True
 20221130,4120,ch,thurgau,723,0,True
 20221130,4121,ch,ticino,1287,1,True
+20221130,4124,ch,neuchatel,488,0,True
 20221130,423,li,liechtenstein,87,0,True
 20221130,43,at,austria,21225,9,False
 20221130,4301,at,wien,4406,6,True
@@ -228,6 +238,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221129,4112,ch,basel_stadt,309,1,True
 20221129,4120,ch,thurgau,723,0,True
 20221129,4121,ch,ticino,1286,1,True
+20221129,4124,ch,neuchatel,488,0,True
 20221129,423,li,liechtenstein,87,0,True
 20221129,43,at,austria,21216,4,False
 20221129,4301,at,wien,4400,1,True
