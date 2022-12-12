@@ -6,6 +6,8 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221211,386017,si,jugovzhodna_slovenija,5,True
 20221211,386021,si,osrednjeslovenska,51,True
 20221211,386022,si,gorenjska,13,True
+20221211,4110,ch,fribourg,67,True
+20221211,423,li,liechtenstein,0,True
 20221211,43,at,austria,1041,False
 20221211,4301,at,wien,263,True
 20221211,4302,at,niederosterreich,276,True
@@ -23,7 +25,9 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221210,386017,si,jugovzhodna_slovenija,5,True
 20221210,386021,si,osrednjeslovenska,50,True
 20221210,386022,si,gorenjska,13,True
+20221210,4110,ch,fribourg,59,True
 20221210,4125,ch,geneve,181,True
+20221210,423,li,liechtenstein,1,True
 20221210,43,at,austria,1042,False
 20221210,4301,at,wien,263,True
 20221210,4302,at,niederosterreich,277,True
@@ -42,9 +46,11 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221209,386021,si,osrednjeslovenska,50,True
 20221209,386022,si,gorenjska,10,True
 20221209,4107,ch,nidwalden,4,True
+20221209,4110,ch,fribourg,65,True
 20221209,4111,ch,solothurn,35,True
 20221209,4112,ch,basel_stadt,69,True
 20221209,4125,ch,geneve,398,True
+20221209,423,li,liechtenstein,1,True
 20221209,43,at,austria,1040,False
 20221209,4301,at,wien,263,True
 20221209,4302,at,niederosterreich,275,True
@@ -84,6 +90,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221208,3946,it,calabria,147,True
 20221208,3951,it,sicilia,419,True
 20221208,3952,it,sardegna,94,True
+20221208,4110,ch,fribourg,69,True
 20221208,4111,ch,solothurn,33,True
 20221208,4112,ch,basel_stadt,75,True
 20221208,4125,ch,geneve,399,True
@@ -130,6 +137,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221207,4106,ch,obwalden,0,True
 20221207,4107,ch,nidwalden,4,True
 20221207,4109,ch,zug,7,True
+20221207,4110,ch,fribourg,70,True
 20221207,4111,ch,solothurn,27,True
 20221207,4112,ch,basel_stadt,67,True
 20221207,4121,ch,ticino,141,True
@@ -179,6 +187,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221206,4106,ch,obwalden,0,True
 20221206,4107,ch,nidwalden,3,True
 20221206,4109,ch,zug,9,True
+20221206,4110,ch,fribourg,68,True
 20221206,4111,ch,solothurn,21,True
 20221206,4112,ch,basel_stadt,68,True
 20221206,4113,ch,basel_landschaft,30,True
@@ -229,6 +238,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20221205,4106,ch,obwalden,0,True
 20221205,4107,ch,nidwalden,3,True
 20221205,4109,ch,zug,9,True
+20221205,4110,ch,fribourg,69,True
 20221205,4111,ch,solothurn,19,True
 20221205,4112,ch,basel_stadt,63,True
 20221205,4113,ch,basel_landschaft,30,True
