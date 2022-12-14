@@ -1,5 +1,6 @@
 dateId,areaCode,country,areaName,icuCases,isLeaf
 20221214,4109,ch,zug,0,True
+20221214,4121,ch,ticino,4,True
 20221213,386012,si,podravska,8,True
 20221213,386014,si,savinjska,0,True
 20221213,386021,si,osrednjeslovenska,9,True
@@ -10,6 +11,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221213,4111,ch,solothurn,1,True
 20221213,4112,ch,basel_stadt,3,True
 20221213,4117,ch,st_gallen,3,True
+20221213,4121,ch,ticino,4,True
+20221213,4125,ch,geneve,1,True
 20221213,43,at,austria,63,False
 20221213,4301,at,wien,16,True
 20221213,4302,at,niederosterreich,14,True
@@ -31,6 +34,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221212,4112,ch,basel_stadt,4,True
 20221212,4117,ch,st_gallen,3,True
 20221212,4120,ch,thurgau,3,True
+20221212,4121,ch,ticino,8,True
 20221212,4124,ch,neuchatel,1,True
 20221212,4125,ch,geneve,2,True
 20221212,43,at,austria,62,False
@@ -53,7 +57,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221211,4117,ch,st_gallen,1,True
 20221211,4120,ch,thurgau,3,True
 20221211,4124,ch,neuchatel,1,True
-20221211,4125,ch,geneve,3,True
+20221211,4125,ch,geneve,2,True
 20221211,43,at,austria,57,False
 20221211,4301,at,wien,15,True
 20221211,4302,at,niederosterreich,16,True
@@ -97,6 +101,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221209,4112,ch,basel_stadt,4,True
 20221209,4117,ch,st_gallen,1,True
 20221209,4120,ch,thurgau,3,True
+20221209,4121,ch,ticino,7,True
 20221209,4124,ch,neuchatel,1,True
 20221209,4125,ch,geneve,3,True
 20221209,43,at,austria,54,False
@@ -286,7 +291,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221205,4120,ch,thurgau,4,True
 20221205,4121,ch,ticino,6,True
 20221205,4124,ch,neuchatel,1,True
-20221205,4125,ch,geneve,3,True
+20221205,4125,ch,geneve,4,True
 20221205,43,at,austria,53,False
 20221205,4301,at,wien,13,True
 20221205,4302,at,niederosterreich,10,True
@@ -575,7 +580,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20221129,4120,ch,thurgau,6,True
 20221129,4121,ch,ticino,3,True
 20221129,4124,ch,neuchatel,1,True
-20221129,4125,ch,geneve,1,True
+20221129,4125,ch,geneve,0,True
 20221129,43,at,austria,66,False
 20221129,4301,at,wien,15,True
 20221129,4302,at,niederosterreich,13,True
