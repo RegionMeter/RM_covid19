@@ -1,16 +1,20 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230104,4107,ch,nidwalden,41,0,True
 20230104,4109,ch,zug,170,0,True
+20230104,4112,ch,basel_stadt,313,2,True
+20230104,4120,ch,thurgau,727,0,True
 20230104,4121,ch,ticino,1312,3,True
 20230103,4101,ch,zurich,1890,0,True
 20230103,4107,ch,nidwalden,41,0,True
 20230103,4109,ch,zug,170,0,True
 20230103,4112,ch,basel_stadt,311,0,True
+20230103,4120,ch,thurgau,727,0,True
 20230103,4121,ch,ticino,1309,1,True
 20230103,423,li,liechtenstein,88,0,True
 20230102,4101,ch,zurich,1890,0,True
 20230102,4109,ch,zug,170,0,True
 20230102,4112,ch,basel_stadt,311,0,True
+20230102,4120,ch,thurgau,727,0,True
 20230102,4121,ch,ticino,1308,0,True
 20230102,4124,ch,neuchatel,493,0,True
 20230102,423,li,liechtenstein,88,0,True
@@ -39,6 +43,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230101,386024,si,obalno_kraska,372,0,True
 20230101,4101,ch,zurich,1890,0,True
 20230101,4109,ch,zug,170,0,True
+20230101,4114,ch,schaffhausen,137,0,True
+20230101,4120,ch,thurgau,727,0,True
 20230101,4124,ch,neuchatel,493,0,True
 20230101,423,li,liechtenstein,88,0,True
 20230101,43,at,austria,21447,0,False
@@ -66,6 +72,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221231,386024,si,obalno_kraska,372,0,True
 20221231,4101,ch,zurich,1890,0,True
 20221231,4109,ch,zug,170,0,True
+20221231,4114,ch,schaffhausen,137,0,True
+20221231,4120,ch,thurgau,727,0,True
 20221231,4124,ch,neuchatel,493,0,True
 20221231,423,li,liechtenstein,88,0,True
 20221231,43,at,austria,21447,0,False
@@ -94,6 +102,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221230,4101,ch,zurich,1890,0,True
 20221230,4109,ch,zug,170,0,True
 20221230,4112,ch,basel_stadt,311,0,True
+20221230,4114,ch,schaffhausen,137,0,True
+20221230,4120,ch,thurgau,727,0,True
 20221230,4121,ch,ticino,1308,0,True
 20221230,4124,ch,neuchatel,493,0,True
 20221230,423,li,liechtenstein,88,0,True
@@ -146,6 +156,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221229,4106,ch,obwalden,64,0,True
 20221229,4109,ch,zug,170,0,True
 20221229,4112,ch,basel_stadt,311,0,True
+20221229,4114,ch,schaffhausen,137,0,True
+20221229,4120,ch,thurgau,727,0,True
 20221229,4121,ch,ticino,1308,1,True
 20221229,4124,ch,neuchatel,493,0,True
 20221229,423,li,liechtenstein,88,0,True
@@ -198,6 +210,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221228,4106,ch,obwalden,64,0,True
 20221228,4109,ch,zug,170,0,True
 20221228,4112,ch,basel_stadt,311,0,True
+20221228,4114,ch,schaffhausen,137,0,True
+20221228,4120,ch,thurgau,727,0,True
 20221228,4121,ch,ticino,1307,1,True
 20221228,4124,ch,neuchatel,493,0,True
 20221228,423,li,liechtenstein,88,0,True
@@ -251,6 +265,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221227,4109,ch,zug,170,0,True
 20221227,4112,ch,basel_stadt,311,0,True
 20221227,4113,ch,basel_landschaft,321,0,True
+20221227,4114,ch,schaffhausen,137,0,True
+20221227,4120,ch,thurgau,727,1,True
 20221227,4121,ch,ticino,1306,4,True
 20221227,4124,ch,neuchatel,493,0,True
 20221227,423,li,liechtenstein,88,0,True
@@ -304,7 +320,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221226,4109,ch,zug,170,0,True
 20221226,4110,ch,fribourg,587,0,True
 20221226,4113,ch,basel_landschaft,321,0,True
+20221226,4114,ch,schaffhausen,137,0,True
 20221226,4117,ch,st_gallen,875,0,True
+20221226,4120,ch,thurgau,726,0,True
 20221226,4124,ch,neuchatel,493,0,True
 20221226,423,li,liechtenstein,88,0,True
 20221226,43,at,austria,21424,14,False
@@ -357,6 +375,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221225,4110,ch,fribourg,587,0,True
 20221225,4113,ch,basel_landschaft,321,0,True
 20221225,4114,ch,schaffhausen,137,0,True
+20221225,4120,ch,thurgau,726,1,True
 20221225,4124,ch,neuchatel,493,0,True
 20221225,423,li,liechtenstein,88,0,True
 20221225,43,at,austria,21410,6,False
@@ -409,6 +428,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221224,4110,ch,fribourg,587,0,True
 20221224,4113,ch,basel_landschaft,321,1,True
 20221224,4114,ch,schaffhausen,137,0,True
+20221224,4120,ch,thurgau,725,0,True
 20221224,4124,ch,neuchatel,493,0,True
 20221224,423,li,liechtenstein,88,0,True
 20221224,43,at,austria,21404,8,False
@@ -465,6 +485,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221223,4112,ch,basel_stadt,311,0,True
 20221223,4113,ch,basel_landschaft,320,0,True
 20221223,4114,ch,schaffhausen,137,0,True
+20221223,4120,ch,thurgau,725,0,True
 20221223,4121,ch,ticino,1302,2,True
 20221223,4124,ch,neuchatel,493,0,True
 20221223,423,li,liechtenstein,88,0,True
@@ -522,6 +543,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221222,4112,ch,basel_stadt,311,0,True
 20221222,4113,ch,basel_landschaft,320,0,True
 20221222,4114,ch,schaffhausen,137,0,True
+20221222,4120,ch,thurgau,725,0,True
 20221222,4121,ch,ticino,1300,0,True
 20221222,4124,ch,neuchatel,493,0,True
 20221222,423,li,liechtenstein,88,0,True
@@ -579,6 +601,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221221,4112,ch,basel_stadt,311,0,True
 20221221,4113,ch,basel_landschaft,320,0,True
 20221221,4114,ch,schaffhausen,137,0,True
+20221221,4120,ch,thurgau,725,1,True
 20221221,4121,ch,ticino,1300,1,True
 20221221,4124,ch,neuchatel,493,0,True
 20221221,423,li,liechtenstein,88,0,True
@@ -636,6 +659,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221220,4112,ch,basel_stadt,311,0,True
 20221220,4113,ch,basel_landschaft,320,0,True
 20221220,4114,ch,schaffhausen,137,0,True
+20221220,4120,ch,thurgau,724,0,True
 20221220,4121,ch,ticino,1299,0,True
 20221220,4124,ch,neuchatel,493,0,True
 20221220,423,li,liechtenstein,88,0,True
