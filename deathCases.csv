@@ -1,12 +1,15 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230104,4107,ch,nidwalden,41,0,True
+20230104,4109,ch,zug,170,0,True
 20230104,4121,ch,ticino,1312,3,True
 20230103,4101,ch,zurich,1890,0,True
 20230103,4107,ch,nidwalden,41,0,True
+20230103,4109,ch,zug,170,0,True
 20230103,4112,ch,basel_stadt,311,0,True
 20230103,4121,ch,ticino,1309,1,True
 20230103,423,li,liechtenstein,88,0,True
 20230102,4101,ch,zurich,1890,0,True
+20230102,4109,ch,zug,170,0,True
 20230102,4112,ch,basel_stadt,311,0,True
 20230102,4121,ch,ticino,1308,0,True
 20230102,4124,ch,neuchatel,493,0,True
@@ -35,6 +38,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230101,386023,si,goriska,497,0,True
 20230101,386024,si,obalno_kraska,372,0,True
 20230101,4101,ch,zurich,1890,0,True
+20230101,4109,ch,zug,170,0,True
 20230101,4124,ch,neuchatel,493,0,True
 20230101,423,li,liechtenstein,88,0,True
 20230101,43,at,austria,21447,0,False
@@ -61,6 +65,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221231,386023,si,goriska,497,0,True
 20221231,386024,si,obalno_kraska,372,0,True
 20221231,4101,ch,zurich,1890,0,True
+20221231,4109,ch,zug,170,0,True
 20221231,4124,ch,neuchatel,493,0,True
 20221231,423,li,liechtenstein,88,0,True
 20221231,43,at,austria,21447,0,False
@@ -87,6 +92,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221230,386023,si,goriska,497,0,True
 20221230,386024,si,obalno_kraska,372,0,True
 20221230,4101,ch,zurich,1890,0,True
+20221230,4109,ch,zug,170,0,True
 20221230,4112,ch,basel_stadt,311,0,True
 20221230,4121,ch,ticino,1308,0,True
 20221230,4124,ch,neuchatel,493,0,True
@@ -138,6 +144,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221229,3952,it,sardegna,2866,0,True
 20221229,4101,ch,zurich,1890,0,True
 20221229,4106,ch,obwalden,64,0,True
+20221229,4109,ch,zug,170,0,True
 20221229,4112,ch,basel_stadt,311,0,True
 20221229,4121,ch,ticino,1308,1,True
 20221229,4124,ch,neuchatel,493,0,True
@@ -189,7 +196,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221228,3952,it,sardegna,2866,1,True
 20221228,4101,ch,zurich,1890,0,True
 20221228,4106,ch,obwalden,64,0,True
-20221228,4109,ch,zug,172,0,True
+20221228,4109,ch,zug,170,0,True
 20221228,4112,ch,basel_stadt,311,0,True
 20221228,4121,ch,ticino,1307,1,True
 20221228,4124,ch,neuchatel,493,0,True
@@ -241,7 +248,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221227,3952,it,sardegna,2865,1,True
 20221227,4101,ch,zurich,1890,0,True
 20221227,4106,ch,obwalden,64,0,True
-20221227,4109,ch,zug,172,0,True
+20221227,4109,ch,zug,170,0,True
 20221227,4112,ch,basel_stadt,311,0,True
 20221227,4113,ch,basel_landschaft,321,0,True
 20221227,4121,ch,ticino,1306,4,True
@@ -294,7 +301,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221226,3952,it,sardegna,2864,0,True
 20221226,4101,ch,zurich,1890,0,True
 20221226,4106,ch,obwalden,64,0,True
-20221226,4109,ch,zug,172,0,True
+20221226,4109,ch,zug,170,0,True
 20221226,4110,ch,fribourg,587,0,True
 20221226,4113,ch,basel_landschaft,321,0,True
 20221226,4117,ch,st_gallen,875,0,True
@@ -346,7 +353,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221225,3951,it,sicilia,12424,5,True
 20221225,3952,it,sardegna,2864,0,True
 20221225,4101,ch,zurich,1890,0,True
-20221225,4109,ch,zug,172,0,True
+20221225,4109,ch,zug,170,0,True
 20221225,4110,ch,fribourg,587,0,True
 20221225,4113,ch,basel_landschaft,321,0,True
 20221225,4114,ch,schaffhausen,137,0,True
@@ -398,7 +405,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221224,3951,it,sicilia,12419,4,True
 20221224,3952,it,sardegna,2864,2,True
 20221224,4101,ch,zurich,1890,0,True
-20221224,4109,ch,zug,172,0,True
+20221224,4109,ch,zug,170,0,True
 20221224,4110,ch,fribourg,587,0,True
 20221224,4113,ch,basel_landschaft,321,1,True
 20221224,4114,ch,schaffhausen,137,0,True
@@ -452,7 +459,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221223,4101,ch,zurich,1890,0,True
 20221223,4106,ch,obwalden,64,0,True
 20221223,4107,ch,nidwalden,41,0,True
-20221223,4109,ch,zug,172,0,True
+20221223,4109,ch,zug,170,0,True
 20221223,4110,ch,fribourg,587,0,True
 20221223,4111,ch,solothurn,379,0,True
 20221223,4112,ch,basel_stadt,311,0,True
@@ -509,7 +516,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221222,4101,ch,zurich,1890,0,True
 20221222,4106,ch,obwalden,64,0,True
 20221222,4107,ch,nidwalden,41,0,True
-20221222,4109,ch,zug,172,0,True
+20221222,4109,ch,zug,170,0,True
 20221222,4110,ch,fribourg,587,0,True
 20221222,4111,ch,solothurn,379,0,True
 20221222,4112,ch,basel_stadt,311,0,True
@@ -566,7 +573,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221221,4101,ch,zurich,1890,2,True
 20221221,4106,ch,obwalden,64,0,True
 20221221,4107,ch,nidwalden,41,0,True
-20221221,4109,ch,zug,172,0,True
+20221221,4109,ch,zug,170,0,True
 20221221,4110,ch,fribourg,587,0,True
 20221221,4111,ch,solothurn,379,0,True
 20221221,4112,ch,basel_stadt,311,0,True
@@ -623,7 +630,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221220,4101,ch,zurich,1888,0,True
 20221220,4106,ch,obwalden,64,0,True
 20221220,4107,ch,nidwalden,41,0,True
-20221220,4109,ch,zug,172,0,True
+20221220,4109,ch,zug,170,0,True
 20221220,4110,ch,fribourg,587,0,True
 20221220,4111,ch,solothurn,379,0,True
 20221220,4112,ch,basel_stadt,311,0,True
@@ -680,7 +687,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221219,4101,ch,zurich,1888,3,True
 20221219,4106,ch,obwalden,64,0,True
 20221219,4107,ch,nidwalden,41,0,True
-20221219,4109,ch,zug,172,0,True
+20221219,4109,ch,zug,170,0,True
 20221219,4110,ch,fribourg,587,0,True
 20221219,4111,ch,solothurn,379,0,True
 20221219,4112,ch,basel_stadt,311,0,True
@@ -737,7 +744,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221218,3951,it,sicilia,12397,3,True
 20221218,3952,it,sardegna,2858,0,True
 20221218,4101,ch,zurich,1885,0,True
-20221218,4109,ch,zug,172,0,True
+20221218,4109,ch,zug,170,0,True
 20221218,4110,ch,fribourg,587,0,True
 20221218,4113,ch,basel_landschaft,320,0,True
 20221218,4114,ch,schaffhausen,137,0,True
@@ -790,7 +797,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221217,3951,it,sicilia,12394,1,True
 20221217,3952,it,sardegna,2858,0,True
 20221217,4101,ch,zurich,1885,0,True
-20221217,4109,ch,zug,172,0,True
+20221217,4109,ch,zug,170,0,True
 20221217,4110,ch,fribourg,587,0,True
 20221217,4113,ch,basel_landschaft,320,0,True
 20221217,4114,ch,schaffhausen,137,0,True
@@ -845,7 +852,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221216,4101,ch,zurich,1885,1,True
 20221216,4106,ch,obwalden,64,0,True
 20221216,4107,ch,nidwalden,41,0,True
-20221216,4109,ch,zug,172,0,True
+20221216,4109,ch,zug,170,1,True
 20221216,4110,ch,fribourg,587,0,True
 20221216,4111,ch,solothurn,379,0,True
 20221216,4112,ch,basel_stadt,311,0,True
@@ -903,7 +910,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221215,4101,ch,zurich,1884,0,True
 20221215,4106,ch,obwalden,64,0,True
 20221215,4107,ch,nidwalden,41,0,True
-20221215,4109,ch,zug,172,0,True
+20221215,4109,ch,zug,169,0,True
 20221215,4110,ch,fribourg,587,0,True
 20221215,4111,ch,solothurn,379,0,True
 20221215,4112,ch,basel_stadt,311,1,True
@@ -961,7 +968,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221214,4101,ch,zurich,1884,1,True
 20221214,4106,ch,obwalden,64,0,True
 20221214,4107,ch,nidwalden,41,0,True
-20221214,4109,ch,zug,172,0,True
+20221214,4109,ch,zug,169,0,True
 20221214,4110,ch,fribourg,587,0,True
 20221214,4111,ch,solothurn,379,0,True
 20221214,4112,ch,basel_stadt,310,0,True
@@ -1019,7 +1026,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221213,4101,ch,zurich,1883,1,True
 20221213,4106,ch,obwalden,64,0,True
 20221213,4107,ch,nidwalden,41,0,True
-20221213,4109,ch,zug,172,0,True
+20221213,4109,ch,zug,169,0,True
 20221213,4110,ch,fribourg,587,0,True
 20221213,4111,ch,solothurn,379,0,True
 20221213,4112,ch,basel_stadt,310,0,True
@@ -1077,7 +1084,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221212,4101,ch,zurich,1882,0,True
 20221212,4106,ch,obwalden,64,0,True
 20221212,4107,ch,nidwalden,41,0,True
-20221212,4109,ch,zug,172,0,True
+20221212,4109,ch,zug,169,0,True
 20221212,4110,ch,fribourg,587,0,True
 20221212,4111,ch,solothurn,379,1,True
 20221212,4112,ch,basel_stadt,310,0,True
@@ -1134,7 +1141,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221211,3951,it,sicilia,12369,1,True
 20221211,3952,it,sardegna,2854,0,True
 20221211,4101,ch,zurich,1882,0,True
-20221211,4109,ch,zug,172,0,True
+20221211,4109,ch,zug,169,0,True
 20221211,4110,ch,fribourg,587,0,True
 20221211,4113,ch,basel_landschaft,320,0,True
 20221211,4114,ch,schaffhausen,136,0,True
@@ -1187,7 +1194,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221210,3951,it,sicilia,12368,7,True
 20221210,3952,it,sardegna,2854,1,True
 20221210,4101,ch,zurich,1882,0,True
-20221210,4109,ch,zug,172,0,True
+20221210,4109,ch,zug,169,0,True
 20221210,4110,ch,fribourg,587,0,True
 20221210,4113,ch,basel_landschaft,320,0,True
 20221210,4114,ch,schaffhausen,136,0,True
@@ -1242,7 +1249,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221209,4101,ch,zurich,1882,1,True
 20221209,4106,ch,obwalden,64,0,True
 20221209,4107,ch,nidwalden,41,0,True
-20221209,4109,ch,zug,172,0,True
+20221209,4109,ch,zug,169,0,True
 20221209,4110,ch,fribourg,587,0,True
 20221209,4111,ch,solothurn,378,0,True
 20221209,4112,ch,basel_stadt,310,0,True
@@ -1299,7 +1306,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221208,3952,it,sardegna,2852,0,True
 20221208,4101,ch,zurich,1881,0,True
 20221208,4106,ch,obwalden,64,0,True
-20221208,4109,ch,zug,172,0,True
+20221208,4109,ch,zug,169,0,True
 20221208,4110,ch,fribourg,587,0,True
 20221208,4111,ch,solothurn,378,0,True
 20221208,4112,ch,basel_stadt,310,0,True
@@ -1356,7 +1363,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221207,4101,ch,zurich,1881,0,True
 20221207,4106,ch,obwalden,64,0,True
 20221207,4107,ch,nidwalden,41,0,True
-20221207,4109,ch,zug,172,0,True
+20221207,4109,ch,zug,169,0,True
 20221207,4110,ch,fribourg,587,0,True
 20221207,4111,ch,solothurn,378,0,True
 20221207,4112,ch,basel_stadt,310,0,True
@@ -1414,7 +1421,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221206,4101,ch,zurich,1881,1,True
 20221206,4106,ch,obwalden,64,0,True
 20221206,4107,ch,nidwalden,41,0,True
-20221206,4109,ch,zug,172,0,True
+20221206,4109,ch,zug,169,0,True
 20221206,4110,ch,fribourg,587,0,True
 20221206,4111,ch,solothurn,378,0,True
 20221206,4112,ch,basel_stadt,310,0,True
@@ -1472,7 +1479,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221205,4101,ch,zurich,1880,1,True
 20221205,4106,ch,obwalden,64,0,True
 20221205,4107,ch,nidwalden,41,0,True
-20221205,4109,ch,zug,172,0,True
+20221205,4109,ch,zug,169,0,True
 20221205,4110,ch,fribourg,587,0,True
 20221205,4111,ch,solothurn,378,0,True
 20221205,4112,ch,basel_stadt,310,0,True
@@ -1529,7 +1536,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221204,3951,it,sicilia,12335,2,True
 20221204,3952,it,sardegna,2847,4,True
 20221204,4101,ch,zurich,1879,0,True
-20221204,4109,ch,zug,172,0,True
+20221204,4109,ch,zug,169,0,True
 20221204,4110,ch,fribourg,587,0,True
 20221204,4113,ch,basel_landschaft,320,0,True
 20221204,4114,ch,schaffhausen,136,0,True
@@ -1582,7 +1589,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221203,3951,it,sicilia,12333,1,True
 20221203,3952,it,sardegna,2843,2,True
 20221203,4101,ch,zurich,1879,0,True
-20221203,4109,ch,zug,172,0,True
+20221203,4109,ch,zug,169,0,True
 20221203,4110,ch,fribourg,587,0,True
 20221203,4113,ch,basel_landschaft,320,0,True
 20221203,4114,ch,schaffhausen,136,0,True
@@ -1637,7 +1644,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221202,4101,ch,zurich,1879,1,True
 20221202,4106,ch,obwalden,64,0,True
 20221202,4107,ch,nidwalden,41,0,True
-20221202,4109,ch,zug,172,0,True
+20221202,4109,ch,zug,169,0,True
 20221202,4110,ch,fribourg,587,0,True
 20221202,4111,ch,solothurn,378,0,True
 20221202,4112,ch,basel_stadt,310,0,True
@@ -1695,7 +1702,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221201,4101,ch,zurich,1878,0,True
 20221201,4106,ch,obwalden,64,0,True
 20221201,4107,ch,nidwalden,41,0,True
-20221201,4109,ch,zug,172,0,True
+20221201,4109,ch,zug,169,0,True
 20221201,4110,ch,fribourg,587,0,True
 20221201,4111,ch,solothurn,378,0,True
 20221201,4112,ch,basel_stadt,310,0,True
@@ -1753,7 +1760,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221130,4101,ch,zurich,1878,0,True
 20221130,4106,ch,obwalden,64,0,True
 20221130,4107,ch,nidwalden,41,0,True
-20221130,4109,ch,zug,172,0,True
+20221130,4109,ch,zug,169,0,True
 20221130,4110,ch,fribourg,587,0,True
 20221130,4111,ch,solothurn,378,0,True
 20221130,4112,ch,basel_stadt,310,1,True
@@ -1811,7 +1818,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221129,4101,ch,zurich,1878,0,True
 20221129,4106,ch,obwalden,64,0,True
 20221129,4107,ch,nidwalden,41,0,True
-20221129,4109,ch,zug,172,0,True
+20221129,4109,ch,zug,169,0,True
 20221129,4110,ch,fribourg,587,1,True
 20221129,4111,ch,solothurn,378,0,True
 20221129,4112,ch,basel_stadt,309,1,True
@@ -1869,7 +1876,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221128,4101,ch,zurich,1878,0,True
 20221128,4106,ch,obwalden,64,0,True
 20221128,4107,ch,nidwalden,41,0,True
-20221128,4109,ch,zug,172,0,True
+20221128,4109,ch,zug,169,0,True
 20221128,4110,ch,fribourg,586,0,True
 20221128,4111,ch,solothurn,378,1,True
 20221128,4112,ch,basel_stadt,308,0,True
@@ -1926,7 +1933,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221127,3951,it,sicilia,12310,5,True
 20221127,3952,it,sardegna,2834,1,True
 20221127,4101,ch,zurich,1878,0,True
-20221127,4109,ch,zug,172,0,True
+20221127,4109,ch,zug,169,0,True
 20221127,4110,ch,fribourg,586,0,True
 20221127,4113,ch,basel_landschaft,320,0,True
 20221127,4114,ch,schaffhausen,136,0,True
@@ -1979,7 +1986,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221126,3951,it,sicilia,12305,6,True
 20221126,3952,it,sardegna,2833,1,True
 20221126,4101,ch,zurich,1878,0,True
-20221126,4109,ch,zug,172,0,True
+20221126,4109,ch,zug,169,0,True
 20221126,4110,ch,fribourg,586,0,True
 20221126,4113,ch,basel_landschaft,320,0,True
 20221126,4114,ch,schaffhausen,136,0,True
@@ -2034,7 +2041,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221125,4101,ch,zurich,1878,1,True
 20221125,4106,ch,obwalden,64,0,True
 20221125,4107,ch,nidwalden,41,1,True
-20221125,4109,ch,zug,172,0,True
+20221125,4109,ch,zug,169,0,True
 20221125,4110,ch,fribourg,586,2,True
 20221125,4111,ch,solothurn,377,0,True
 20221125,4112,ch,basel_stadt,308,0,True
@@ -2092,7 +2099,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221124,4101,ch,zurich,1877,0,True
 20221124,4106,ch,obwalden,64,0,True
 20221124,4107,ch,nidwalden,40,0,True
-20221124,4109,ch,zug,172,0,True
+20221124,4109,ch,zug,169,0,True
 20221124,4110,ch,fribourg,584,0,True
 20221124,4111,ch,solothurn,377,0,True
 20221124,4112,ch,basel_stadt,308,0,True
@@ -2150,7 +2157,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221123,4101,ch,zurich,1877,0,True
 20221123,4106,ch,obwalden,64,0,True
 20221123,4107,ch,nidwalden,40,0,True
-20221123,4109,ch,zug,172,0,True
+20221123,4109,ch,zug,169,0,True
 20221123,4110,ch,fribourg,584,0,True
 20221123,4111,ch,solothurn,377,0,True
 20221123,4112,ch,basel_stadt,308,0,True
@@ -2208,7 +2215,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221122,4101,ch,zurich,1877,1,True
 20221122,4106,ch,obwalden,64,0,True
 20221122,4107,ch,nidwalden,40,0,True
-20221122,4109,ch,zug,172,0,True
+20221122,4109,ch,zug,169,0,True
 20221122,4110,ch,fribourg,584,1,True
 20221122,4111,ch,solothurn,377,0,True
 20221122,4112,ch,basel_stadt,308,0,True
@@ -2266,7 +2273,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221121,4101,ch,zurich,1876,0,True
 20221121,4106,ch,obwalden,64,0,True
 20221121,4107,ch,nidwalden,40,0,True
-20221121,4109,ch,zug,172,0,True
+20221121,4109,ch,zug,169,0,True
 20221121,4110,ch,fribourg,583,0,True
 20221121,4111,ch,solothurn,377,0,True
 20221121,4112,ch,basel_stadt,308,0,True
@@ -2323,7 +2330,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221120,3951,it,sicilia,12288,2,True
 20221120,3952,it,sardegna,2826,0,True
 20221120,4101,ch,zurich,1876,0,True
-20221120,4109,ch,zug,172,0,True
+20221120,4109,ch,zug,169,0,True
 20221120,4110,ch,fribourg,583,0,True
 20221120,4113,ch,basel_landschaft,319,0,True
 20221120,4114,ch,schaffhausen,136,0,True
@@ -2376,7 +2383,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221119,3951,it,sicilia,12286,1,True
 20221119,3952,it,sardegna,2826,0,True
 20221119,4101,ch,zurich,1876,0,True
-20221119,4109,ch,zug,172,0,True
+20221119,4109,ch,zug,169,0,True
 20221119,4110,ch,fribourg,583,0,True
 20221119,4113,ch,basel_landschaft,319,1,True
 20221119,4114,ch,schaffhausen,136,0,True
@@ -2431,7 +2438,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221118,4101,ch,zurich,1876,1,True
 20221118,4106,ch,obwalden,64,0,True
 20221118,4107,ch,nidwalden,40,0,True
-20221118,4109,ch,zug,172,0,True
+20221118,4109,ch,zug,169,0,True
 20221118,4110,ch,fribourg,583,0,True
 20221118,4111,ch,solothurn,377,0,True
 20221118,4112,ch,basel_stadt,308,0,True
@@ -2489,7 +2496,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221117,4101,ch,zurich,1875,0,True
 20221117,4106,ch,obwalden,64,0,True
 20221117,4107,ch,nidwalden,40,0,True
-20221117,4109,ch,zug,172,0,True
+20221117,4109,ch,zug,169,0,True
 20221117,4110,ch,fribourg,583,0,True
 20221117,4111,ch,solothurn,377,0,True
 20221117,4112,ch,basel_stadt,308,0,True
@@ -2547,7 +2554,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221116,4101,ch,zurich,1875,0,True
 20221116,4106,ch,obwalden,64,0,True
 20221116,4107,ch,nidwalden,40,0,True
-20221116,4109,ch,zug,172,0,True
+20221116,4109,ch,zug,169,0,True
 20221116,4110,ch,fribourg,583,0,True
 20221116,4111,ch,solothurn,377,0,True
 20221116,4112,ch,basel_stadt,308,0,True
@@ -2604,7 +2611,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221115,3952,it,sardegna,2809,1,True
 20221115,4101,ch,zurich,1875,0,True
 20221115,4106,ch,obwalden,64,0,True
-20221115,4109,ch,zug,172,0,True
+20221115,4109,ch,zug,169,0,True
 20221115,4110,ch,fribourg,583,0,True
 20221115,4111,ch,solothurn,377,0,True
 20221115,4112,ch,basel_stadt,308,0,True
@@ -2661,7 +2668,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221114,3952,it,sardegna,2808,0,True
 20221114,4101,ch,zurich,1875,1,True
 20221114,4106,ch,obwalden,64,0,True
-20221114,4109,ch,zug,172,0,True
+20221114,4109,ch,zug,169,0,True
 20221114,4110,ch,fribourg,583,0,True
 20221114,4111,ch,solothurn,377,0,True
 20221114,4112,ch,basel_stadt,308,0,True
@@ -2718,7 +2725,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221113,3951,it,sicilia,12267,0,True
 20221113,3952,it,sardegna,2808,0,True
 20221113,4101,ch,zurich,1874,0,True
-20221113,4109,ch,zug,172,0,True
+20221113,4109,ch,zug,169,0,True
 20221113,4110,ch,fribourg,583,0,True
 20221113,4113,ch,basel_landschaft,315,0,True
 20221113,4114,ch,schaffhausen,136,0,True
@@ -2771,7 +2778,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221112,3951,it,sicilia,12267,2,True
 20221112,3952,it,sardegna,2808,1,True
 20221112,4101,ch,zurich,1874,0,True
-20221112,4109,ch,zug,172,0,True
+20221112,4109,ch,zug,169,0,True
 20221112,4110,ch,fribourg,583,0,True
 20221112,4113,ch,basel_landschaft,315,0,True
 20221112,4114,ch,schaffhausen,136,0,True
@@ -2826,7 +2833,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221111,4101,ch,zurich,1874,0,True
 20221111,4106,ch,obwalden,64,0,True
 20221111,4107,ch,nidwalden,40,0,True
-20221111,4109,ch,zug,172,0,True
+20221111,4109,ch,zug,169,0,True
 20221111,4110,ch,fribourg,583,0,True
 20221111,4111,ch,solothurn,377,0,True
 20221111,4112,ch,basel_stadt,308,0,True
@@ -2883,7 +2890,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221110,3952,it,sardegna,2806,5,True
 20221110,4101,ch,zurich,1874,0,True
 20221110,4106,ch,obwalden,64,0,True
-20221110,4109,ch,zug,172,0,True
+20221110,4109,ch,zug,169,0,True
 20221110,4110,ch,fribourg,583,0,True
 20221110,4111,ch,solothurn,377,0,True
 20221110,4112,ch,basel_stadt,308,0,True
@@ -2940,7 +2947,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221109,3952,it,sardegna,2801,3,True
 20221109,4101,ch,zurich,1874,0,True
 20221109,4106,ch,obwalden,64,0,True
-20221109,4109,ch,zug,172,0,True
+20221109,4109,ch,zug,169,0,True
 20221109,4110,ch,fribourg,583,0,True
 20221109,4111,ch,solothurn,377,0,True
 20221109,4112,ch,basel_stadt,308,0,True
@@ -2997,7 +3004,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221108,3952,it,sardegna,2798,1,True
 20221108,4101,ch,zurich,1874,0,True
 20221108,4106,ch,obwalden,64,0,True
-20221108,4109,ch,zug,172,0,True
+20221108,4109,ch,zug,169,0,True
 20221108,4110,ch,fribourg,583,0,True
 20221108,4111,ch,solothurn,377,0,True
 20221108,4112,ch,basel_stadt,308,0,True
@@ -3054,7 +3061,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221107,3952,it,sardegna,2797,0,True
 20221107,4101,ch,zurich,1874,0,True
 20221107,4106,ch,obwalden,64,0,True
-20221107,4109,ch,zug,172,0,True
+20221107,4109,ch,zug,169,0,True
 20221107,4110,ch,fribourg,583,0,True
 20221107,4111,ch,solothurn,377,0,True
 20221107,4112,ch,basel_stadt,308,0,True
@@ -3111,7 +3118,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221106,3951,it,sicilia,12253,1,True
 20221106,3952,it,sardegna,2797,0,True
 20221106,4101,ch,zurich,1874,0,True
-20221106,4109,ch,zug,172,0,True
+20221106,4109,ch,zug,169,0,True
 20221106,4110,ch,fribourg,583,0,True
 20221106,4113,ch,basel_landschaft,315,0,True
 20221106,4114,ch,schaffhausen,136,0,True
@@ -3164,7 +3171,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221105,3951,it,sicilia,12252,0,True
 20221105,3952,it,sardegna,2797,2,True
 20221105,4101,ch,zurich,1874,0,True
-20221105,4109,ch,zug,172,0,True
+20221105,4109,ch,zug,169,0,True
 20221105,4110,ch,fribourg,583,0,True
 20221105,4113,ch,basel_landschaft,315,0,True
 20221105,4114,ch,schaffhausen,136,0,True
@@ -3218,7 +3225,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221104,3952,it,sardegna,2795,6,True
 20221104,4101,ch,zurich,1874,1,True
 20221104,4106,ch,obwalden,64,0,True
-20221104,4109,ch,zug,172,0,True
+20221104,4109,ch,zug,169,0,True
 20221104,4110,ch,fribourg,583,0,True
 20221104,4111,ch,solothurn,377,0,True
 20221104,4112,ch,basel_stadt,308,0,True
@@ -3275,7 +3282,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221103,3952,it,sardegna,2789,3,True
 20221103,4101,ch,zurich,1873,0,True
 20221103,4106,ch,obwalden,64,0,True
-20221103,4109,ch,zug,172,0,True
+20221103,4109,ch,zug,169,0,True
 20221103,4110,ch,fribourg,583,0,True
 20221103,4111,ch,solothurn,377,0,True
 20221103,4112,ch,basel_stadt,308,0,True
@@ -3332,7 +3339,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221102,3952,it,sardegna,2786,3,True
 20221102,4101,ch,zurich,1873,2,True
 20221102,4106,ch,obwalden,64,0,True
-20221102,4109,ch,zug,172,0,True
+20221102,4109,ch,zug,169,0,True
 20221102,4110,ch,fribourg,583,0,True
 20221102,4111,ch,solothurn,377,1,True
 20221102,4112,ch,basel_stadt,308,0,True
@@ -3389,7 +3396,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221101,3952,it,sardegna,2783,0,True
 20221101,4101,ch,zurich,1871,1,True
 20221101,4106,ch,obwalden,64,0,True
-20221101,4109,ch,zug,172,0,True
+20221101,4109,ch,zug,169,0,True
 20221101,4110,ch,fribourg,583,0,True
 20221101,4112,ch,basel_stadt,308,1,True
 20221101,4113,ch,basel_landschaft,315,0,True
@@ -3445,7 +3452,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221031,4101,ch,zurich,1870,1,True
 20221031,4106,ch,obwalden,64,0,True
 20221031,4107,ch,nidwalden,40,0,True
-20221031,4109,ch,zug,172,0,True
+20221031,4109,ch,zug,169,0,True
 20221031,4110,ch,fribourg,583,1,True
 20221031,4111,ch,solothurn,376,0,True
 20221031,4112,ch,basel_stadt,307,0,True
@@ -3502,7 +3509,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221030,3951,it,sicilia,12247,0,True
 20221030,3952,it,sardegna,2783,0,True
 20221030,4101,ch,zurich,1869,0,True
-20221030,4109,ch,zug,172,0,True
+20221030,4109,ch,zug,169,0,True
 20221030,4110,ch,fribourg,582,0,True
 20221030,4113,ch,basel_landschaft,315,0,True
 20221030,4114,ch,schaffhausen,136,0,True
@@ -3555,7 +3562,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221029,3951,it,sicilia,12247,3,True
 20221029,3952,it,sardegna,2783,1,True
 20221029,4101,ch,zurich,1869,0,True
-20221029,4109,ch,zug,172,0,True
+20221029,4109,ch,zug,169,0,True
 20221029,4110,ch,fribourg,582,0,True
 20221029,4113,ch,basel_landschaft,315,0,True
 20221029,4114,ch,schaffhausen,136,0,True
@@ -3610,7 +3617,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221028,4101,ch,zurich,1869,0,True
 20221028,4106,ch,obwalden,64,1,True
 20221028,4107,ch,nidwalden,40,0,True
-20221028,4109,ch,zug,172,0,True
+20221028,4109,ch,zug,169,0,True
 20221028,4110,ch,fribourg,582,0,True
 20221028,4111,ch,solothurn,376,0,True
 20221028,4112,ch,basel_stadt,307,0,True
@@ -3668,7 +3675,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221027,4101,ch,zurich,1869,0,True
 20221027,4106,ch,obwalden,63,0,True
 20221027,4107,ch,nidwalden,40,0,True
-20221027,4109,ch,zug,172,0,True
+20221027,4109,ch,zug,169,0,True
 20221027,4110,ch,fribourg,582,0,True
 20221027,4111,ch,solothurn,376,0,True
 20221027,4112,ch,basel_stadt,307,0,True
@@ -3726,7 +3733,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221026,4101,ch,zurich,1869,0,True
 20221026,4106,ch,obwalden,63,0,True
 20221026,4107,ch,nidwalden,40,0,True
-20221026,4109,ch,zug,172,0,True
+20221026,4109,ch,zug,169,0,True
 20221026,4110,ch,fribourg,582,0,True
 20221026,4111,ch,solothurn,376,0,True
 20221026,4112,ch,basel_stadt,307,0,True
@@ -3784,7 +3791,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221025,4101,ch,zurich,1869,1,True
 20221025,4106,ch,obwalden,63,0,True
 20221025,4107,ch,nidwalden,40,0,True
-20221025,4109,ch,zug,172,0,True
+20221025,4109,ch,zug,169,0,True
 20221025,4110,ch,fribourg,582,0,True
 20221025,4111,ch,solothurn,376,0,True
 20221025,4112,ch,basel_stadt,307,0,True
@@ -3843,7 +3850,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221024,4103,ch,luzern,472,1,True
 20221024,4106,ch,obwalden,63,0,True
 20221024,4107,ch,nidwalden,40,0,True
-20221024,4109,ch,zug,172,0,True
+20221024,4109,ch,zug,169,0,True
 20221024,4110,ch,fribourg,582,0,True
 20221024,4111,ch,solothurn,376,0,True
 20221024,4112,ch,basel_stadt,307,0,True
@@ -3900,7 +3907,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221023,3951,it,sicilia,12234,3,True
 20221023,3952,it,sardegna,2779,0,True
 20221023,4101,ch,zurich,1868,0,True
-20221023,4109,ch,zug,172,0,True
+20221023,4109,ch,zug,169,0,True
 20221023,4110,ch,fribourg,582,0,True
 20221023,4113,ch,basel_landschaft,315,0,True
 20221023,4114,ch,schaffhausen,136,0,True
@@ -3953,7 +3960,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221022,3951,it,sicilia,12231,4,True
 20221022,3952,it,sardegna,2779,0,True
 20221022,4101,ch,zurich,1868,0,True
-20221022,4109,ch,zug,172,0,True
+20221022,4109,ch,zug,169,0,True
 20221022,4110,ch,fribourg,582,0,True
 20221022,4113,ch,basel_landschaft,315,1,True
 20221022,4114,ch,schaffhausen,136,0,True
@@ -4008,7 +4015,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221021,4101,ch,zurich,1868,0,True
 20221021,4106,ch,obwalden,63,0,True
 20221021,4107,ch,nidwalden,40,0,True
-20221021,4109,ch,zug,172,0,True
+20221021,4109,ch,zug,169,0,True
 20221021,4110,ch,fribourg,582,0,True
 20221021,4111,ch,solothurn,376,0,True
 20221021,4112,ch,basel_stadt,307,1,True
@@ -4066,7 +4073,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221020,4101,ch,zurich,1868,0,True
 20221020,4106,ch,obwalden,63,1,True
 20221020,4107,ch,nidwalden,40,0,True
-20221020,4109,ch,zug,172,0,True
+20221020,4109,ch,zug,169,0,True
 20221020,4110,ch,fribourg,582,0,True
 20221020,4111,ch,solothurn,376,0,True
 20221020,4112,ch,basel_stadt,306,0,True
@@ -4124,7 +4131,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221019,4101,ch,zurich,1868,2,True
 20221019,4106,ch,obwalden,62,0,True
 20221019,4107,ch,nidwalden,40,0,True
-20221019,4109,ch,zug,172,0,True
+20221019,4109,ch,zug,169,0,True
 20221019,4110,ch,fribourg,582,0,True
 20221019,4111,ch,solothurn,376,1,True
 20221019,4112,ch,basel_stadt,306,0,True
@@ -4182,7 +4189,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221018,4101,ch,zurich,1866,1,True
 20221018,4106,ch,obwalden,62,0,True
 20221018,4107,ch,nidwalden,40,0,True
-20221018,4109,ch,zug,172,0,True
+20221018,4109,ch,zug,169,0,True
 20221018,4110,ch,fribourg,582,0,True
 20221018,4111,ch,solothurn,375,0,True
 20221018,4112,ch,basel_stadt,306,0,True
@@ -4240,7 +4247,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221017,4101,ch,zurich,1865,1,True
 20221017,4106,ch,obwalden,62,0,True
 20221017,4107,ch,nidwalden,40,0,True
-20221017,4109,ch,zug,172,0,True
+20221017,4109,ch,zug,169,0,True
 20221017,4110,ch,fribourg,582,0,True
 20221017,4111,ch,solothurn,375,1,True
 20221017,4112,ch,basel_stadt,306,0,True
@@ -4298,7 +4305,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221016,3952,it,sardegna,2775,0,True
 20221016,4101,ch,zurich,1864,0,True
 20221016,4103,ch,luzern,471,1,True
-20221016,4109,ch,zug,172,0,True
+20221016,4109,ch,zug,169,0,True
 20221016,4110,ch,fribourg,582,0,True
 20221016,4113,ch,basel_landschaft,314,0,True
 20221016,4114,ch,schaffhausen,136,0,True
@@ -4351,7 +4358,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221015,3951,it,sicilia,12211,1,True
 20221015,3952,it,sardegna,2775,1,True
 20221015,4101,ch,zurich,1864,0,True
-20221015,4109,ch,zug,172,0,True
+20221015,4109,ch,zug,169,0,True
 20221015,4110,ch,fribourg,582,0,True
 20221015,4113,ch,basel_landschaft,314,0,True
 20221015,4114,ch,schaffhausen,136,0,True
@@ -4406,7 +4413,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221014,4101,ch,zurich,1864,1,True
 20221014,4106,ch,obwalden,62,0,True
 20221014,4107,ch,nidwalden,40,0,True
-20221014,4109,ch,zug,172,0,True
+20221014,4109,ch,zug,169,0,True
 20221014,4110,ch,fribourg,582,0,True
 20221014,4111,ch,solothurn,374,0,True
 20221014,4112,ch,basel_stadt,306,0,True
@@ -4464,7 +4471,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221013,4101,ch,zurich,1863,0,True
 20221013,4106,ch,obwalden,62,0,True
 20221013,4107,ch,nidwalden,40,0,True
-20221013,4109,ch,zug,172,0,True
+20221013,4109,ch,zug,169,0,True
 20221013,4110,ch,fribourg,582,1,True
 20221013,4111,ch,solothurn,374,1,True
 20221013,4112,ch,basel_stadt,306,0,True
@@ -4522,7 +4529,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221012,4101,ch,zurich,1863,0,True
 20221012,4106,ch,obwalden,62,0,True
 20221012,4107,ch,nidwalden,40,0,True
-20221012,4109,ch,zug,172,0,True
+20221012,4109,ch,zug,169,0,True
 20221012,4110,ch,fribourg,581,0,True
 20221012,4111,ch,solothurn,373,0,True
 20221012,4112,ch,basel_stadt,306,0,True
@@ -4580,7 +4587,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221011,4101,ch,zurich,1863,0,True
 20221011,4106,ch,obwalden,62,0,True
 20221011,4107,ch,nidwalden,40,0,True
-20221011,4109,ch,zug,172,0,True
+20221011,4109,ch,zug,169,0,True
 20221011,4110,ch,fribourg,581,0,True
 20221011,4111,ch,solothurn,373,0,True
 20221011,4112,ch,basel_stadt,306,0,True
@@ -4638,7 +4645,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221010,4101,ch,zurich,1863,1,True
 20221010,4106,ch,obwalden,62,0,True
 20221010,4107,ch,nidwalden,40,0,True
-20221010,4109,ch,zug,172,0,True
+20221010,4109,ch,zug,169,0,True
 20221010,4110,ch,fribourg,581,0,True
 20221010,4111,ch,solothurn,373,0,True
 20221010,4112,ch,basel_stadt,306,0,True
@@ -4695,7 +4702,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221009,3951,it,sicilia,12207,1,True
 20221009,3952,it,sardegna,2771,0,True
 20221009,4101,ch,zurich,1862,0,True
-20221009,4109,ch,zug,172,0,True
+20221009,4109,ch,zug,169,0,True
 20221009,4110,ch,fribourg,581,0,True
 20221009,4113,ch,basel_landschaft,314,0,True
 20221009,4114,ch,schaffhausen,136,0,True
@@ -4748,7 +4755,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221008,3951,it,sicilia,12206,1,True
 20221008,3952,it,sardegna,2771,0,True
 20221008,4101,ch,zurich,1862,0,True
-20221008,4109,ch,zug,172,0,True
+20221008,4109,ch,zug,169,0,True
 20221008,4110,ch,fribourg,581,0,True
 20221008,4113,ch,basel_landschaft,314,0,True
 20221008,4114,ch,schaffhausen,136,0,True
@@ -4803,7 +4810,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221007,4101,ch,zurich,1862,0,True
 20221007,4106,ch,obwalden,62,0,True
 20221007,4107,ch,nidwalden,40,0,True
-20221007,4109,ch,zug,172,0,True
+20221007,4109,ch,zug,169,0,True
 20221007,4110,ch,fribourg,581,0,True
 20221007,4111,ch,solothurn,373,0,True
 20221007,4112,ch,basel_stadt,306,0,True
@@ -4861,7 +4868,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221006,4101,ch,zurich,1862,0,True
 20221006,4106,ch,obwalden,62,0,True
 20221006,4107,ch,nidwalden,40,0,True
-20221006,4109,ch,zug,172,0,True
+20221006,4109,ch,zug,169,0,True
 20221006,4110,ch,fribourg,581,0,True
 20221006,4111,ch,solothurn,373,0,True
 20221006,4112,ch,basel_stadt,306,0,True
@@ -4919,7 +4926,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221005,4101,ch,zurich,1862,1,True
 20221005,4106,ch,obwalden,62,0,True
 20221005,4107,ch,nidwalden,40,0,True
-20221005,4109,ch,zug,172,0,True
+20221005,4109,ch,zug,169,0,True
 20221005,4110,ch,fribourg,581,0,True
 20221005,4111,ch,solothurn,373,0,True
 20221005,4112,ch,basel_stadt,306,2,True
@@ -4977,7 +4984,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221004,4101,ch,zurich,1861,0,True
 20221004,4106,ch,obwalden,62,0,True
 20221004,4107,ch,nidwalden,40,0,True
-20221004,4109,ch,zug,172,0,True
+20221004,4109,ch,zug,169,0,True
 20221004,4110,ch,fribourg,581,1,True
 20221004,4111,ch,solothurn,373,0,True
 20221004,4112,ch,basel_stadt,304,0,True
@@ -5035,7 +5042,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221003,4101,ch,zurich,1861,2,True
 20221003,4106,ch,obwalden,62,0,True
 20221003,4107,ch,nidwalden,40,0,True
-20221003,4109,ch,zug,172,0,True
+20221003,4109,ch,zug,169,0,True
 20221003,4110,ch,fribourg,580,0,True
 20221003,4111,ch,solothurn,373,0,True
 20221003,4112,ch,basel_stadt,304,0,True
@@ -5092,7 +5099,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221002,3951,it,sicilia,12202,0,True
 20221002,3952,it,sardegna,2768,0,True
 20221002,4101,ch,zurich,1859,0,True
-20221002,4109,ch,zug,172,0,True
+20221002,4109,ch,zug,169,0,True
 20221002,4110,ch,fribourg,580,0,True
 20221002,4113,ch,basel_landschaft,314,0,True
 20221002,4114,ch,schaffhausen,136,0,True
@@ -5145,7 +5152,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221001,3951,it,sicilia,12202,1,True
 20221001,3952,it,sardegna,2768,0,True
 20221001,4101,ch,zurich,1859,0,True
-20221001,4109,ch,zug,172,0,True
+20221001,4109,ch,zug,169,0,True
 20221001,4110,ch,fribourg,580,0,True
 20221001,4113,ch,basel_landschaft,314,0,True
 20221001,4114,ch,schaffhausen,136,0,True
@@ -5200,7 +5207,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220930,4101,ch,zurich,1859,0,True
 20220930,4106,ch,obwalden,62,0,True
 20220930,4107,ch,nidwalden,40,1,True
-20220930,4109,ch,zug,172,0,True
+20220930,4109,ch,zug,169,0,True
 20220930,4110,ch,fribourg,580,0,True
 20220930,4112,ch,basel_stadt,304,0,True
 20220930,4113,ch,basel_landschaft,314,0,True
@@ -5257,7 +5264,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220929,4101,ch,zurich,1859,0,True
 20220929,4106,ch,obwalden,62,0,True
 20220929,4107,ch,nidwalden,39,0,True
-20220929,4109,ch,zug,172,0,True
+20220929,4109,ch,zug,169,0,True
 20220929,4110,ch,fribourg,580,0,True
 20220929,4111,ch,solothurn,373,0,True
 20220929,4112,ch,basel_stadt,304,0,True
@@ -5315,7 +5322,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220928,4101,ch,zurich,1859,0,True
 20220928,4106,ch,obwalden,62,0,True
 20220928,4107,ch,nidwalden,39,0,True
-20220928,4109,ch,zug,172,0,True
+20220928,4109,ch,zug,169,0,True
 20220928,4110,ch,fribourg,580,0,True
 20220928,4111,ch,solothurn,373,0,True
 20220928,4112,ch,basel_stadt,304,0,True
@@ -5373,7 +5380,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220927,4101,ch,zurich,1859,0,True
 20220927,4106,ch,obwalden,62,0,True
 20220927,4107,ch,nidwalden,39,0,True
-20220927,4109,ch,zug,172,0,True
+20220927,4109,ch,zug,169,0,True
 20220927,4110,ch,fribourg,580,0,True
 20220927,4111,ch,solothurn,373,0,True
 20220927,4112,ch,basel_stadt,304,0,True
@@ -5431,7 +5438,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220926,4101,ch,zurich,1859,0,True
 20220926,4106,ch,obwalden,62,0,True
 20220926,4107,ch,nidwalden,39,0,True
-20220926,4109,ch,zug,172,0,True
+20220926,4109,ch,zug,169,0,True
 20220926,4110,ch,fribourg,580,0,True
 20220926,4111,ch,solothurn,373,0,True
 20220926,4112,ch,basel_stadt,304,1,True
@@ -5488,7 +5495,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220925,3951,it,sicilia,12193,1,True
 20220925,3952,it,sardegna,2761,0,True
 20220925,4101,ch,zurich,1859,0,True
-20220925,4109,ch,zug,172,0,True
+20220925,4109,ch,zug,169,0,True
 20220925,4110,ch,fribourg,580,0,True
 20220925,4113,ch,basel_landschaft,314,0,True
 20220925,4114,ch,schaffhausen,136,0,True
@@ -5541,7 +5548,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220924,3951,it,sicilia,12192,6,True
 20220924,3952,it,sardegna,2761,1,True
 20220924,4101,ch,zurich,1859,0,True
-20220924,4109,ch,zug,172,0,True
+20220924,4109,ch,zug,169,0,True
 20220924,4110,ch,fribourg,580,0,True
 20220924,4113,ch,basel_landschaft,314,0,True
 20220924,4114,ch,schaffhausen,136,1,True
@@ -5596,7 +5603,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220923,4101,ch,zurich,1859,0,True
 20220923,4106,ch,obwalden,62,0,True
 20220923,4107,ch,nidwalden,39,0,True
-20220923,4109,ch,zug,172,0,True
+20220923,4109,ch,zug,169,0,True
 20220923,4110,ch,fribourg,580,0,True
 20220923,4111,ch,solothurn,373,0,True
 20220923,4112,ch,basel_stadt,303,0,True
@@ -5654,7 +5661,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220922,4101,ch,zurich,1859,1,True
 20220922,4106,ch,obwalden,62,0,True
 20220922,4107,ch,nidwalden,39,0,True
-20220922,4109,ch,zug,172,0,True
+20220922,4109,ch,zug,169,0,True
 20220922,4110,ch,fribourg,580,0,True
 20220922,4111,ch,solothurn,373,0,True
 20220922,4112,ch,basel_stadt,303,0,True
@@ -5712,7 +5719,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220921,4101,ch,zurich,1858,1,True
 20220921,4106,ch,obwalden,62,0,True
 20220921,4107,ch,nidwalden,39,0,True
-20220921,4109,ch,zug,172,0,True
+20220921,4109,ch,zug,169,0,True
 20220921,4110,ch,fribourg,580,0,True
 20220921,4111,ch,solothurn,373,0,True
 20220921,4112,ch,basel_stadt,303,0,True
@@ -5770,7 +5777,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220920,4101,ch,zurich,1857,0,True
 20220920,4106,ch,obwalden,62,0,True
 20220920,4107,ch,nidwalden,39,0,True
-20220920,4109,ch,zug,172,0,True
+20220920,4109,ch,zug,169,0,True
 20220920,4110,ch,fribourg,580,0,True
 20220920,4111,ch,solothurn,373,0,True
 20220920,4112,ch,basel_stadt,303,0,True
@@ -5828,7 +5835,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220919,4101,ch,zurich,1857,0,True
 20220919,4106,ch,obwalden,62,0,True
 20220919,4107,ch,nidwalden,39,0,True
-20220919,4109,ch,zug,172,0,True
+20220919,4109,ch,zug,169,0,True
 20220919,4110,ch,fribourg,580,0,True
 20220919,4111,ch,solothurn,373,0,True
 20220919,4112,ch,basel_stadt,303,0,True
@@ -5885,7 +5892,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220918,3951,it,sicilia,12179,0,True
 20220918,3952,it,sardegna,2750,0,True
 20220918,4101,ch,zurich,1857,0,True
-20220918,4109,ch,zug,172,0,True
+20220918,4109,ch,zug,169,0,True
 20220918,4110,ch,fribourg,580,0,True
 20220918,4113,ch,basel_landschaft,314,0,True
 20220918,4114,ch,schaffhausen,135,0,True
@@ -5938,7 +5945,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220917,3951,it,sicilia,12179,2,True
 20220917,3952,it,sardegna,2750,0,True
 20220917,4101,ch,zurich,1857,0,True
-20220917,4109,ch,zug,172,0,True
+20220917,4109,ch,zug,169,0,True
 20220917,4110,ch,fribourg,580,0,True
 20220917,4113,ch,basel_landschaft,314,0,True
 20220917,4114,ch,schaffhausen,135,0,True
@@ -5993,7 +6000,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220916,4101,ch,zurich,1857,0,True
 20220916,4106,ch,obwalden,62,0,True
 20220916,4107,ch,nidwalden,39,0,True
-20220916,4109,ch,zug,172,0,True
+20220916,4109,ch,zug,169,0,True
 20220916,4110,ch,fribourg,580,0,True
 20220916,4111,ch,solothurn,373,0,True
 20220916,4112,ch,basel_stadt,303,0,True
@@ -6051,7 +6058,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220915,4101,ch,zurich,1857,0,True
 20220915,4106,ch,obwalden,62,0,True
 20220915,4107,ch,nidwalden,39,0,True
-20220915,4109,ch,zug,172,0,True
+20220915,4109,ch,zug,169,0,True
 20220915,4110,ch,fribourg,580,0,True
 20220915,4111,ch,solothurn,373,0,True
 20220915,4112,ch,basel_stadt,303,0,True
@@ -6109,7 +6116,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220914,4101,ch,zurich,1857,0,True
 20220914,4106,ch,obwalden,62,0,True
 20220914,4107,ch,nidwalden,39,0,True
-20220914,4109,ch,zug,172,0,True
+20220914,4109,ch,zug,169,0,True
 20220914,4110,ch,fribourg,580,1,True
 20220914,4111,ch,solothurn,373,0,True
 20220914,4112,ch,basel_stadt,303,0,True
@@ -6167,7 +6174,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220913,4101,ch,zurich,1857,2,True
 20220913,4106,ch,obwalden,62,0,True
 20220913,4107,ch,nidwalden,39,0,True
-20220913,4109,ch,zug,172,0,True
+20220913,4109,ch,zug,169,0,True
 20220913,4110,ch,fribourg,579,0,True
 20220913,4111,ch,solothurn,373,0,True
 20220913,4112,ch,basel_stadt,303,1,True
@@ -6225,7 +6232,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220912,4101,ch,zurich,1855,0,True
 20220912,4106,ch,obwalden,62,0,True
 20220912,4107,ch,nidwalden,39,0,True
-20220912,4109,ch,zug,172,0,True
+20220912,4109,ch,zug,169,0,True
 20220912,4110,ch,fribourg,579,0,True
 20220912,4111,ch,solothurn,373,0,True
 20220912,4112,ch,basel_stadt,302,0,True
@@ -6282,7 +6289,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220911,3951,it,sicilia,12161,6,True
 20220911,3952,it,sardegna,2741,1,True
 20220911,4101,ch,zurich,1855,0,True
-20220911,4109,ch,zug,172,0,True
+20220911,4109,ch,zug,169,0,True
 20220911,4110,ch,fribourg,579,0,True
 20220911,4113,ch,basel_landschaft,314,0,True
 20220911,4114,ch,schaffhausen,135,0,True
@@ -6335,7 +6342,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220910,3951,it,sicilia,12155,9,True
 20220910,3952,it,sardegna,2740,1,True
 20220910,4101,ch,zurich,1855,0,True
-20220910,4109,ch,zug,172,0,True
+20220910,4109,ch,zug,169,0,True
 20220910,4110,ch,fribourg,579,0,True
 20220910,4113,ch,basel_landschaft,314,0,True
 20220910,4114,ch,schaffhausen,135,0,True
@@ -6390,7 +6397,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220909,4101,ch,zurich,1855,0,True
 20220909,4106,ch,obwalden,62,0,True
 20220909,4107,ch,nidwalden,39,1,True
-20220909,4109,ch,zug,172,0,True
+20220909,4109,ch,zug,169,0,True
 20220909,4110,ch,fribourg,579,0,True
 20220909,4111,ch,solothurn,373,0,True
 20220909,4112,ch,basel_stadt,302,0,True
@@ -6448,7 +6455,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220908,4101,ch,zurich,1855,0,True
 20220908,4106,ch,obwalden,62,0,True
 20220908,4107,ch,nidwalden,38,0,True
-20220908,4109,ch,zug,172,0,True
+20220908,4109,ch,zug,169,0,True
 20220908,4110,ch,fribourg,579,0,True
 20220908,4111,ch,solothurn,373,0,True
 20220908,4112,ch,basel_stadt,302,0,True
@@ -6506,7 +6513,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220907,4101,ch,zurich,1855,0,True
 20220907,4106,ch,obwalden,62,0,True
 20220907,4107,ch,nidwalden,38,0,True
-20220907,4109,ch,zug,172,0,True
+20220907,4109,ch,zug,169,0,True
 20220907,4110,ch,fribourg,579,0,True
 20220907,4111,ch,solothurn,373,0,True
 20220907,4112,ch,basel_stadt,302,2,True
@@ -6564,7 +6571,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220906,4101,ch,zurich,1855,2,True
 20220906,4106,ch,obwalden,62,0,True
 20220906,4107,ch,nidwalden,38,0,True
-20220906,4109,ch,zug,172,0,True
+20220906,4109,ch,zug,169,0,True
 20220906,4110,ch,fribourg,579,0,True
 20220906,4111,ch,solothurn,373,0,True
 20220906,4112,ch,basel_stadt,300,0,True
@@ -6622,7 +6629,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220905,4101,ch,zurich,1853,0,True
 20220905,4106,ch,obwalden,62,0,True
 20220905,4107,ch,nidwalden,38,0,True
-20220905,4109,ch,zug,172,0,True
+20220905,4109,ch,zug,169,0,True
 20220905,4110,ch,fribourg,579,0,True
 20220905,4111,ch,solothurn,373,0,True
 20220905,4112,ch,basel_stadt,300,0,True
@@ -6680,7 +6687,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220904,3952,it,sardegna,2723,0,True
 20220904,4101,ch,zurich,1853,0,True
 20220904,4107,ch,nidwalden,38,0,True
-20220904,4109,ch,zug,172,0,True
+20220904,4109,ch,zug,169,0,True
 20220904,4110,ch,fribourg,579,0,True
 20220904,4113,ch,basel_landschaft,314,1,True
 20220904,4114,ch,schaffhausen,135,0,True
@@ -6734,7 +6741,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220903,3952,it,sardegna,2723,0,True
 20220903,4101,ch,zurich,1853,0,True
 20220903,4107,ch,nidwalden,38,0,True
-20220903,4109,ch,zug,172,0,True
+20220903,4109,ch,zug,169,0,True
 20220903,4110,ch,fribourg,579,0,True
 20220903,4113,ch,basel_landschaft,313,0,True
 20220903,4114,ch,schaffhausen,135,0,True
@@ -6789,7 +6796,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220902,4101,ch,zurich,1853,1,True
 20220902,4106,ch,obwalden,62,0,True
 20220902,4107,ch,nidwalden,38,0,True
-20220902,4109,ch,zug,172,0,True
+20220902,4109,ch,zug,169,0,True
 20220902,4110,ch,fribourg,579,0,True
 20220902,4111,ch,solothurn,373,0,True
 20220902,4112,ch,basel_stadt,300,0,True
@@ -6847,7 +6854,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220901,4101,ch,zurich,1852,1,True
 20220901,4106,ch,obwalden,62,0,True
 20220901,4107,ch,nidwalden,38,0,True
-20220901,4109,ch,zug,172,0,True
+20220901,4109,ch,zug,169,0,True
 20220901,4110,ch,fribourg,579,0,True
 20220901,4111,ch,solothurn,373,0,True
 20220901,4112,ch,basel_stadt,300,0,True
@@ -6905,7 +6912,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220831,4101,ch,zurich,1851,1,True
 20220831,4106,ch,obwalden,62,0,True
 20220831,4107,ch,nidwalden,38,0,True
-20220831,4109,ch,zug,172,0,True
+20220831,4109,ch,zug,169,0,True
 20220831,4110,ch,fribourg,579,0,True
 20220831,4111,ch,solothurn,373,0,True
 20220831,4112,ch,basel_stadt,300,0,True
@@ -6963,7 +6970,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220830,4101,ch,zurich,1850,1,True
 20220830,4106,ch,obwalden,62,0,True
 20220830,4107,ch,nidwalden,38,0,True
-20220830,4109,ch,zug,172,0,True
+20220830,4109,ch,zug,169,0,True
 20220830,4110,ch,fribourg,579,0,True
 20220830,4111,ch,solothurn,373,0,True
 20220830,4112,ch,basel_stadt,300,1,True
@@ -7021,7 +7028,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220829,4101,ch,zurich,1849,0,True
 20220829,4106,ch,obwalden,62,0,True
 20220829,4107,ch,nidwalden,38,0,True
-20220829,4109,ch,zug,172,0,True
+20220829,4109,ch,zug,169,0,True
 20220829,4110,ch,fribourg,579,0,True
 20220829,4112,ch,basel_stadt,299,0,True
 20220829,4113,ch,basel_landschaft,312,0,True
@@ -7077,7 +7084,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220828,3951,it,sicilia,12057,1,True
 20220828,3952,it,sardegna,2700,0,True
 20220828,4101,ch,zurich,1849,0,True
-20220828,4109,ch,zug,172,0,True
+20220828,4109,ch,zug,169,0,True
 20220828,4110,ch,fribourg,579,0,True
 20220828,4113,ch,basel_landschaft,312,0,True
 20220828,4114,ch,schaffhausen,135,0,True
@@ -7130,7 +7137,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220827,3951,it,sicilia,12056,13,True
 20220827,3952,it,sardegna,2700,4,True
 20220827,4101,ch,zurich,1849,0,True
-20220827,4109,ch,zug,172,0,True
+20220827,4109,ch,zug,169,0,True
 20220827,4110,ch,fribourg,579,0,True
 20220827,4113,ch,basel_landschaft,312,0,True
 20220827,4114,ch,schaffhausen,135,0,True
@@ -7185,7 +7192,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220826,4101,ch,zurich,1849,0,True
 20220826,4106,ch,obwalden,62,0,True
 20220826,4107,ch,nidwalden,38,0,True
-20220826,4109,ch,zug,172,0,True
+20220826,4109,ch,zug,169,0,True
 20220826,4110,ch,fribourg,579,0,True
 20220826,4111,ch,solothurn,373,0,True
 20220826,4112,ch,basel_stadt,299,0,True
@@ -7243,7 +7250,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220825,4101,ch,zurich,1849,1,True
 20220825,4106,ch,obwalden,62,0,True
 20220825,4107,ch,nidwalden,38,0,True
-20220825,4109,ch,zug,172,0,True
+20220825,4109,ch,zug,169,0,True
 20220825,4110,ch,fribourg,579,0,True
 20220825,4111,ch,solothurn,373,0,True
 20220825,4112,ch,basel_stadt,299,0,True
@@ -7301,7 +7308,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220824,4101,ch,zurich,1848,0,True
 20220824,4106,ch,obwalden,62,1,True
 20220824,4107,ch,nidwalden,38,0,True
-20220824,4109,ch,zug,172,0,True
+20220824,4109,ch,zug,169,0,True
 20220824,4110,ch,fribourg,579,0,True
 20220824,4111,ch,solothurn,373,0,True
 20220824,4112,ch,basel_stadt,299,1,True
@@ -7359,7 +7366,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220823,4101,ch,zurich,1848,0,True
 20220823,4106,ch,obwalden,61,0,True
 20220823,4107,ch,nidwalden,38,0,True
-20220823,4109,ch,zug,172,0,True
+20220823,4109,ch,zug,169,0,True
 20220823,4110,ch,fribourg,579,0,True
 20220823,4111,ch,solothurn,373,0,True
 20220823,4112,ch,basel_stadt,298,2,True
@@ -7417,7 +7424,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220822,4101,ch,zurich,1848,2,True
 20220822,4106,ch,obwalden,61,0,True
 20220822,4107,ch,nidwalden,38,2,True
-20220822,4109,ch,zug,172,0,True
+20220822,4109,ch,zug,169,0,True
 20220822,4110,ch,fribourg,579,0,True
 20220822,4111,ch,solothurn,373,0,True
 20220822,4112,ch,basel_stadt,296,0,True
@@ -7474,7 +7481,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220821,3951,it,sicilia,11974,3,True
 20220821,3952,it,sardegna,2683,2,True
 20220821,4101,ch,zurich,1846,0,True
-20220821,4109,ch,zug,172,0,True
+20220821,4109,ch,zug,169,0,True
 20220821,4110,ch,fribourg,579,0,True
 20220821,4113,ch,basel_landschaft,312,0,True
 20220821,4114,ch,schaffhausen,135,0,True
@@ -7527,7 +7534,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220820,3951,it,sicilia,11971,7,True
 20220820,3952,it,sardegna,2681,1,True
 20220820,4101,ch,zurich,1846,0,True
-20220820,4109,ch,zug,172,0,True
+20220820,4109,ch,zug,169,0,True
 20220820,4110,ch,fribourg,579,0,True
 20220820,4113,ch,basel_landschaft,312,0,True
 20220820,4114,ch,schaffhausen,135,0,True
@@ -7582,7 +7589,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220819,4101,ch,zurich,1846,0,True
 20220819,4106,ch,obwalden,61,0,True
 20220819,4107,ch,nidwalden,36,0,True
-20220819,4109,ch,zug,172,0,True
+20220819,4109,ch,zug,169,0,True
 20220819,4110,ch,fribourg,579,0,True
 20220819,4111,ch,solothurn,373,1,True
 20220819,4112,ch,basel_stadt,296,0,True
@@ -7640,7 +7647,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220818,4101,ch,zurich,1846,0,True
 20220818,4106,ch,obwalden,61,0,True
 20220818,4107,ch,nidwalden,36,0,True
-20220818,4109,ch,zug,172,0,True
+20220818,4109,ch,zug,169,0,True
 20220818,4110,ch,fribourg,579,0,True
 20220818,4111,ch,solothurn,372,0,True
 20220818,4112,ch,basel_stadt,296,0,True
@@ -7698,7 +7705,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220817,4101,ch,zurich,1846,0,True
 20220817,4106,ch,obwalden,61,0,True
 20220817,4107,ch,nidwalden,36,0,True
-20220817,4109,ch,zug,172,0,True
+20220817,4109,ch,zug,169,0,True
 20220817,4110,ch,fribourg,579,0,True
 20220817,4111,ch,solothurn,372,0,True
 20220817,4112,ch,basel_stadt,296,0,True
@@ -7756,7 +7763,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220816,4101,ch,zurich,1846,0,True
 20220816,4106,ch,obwalden,61,0,True
 20220816,4107,ch,nidwalden,36,0,True
-20220816,4109,ch,zug,172,0,True
+20220816,4109,ch,zug,169,0,True
 20220816,4110,ch,fribourg,579,0,True
 20220816,4111,ch,solothurn,372,0,True
 20220816,4112,ch,basel_stadt,296,2,True
@@ -7813,7 +7820,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220815,3952,it,sardegna,2666,1,True
 20220815,4101,ch,zurich,1846,1,True
 20220815,4106,ch,obwalden,61,0,True
-20220815,4109,ch,zug,172,0,True
+20220815,4109,ch,zug,169,0,True
 20220815,4110,ch,fribourg,579,0,True
 20220815,4112,ch,basel_stadt,294,0,True
 20220815,4113,ch,basel_landschaft,312,0,True
@@ -7868,7 +7875,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220814,3951,it,sicilia,11900,7,True
 20220814,3952,it,sardegna,2665,3,True
 20220814,4101,ch,zurich,1845,0,True
-20220814,4109,ch,zug,172,0,True
+20220814,4109,ch,zug,169,0,True
 20220814,4110,ch,fribourg,579,0,True
 20220814,4113,ch,basel_landschaft,312,0,True
 20220814,4114,ch,schaffhausen,135,0,True
@@ -7923,7 +7930,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220813,4101,ch,zurich,1845,0,True
 20220813,4103,ch,luzern,470,1,True
 20220813,4107,ch,nidwalden,36,0,True
-20220813,4109,ch,zug,172,0,True
+20220813,4109,ch,zug,169,0,True
 20220813,4110,ch,fribourg,579,0,True
 20220813,4113,ch,basel_landschaft,312,0,True
 20220813,4114,ch,schaffhausen,135,0,True
@@ -7978,7 +7985,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220812,4101,ch,zurich,1845,1,True
 20220812,4106,ch,obwalden,61,0,True
 20220812,4107,ch,nidwalden,36,0,True
-20220812,4109,ch,zug,172,0,True
+20220812,4109,ch,zug,169,0,True
 20220812,4110,ch,fribourg,579,0,True
 20220812,4111,ch,solothurn,372,0,True
 20220812,4112,ch,basel_stadt,294,1,True
@@ -8036,7 +8043,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220811,4101,ch,zurich,1844,0,True
 20220811,4106,ch,obwalden,61,0,True
 20220811,4107,ch,nidwalden,36,0,True
-20220811,4109,ch,zug,172,0,True
+20220811,4109,ch,zug,169,0,True
 20220811,4110,ch,fribourg,579,0,True
 20220811,4111,ch,solothurn,372,0,True
 20220811,4112,ch,basel_stadt,293,0,True
@@ -8095,7 +8102,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220810,4103,ch,luzern,469,1,True
 20220810,4106,ch,obwalden,61,0,True
 20220810,4107,ch,nidwalden,36,0,True
-20220810,4109,ch,zug,172,0,True
+20220810,4109,ch,zug,169,0,True
 20220810,4110,ch,fribourg,579,0,True
 20220810,4111,ch,solothurn,372,1,True
 20220810,4112,ch,basel_stadt,293,0,True
@@ -8153,7 +8160,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220809,4101,ch,zurich,1843,3,True
 20220809,4106,ch,obwalden,61,0,True
 20220809,4107,ch,nidwalden,36,0,True
-20220809,4109,ch,zug,172,0,True
+20220809,4109,ch,zug,169,0,True
 20220809,4110,ch,fribourg,579,0,True
 20220809,4111,ch,solothurn,371,0,True
 20220809,4112,ch,basel_stadt,293,0,True
@@ -8211,7 +8218,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220808,4101,ch,zurich,1840,1,True
 20220808,4106,ch,obwalden,61,0,True
 20220808,4107,ch,nidwalden,36,0,True
-20220808,4109,ch,zug,172,0,True
+20220808,4109,ch,zug,169,0,True
 20220808,4110,ch,fribourg,579,1,True
 20220808,4111,ch,solothurn,371,0,True
 20220808,4112,ch,basel_stadt,293,0,True
@@ -8268,7 +8275,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220807,3951,it,sicilia,11801,9,True
 20220807,3952,it,sardegna,2642,0,True
 20220807,4101,ch,zurich,1839,0,True
-20220807,4109,ch,zug,172,0,True
+20220807,4109,ch,zug,169,0,True
 20220807,4110,ch,fribourg,578,0,True
 20220807,4113,ch,basel_landschaft,312,0,True
 20220807,4114,ch,schaffhausen,135,0,True
@@ -8321,7 +8328,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220806,3951,it,sicilia,11792,17,True
 20220806,3952,it,sardegna,2642,7,True
 20220806,4101,ch,zurich,1839,0,True
-20220806,4109,ch,zug,172,0,True
+20220806,4109,ch,zug,169,0,True
 20220806,4110,ch,fribourg,578,0,True
 20220806,4113,ch,basel_landschaft,312,0,True
 20220806,4114,ch,schaffhausen,135,0,True
@@ -8376,7 +8383,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220805,4101,ch,zurich,1839,0,True
 20220805,4106,ch,obwalden,61,0,True
 20220805,4107,ch,nidwalden,36,0,True
-20220805,4109,ch,zug,172,0,True
+20220805,4109,ch,zug,169,0,True
 20220805,4110,ch,fribourg,578,0,True
 20220805,4111,ch,solothurn,371,0,True
 20220805,4112,ch,basel_stadt,293,0,True
@@ -8434,7 +8441,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220804,4101,ch,zurich,1839,4,True
 20220804,4106,ch,obwalden,61,0,True
 20220804,4107,ch,nidwalden,36,0,True
-20220804,4109,ch,zug,172,0,True
+20220804,4109,ch,zug,169,0,True
 20220804,4110,ch,fribourg,578,0,True
 20220804,4111,ch,solothurn,371,0,True
 20220804,4112,ch,basel_stadt,293,0,True
@@ -8492,7 +8499,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220803,4101,ch,zurich,1835,3,True
 20220803,4106,ch,obwalden,61,0,True
 20220803,4107,ch,nidwalden,36,0,True
-20220803,4109,ch,zug,172,0,True
+20220803,4109,ch,zug,169,0,True
 20220803,4110,ch,fribourg,578,0,True
 20220803,4111,ch,solothurn,371,1,True
 20220803,4112,ch,basel_stadt,293,2,True
@@ -8551,7 +8558,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220802,4103,ch,luzern,468,1,True
 20220802,4106,ch,obwalden,61,0,True
 20220802,4107,ch,nidwalden,36,0,True
-20220802,4109,ch,zug,172,0,True
+20220802,4109,ch,zug,169,0,True
 20220802,4110,ch,fribourg,578,0,True
 20220802,4111,ch,solothurn,370,2,True
 20220802,4112,ch,basel_stadt,291,0,True
@@ -8609,7 +8616,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220801,4101,ch,zurich,1832,0,True
 20220801,4106,ch,obwalden,61,0,True
 20220801,4107,ch,nidwalden,36,0,True
-20220801,4109,ch,zug,172,0,True
+20220801,4109,ch,zug,169,0,True
 20220801,4110,ch,fribourg,578,0,True
 20220801,4113,ch,basel_landschaft,310,0,True
 20220801,4114,ch,schaffhausen,135,0,True
@@ -8663,7 +8670,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220731,3951,it,sicilia,11660,4,True
 20220731,3952,it,sardegna,2599,0,True
 20220731,4101,ch,zurich,1832,0,True
-20220731,4109,ch,zug,172,0,True
+20220731,4109,ch,zug,169,0,True
 20220731,4110,ch,fribourg,578,0,True
 20220731,4113,ch,basel_landschaft,310,1,True
 20220731,4114,ch,schaffhausen,135,0,True
@@ -8716,7 +8723,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220730,3951,it,sicilia,11656,21,True
 20220730,3952,it,sardegna,2599,1,True
 20220730,4101,ch,zurich,1832,0,True
-20220730,4109,ch,zug,172,0,True
+20220730,4109,ch,zug,169,0,True
 20220730,4110,ch,fribourg,578,0,True
 20220730,4113,ch,basel_landschaft,309,0,True
 20220730,4114,ch,schaffhausen,135,0,True
@@ -8771,7 +8778,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220729,4101,ch,zurich,1832,3,True
 20220729,4106,ch,obwalden,61,0,True
 20220729,4107,ch,nidwalden,36,0,True
-20220729,4109,ch,zug,172,0,True
+20220729,4109,ch,zug,169,0,True
 20220729,4110,ch,fribourg,578,0,True
 20220729,4111,ch,solothurn,368,0,True
 20220729,4112,ch,basel_stadt,291,0,True
@@ -8829,7 +8836,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220728,4101,ch,zurich,1829,1,True
 20220728,4106,ch,obwalden,61,0,True
 20220728,4107,ch,nidwalden,36,0,True
-20220728,4109,ch,zug,172,0,True
+20220728,4109,ch,zug,169,0,True
 20220728,4110,ch,fribourg,578,0,True
 20220728,4111,ch,solothurn,368,0,True
 20220728,4112,ch,basel_stadt,291,0,True
@@ -8887,7 +8894,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220727,4101,ch,zurich,1828,5,True
 20220727,4106,ch,obwalden,61,0,True
 20220727,4107,ch,nidwalden,36,0,True
-20220727,4109,ch,zug,172,0,True
+20220727,4109,ch,zug,169,0,True
 20220727,4110,ch,fribourg,578,0,True
 20220727,4111,ch,solothurn,368,0,True
 20220727,4112,ch,basel_stadt,291,0,True
@@ -8945,7 +8952,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220726,4101,ch,zurich,1823,0,True
 20220726,4106,ch,obwalden,61,0,True
 20220726,4107,ch,nidwalden,36,0,True
-20220726,4109,ch,zug,172,0,True
+20220726,4109,ch,zug,169,0,True
 20220726,4110,ch,fribourg,578,0,True
 20220726,4111,ch,solothurn,368,0,True
 20220726,4112,ch,basel_stadt,291,0,True
@@ -9003,7 +9010,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220725,4101,ch,zurich,1823,1,True
 20220725,4106,ch,obwalden,61,0,True
 20220725,4107,ch,nidwalden,36,0,True
-20220725,4109,ch,zug,172,0,True
+20220725,4109,ch,zug,169,0,True
 20220725,4110,ch,fribourg,578,0,True
 20220725,4111,ch,solothurn,368,0,True
 20220725,4112,ch,basel_stadt,291,0,True
@@ -9060,7 +9067,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220724,3951,it,sicilia,11548,8,True
 20220724,3952,it,sardegna,2575,0,True
 20220724,4101,ch,zurich,1822,0,True
-20220724,4109,ch,zug,172,0,True
+20220724,4109,ch,zug,169,0,True
 20220724,4110,ch,fribourg,578,0,True
 20220724,4113,ch,basel_landschaft,303,0,True
 20220724,4114,ch,schaffhausen,135,0,True
@@ -9113,7 +9120,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220723,3951,it,sicilia,11540,15,True
 20220723,3952,it,sardegna,2575,3,True
 20220723,4101,ch,zurich,1822,0,True
-20220723,4109,ch,zug,172,0,True
+20220723,4109,ch,zug,169,0,True
 20220723,4110,ch,fribourg,578,0,True
 20220723,4113,ch,basel_landschaft,303,0,True
 20220723,4114,ch,schaffhausen,135,0,True
@@ -9168,7 +9175,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220722,4101,ch,zurich,1822,0,True
 20220722,4106,ch,obwalden,61,0,True
 20220722,4107,ch,nidwalden,36,0,True
-20220722,4109,ch,zug,172,0,True
+20220722,4109,ch,zug,169,0,True
 20220722,4110,ch,fribourg,578,0,True
 20220722,4111,ch,solothurn,368,0,True
 20220722,4112,ch,basel_stadt,291,0,True
@@ -9226,7 +9233,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220721,4101,ch,zurich,1822,2,True
 20220721,4106,ch,obwalden,61,0,True
 20220721,4107,ch,nidwalden,36,0,True
-20220721,4109,ch,zug,172,0,True
+20220721,4109,ch,zug,169,0,True
 20220721,4110,ch,fribourg,578,0,True
 20220721,4111,ch,solothurn,368,0,True
 20220721,4112,ch,basel_stadt,291,0,True
@@ -9284,7 +9291,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220720,4101,ch,zurich,1820,2,True
 20220720,4106,ch,obwalden,61,0,True
 20220720,4107,ch,nidwalden,36,0,True
-20220720,4109,ch,zug,172,1,True
+20220720,4109,ch,zug,169,0,True
 20220720,4110,ch,fribourg,578,0,True
 20220720,4111,ch,solothurn,368,0,True
 20220720,4112,ch,basel_stadt,291,0,True
@@ -9342,7 +9349,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220719,4101,ch,zurich,1818,4,True
 20220719,4106,ch,obwalden,61,0,True
 20220719,4107,ch,nidwalden,36,0,True
-20220719,4109,ch,zug,171,0,True
+20220719,4109,ch,zug,169,1,True
 20220719,4110,ch,fribourg,578,0,True
 20220719,4111,ch,solothurn,368,0,True
 20220719,4112,ch,basel_stadt,291,0,True
@@ -9400,7 +9407,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220718,4101,ch,zurich,1814,0,True
 20220718,4106,ch,obwalden,61,0,True
 20220718,4107,ch,nidwalden,36,0,True
-20220718,4109,ch,zug,171,0,True
+20220718,4109,ch,zug,168,0,True
 20220718,4110,ch,fribourg,578,0,True
 20220718,4111,ch,solothurn,368,0,True
 20220718,4112,ch,basel_stadt,291,0,True
@@ -9457,7 +9464,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220717,3951,it,sicilia,11418,15,True
 20220717,3952,it,sardegna,2561,1,True
 20220717,4101,ch,zurich,1814,0,True
-20220717,4109,ch,zug,171,0,True
+20220717,4109,ch,zug,168,0,True
 20220717,4110,ch,fribourg,578,1,True
 20220717,4113,ch,basel_landschaft,303,0,True
 20220717,4114,ch,schaffhausen,133,0,True
@@ -9511,7 +9518,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220716,3952,it,sardegna,2560,3,True
 20220716,4101,ch,zurich,1814,0,True
 20220716,4103,ch,luzern,467,1,True
-20220716,4109,ch,zug,171,0,True
+20220716,4109,ch,zug,168,0,True
 20220716,4110,ch,fribourg,577,0,True
 20220716,4113,ch,basel_landschaft,303,0,True
 20220716,4114,ch,schaffhausen,133,0,True
@@ -9566,7 +9573,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220715,4101,ch,zurich,1814,0,True
 20220715,4106,ch,obwalden,61,0,True
 20220715,4107,ch,nidwalden,36,0,True
-20220715,4109,ch,zug,171,0,True
+20220715,4109,ch,zug,168,0,True
 20220715,4110,ch,fribourg,577,0,True
 20220715,4111,ch,solothurn,368,0,True
 20220715,4112,ch,basel_stadt,291,0,True
@@ -9624,7 +9631,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220714,4101,ch,zurich,1814,2,True
 20220714,4106,ch,obwalden,61,0,True
 20220714,4107,ch,nidwalden,36,0,True
-20220714,4109,ch,zug,171,1,True
+20220714,4109,ch,zug,168,1,True
 20220714,4110,ch,fribourg,577,0,True
 20220714,4111,ch,solothurn,368,0,True
 20220714,4112,ch,basel_stadt,291,0,True
@@ -9682,7 +9689,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220713,4101,ch,zurich,1812,1,True
 20220713,4106,ch,obwalden,61,0,True
 20220713,4107,ch,nidwalden,36,0,True
-20220713,4109,ch,zug,170,0,True
+20220713,4109,ch,zug,167,0,True
 20220713,4110,ch,fribourg,577,0,True
 20220713,4111,ch,solothurn,368,0,True
 20220713,4112,ch,basel_stadt,291,0,True
@@ -9740,7 +9747,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220712,4101,ch,zurich,1811,1,True
 20220712,4106,ch,obwalden,61,0,True
 20220712,4107,ch,nidwalden,36,0,True
-20220712,4109,ch,zug,170,0,True
+20220712,4109,ch,zug,167,0,True
 20220712,4110,ch,fribourg,577,0,True
 20220712,4111,ch,solothurn,368,0,True
 20220712,4112,ch,basel_stadt,291,0,True
@@ -9798,7 +9805,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220711,4101,ch,zurich,1810,0,True
 20220711,4106,ch,obwalden,61,0,True
 20220711,4107,ch,nidwalden,36,0,True
-20220711,4109,ch,zug,170,0,True
+20220711,4109,ch,zug,167,0,True
 20220711,4110,ch,fribourg,577,0,True
 20220711,4111,ch,solothurn,368,0,True
 20220711,4112,ch,basel_stadt,291,0,True
@@ -9855,7 +9862,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220710,3951,it,sicilia,11292,7,True
 20220710,3952,it,sardegna,2535,0,True
 20220710,4101,ch,zurich,1810,0,True
-20220710,4109,ch,zug,170,0,True
+20220710,4109,ch,zug,167,0,True
 20220710,4110,ch,fribourg,577,0,True
 20220710,4113,ch,basel_landschaft,302,0,True
 20220710,4114,ch,schaffhausen,133,0,True
@@ -9908,7 +9915,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220709,3951,it,sicilia,11285,5,True
 20220709,3952,it,sardegna,2535,2,True
 20220709,4101,ch,zurich,1810,0,True
-20220709,4109,ch,zug,170,0,True
+20220709,4109,ch,zug,167,0,True
 20220709,4110,ch,fribourg,577,0,True
 20220709,4113,ch,basel_landschaft,302,1,True
 20220709,4114,ch,schaffhausen,133,0,True
@@ -9963,7 +9970,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220708,4101,ch,zurich,1810,0,True
 20220708,4106,ch,obwalden,61,0,True
 20220708,4107,ch,nidwalden,36,0,True
-20220708,4109,ch,zug,170,0,True
+20220708,4109,ch,zug,167,0,True
 20220708,4110,ch,fribourg,577,0,True
 20220708,4111,ch,solothurn,368,0,True
 20220708,4112,ch,basel_stadt,291,0,True
@@ -10021,7 +10028,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220707,4101,ch,zurich,1810,0,True
 20220707,4106,ch,obwalden,61,0,True
 20220707,4107,ch,nidwalden,36,0,True
-20220707,4109,ch,zug,170,0,True
+20220707,4109,ch,zug,167,0,True
 20220707,4110,ch,fribourg,577,0,True
 20220707,4111,ch,solothurn,368,0,True
 20220707,4112,ch,basel_stadt,291,0,True
@@ -10079,7 +10086,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220706,4101,ch,zurich,1810,0,True
 20220706,4106,ch,obwalden,61,0,True
 20220706,4107,ch,nidwalden,36,0,True
-20220706,4109,ch,zug,170,0,True
+20220706,4109,ch,zug,167,0,True
 20220706,4110,ch,fribourg,577,0,True
 20220706,4111,ch,solothurn,368,0,True
 20220706,4112,ch,basel_stadt,291,1,True
@@ -10137,7 +10144,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220705,4101,ch,zurich,1810,1,True
 20220705,4106,ch,obwalden,61,0,True
 20220705,4107,ch,nidwalden,36,0,True
-20220705,4109,ch,zug,170,0,True
+20220705,4109,ch,zug,167,0,True
 20220705,4110,ch,fribourg,577,0,True
 20220705,4111,ch,solothurn,368,0,True
 20220705,4112,ch,basel_stadt,290,0,True
@@ -10196,7 +10203,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220704,4103,ch,luzern,466,1,True
 20220704,4106,ch,obwalden,61,0,True
 20220704,4107,ch,nidwalden,36,0,True
-20220704,4109,ch,zug,170,0,True
+20220704,4109,ch,zug,167,0,True
 20220704,4110,ch,fribourg,577,0,True
 20220704,4111,ch,solothurn,368,0,True
 20220704,4112,ch,basel_stadt,290,0,True
@@ -10253,7 +10260,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220703,3951,it,sicilia,11226,15,True
 20220703,3952,it,sardegna,2518,0,True
 20220703,4101,ch,zurich,1809,0,True
-20220703,4109,ch,zug,170,0,True
+20220703,4109,ch,zug,167,0,True
 20220703,4110,ch,fribourg,577,0,True
 20220703,4113,ch,basel_landschaft,299,0,True
 20220703,4114,ch,schaffhausen,133,0,True
@@ -10306,7 +10313,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220702,3951,it,sicilia,11211,7,True
 20220702,3952,it,sardegna,2518,2,True
 20220702,4101,ch,zurich,1809,0,True
-20220702,4109,ch,zug,170,0,True
+20220702,4109,ch,zug,167,0,True
 20220702,4110,ch,fribourg,577,0,True
 20220702,4113,ch,basel_landschaft,299,0,True
 20220702,4114,ch,schaffhausen,133,0,True
@@ -10361,7 +10368,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220701,4101,ch,zurich,1809,1,True
 20220701,4106,ch,obwalden,61,0,True
 20220701,4107,ch,nidwalden,36,0,True
-20220701,4109,ch,zug,170,0,True
+20220701,4109,ch,zug,167,0,True
 20220701,4110,ch,fribourg,577,0,True
 20220701,4111,ch,solothurn,368,1,True
 20220701,4112,ch,basel_stadt,290,0,True
@@ -10419,7 +10426,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220630,4101,ch,zurich,1808,1,True
 20220630,4106,ch,obwalden,61,0,True
 20220630,4107,ch,nidwalden,36,0,True
-20220630,4109,ch,zug,170,0,True
+20220630,4109,ch,zug,167,0,True
 20220630,4110,ch,fribourg,577,0,True
 20220630,4111,ch,solothurn,367,0,True
 20220630,4113,ch,basel_landschaft,299,0,True
@@ -10476,7 +10483,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220629,4101,ch,zurich,1807,1,True
 20220629,4106,ch,obwalden,61,0,True
 20220629,4107,ch,nidwalden,36,0,True
-20220629,4109,ch,zug,170,0,True
+20220629,4109,ch,zug,167,0,True
 20220629,4110,ch,fribourg,577,0,True
 20220629,4111,ch,solothurn,367,0,True
 20220629,4112,ch,basel_stadt,290,0,True
@@ -10533,7 +10540,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220628,4101,ch,zurich,1806,3,True
 20220628,4106,ch,obwalden,61,0,True
 20220628,4107,ch,nidwalden,36,0,True
-20220628,4109,ch,zug,170,0,True
+20220628,4109,ch,zug,167,0,True
 20220628,4110,ch,fribourg,577,0,True
 20220628,4111,ch,solothurn,367,0,True
 20220628,4112,ch,basel_stadt,290,0,True
@@ -10591,7 +10598,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220627,4101,ch,zurich,1803,0,True
 20220627,4106,ch,obwalden,61,0,True
 20220627,4107,ch,nidwalden,36,0,True
-20220627,4109,ch,zug,170,0,True
+20220627,4109,ch,zug,167,0,True
 20220627,4110,ch,fribourg,577,0,True
 20220627,4111,ch,solothurn,367,0,True
 20220627,4112,ch,basel_stadt,290,1,True
@@ -10648,7 +10655,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220626,3951,it,sicilia,11169,10,True
 20220626,3952,it,sardegna,2509,5,True
 20220626,4101,ch,zurich,1803,0,True
-20220626,4109,ch,zug,170,0,True
+20220626,4109,ch,zug,167,0,True
 20220626,4110,ch,fribourg,577,0,True
 20220626,4113,ch,basel_landschaft,299,0,True
 20220626,4114,ch,schaffhausen,133,0,True
@@ -10702,7 +10709,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220625,3952,it,sardegna,2504,2,True
 20220625,4101,ch,zurich,1803,0,True
 20220625,4107,ch,nidwalden,36,0,True
-20220625,4109,ch,zug,170,0,True
+20220625,4109,ch,zug,167,0,True
 20220625,4110,ch,fribourg,577,0,True
 20220625,4113,ch,basel_landschaft,299,0,True
 20220625,4114,ch,schaffhausen,133,0,True
@@ -10757,7 +10764,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220624,4101,ch,zurich,1803,0,True
 20220624,4106,ch,obwalden,61,0,True
 20220624,4107,ch,nidwalden,36,0,True
-20220624,4109,ch,zug,170,0,True
+20220624,4109,ch,zug,167,0,True
 20220624,4110,ch,fribourg,577,0,True
 20220624,4111,ch,solothurn,367,0,True
 20220624,4112,ch,basel_stadt,289,0,True
@@ -10815,7 +10822,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220623,4101,ch,zurich,1803,0,True
 20220623,4106,ch,obwalden,61,0,True
 20220623,4107,ch,nidwalden,36,0,True
-20220623,4109,ch,zug,170,0,True
+20220623,4109,ch,zug,167,0,True
 20220623,4110,ch,fribourg,577,0,True
 20220623,4111,ch,solothurn,367,0,True
 20220623,4112,ch,basel_stadt,289,0,True
@@ -10873,7 +10880,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220622,4101,ch,zurich,1803,0,True
 20220622,4106,ch,obwalden,61,0,True
 20220622,4107,ch,nidwalden,36,0,True
-20220622,4109,ch,zug,170,0,True
+20220622,4109,ch,zug,167,0,True
 20220622,4110,ch,fribourg,577,0,True
 20220622,4111,ch,solothurn,367,0,True
 20220622,4112,ch,basel_stadt,289,1,True
@@ -10931,7 +10938,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220621,4101,ch,zurich,1803,0,True
 20220621,4106,ch,obwalden,61,0,True
 20220621,4107,ch,nidwalden,36,0,True
-20220621,4109,ch,zug,170,0,True
+20220621,4109,ch,zug,167,0,True
 20220621,4110,ch,fribourg,577,0,True
 20220621,4111,ch,solothurn,367,0,True
 20220621,4112,ch,basel_stadt,288,0,True
@@ -10989,7 +10996,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220620,4101,ch,zurich,1803,0,True
 20220620,4106,ch,obwalden,61,0,True
 20220620,4107,ch,nidwalden,36,0,True
-20220620,4109,ch,zug,170,0,True
+20220620,4109,ch,zug,167,0,True
 20220620,4110,ch,fribourg,577,0,True
 20220620,4111,ch,solothurn,367,1,True
 20220620,4112,ch,basel_stadt,288,0,True
@@ -11046,7 +11053,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220619,3951,it,sicilia,11115,1,True
 20220619,3952,it,sardegna,2497,1,True
 20220619,4101,ch,zurich,1803,0,True
-20220619,4109,ch,zug,170,0,True
+20220619,4109,ch,zug,167,0,True
 20220619,4110,ch,fribourg,577,0,True
 20220619,4113,ch,basel_landschaft,299,0,True
 20220619,4114,ch,schaffhausen,133,0,True
@@ -11099,7 +11106,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220618,3951,it,sicilia,11114,8,True
 20220618,3952,it,sardegna,2496,1,True
 20220618,4101,ch,zurich,1803,0,True
-20220618,4109,ch,zug,170,0,True
+20220618,4109,ch,zug,167,0,True
 20220618,4110,ch,fribourg,577,0,True
 20220618,4113,ch,basel_landschaft,299,0,True
 20220618,4114,ch,schaffhausen,133,0,True
@@ -11154,7 +11161,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220617,4101,ch,zurich,1803,0,True
 20220617,4106,ch,obwalden,61,0,True
 20220617,4107,ch,nidwalden,36,0,True
-20220617,4109,ch,zug,170,0,True
+20220617,4109,ch,zug,167,0,True
 20220617,4110,ch,fribourg,577,0,True
 20220617,4111,ch,solothurn,366,0,True
 20220617,4112,ch,basel_stadt,288,0,True
@@ -11212,7 +11219,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220616,4101,ch,zurich,1803,0,True
 20220616,4106,ch,obwalden,61,0,True
 20220616,4107,ch,nidwalden,36,0,True
-20220616,4109,ch,zug,170,0,True
+20220616,4109,ch,zug,167,0,True
 20220616,4110,ch,fribourg,577,0,True
 20220616,4112,ch,basel_stadt,288,0,True
 20220616,4113,ch,basel_landschaft,299,0,True
@@ -11268,7 +11275,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220615,4101,ch,zurich,1803,0,True
 20220615,4106,ch,obwalden,61,0,True
 20220615,4107,ch,nidwalden,36,0,True
-20220615,4109,ch,zug,170,0,True
+20220615,4109,ch,zug,167,0,True
 20220615,4110,ch,fribourg,577,1,True
 20220615,4111,ch,solothurn,366,0,True
 20220615,4112,ch,basel_stadt,288,0,True
@@ -11326,7 +11333,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220614,4101,ch,zurich,1803,0,True
 20220614,4106,ch,obwalden,61,0,True
 20220614,4107,ch,nidwalden,36,0,True
-20220614,4109,ch,zug,170,0,True
+20220614,4109,ch,zug,167,0,True
 20220614,4110,ch,fribourg,576,0,True
 20220614,4111,ch,solothurn,366,0,True
 20220614,4112,ch,basel_stadt,288,0,True
@@ -11384,7 +11391,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220613,4101,ch,zurich,1803,0,True
 20220613,4106,ch,obwalden,61,0,True
 20220613,4107,ch,nidwalden,36,0,True
-20220613,4109,ch,zug,170,0,True
+20220613,4109,ch,zug,167,0,True
 20220613,4110,ch,fribourg,576,0,True
 20220613,4111,ch,solothurn,366,0,True
 20220613,4112,ch,basel_stadt,288,0,True
@@ -11441,7 +11448,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220612,3951,it,sicilia,11055,1,True
 20220612,3952,it,sardegna,2484,1,True
 20220612,4101,ch,zurich,1803,0,True
-20220612,4109,ch,zug,170,0,True
+20220612,4109,ch,zug,167,0,True
 20220612,4110,ch,fribourg,576,0,True
 20220612,4112,ch,basel_stadt,288,0,True
 20220612,4113,ch,basel_landschaft,299,0,True
@@ -11495,7 +11502,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220611,3951,it,sicilia,11054,14,True
 20220611,3952,it,sardegna,2483,1,True
 20220611,4101,ch,zurich,1803,0,True
-20220611,4109,ch,zug,170,0,True
+20220611,4109,ch,zug,167,0,True
 20220611,4110,ch,fribourg,576,0,True
 20220611,4112,ch,basel_stadt,288,0,True
 20220611,4113,ch,basel_landschaft,299,0,True
@@ -11551,7 +11558,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220610,4101,ch,zurich,1803,0,True
 20220610,4106,ch,obwalden,61,0,True
 20220610,4107,ch,nidwalden,36,0,True
-20220610,4109,ch,zug,170,0,True
+20220610,4109,ch,zug,167,0,True
 20220610,4110,ch,fribourg,576,0,True
 20220610,4111,ch,solothurn,366,0,True
 20220610,4112,ch,basel_stadt,288,0,True
@@ -11609,7 +11616,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220609,4101,ch,zurich,1803,0,True
 20220609,4106,ch,obwalden,61,0,True
 20220609,4107,ch,nidwalden,36,0,True
-20220609,4109,ch,zug,170,0,True
+20220609,4109,ch,zug,167,0,True
 20220609,4110,ch,fribourg,576,0,True
 20220609,4111,ch,solothurn,366,0,True
 20220609,4112,ch,basel_stadt,288,0,True
@@ -11667,7 +11674,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220608,4101,ch,zurich,1803,0,True
 20220608,4106,ch,obwalden,61,0,True
 20220608,4107,ch,nidwalden,36,0,True
-20220608,4109,ch,zug,170,0,True
+20220608,4109,ch,zug,167,0,True
 20220608,4110,ch,fribourg,576,0,True
 20220608,4111,ch,solothurn,366,0,True
 20220608,4112,ch,basel_stadt,288,0,True
@@ -11725,7 +11732,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220607,4101,ch,zurich,1803,0,True
 20220607,4106,ch,obwalden,61,0,True
 20220607,4107,ch,nidwalden,36,0,True
-20220607,4109,ch,zug,170,0,True
+20220607,4109,ch,zug,167,0,True
 20220607,4110,ch,fribourg,576,0,True
 20220607,4111,ch,solothurn,366,0,True
 20220607,4112,ch,basel_stadt,288,0,True
@@ -11782,7 +11789,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220606,3952,it,sardegna,2472,3,True
 20220606,4101,ch,zurich,1803,0,True
 20220606,4106,ch,obwalden,61,0,True
-20220606,4109,ch,zug,170,0,True
+20220606,4109,ch,zug,167,0,True
 20220606,4110,ch,fribourg,576,1,True
 20220606,4112,ch,basel_stadt,288,0,True
 20220606,4113,ch,basel_landschaft,299,0,True
@@ -11837,7 +11844,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220605,3951,it,sicilia,10984,5,True
 20220605,3952,it,sardegna,2469,1,True
 20220605,4101,ch,zurich,1803,0,True
-20220605,4109,ch,zug,170,0,True
+20220605,4109,ch,zug,167,0,True
 20220605,4110,ch,fribourg,575,0,True
 20220605,4112,ch,basel_stadt,288,0,True
 20220605,4113,ch,basel_landschaft,299,0,True
@@ -11891,7 +11898,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220604,3951,it,sicilia,10979,6,True
 20220604,3952,it,sardegna,2468,1,True
 20220604,4101,ch,zurich,1803,0,True
-20220604,4109,ch,zug,170,0,True
+20220604,4109,ch,zug,167,0,True
 20220604,4110,ch,fribourg,575,0,True
 20220604,4112,ch,basel_stadt,288,0,True
 20220604,4113,ch,basel_landschaft,299,2,True
@@ -11947,7 +11954,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220603,4101,ch,zurich,1803,0,True
 20220603,4106,ch,obwalden,61,0,True
 20220603,4107,ch,nidwalden,36,0,True
-20220603,4109,ch,zug,170,0,True
+20220603,4109,ch,zug,167,0,True
 20220603,4110,ch,fribourg,575,0,True
 20220603,4111,ch,solothurn,366,0,True
 20220603,4112,ch,basel_stadt,288,0,True
@@ -12006,7 +12013,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220602,4101,ch,zurich,1803,1,True
 20220602,4106,ch,obwalden,61,0,True
 20220602,4107,ch,nidwalden,36,0,True
-20220602,4109,ch,zug,170,0,True
+20220602,4109,ch,zug,167,0,True
 20220602,4110,ch,fribourg,575,0,True
 20220602,4111,ch,solothurn,366,0,True
 20220602,4112,ch,basel_stadt,288,0,True
@@ -12065,7 +12072,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220601,4101,ch,zurich,1802,0,True
 20220601,4106,ch,obwalden,61,0,True
 20220601,4107,ch,nidwalden,36,0,True
-20220601,4109,ch,zug,170,0,True
+20220601,4109,ch,zug,167,0,True
 20220601,4110,ch,fribourg,575,0,True
 20220601,4111,ch,solothurn,366,0,True
 20220601,4112,ch,basel_stadt,288,0,True
@@ -12124,7 +12131,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220531,4101,ch,zurich,1802,0,True
 20220531,4106,ch,obwalden,61,0,True
 20220531,4107,ch,nidwalden,36,0,True
-20220531,4109,ch,zug,170,0,True
+20220531,4109,ch,zug,167,0,True
 20220531,4110,ch,fribourg,575,0,True
 20220531,4111,ch,solothurn,366,0,True
 20220531,4112,ch,basel_stadt,288,0,True
@@ -12183,7 +12190,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220530,4101,ch,zurich,1802,0,True
 20220530,4106,ch,obwalden,61,0,True
 20220530,4107,ch,nidwalden,36,0,True
-20220530,4109,ch,zug,170,0,True
+20220530,4109,ch,zug,167,0,True
 20220530,4110,ch,fribourg,575,0,True
 20220530,4111,ch,solothurn,366,0,True
 20220530,4112,ch,basel_stadt,288,0,True
@@ -12241,7 +12248,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220529,3951,it,sicilia,10925,1,True
 20220529,3952,it,sardegna,2453,0,True
 20220529,4101,ch,zurich,1802,0,True
-20220529,4109,ch,zug,170,0,True
+20220529,4109,ch,zug,167,0,True
 20220529,4110,ch,fribourg,575,0,True
 20220529,4112,ch,basel_stadt,288,0,True
 20220529,4113,ch,basel_landschaft,297,0,True
@@ -12297,7 +12304,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220528,3951,it,sicilia,10924,9,True
 20220528,3952,it,sardegna,2453,3,True
 20220528,4101,ch,zurich,1802,0,True
-20220528,4109,ch,zug,170,0,True
+20220528,4109,ch,zug,167,0,True
 20220528,4110,ch,fribourg,575,0,True
 20220528,4112,ch,basel_stadt,288,0,True
 20220528,4113,ch,basel_landschaft,297,0,True
@@ -12355,7 +12362,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220527,4101,ch,zurich,1802,1,True
 20220527,4106,ch,obwalden,61,0,True
 20220527,4107,ch,nidwalden,36,0,True
-20220527,4109,ch,zug,170,0,True
+20220527,4109,ch,zug,167,0,True
 20220527,4110,ch,fribourg,575,0,True
 20220527,4111,ch,solothurn,366,0,True
 20220527,4112,ch,basel_stadt,288,0,True
@@ -12414,7 +12421,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220526,3952,it,sardegna,2447,5,True
 20220526,4101,ch,zurich,1801,0,True
 20220526,4106,ch,obwalden,61,0,True
-20220526,4109,ch,zug,170,0,True
+20220526,4109,ch,zug,167,0,True
 20220526,4110,ch,fribourg,575,0,True
 20220526,4112,ch,basel_stadt,288,0,True
 20220526,4113,ch,basel_landschaft,297,0,True
@@ -12472,7 +12479,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220525,4101,ch,zurich,1801,0,True
 20220525,4106,ch,obwalden,61,0,True
 20220525,4107,ch,nidwalden,36,0,True
-20220525,4109,ch,zug,170,0,True
+20220525,4109,ch,zug,167,0,True
 20220525,4110,ch,fribourg,575,0,True
 20220525,4111,ch,solothurn,366,0,True
 20220525,4112,ch,basel_stadt,288,0,True
@@ -12532,7 +12539,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220524,4101,ch,zurich,1801,2,True
 20220524,4106,ch,obwalden,61,0,True
 20220524,4107,ch,nidwalden,36,0,True
-20220524,4109,ch,zug,170,0,True
+20220524,4109,ch,zug,167,0,True
 20220524,4110,ch,fribourg,575,0,True
 20220524,4111,ch,solothurn,366,1,True
 20220524,4112,ch,basel_stadt,288,0,True
@@ -12592,7 +12599,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220523,4101,ch,zurich,1799,0,True
 20220523,4106,ch,obwalden,61,0,True
 20220523,4107,ch,nidwalden,36,0,True
-20220523,4109,ch,zug,170,0,True
+20220523,4109,ch,zug,167,0,True
 20220523,4110,ch,fribourg,575,0,True
 20220523,4111,ch,solothurn,365,0,True
 20220523,4112,ch,basel_stadt,288,0,True
@@ -12651,7 +12658,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220522,3951,it,sicilia,10857,8,True
 20220522,3952,it,sardegna,2429,0,True
 20220522,4101,ch,zurich,1799,0,True
-20220522,4109,ch,zug,170,0,True
+20220522,4109,ch,zug,167,0,True
 20220522,4110,ch,fribourg,575,0,True
 20220522,4112,ch,basel_stadt,288,0,True
 20220522,4113,ch,basel_landschaft,296,0,True
@@ -12707,7 +12714,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220521,3951,it,sicilia,10849,12,True
 20220521,3952,it,sardegna,2429,3,True
 20220521,4101,ch,zurich,1799,0,True
-20220521,4109,ch,zug,170,0,True
+20220521,4109,ch,zug,167,0,True
 20220521,4110,ch,fribourg,575,0,True
 20220521,4112,ch,basel_stadt,288,0,True
 20220521,4113,ch,basel_landschaft,296,0,True
@@ -12765,7 +12772,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220520,4101,ch,zurich,1799,0,True
 20220520,4106,ch,obwalden,61,0,True
 20220520,4107,ch,nidwalden,36,0,True
-20220520,4109,ch,zug,170,0,True
+20220520,4109,ch,zug,167,0,True
 20220520,4110,ch,fribourg,575,0,True
 20220520,4111,ch,solothurn,365,0,True
 20220520,4112,ch,basel_stadt,288,0,True
@@ -12825,7 +12832,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220519,4101,ch,zurich,1799,0,True
 20220519,4106,ch,obwalden,61,0,True
 20220519,4107,ch,nidwalden,36,0,True
-20220519,4109,ch,zug,170,0,True
+20220519,4109,ch,zug,167,0,True
 20220519,4110,ch,fribourg,575,0,True
 20220519,4111,ch,solothurn,365,0,True
 20220519,4112,ch,basel_stadt,288,0,True
@@ -12885,7 +12892,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220518,4101,ch,zurich,1799,0,True
 20220518,4106,ch,obwalden,61,0,True
 20220518,4107,ch,nidwalden,36,0,True
-20220518,4109,ch,zug,170,0,True
+20220518,4109,ch,zug,167,0,True
 20220518,4110,ch,fribourg,575,0,True
 20220518,4111,ch,solothurn,365,0,True
 20220518,4112,ch,basel_stadt,288,0,True
@@ -12964,7 +12971,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220517,4101,ch,zurich,1799,0,True
 20220517,4106,ch,obwalden,61,0,True
 20220517,4107,ch,nidwalden,36,0,True
-20220517,4109,ch,zug,170,0,True
+20220517,4109,ch,zug,167,0,True
 20220517,4110,ch,fribourg,575,0,True
 20220517,4111,ch,solothurn,365,0,True
 20220517,4112,ch,basel_stadt,288,1,True
@@ -13043,7 +13050,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220516,4101,ch,zurich,1799,0,True
 20220516,4106,ch,obwalden,61,0,True
 20220516,4107,ch,nidwalden,36,0,True
-20220516,4109,ch,zug,170,0,True
+20220516,4109,ch,zug,167,0,True
 20220516,4110,ch,fribourg,575,0,True
 20220516,4111,ch,solothurn,365,0,True
 20220516,4112,ch,basel_stadt,287,0,True
@@ -13121,7 +13128,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220515,3951,it,sicilia,10766,3,True
 20220515,3952,it,sardegna,2406,1,True
 20220515,4101,ch,zurich,1799,0,True
-20220515,4109,ch,zug,170,0,True
+20220515,4109,ch,zug,167,0,True
 20220515,4110,ch,fribourg,575,0,True
 20220515,4112,ch,basel_stadt,287,0,True
 20220515,4113,ch,basel_landschaft,296,0,True
@@ -13196,7 +13203,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220514,3951,it,sicilia,10763,14,True
 20220514,3952,it,sardegna,2405,2,True
 20220514,4101,ch,zurich,1799,0,True
-20220514,4109,ch,zug,170,0,True
+20220514,4109,ch,zug,167,0,True
 20220514,4110,ch,fribourg,575,0,True
 20220514,4112,ch,basel_stadt,287,0,True
 20220514,4113,ch,basel_landschaft,296,0,True
@@ -13273,7 +13280,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220513,4101,ch,zurich,1799,0,True
 20220513,4106,ch,obwalden,61,0,True
 20220513,4107,ch,nidwalden,36,0,True
-20220513,4109,ch,zug,170,0,True
+20220513,4109,ch,zug,167,0,True
 20220513,4110,ch,fribourg,575,0,True
 20220513,4111,ch,solothurn,365,0,True
 20220513,4112,ch,basel_stadt,287,1,True
@@ -13352,7 +13359,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220512,4101,ch,zurich,1799,0,True
 20220512,4106,ch,obwalden,61,0,True
 20220512,4107,ch,nidwalden,36,0,True
-20220512,4109,ch,zug,170,0,True
+20220512,4109,ch,zug,167,0,True
 20220512,4110,ch,fribourg,575,0,True
 20220512,4111,ch,solothurn,365,0,True
 20220512,4112,ch,basel_stadt,286,0,True
@@ -13432,7 +13439,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220511,4103,ch,luzern,465,1,True
 20220511,4106,ch,obwalden,61,0,True
 20220511,4107,ch,nidwalden,36,0,True
-20220511,4109,ch,zug,170,0,True
+20220511,4109,ch,zug,167,0,True
 20220511,4110,ch,fribourg,575,1,True
 20220511,4111,ch,solothurn,365,0,True
 20220511,4112,ch,basel_stadt,286,1,True
@@ -13511,7 +13518,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220510,4101,ch,zurich,1796,0,True
 20220510,4106,ch,obwalden,61,0,True
 20220510,4107,ch,nidwalden,36,0,True
-20220510,4109,ch,zug,170,0,True
+20220510,4109,ch,zug,167,0,True
 20220510,4110,ch,fribourg,574,0,True
 20220510,4111,ch,solothurn,365,0,True
 20220510,4112,ch,basel_stadt,285,0,True
@@ -13590,7 +13597,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220509,4101,ch,zurich,1796,0,True
 20220509,4106,ch,obwalden,61,0,True
 20220509,4107,ch,nidwalden,36,0,True
-20220509,4109,ch,zug,170,0,True
+20220509,4109,ch,zug,167,0,True
 20220509,4110,ch,fribourg,574,0,True
 20220509,4111,ch,solothurn,365,0,True
 20220509,4112,ch,basel_stadt,285,0,True
@@ -13668,7 +13675,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220508,3951,it,sicilia,10697,9,True
 20220508,3952,it,sardegna,2374,3,True
 20220508,4101,ch,zurich,1796,0,True
-20220508,4109,ch,zug,170,0,True
+20220508,4109,ch,zug,167,0,True
 20220508,4110,ch,fribourg,574,0,True
 20220508,4112,ch,basel_stadt,285,0,True
 20220508,4113,ch,basel_landschaft,296,0,True
@@ -13743,7 +13750,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220507,3951,it,sicilia,10688,14,True
 20220507,3952,it,sardegna,2371,2,True
 20220507,4101,ch,zurich,1796,0,True
-20220507,4109,ch,zug,170,0,True
+20220507,4109,ch,zug,167,0,True
 20220507,4110,ch,fribourg,574,0,True
 20220507,4112,ch,basel_stadt,285,0,True
 20220507,4113,ch,basel_landschaft,296,0,True
@@ -13820,7 +13827,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220506,4101,ch,zurich,1796,0,True
 20220506,4106,ch,obwalden,61,0,True
 20220506,4107,ch,nidwalden,36,0,True
-20220506,4109,ch,zug,170,0,True
+20220506,4109,ch,zug,167,0,True
 20220506,4110,ch,fribourg,574,0,True
 20220506,4111,ch,solothurn,365,0,True
 20220506,4112,ch,basel_stadt,285,0,True
@@ -13899,7 +13906,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220505,4101,ch,zurich,1796,1,True
 20220505,4106,ch,obwalden,61,0,True
 20220505,4107,ch,nidwalden,36,0,True
-20220505,4109,ch,zug,170,0,True
+20220505,4109,ch,zug,167,0,True
 20220505,4110,ch,fribourg,574,0,True
 20220505,4111,ch,solothurn,365,0,True
 20220505,4112,ch,basel_stadt,285,0,True
@@ -13979,7 +13986,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220504,4101,ch,zurich,1795,0,True
 20220504,4106,ch,obwalden,61,0,True
 20220504,4107,ch,nidwalden,36,0,True
-20220504,4109,ch,zug,170,0,True
+20220504,4109,ch,zug,167,0,True
 20220504,4110,ch,fribourg,574,0,True
 20220504,4111,ch,solothurn,365,0,True
 20220504,4112,ch,basel_stadt,285,0,True
@@ -14059,7 +14066,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220503,4101,ch,zurich,1795,0,True
 20220503,4106,ch,obwalden,61,0,True
 20220503,4107,ch,nidwalden,36,0,True
-20220503,4109,ch,zug,170,0,True
+20220503,4109,ch,zug,167,0,True
 20220503,4110,ch,fribourg,574,0,True
 20220503,4111,ch,solothurn,365,0,True
 20220503,4112,ch,basel_stadt,285,1,True
@@ -14139,7 +14146,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220502,4101,ch,zurich,1795,2,True
 20220502,4106,ch,obwalden,61,0,True
 20220502,4107,ch,nidwalden,36,0,True
-20220502,4109,ch,zug,170,0,True
+20220502,4109,ch,zug,167,0,True
 20220502,4110,ch,fribourg,574,0,True
 20220502,4111,ch,solothurn,365,0,True
 20220502,4112,ch,basel_stadt,284,0,True
@@ -14217,7 +14224,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220501,3951,it,sicilia,10599,12,True
 20220501,3952,it,sardegna,2353,0,True
 20220501,4101,ch,zurich,1793,0,True
-20220501,4109,ch,zug,170,0,True
+20220501,4109,ch,zug,167,0,True
 20220501,4110,ch,fribourg,574,0,True
 20220501,4112,ch,basel_stadt,284,0,True
 20220501,4113,ch,basel_landschaft,295,0,True
@@ -14293,7 +14300,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220430,3951,it,sicilia,10587,19,True
 20220430,3952,it,sardegna,2353,4,True
 20220430,4101,ch,zurich,1793,0,True
-20220430,4109,ch,zug,170,1,True
+20220430,4109,ch,zug,167,0,True
 20220430,4110,ch,fribourg,574,0,True
 20220430,4112,ch,basel_stadt,284,0,True
 20220430,4113,ch,basel_landschaft,295,0,True
@@ -14370,7 +14377,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220429,4101,ch,zurich,1793,0,True
 20220429,4106,ch,obwalden,61,0,True
 20220429,4107,ch,nidwalden,36,0,True
-20220429,4109,ch,zug,169,0,True
+20220429,4109,ch,zug,167,0,True
 20220429,4110,ch,fribourg,574,0,True
 20220429,4111,ch,solothurn,365,0,True
 20220429,4112,ch,basel_stadt,284,0,True
@@ -14449,7 +14456,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220428,4101,ch,zurich,1793,0,True
 20220428,4106,ch,obwalden,61,0,True
 20220428,4107,ch,nidwalden,36,0,True
-20220428,4109,ch,zug,169,0,True
+20220428,4109,ch,zug,167,0,True
 20220428,4110,ch,fribourg,574,0,True
 20220428,4111,ch,solothurn,365,1,True
 20220428,4112,ch,basel_stadt,284,0,True
@@ -14529,7 +14536,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220427,4101,ch,zurich,1793,0,True
 20220427,4106,ch,obwalden,61,0,True
 20220427,4107,ch,nidwalden,36,0,True
-20220427,4109,ch,zug,169,0,True
+20220427,4109,ch,zug,167,0,True
 20220427,4110,ch,fribourg,574,0,True
 20220427,4111,ch,solothurn,364,0,True
 20220427,4112,ch,basel_stadt,284,0,True
@@ -14609,7 +14616,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220426,4101,ch,zurich,1793,2,True
 20220426,4106,ch,obwalden,61,0,True
 20220426,4107,ch,nidwalden,36,0,True
-20220426,4109,ch,zug,169,0,True
+20220426,4109,ch,zug,167,0,True
 20220426,4110,ch,fribourg,574,0,True
 20220426,4111,ch,solothurn,364,0,True
 20220426,4112,ch,basel_stadt,284,0,True
@@ -14689,7 +14696,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220425,4101,ch,zurich,1791,3,True
 20220425,4106,ch,obwalden,61,0,True
 20220425,4107,ch,nidwalden,36,0,True
-20220425,4109,ch,zug,169,0,True
+20220425,4109,ch,zug,167,0,True
 20220425,4110,ch,fribourg,574,0,True
 20220425,4111,ch,solothurn,364,1,True
 20220425,4112,ch,basel_stadt,284,1,True
@@ -14767,7 +14774,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220424,3951,it,sicilia,10486,7,True
 20220424,3952,it,sardegna,2331,3,True
 20220424,4101,ch,zurich,1788,0,True
-20220424,4109,ch,zug,169,0,True
+20220424,4109,ch,zug,167,0,True
 20220424,4110,ch,fribourg,574,3,True
 20220424,4112,ch,basel_stadt,283,0,True
 20220424,4113,ch,basel_landschaft,295,0,True
@@ -14843,7 +14850,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220423,3951,it,sicilia,10479,14,True
 20220423,3952,it,sardegna,2328,10,True
 20220423,4101,ch,zurich,1788,0,True
-20220423,4109,ch,zug,169,0,True
+20220423,4109,ch,zug,167,0,True
 20220423,4110,ch,fribourg,571,0,True
 20220423,4112,ch,basel_stadt,283,0,True
 20220423,4113,ch,basel_landschaft,295,0,True
@@ -14920,7 +14927,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220422,4101,ch,zurich,1788,0,True
 20220422,4106,ch,obwalden,61,0,True
 20220422,4107,ch,nidwalden,36,0,True
-20220422,4109,ch,zug,169,2,True
+20220422,4109,ch,zug,167,0,True
 20220422,4110,ch,fribourg,571,0,True
 20220422,4111,ch,solothurn,363,0,True
 20220422,4112,ch,basel_stadt,283,1,True
@@ -16891,7 +16898,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220328,4104,ch,uri,68,0,True
 20220328,4106,ch,obwalden,61,0,True
 20220328,4107,ch,nidwalden,36,0,True
-20220328,4109,ch,zug,164,2,True
+20220328,4109,ch,zug,164,0,True
 20220328,4110,ch,fribourg,564,0,True
 20220328,4111,ch,solothurn,352,1,True
 20220328,4112,ch,basel_stadt,277,2,True
@@ -16972,7 +16979,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220327,4101,ch,zurich,1756,0,True
 20220327,4102,ch,bern,1513,4,True
 20220327,4107,ch,nidwalden,36,0,True
-20220327,4109,ch,zug,162,0,True
+20220327,4109,ch,zug,164,2,True
 20220327,4110,ch,fribourg,564,0,True
 20220327,4112,ch,basel_stadt,275,0,True
 20220327,4113,ch,basel_landschaft,289,0,True
@@ -17131,7 +17138,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220325,4104,ch,uri,68,0,True
 20220325,4106,ch,obwalden,61,0,True
 20220325,4107,ch,nidwalden,36,0,True
-20220325,4109,ch,zug,162,1,True
+20220325,4109,ch,zug,162,0,True
 20220325,4110,ch,fribourg,564,0,True
 20220325,4111,ch,solothurn,351,0,True
 20220325,4112,ch,basel_stadt,275,0,True
@@ -17212,7 +17219,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220324,4104,ch,uri,68,0,True
 20220324,4106,ch,obwalden,61,0,True
 20220324,4107,ch,nidwalden,36,0,True
-20220324,4109,ch,zug,161,0,True
+20220324,4109,ch,zug,162,0,True
 20220324,4110,ch,fribourg,564,0,True
 20220324,4111,ch,solothurn,351,1,True
 20220324,4112,ch,basel_stadt,275,0,True
@@ -17297,7 +17304,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220323,4104,ch,uri,68,0,True
 20220323,4106,ch,obwalden,61,0,True
 20220323,4107,ch,nidwalden,36,0,True
-20220323,4109,ch,zug,161,0,True
+20220323,4109,ch,zug,162,0,True
 20220323,4110,ch,fribourg,564,0,True
 20220323,4111,ch,solothurn,350,1,True
 20220323,4112,ch,basel_stadt,275,0,True
@@ -17382,7 +17389,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220322,4104,ch,uri,68,0,True
 20220322,4106,ch,obwalden,61,0,True
 20220322,4107,ch,nidwalden,36,0,True
-20220322,4109,ch,zug,161,1,True
+20220322,4109,ch,zug,162,0,True
 20220322,4110,ch,fribourg,564,1,True
 20220322,4111,ch,solothurn,349,0,True
 20220322,4112,ch,basel_stadt,275,0,True
@@ -17466,7 +17473,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220321,4104,ch,uri,68,1,True
 20220321,4106,ch,obwalden,61,0,True
 20220321,4107,ch,nidwalden,36,0,True
-20220321,4109,ch,zug,160,1,True
+20220321,4109,ch,zug,162,1,True
 20220321,4110,ch,fribourg,563,0,True
 20220321,4111,ch,solothurn,349,1,True
 20220321,4112,ch,basel_stadt,275,0,True
@@ -17549,7 +17556,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220320,4102,ch,bern,1502,2,True
 20220320,4103,ch,luzern,460,2,True
 20220320,4107,ch,nidwalden,36,0,True
-20220320,4109,ch,zug,159,0,True
+20220320,4109,ch,zug,161,1,True
 20220320,4110,ch,fribourg,563,0,True
 20220320,4112,ch,basel_stadt,275,0,True
 20220320,4113,ch,basel_landschaft,286,0,True
@@ -17630,7 +17637,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220319,4102,ch,bern,1500,4,True
 20220319,4103,ch,luzern,458,1,True
 20220319,4107,ch,nidwalden,36,0,True
-20220319,4109,ch,zug,159,0,True
+20220319,4109,ch,zug,160,1,True
 20220319,4110,ch,fribourg,563,0,True
 20220319,4112,ch,basel_stadt,275,0,True
 20220319,4113,ch,basel_landschaft,286,0,True
@@ -17795,7 +17802,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220317,4104,ch,uri,67,0,True
 20220317,4106,ch,obwalden,61,0,True
 20220317,4107,ch,nidwalden,36,0,True
-20220317,4109,ch,zug,159,0,True
+20220317,4109,ch,zug,159,1,True
 20220317,4110,ch,fribourg,563,2,True
 20220317,4111,ch,solothurn,348,0,True
 20220317,4112,ch,basel_stadt,275,1,True
@@ -17880,7 +17887,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220316,4104,ch,uri,67,0,True
 20220316,4106,ch,obwalden,61,0,True
 20220316,4107,ch,nidwalden,36,1,True
-20220316,4109,ch,zug,159,0,True
+20220316,4109,ch,zug,158,0,True
 20220316,4110,ch,fribourg,561,0,True
 20220316,4111,ch,solothurn,348,1,True
 20220316,4112,ch,basel_stadt,274,1,True
@@ -17965,7 +17972,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220315,4104,ch,uri,67,1,True
 20220315,4106,ch,obwalden,61,1,True
 20220315,4107,ch,nidwalden,35,0,True
-20220315,4109,ch,zug,159,0,True
+20220315,4109,ch,zug,158,0,True
 20220315,4110,ch,fribourg,561,0,True
 20220315,4111,ch,solothurn,347,2,True
 20220315,4112,ch,basel_stadt,273,0,True
@@ -18050,7 +18057,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220314,4103,ch,luzern,455,2,True
 20220314,4106,ch,obwalden,60,0,True
 20220314,4107,ch,nidwalden,35,0,True
-20220314,4109,ch,zug,159,0,True
+20220314,4109,ch,zug,158,0,True
 20220314,4110,ch,fribourg,561,1,True
 20220314,4111,ch,solothurn,345,1,True
 20220314,4112,ch,basel_stadt,273,0,True
@@ -18132,7 +18139,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220313,4101,ch,zurich,1729,0,True
 20220313,4102,ch,bern,1489,1,True
 20220313,4107,ch,nidwalden,35,0,True
-20220313,4109,ch,zug,159,0,True
+20220313,4109,ch,zug,158,0,True
 20220313,4110,ch,fribourg,560,0,True
 20220313,4112,ch,basel_stadt,273,0,True
 20220313,4113,ch,basel_landschaft,281,0,True
@@ -18213,7 +18220,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220312,4102,ch,bern,1488,2,True
 20220312,4103,ch,luzern,453,1,True
 20220312,4107,ch,nidwalden,35,0,True
-20220312,4109,ch,zug,159,0,True
+20220312,4109,ch,zug,158,0,True
 20220312,4110,ch,fribourg,560,0,True
 20220312,4112,ch,basel_stadt,273,0,True
 20220312,4113,ch,basel_landschaft,281,1,True
@@ -18294,7 +18301,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220311,4104,ch,uri,66,0,True
 20220311,4106,ch,obwalden,60,0,True
 20220311,4107,ch,nidwalden,35,0,True
-20220311,4109,ch,zug,159,1,True
+20220311,4109,ch,zug,158,0,True
 20220311,4110,ch,fribourg,560,0,True
 20220311,4111,ch,solothurn,344,0,True
 20220311,4112,ch,basel_stadt,273,0,True
@@ -19820,7 +19827,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220221,4105,ch,schwyz,355,0,True
 20220221,4106,ch,obwalden,59,1,True
 20220221,4107,ch,nidwalden,34,0,True
-20220221,4109,ch,zug,155,1,True
+20220221,4109,ch,zug,155,0,True
 20220221,4110,ch,fribourg,546,0,True
 20220221,4111,ch,solothurn,337,2,True
 20220221,4112,ch,basel_stadt,271,0,True
@@ -19904,7 +19911,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220220,4102,ch,bern,1464,2,True
 20220220,4105,ch,schwyz,355,0,True
 20220220,4107,ch,nidwalden,34,0,True
-20220220,4109,ch,zug,154,0,True
+20220220,4109,ch,zug,155,0,True
 20220220,4110,ch,fribourg,546,0,True
 20220220,4112,ch,basel_stadt,271,0,True
 20220220,4113,ch,basel_landschaft,276,0,True
@@ -19987,7 +19994,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220219,4103,ch,luzern,447,1,True
 20220219,4105,ch,schwyz,355,2,True
 20220219,4107,ch,nidwalden,34,0,True
-20220219,4109,ch,zug,154,0,True
+20220219,4109,ch,zug,155,1,True
 20220219,4110,ch,fribourg,546,0,True
 20220219,4112,ch,basel_stadt,271,0,True
 20220219,4113,ch,basel_landschaft,276,0,True
@@ -21533,7 +21540,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220201,4106,ch,obwalden,55,0,True
 20220201,4107,ch,nidwalden,33,0,True
 20220201,4108,ch,glarus,102,0,True
-20220201,4109,ch,zug,154,1,True
+20220201,4109,ch,zug,154,0,True
 20220201,4110,ch,fribourg,543,4,True
 20220201,4111,ch,solothurn,326,0,True
 20220201,4112,ch,basel_stadt,262,0,True
@@ -21621,7 +21628,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220131,4106,ch,obwalden,55,0,True
 20220131,4107,ch,nidwalden,33,0,True
 20220131,4108,ch,glarus,102,0,True
-20220131,4109,ch,zug,153,0,True
+20220131,4109,ch,zug,154,0,True
 20220131,4110,ch,fribourg,539,0,True
 20220131,4111,ch,solothurn,326,0,True
 20220131,4112,ch,basel_stadt,262,0,True
@@ -21705,7 +21712,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220130,4102,ch,bern,1430,4,True
 20220130,4105,ch,schwyz,344,0,True
 20220130,4107,ch,nidwalden,33,0,True
-20220130,4109,ch,zug,153,0,True
+20220130,4109,ch,zug,154,1,True
 20220130,4110,ch,fribourg,539,0,True
 20220130,4112,ch,basel_stadt,262,0,True
 20220130,4113,ch,basel_landschaft,269,0,True
@@ -23438,7 +23445,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220110,4106,ch,obwalden,55,0,True
 20220110,4107,ch,nidwalden,32,0,True
 20220110,4108,ch,glarus,100,0,True
-20220110,4109,ch,zug,152,1,True
+20220110,4109,ch,zug,152,0,True
 20220110,4110,ch,fribourg,529,0,True
 20220110,4111,ch,solothurn,315,1,True
 20220110,4112,ch,basel_stadt,255,0,True
@@ -23523,7 +23530,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220109,4103,ch,luzern,422,1,True
 20220109,4105,ch,schwyz,334,1,True
 20220109,4107,ch,nidwalden,32,0,True
-20220109,4109,ch,zug,151,0,True
+20220109,4109,ch,zug,152,1,True
 20220109,4110,ch,fribourg,529,0,True
 20220109,4112,ch,basel_stadt,255,0,True
 20220109,4113,ch,basel_landschaft,263,0,True
@@ -23867,7 +23874,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220105,4106,ch,obwalden,55,0,True
 20220105,4107,ch,nidwalden,32,1,True
 20220105,4108,ch,glarus,100,0,True
-20220105,4109,ch,zug,151,1,True
+20220105,4109,ch,zug,151,0,True
 20220105,4110,ch,fribourg,528,0,True
 20220105,4111,ch,solothurn,312,0,True
 20220105,4112,ch,basel_stadt,252,0,True
@@ -23953,7 +23960,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20220104,4106,ch,obwalden,55,0,True
 20220104,4107,ch,nidwalden,31,0,True
 20220104,4108,ch,glarus,100,0,True
-20220104,4109,ch,zug,150,0,True
+20220104,4109,ch,zug,151,1,True
 20220104,4110,ch,fribourg,528,0,True
 20220104,4111,ch,solothurn,312,0,True
 20220104,4112,ch,basel_stadt,252,2,True
@@ -24647,7 +24654,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211227,4106,ch,obwalden,54,0,True
 20211227,4107,ch,nidwalden,31,0,True
 20211227,4108,ch,glarus,98,0,True
-20211227,4109,ch,zug,150,1,True
+20211227,4109,ch,zug,150,0,True
 20211227,4110,ch,fribourg,525,1,True
 20211227,4111,ch,solothurn,309,1,True
 20211227,4112,ch,basel_stadt,248,2,True
@@ -24732,7 +24739,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211226,4102,ch,bern,1356,0,True
 20211226,4105,ch,schwyz,316,0,True
 20211226,4107,ch,nidwalden,31,0,True
-20211226,4109,ch,zug,149,0,True
+20211226,4109,ch,zug,150,0,True
 20211226,4110,ch,fribourg,524,0,True
 20211226,4112,ch,basel_stadt,246,0,True
 20211226,4113,ch,basel_landschaft,258,1,True
@@ -24814,7 +24821,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211225,4102,ch,bern,1356,1,True
 20211225,4105,ch,schwyz,316,2,True
 20211225,4107,ch,nidwalden,31,0,True
-20211225,4109,ch,zug,149,0,True
+20211225,4109,ch,zug,150,0,True
 20211225,4110,ch,fribourg,524,0,True
 20211225,4112,ch,basel_stadt,246,0,True
 20211225,4113,ch,basel_landschaft,257,0,True
@@ -24897,7 +24904,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211224,4105,ch,schwyz,314,2,True
 20211224,4107,ch,nidwalden,31,0,True
 20211224,4108,ch,glarus,98,0,True
-20211224,4109,ch,zug,149,0,True
+20211224,4109,ch,zug,150,0,True
 20211224,4110,ch,fribourg,524,0,True
 20211224,4111,ch,solothurn,308,1,True
 20211224,4112,ch,basel_stadt,246,0,True
@@ -24982,7 +24989,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211223,4106,ch,obwalden,54,0,True
 20211223,4107,ch,nidwalden,31,0,True
 20211223,4108,ch,glarus,98,0,True
-20211223,4109,ch,zug,149,0,True
+20211223,4109,ch,zug,150,0,True
 20211223,4110,ch,fribourg,524,5,True
 20211223,4111,ch,solothurn,307,0,True
 20211223,4112,ch,basel_stadt,246,0,True
@@ -25070,7 +25077,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211222,4106,ch,obwalden,54,0,True
 20211222,4107,ch,nidwalden,31,0,True
 20211222,4108,ch,glarus,98,0,True
-20211222,4109,ch,zug,149,0,True
+20211222,4109,ch,zug,150,0,True
 20211222,4110,ch,fribourg,519,0,True
 20211222,4111,ch,solothurn,307,1,True
 20211222,4112,ch,basel_stadt,246,2,True
@@ -25158,7 +25165,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211221,4106,ch,obwalden,54,0,True
 20211221,4107,ch,nidwalden,31,0,True
 20211221,4108,ch,glarus,98,0,True
-20211221,4109,ch,zug,149,0,True
+20211221,4109,ch,zug,150,0,True
 20211221,4110,ch,fribourg,519,0,True
 20211221,4111,ch,solothurn,306,1,True
 20211221,4112,ch,basel_stadt,244,0,True
@@ -25246,7 +25253,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211220,4106,ch,obwalden,54,0,True
 20211220,4107,ch,nidwalden,31,0,True
 20211220,4108,ch,glarus,98,0,True
-20211220,4109,ch,zug,149,0,True
+20211220,4109,ch,zug,150,1,True
 20211220,4110,ch,fribourg,519,1,True
 20211220,4111,ch,solothurn,305,3,True
 20211220,4112,ch,basel_stadt,244,0,True
@@ -25497,7 +25504,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211217,4106,ch,obwalden,54,0,True
 20211217,4107,ch,nidwalden,31,1,True
 20211217,4108,ch,glarus,98,0,True
-20211217,4109,ch,zug,149,0,True
+20211217,4109,ch,zug,149,1,True
 20211217,4110,ch,fribourg,518,1,True
 20211217,4111,ch,solothurn,302,1,True
 20211217,4112,ch,basel_stadt,244,0,True
@@ -25584,7 +25591,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211216,4106,ch,obwalden,54,0,True
 20211216,4107,ch,nidwalden,30,0,True
 20211216,4108,ch,glarus,98,0,True
-20211216,4109,ch,zug,149,1,True
+20211216,4109,ch,zug,148,0,True
 20211216,4110,ch,fribourg,517,0,True
 20211216,4111,ch,solothurn,301,2,True
 20211216,4112,ch,basel_stadt,244,0,True
@@ -26101,7 +26108,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211210,4106,ch,obwalden,54,0,True
 20211210,4107,ch,nidwalden,30,1,True
 20211210,4108,ch,glarus,97,0,True
-20211210,4109,ch,zug,147,2,True
+20211210,4109,ch,zug,147,0,True
 20211210,4110,ch,fribourg,513,0,True
 20211210,4111,ch,solothurn,297,1,True
 20211210,4112,ch,basel_stadt,239,0,True
@@ -26188,7 +26195,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211209,4106,ch,obwalden,54,1,True
 20211209,4107,ch,nidwalden,29,0,True
 20211209,4108,ch,glarus,97,0,True
-20211209,4109,ch,zug,145,0,True
+20211209,4109,ch,zug,147,1,True
 20211209,4110,ch,fribourg,513,0,True
 20211209,4111,ch,solothurn,296,0,True
 20211209,4112,ch,basel_stadt,239,0,True
@@ -26275,7 +26282,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211208,4105,ch,schwyz,293,0,True
 20211208,4107,ch,nidwalden,29,0,True
 20211208,4108,ch,glarus,97,0,True
-20211208,4109,ch,zug,145,0,True
+20211208,4109,ch,zug,146,0,True
 20211208,4110,ch,fribourg,513,0,True
 20211208,4111,ch,solothurn,296,0,True
 20211208,4112,ch,basel_stadt,239,4,True
@@ -26362,7 +26369,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211207,4106,ch,obwalden,53,0,True
 20211207,4107,ch,nidwalden,29,0,True
 20211207,4108,ch,glarus,97,2,True
-20211207,4109,ch,zug,145,0,True
+20211207,4109,ch,zug,146,1,True
 20211207,4110,ch,fribourg,513,0,True
 20211207,4111,ch,solothurn,296,2,True
 20211207,4112,ch,basel_stadt,235,2,True
@@ -26876,7 +26883,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211201,4106,ch,obwalden,52,0,True
 20211201,4107,ch,nidwalden,28,0,True
 20211201,4108,ch,glarus,95,0,True
-20211201,4109,ch,zug,142,0,True
+20211201,4109,ch,zug,142,1,True
 20211201,4110,ch,fribourg,512,0,True
 20211201,4111,ch,solothurn,291,1,True
 20211201,4112,ch,basel_stadt,230,3,True
@@ -26964,7 +26971,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211130,4106,ch,obwalden,52,0,True
 20211130,4107,ch,nidwalden,28,0,True
 20211130,4108,ch,glarus,95,0,True
-20211130,4109,ch,zug,142,1,True
+20211130,4109,ch,zug,141,0,True
 20211130,4110,ch,fribourg,512,1,True
 20211130,4111,ch,solothurn,290,0,True
 20211130,4112,ch,basel_stadt,227,2,True
@@ -27052,7 +27059,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211129,4106,ch,obwalden,52,0,True
 20211129,4107,ch,nidwalden,28,0,True
 20211129,4108,ch,glarus,95,0,True
-20211129,4109,ch,zug,141,1,True
+20211129,4109,ch,zug,141,0,True
 20211129,4110,ch,fribourg,511,0,True
 20211129,4111,ch,solothurn,290,0,True
 20211129,4112,ch,basel_stadt,225,0,True
@@ -27137,7 +27144,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211128,4103,ch,luzern,378,1,True
 20211128,4105,ch,schwyz,283,0,True
 20211128,4107,ch,nidwalden,28,0,True
-20211128,4109,ch,zug,140,0,True
+20211128,4109,ch,zug,141,0,True
 20211128,4110,ch,fribourg,511,0,True
 20211128,4112,ch,basel_stadt,225,0,True
 20211128,4113,ch,basel_landschaft,240,1,True
@@ -27220,7 +27227,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211127,4103,ch,luzern,377,1,True
 20211127,4105,ch,schwyz,283,2,True
 20211127,4107,ch,nidwalden,28,0,True
-20211127,4109,ch,zug,140,0,True
+20211127,4109,ch,zug,141,1,True
 20211127,4110,ch,fribourg,511,0,True
 20211127,4112,ch,basel_stadt,225,1,True
 20211127,4113,ch,basel_landschaft,239,0,True
@@ -27391,7 +27398,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211125,4106,ch,obwalden,52,0,True
 20211125,4107,ch,nidwalden,28,0,True
 20211125,4108,ch,glarus,95,0,True
-20211125,4109,ch,zug,140,0,True
+20211125,4109,ch,zug,140,2,True
 20211125,4110,ch,fribourg,511,1,True
 20211125,4111,ch,solothurn,289,1,True
 20211125,4112,ch,basel_stadt,224,0,True
@@ -27479,7 +27486,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211124,4106,ch,obwalden,52,0,True
 20211124,4107,ch,nidwalden,28,1,True
 20211124,4108,ch,glarus,95,0,True
-20211124,4109,ch,zug,140,3,True
+20211124,4109,ch,zug,138,1,True
 20211124,4110,ch,fribourg,510,0,True
 20211124,4111,ch,solothurn,288,1,True
 20211124,4112,ch,basel_stadt,224,0,True
@@ -27907,7 +27914,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211119,4106,ch,obwalden,52,0,True
 20211119,4107,ch,nidwalden,27,0,True
 20211119,4108,ch,glarus,94,0,True
-20211119,4109,ch,zug,136,1,True
+20211119,4109,ch,zug,136,0,True
 20211119,4110,ch,fribourg,509,1,True
 20211119,4111,ch,solothurn,286,1,True
 20211119,4112,ch,basel_stadt,224,1,True
@@ -27993,7 +28000,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211118,4106,ch,obwalden,52,0,True
 20211118,4107,ch,nidwalden,27,0,True
 20211118,4108,ch,glarus,94,0,True
-20211118,4109,ch,zug,135,0,True
+20211118,4109,ch,zug,136,1,True
 20211118,4110,ch,fribourg,508,0,True
 20211118,4111,ch,solothurn,285,0,True
 20211118,4112,ch,basel_stadt,223,0,True
@@ -28771,7 +28778,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211109,4106,ch,obwalden,52,1,True
 20211109,4107,ch,nidwalden,26,0,True
 20211109,4108,ch,glarus,92,0,True
-20211109,4109,ch,zug,134,1,True
+20211109,4109,ch,zug,134,0,True
 20211109,4110,ch,fribourg,505,3,True
 20211109,4111,ch,solothurn,285,0,True
 20211109,4112,ch,basel_stadt,218,1,True
@@ -28859,7 +28866,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211108,4106,ch,obwalden,51,0,True
 20211108,4107,ch,nidwalden,26,0,True
 20211108,4108,ch,glarus,92,0,True
-20211108,4109,ch,zug,133,0,True
+20211108,4109,ch,zug,134,1,True
 20211108,4110,ch,fribourg,502,0,True
 20211108,4111,ch,solothurn,285,0,True
 20211108,4112,ch,basel_stadt,217,0,True
@@ -30221,7 +30228,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211023,4102,ch,bern,1173,1,True
 20211023,4105,ch,schwyz,251,0,True
 20211023,4107,ch,nidwalden,25,0,True
-20211023,4109,ch,zug,133,0,True
+20211023,4109,ch,zug,133,1,True
 20211023,4110,ch,fribourg,501,0,True
 20211023,4112,ch,basel_stadt,215,0,True
 20211023,4113,ch,basel_landschaft,229,0,True
@@ -30305,7 +30312,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211022,4106,ch,obwalden,48,1,True
 20211022,4107,ch,nidwalden,25,0,True
 20211022,4108,ch,glarus,89,0,True
-20211022,4109,ch,zug,133,1,True
+20211022,4109,ch,zug,132,0,True
 20211022,4110,ch,fribourg,501,0,True
 20211022,4111,ch,solothurn,284,0,True
 20211022,4112,ch,basel_stadt,215,0,True
@@ -31079,7 +31086,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211013,4106,ch,obwalden,41,1,True
 20211013,4107,ch,nidwalden,24,0,True
 20211013,4108,ch,glarus,89,0,True
-20211013,4109,ch,zug,132,0,True
+20211013,4109,ch,zug,132,1,True
 20211013,4110,ch,fribourg,500,0,True
 20211013,4111,ch,solothurn,283,0,True
 20211013,4112,ch,basel_stadt,215,0,True
@@ -31166,7 +31173,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20211012,4106,ch,obwalden,40,0,True
 20211012,4107,ch,nidwalden,24,1,True
 20211012,4108,ch,glarus,89,0,True
-20211012,4109,ch,zug,132,1,True
+20211012,4109,ch,zug,131,0,True
 20211012,4110,ch,fribourg,500,0,True
 20211012,4111,ch,solothurn,283,0,True
 20211012,4112,ch,basel_stadt,215,0,True
@@ -32369,7 +32376,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210928,4106,ch,obwalden,39,0,True
 20210928,4107,ch,nidwalden,23,0,True
 20210928,4108,ch,glarus,86,1,True
-20210928,4109,ch,zug,130,1,True
+20210928,4109,ch,zug,130,0,True
 20210928,4110,ch,fribourg,499,0,True
 20210928,4111,ch,solothurn,282,0,True
 20210928,4112,ch,basel_stadt,213,1,True
@@ -32458,7 +32465,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210927,4106,ch,obwalden,39,0,True
 20210927,4107,ch,nidwalden,23,0,True
 20210927,4108,ch,glarus,85,2,True
-20210927,4109,ch,zug,129,1,True
+20210927,4109,ch,zug,130,1,True
 20210927,4110,ch,fribourg,499,1,True
 20210927,4111,ch,solothurn,282,1,True
 20210927,4112,ch,basel_stadt,212,0,True
@@ -32543,7 +32550,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210926,4102,ch,bern,1156,1,True
 20210926,4105,ch,schwyz,245,0,True
 20210926,4107,ch,nidwalden,23,0,True
-20210926,4109,ch,zug,128,0,True
+20210926,4109,ch,zug,129,0,True
 20210926,4110,ch,fribourg,498,0,True
 20210926,4112,ch,basel_stadt,212,0,True
 20210926,4113,ch,basel_landschaft,227,0,True
@@ -32625,7 +32632,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210925,4102,ch,bern,1155,0,True
 20210925,4105,ch,schwyz,245,1,True
 20210925,4107,ch,nidwalden,23,0,True
-20210925,4109,ch,zug,128,0,True
+20210925,4109,ch,zug,129,0,True
 20210925,4110,ch,fribourg,498,0,True
 20210925,4112,ch,basel_stadt,212,0,True
 20210925,4113,ch,basel_landschaft,227,0,True
@@ -32708,7 +32715,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210924,4106,ch,obwalden,39,0,True
 20210924,4107,ch,nidwalden,23,0,True
 20210924,4108,ch,glarus,83,1,True
-20210924,4109,ch,zug,128,0,True
+20210924,4109,ch,zug,129,0,True
 20210924,4110,ch,fribourg,498,0,True
 20210924,4111,ch,solothurn,281,0,True
 20210924,4112,ch,basel_stadt,212,0,True
@@ -32794,7 +32801,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210923,4106,ch,obwalden,39,0,True
 20210923,4107,ch,nidwalden,23,0,True
 20210923,4108,ch,glarus,82,0,True
-20210923,4109,ch,zug,128,0,True
+20210923,4109,ch,zug,129,0,True
 20210923,4110,ch,fribourg,498,0,True
 20210923,4111,ch,solothurn,281,0,True
 20210923,4112,ch,basel_stadt,212,0,True
@@ -32883,7 +32890,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210922,4106,ch,obwalden,39,0,True
 20210922,4107,ch,nidwalden,23,0,True
 20210922,4108,ch,glarus,82,1,True
-20210922,4109,ch,zug,128,0,True
+20210922,4109,ch,zug,129,0,True
 20210922,4110,ch,fribourg,498,0,True
 20210922,4111,ch,solothurn,281,0,True
 20210922,4112,ch,basel_stadt,212,0,True
@@ -32970,7 +32977,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210921,4106,ch,obwalden,39,0,True
 20210921,4107,ch,nidwalden,23,0,True
 20210921,4108,ch,glarus,81,0,True
-20210921,4109,ch,zug,128,0,True
+20210921,4109,ch,zug,129,0,True
 20210921,4110,ch,fribourg,498,0,True
 20210921,4111,ch,solothurn,281,0,True
 20210921,4112,ch,basel_stadt,212,0,True
@@ -33058,7 +33065,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210920,4106,ch,obwalden,39,0,True
 20210920,4107,ch,nidwalden,23,0,True
 20210920,4108,ch,glarus,81,0,True
-20210920,4109,ch,zug,128,0,True
+20210920,4109,ch,zug,129,0,True
 20210920,4110,ch,fribourg,498,1,True
 20210920,4111,ch,solothurn,281,1,True
 20210920,4112,ch,basel_stadt,212,0,True
@@ -33143,7 +33150,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210919,4102,ch,bern,1152,0,True
 20210919,4105,ch,schwyz,242,0,True
 20210919,4107,ch,nidwalden,23,0,True
-20210919,4109,ch,zug,128,0,True
+20210919,4109,ch,zug,129,0,True
 20210919,4110,ch,fribourg,497,0,True
 20210919,4112,ch,basel_stadt,212,0,True
 20210919,4113,ch,basel_landschaft,226,0,True
@@ -33225,7 +33232,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210918,4102,ch,bern,1152,0,True
 20210918,4105,ch,schwyz,242,0,True
 20210918,4107,ch,nidwalden,23,0,True
-20210918,4109,ch,zug,128,0,True
+20210918,4109,ch,zug,129,1,True
 20210918,4110,ch,fribourg,497,0,True
 20210918,4112,ch,basel_stadt,212,0,True
 20210918,4113,ch,basel_landschaft,226,0,True
@@ -33910,7 +33917,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210910,4106,ch,obwalden,39,0,True
 20210910,4107,ch,nidwalden,23,0,True
 20210910,4108,ch,glarus,79,0,True
-20210910,4109,ch,zug,126,0,True
+20210910,4109,ch,zug,126,1,True
 20210910,4110,ch,fribourg,492,0,True
 20210910,4111,ch,solothurn,275,0,True
 20210910,4112,ch,basel_stadt,212,0,True
@@ -33997,7 +34004,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210909,4106,ch,obwalden,39,0,True
 20210909,4107,ch,nidwalden,23,0,True
 20210909,4108,ch,glarus,79,0,True
-20210909,4109,ch,zug,126,1,True
+20210909,4109,ch,zug,125,0,True
 20210909,4110,ch,fribourg,492,0,True
 20210909,4111,ch,solothurn,275,0,True
 20210909,4112,ch,basel_stadt,212,0,True
@@ -34174,7 +34181,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210907,4106,ch,obwalden,39,0,True
 20210907,4107,ch,nidwalden,23,0,True
 20210907,4108,ch,glarus,79,0,True
-20210907,4109,ch,zug,125,1,True
+20210907,4109,ch,zug,125,0,True
 20210907,4110,ch,fribourg,492,0,True
 20210907,4111,ch,solothurn,275,0,True
 20210907,4112,ch,basel_stadt,211,0,True
@@ -34261,7 +34268,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210906,4106,ch,obwalden,39,0,True
 20210906,4107,ch,nidwalden,23,0,True
 20210906,4108,ch,glarus,79,1,True
-20210906,4109,ch,zug,124,0,True
+20210906,4109,ch,zug,125,0,True
 20210906,4110,ch,fribourg,492,1,True
 20210906,4111,ch,solothurn,275,4,True
 20210906,4112,ch,basel_stadt,211,0,True
@@ -34347,7 +34354,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210905,4103,ch,luzern,342,1,True
 20210905,4105,ch,schwyz,242,0,True
 20210905,4107,ch,nidwalden,23,0,True
-20210905,4109,ch,zug,124,0,True
+20210905,4109,ch,zug,125,1,True
 20210905,4110,ch,fribourg,491,0,True
 20210905,4112,ch,basel_stadt,211,0,True
 20210905,4113,ch,basel_landschaft,224,0,True
@@ -35876,7 +35883,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210818,4106,ch,obwalden,39,0,True
 20210818,4107,ch,nidwalden,23,0,True
 20210818,4108,ch,glarus,78,0,True
-20210818,4109,ch,zug,124,1,True
+20210818,4109,ch,zug,124,0,True
 20210818,4110,ch,fribourg,491,0,True
 20210818,4112,ch,basel_stadt,209,1,True
 20210818,4113,ch,basel_landschaft,222,0,True
@@ -35963,7 +35970,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210817,4106,ch,obwalden,39,0,True
 20210817,4107,ch,nidwalden,23,0,True
 20210817,4108,ch,glarus,78,0,True
-20210817,4109,ch,zug,123,0,True
+20210817,4109,ch,zug,124,1,True
 20210817,4110,ch,fribourg,491,0,True
 20210817,4112,ch,basel_stadt,208,0,True
 20210817,4113,ch,basel_landschaft,222,0,True
@@ -37677,7 +37684,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210728,4106,ch,obwalden,39,0,True
 20210728,4107,ch,nidwalden,23,0,True
 20210728,4108,ch,glarus,78,0,True
-20210728,4109,ch,zug,123,0,True
+20210728,4109,ch,zug,123,1,True
 20210728,4110,ch,fribourg,491,0,True
 20210728,4112,ch,basel_stadt,207,2,True
 20210728,4113,ch,basel_landschaft,219,0,True
@@ -37766,7 +37773,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210727,4106,ch,obwalden,39,0,True
 20210727,4107,ch,nidwalden,23,0,True
 20210727,4108,ch,glarus,78,0,True
-20210727,4109,ch,zug,123,1,True
+20210727,4109,ch,zug,122,0,True
 20210727,4110,ch,fribourg,491,0,True
 20210727,4112,ch,basel_stadt,205,0,True
 20210727,4113,ch,basel_landschaft,219,0,True
@@ -37854,7 +37861,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210726,4106,ch,obwalden,39,0,True
 20210726,4107,ch,nidwalden,23,0,True
 20210726,4108,ch,glarus,78,0,True
-20210726,4109,ch,zug,122,1,True
+20210726,4109,ch,zug,122,0,True
 20210726,4110,ch,fribourg,491,0,True
 20210726,4112,ch,basel_stadt,205,0,True
 20210726,4113,ch,basel_landschaft,219,0,True
@@ -37938,7 +37945,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210725,4102,ch,bern,1105,1,True
 20210725,4105,ch,schwyz,238,0,True
 20210725,4107,ch,nidwalden,23,0,True
-20210725,4109,ch,zug,121,0,True
+20210725,4109,ch,zug,122,0,True
 20210725,4110,ch,fribourg,491,0,True
 20210725,4112,ch,basel_stadt,205,0,True
 20210725,4113,ch,basel_landschaft,219,0,True
@@ -38022,7 +38029,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210724,4103,ch,luzern,335,1,True
 20210724,4105,ch,schwyz,238,0,True
 20210724,4107,ch,nidwalden,23,0,True
-20210724,4109,ch,zug,121,0,True
+20210724,4109,ch,zug,122,0,True
 20210724,4110,ch,fribourg,491,0,True
 20210724,4112,ch,basel_stadt,205,0,True
 20210724,4113,ch,basel_landschaft,219,0,True
@@ -38107,7 +38114,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210723,4106,ch,obwalden,39,0,True
 20210723,4107,ch,nidwalden,23,0,True
 20210723,4108,ch,glarus,78,0,True
-20210723,4109,ch,zug,121,0,True
+20210723,4109,ch,zug,122,0,True
 20210723,4110,ch,fribourg,491,0,True
 20210723,4112,ch,basel_stadt,205,0,True
 20210723,4113,ch,basel_landschaft,219,0,True
@@ -38194,7 +38201,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210722,4106,ch,obwalden,39,0,True
 20210722,4107,ch,nidwalden,23,0,True
 20210722,4108,ch,glarus,78,0,True
-20210722,4109,ch,zug,121,0,True
+20210722,4109,ch,zug,122,0,True
 20210722,4110,ch,fribourg,491,0,True
 20210722,4112,ch,basel_stadt,205,0,True
 20210722,4113,ch,basel_landschaft,219,0,True
@@ -38282,7 +38289,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210721,4106,ch,obwalden,39,0,True
 20210721,4107,ch,nidwalden,23,0,True
 20210721,4108,ch,glarus,78,0,True
-20210721,4109,ch,zug,121,0,True
+20210721,4109,ch,zug,122,0,True
 20210721,4110,ch,fribourg,491,0,True
 20210721,4112,ch,basel_stadt,205,0,True
 20210721,4113,ch,basel_landschaft,219,0,True
@@ -38370,7 +38377,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210720,4106,ch,obwalden,39,0,True
 20210720,4107,ch,nidwalden,23,0,True
 20210720,4108,ch,glarus,78,0,True
-20210720,4109,ch,zug,121,0,True
+20210720,4109,ch,zug,122,0,True
 20210720,4110,ch,fribourg,491,0,True
 20210720,4112,ch,basel_stadt,205,0,True
 20210720,4113,ch,basel_landschaft,219,0,True
@@ -38458,7 +38465,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210719,4106,ch,obwalden,39,0,True
 20210719,4107,ch,nidwalden,23,0,True
 20210719,4108,ch,glarus,78,0,True
-20210719,4109,ch,zug,121,0,True
+20210719,4109,ch,zug,122,0,True
 20210719,4110,ch,fribourg,491,0,True
 20210719,4112,ch,basel_stadt,205,0,True
 20210719,4113,ch,basel_landschaft,219,0,True
@@ -38543,7 +38550,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210718,4102,ch,bern,1103,0,True
 20210718,4105,ch,schwyz,238,0,True
 20210718,4107,ch,nidwalden,23,0,True
-20210718,4109,ch,zug,121,0,True
+20210718,4109,ch,zug,122,0,True
 20210718,4110,ch,fribourg,491,0,True
 20210718,4112,ch,basel_stadt,205,0,True
 20210718,4113,ch,basel_landschaft,219,0,True
@@ -38626,7 +38633,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210717,4102,ch,bern,1103,1,True
 20210717,4105,ch,schwyz,238,0,True
 20210717,4107,ch,nidwalden,23,0,True
-20210717,4109,ch,zug,121,0,True
+20210717,4109,ch,zug,122,0,True
 20210717,4110,ch,fribourg,491,0,True
 20210717,4112,ch,basel_stadt,205,0,True
 20210717,4113,ch,basel_landschaft,219,0,True
@@ -38710,7 +38717,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210716,4106,ch,obwalden,39,0,True
 20210716,4107,ch,nidwalden,23,0,True
 20210716,4108,ch,glarus,78,0,True
-20210716,4109,ch,zug,121,0,True
+20210716,4109,ch,zug,122,0,True
 20210716,4110,ch,fribourg,491,0,True
 20210716,4112,ch,basel_stadt,205,0,True
 20210716,4113,ch,basel_landschaft,219,0,True
@@ -38796,7 +38803,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210715,4106,ch,obwalden,39,0,True
 20210715,4107,ch,nidwalden,23,0,True
 20210715,4108,ch,glarus,78,0,True
-20210715,4109,ch,zug,121,0,True
+20210715,4109,ch,zug,122,0,True
 20210715,4110,ch,fribourg,491,0,True
 20210715,4112,ch,basel_stadt,205,0,True
 20210715,4113,ch,basel_landschaft,219,0,True
@@ -38883,7 +38890,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210714,4106,ch,obwalden,39,0,True
 20210714,4107,ch,nidwalden,23,0,True
 20210714,4108,ch,glarus,78,0,True
-20210714,4109,ch,zug,121,0,True
+20210714,4109,ch,zug,122,0,True
 20210714,4110,ch,fribourg,491,0,True
 20210714,4112,ch,basel_stadt,205,0,True
 20210714,4113,ch,basel_landschaft,219,0,True
@@ -38971,7 +38978,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210713,4106,ch,obwalden,39,0,True
 20210713,4107,ch,nidwalden,23,0,True
 20210713,4108,ch,glarus,78,0,True
-20210713,4109,ch,zug,121,0,True
+20210713,4109,ch,zug,122,0,True
 20210713,4110,ch,fribourg,491,0,True
 20210713,4112,ch,basel_stadt,205,0,True
 20210713,4113,ch,basel_landschaft,219,0,True
@@ -39059,7 +39066,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210712,4106,ch,obwalden,39,0,True
 20210712,4107,ch,nidwalden,23,0,True
 20210712,4108,ch,glarus,78,0,True
-20210712,4109,ch,zug,121,0,True
+20210712,4109,ch,zug,122,0,True
 20210712,4110,ch,fribourg,491,0,True
 20210712,4112,ch,basel_stadt,205,0,True
 20210712,4113,ch,basel_landschaft,219,0,True
@@ -39144,7 +39151,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210711,4102,ch,bern,1102,0,True
 20210711,4105,ch,schwyz,238,0,True
 20210711,4107,ch,nidwalden,23,0,True
-20210711,4109,ch,zug,121,0,True
+20210711,4109,ch,zug,122,0,True
 20210711,4110,ch,fribourg,491,0,True
 20210711,4112,ch,basel_stadt,205,0,True
 20210711,4113,ch,basel_landschaft,219,0,True
@@ -39227,7 +39234,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210710,4102,ch,bern,1102,0,True
 20210710,4105,ch,schwyz,238,0,True
 20210710,4107,ch,nidwalden,23,0,True
-20210710,4109,ch,zug,121,0,True
+20210710,4109,ch,zug,122,0,True
 20210710,4110,ch,fribourg,491,0,True
 20210710,4112,ch,basel_stadt,205,0,True
 20210710,4113,ch,basel_landschaft,219,0,True
@@ -39311,7 +39318,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210709,4106,ch,obwalden,39,0,True
 20210709,4107,ch,nidwalden,23,0,True
 20210709,4108,ch,glarus,78,0,True
-20210709,4109,ch,zug,121,0,True
+20210709,4109,ch,zug,122,0,True
 20210709,4110,ch,fribourg,491,0,True
 20210709,4112,ch,basel_stadt,205,0,True
 20210709,4113,ch,basel_landschaft,219,0,True
@@ -39397,7 +39404,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210708,4106,ch,obwalden,39,0,True
 20210708,4107,ch,nidwalden,23,0,True
 20210708,4108,ch,glarus,78,0,True
-20210708,4109,ch,zug,121,0,True
+20210708,4109,ch,zug,122,0,True
 20210708,4110,ch,fribourg,491,0,True
 20210708,4112,ch,basel_stadt,205,0,True
 20210708,4113,ch,basel_landschaft,219,0,True
@@ -39485,7 +39492,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210707,4106,ch,obwalden,39,0,True
 20210707,4107,ch,nidwalden,23,0,True
 20210707,4108,ch,glarus,78,0,True
-20210707,4109,ch,zug,121,0,True
+20210707,4109,ch,zug,122,0,True
 20210707,4110,ch,fribourg,491,0,True
 20210707,4112,ch,basel_stadt,205,0,True
 20210707,4113,ch,basel_landschaft,219,0,True
@@ -39573,7 +39580,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210706,4106,ch,obwalden,39,0,True
 20210706,4107,ch,nidwalden,23,0,True
 20210706,4108,ch,glarus,78,0,True
-20210706,4109,ch,zug,121,0,True
+20210706,4109,ch,zug,122,0,True
 20210706,4110,ch,fribourg,491,0,True
 20210706,4112,ch,basel_stadt,205,0,True
 20210706,4113,ch,basel_landschaft,219,0,True
@@ -39661,7 +39668,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210705,4106,ch,obwalden,39,0,True
 20210705,4107,ch,nidwalden,23,0,True
 20210705,4108,ch,glarus,78,0,True
-20210705,4109,ch,zug,121,0,True
+20210705,4109,ch,zug,122,0,True
 20210705,4110,ch,fribourg,491,0,True
 20210705,4112,ch,basel_stadt,205,0,True
 20210705,4113,ch,basel_landschaft,219,0,True
@@ -39746,7 +39753,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210704,4102,ch,bern,1101,0,True
 20210704,4105,ch,schwyz,238,0,True
 20210704,4107,ch,nidwalden,23,0,True
-20210704,4109,ch,zug,121,0,True
+20210704,4109,ch,zug,122,0,True
 20210704,4110,ch,fribourg,491,0,True
 20210704,4112,ch,basel_stadt,205,0,True
 20210704,4113,ch,basel_landschaft,219,0,True
@@ -39830,7 +39837,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210703,4104,ch,uri,50,0,True
 20210703,4105,ch,schwyz,238,0,True
 20210703,4107,ch,nidwalden,23,0,True
-20210703,4109,ch,zug,121,0,True
+20210703,4109,ch,zug,122,0,True
 20210703,4110,ch,fribourg,491,0,True
 20210703,4112,ch,basel_stadt,205,0,True
 20210703,4113,ch,basel_landschaft,219,0,True
@@ -39913,7 +39920,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210702,4106,ch,obwalden,39,0,True
 20210702,4107,ch,nidwalden,23,0,True
 20210702,4108,ch,glarus,78,0,True
-20210702,4109,ch,zug,121,0,True
+20210702,4109,ch,zug,122,0,True
 20210702,4110,ch,fribourg,491,0,True
 20210702,4112,ch,basel_stadt,205,0,True
 20210702,4113,ch,basel_landschaft,219,0,True
@@ -40000,7 +40007,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210701,4106,ch,obwalden,39,0,True
 20210701,4107,ch,nidwalden,23,0,True
 20210701,4108,ch,glarus,78,0,True
-20210701,4109,ch,zug,121,0,True
+20210701,4109,ch,zug,122,0,True
 20210701,4110,ch,fribourg,491,0,True
 20210701,4112,ch,basel_stadt,205,0,True
 20210701,4113,ch,basel_landschaft,219,0,True
@@ -40088,7 +40095,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210630,4106,ch,obwalden,39,0,True
 20210630,4107,ch,nidwalden,23,0,True
 20210630,4108,ch,glarus,78,0,True
-20210630,4109,ch,zug,121,0,True
+20210630,4109,ch,zug,122,0,True
 20210630,4110,ch,fribourg,491,0,True
 20210630,4112,ch,basel_stadt,205,0,True
 20210630,4113,ch,basel_landschaft,219,0,True
@@ -40177,7 +40184,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210629,4106,ch,obwalden,39,0,True
 20210629,4107,ch,nidwalden,23,0,True
 20210629,4108,ch,glarus,78,0,True
-20210629,4109,ch,zug,121,0,True
+20210629,4109,ch,zug,122,0,True
 20210629,4110,ch,fribourg,491,0,True
 20210629,4112,ch,basel_stadt,205,0,True
 20210629,4113,ch,basel_landschaft,219,0,True
@@ -40265,7 +40272,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210628,4106,ch,obwalden,39,0,True
 20210628,4107,ch,nidwalden,23,0,True
 20210628,4108,ch,glarus,78,0,True
-20210628,4109,ch,zug,121,0,True
+20210628,4109,ch,zug,122,0,True
 20210628,4110,ch,fribourg,491,0,True
 20210628,4112,ch,basel_stadt,205,0,True
 20210628,4113,ch,basel_landschaft,219,0,True
@@ -40351,7 +40358,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210627,4102,ch,bern,1101,0,True
 20210627,4105,ch,schwyz,238,0,True
 20210627,4107,ch,nidwalden,23,0,True
-20210627,4109,ch,zug,121,0,True
+20210627,4109,ch,zug,122,0,True
 20210627,4110,ch,fribourg,491,0,True
 20210627,4112,ch,basel_stadt,205,0,True
 20210627,4113,ch,basel_landschaft,219,0,True
@@ -40435,7 +40442,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210626,4102,ch,bern,1101,0,True
 20210626,4105,ch,schwyz,238,0,True
 20210626,4107,ch,nidwalden,23,0,True
-20210626,4109,ch,zug,121,0,True
+20210626,4109,ch,zug,122,0,True
 20210626,4110,ch,fribourg,491,0,True
 20210626,4112,ch,basel_stadt,205,0,True
 20210626,4113,ch,basel_landschaft,219,0,True
@@ -40520,7 +40527,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210625,4106,ch,obwalden,39,0,True
 20210625,4107,ch,nidwalden,23,0,True
 20210625,4108,ch,glarus,78,0,True
-20210625,4109,ch,zug,121,0,True
+20210625,4109,ch,zug,122,0,True
 20210625,4110,ch,fribourg,491,2,True
 20210625,4112,ch,basel_stadt,205,0,True
 20210625,4113,ch,basel_landschaft,219,0,True
@@ -40608,7 +40615,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210624,4106,ch,obwalden,39,0,True
 20210624,4107,ch,nidwalden,23,0,True
 20210624,4108,ch,glarus,78,0,True
-20210624,4109,ch,zug,121,0,True
+20210624,4109,ch,zug,122,0,True
 20210624,4110,ch,fribourg,489,2,True
 20210624,4112,ch,basel_stadt,205,0,True
 20210624,4113,ch,basel_landschaft,219,0,True
@@ -40697,7 +40704,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210623,4106,ch,obwalden,39,0,True
 20210623,4107,ch,nidwalden,23,0,True
 20210623,4108,ch,glarus,78,0,True
-20210623,4109,ch,zug,121,0,True
+20210623,4109,ch,zug,122,0,True
 20210623,4110,ch,fribourg,487,0,True
 20210623,4112,ch,basel_stadt,205,0,True
 20210623,4113,ch,basel_landschaft,219,0,True
@@ -40786,7 +40793,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210622,4106,ch,obwalden,39,0,True
 20210622,4107,ch,nidwalden,23,0,True
 20210622,4108,ch,glarus,78,0,True
-20210622,4109,ch,zug,121,0,True
+20210622,4109,ch,zug,122,0,True
 20210622,4110,ch,fribourg,487,0,True
 20210622,4112,ch,basel_stadt,205,0,True
 20210622,4113,ch,basel_landschaft,219,0,True
@@ -40875,7 +40882,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210621,4106,ch,obwalden,39,0,True
 20210621,4107,ch,nidwalden,23,0,True
 20210621,4108,ch,glarus,78,0,True
-20210621,4109,ch,zug,121,0,True
+20210621,4109,ch,zug,122,0,True
 20210621,4110,ch,fribourg,487,0,True
 20210621,4112,ch,basel_stadt,205,0,True
 20210621,4113,ch,basel_landschaft,219,0,True
@@ -40961,7 +40968,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210620,4102,ch,bern,1101,1,True
 20210620,4105,ch,schwyz,238,0,True
 20210620,4107,ch,nidwalden,23,0,True
-20210620,4109,ch,zug,121,0,True
+20210620,4109,ch,zug,122,0,True
 20210620,4110,ch,fribourg,487,0,True
 20210620,4112,ch,basel_stadt,205,0,True
 20210620,4113,ch,basel_landschaft,219,0,True
@@ -41045,7 +41052,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210619,4102,ch,bern,1100,0,True
 20210619,4105,ch,schwyz,238,1,True
 20210619,4107,ch,nidwalden,23,0,True
-20210619,4109,ch,zug,121,0,True
+20210619,4109,ch,zug,122,0,True
 20210619,4110,ch,fribourg,487,0,True
 20210619,4112,ch,basel_stadt,205,0,True
 20210619,4113,ch,basel_landschaft,219,0,True
@@ -41130,7 +41137,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210618,4106,ch,obwalden,39,0,True
 20210618,4107,ch,nidwalden,23,0,True
 20210618,4108,ch,glarus,78,0,True
-20210618,4109,ch,zug,121,0,True
+20210618,4109,ch,zug,122,0,True
 20210618,4110,ch,fribourg,487,0,True
 20210618,4112,ch,basel_stadt,205,0,True
 20210618,4113,ch,basel_landschaft,219,0,True
@@ -41218,7 +41225,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210617,4106,ch,obwalden,39,0,True
 20210617,4107,ch,nidwalden,23,0,True
 20210617,4108,ch,glarus,78,0,True
-20210617,4109,ch,zug,121,0,True
+20210617,4109,ch,zug,122,0,True
 20210617,4110,ch,fribourg,487,0,True
 20210617,4112,ch,basel_stadt,205,0,True
 20210617,4113,ch,basel_landschaft,219,1,True
@@ -41307,7 +41314,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210616,4106,ch,obwalden,39,0,True
 20210616,4107,ch,nidwalden,23,0,True
 20210616,4108,ch,glarus,78,0,True
-20210616,4109,ch,zug,121,0,True
+20210616,4109,ch,zug,122,0,True
 20210616,4110,ch,fribourg,487,1,True
 20210616,4112,ch,basel_stadt,205,0,True
 20210616,4113,ch,basel_landschaft,218,0,True
@@ -41396,7 +41403,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210615,4106,ch,obwalden,39,0,True
 20210615,4107,ch,nidwalden,23,0,True
 20210615,4108,ch,glarus,78,0,True
-20210615,4109,ch,zug,121,0,True
+20210615,4109,ch,zug,122,0,True
 20210615,4110,ch,fribourg,486,0,True
 20210615,4112,ch,basel_stadt,205,0,True
 20210615,4113,ch,basel_landschaft,218,0,True
@@ -41485,7 +41492,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210614,4106,ch,obwalden,39,0,True
 20210614,4107,ch,nidwalden,23,0,True
 20210614,4108,ch,glarus,78,0,True
-20210614,4109,ch,zug,121,0,True
+20210614,4109,ch,zug,122,0,True
 20210614,4110,ch,fribourg,486,0,True
 20210614,4112,ch,basel_stadt,205,0,True
 20210614,4113,ch,basel_landschaft,218,0,True
@@ -41571,7 +41578,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210613,4102,ch,bern,1100,0,True
 20210613,4105,ch,schwyz,236,0,True
 20210613,4107,ch,nidwalden,23,0,True
-20210613,4109,ch,zug,121,0,True
+20210613,4109,ch,zug,122,0,True
 20210613,4110,ch,fribourg,486,0,True
 20210613,4112,ch,basel_stadt,205,0,True
 20210613,4113,ch,basel_landschaft,218,0,True
@@ -41656,7 +41663,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210612,4102,ch,bern,1100,0,True
 20210612,4105,ch,schwyz,236,0,True
 20210612,4107,ch,nidwalden,23,0,True
-20210612,4109,ch,zug,121,0,True
+20210612,4109,ch,zug,122,0,True
 20210612,4110,ch,fribourg,486,0,True
 20210612,4112,ch,basel_stadt,205,0,True
 20210612,4113,ch,basel_landschaft,218,0,True
@@ -41742,7 +41749,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210611,4106,ch,obwalden,39,0,True
 20210611,4107,ch,nidwalden,23,0,True
 20210611,4108,ch,glarus,78,0,True
-20210611,4109,ch,zug,121,0,True
+20210611,4109,ch,zug,122,0,True
 20210611,4110,ch,fribourg,486,0,True
 20210611,4112,ch,basel_stadt,205,0,True
 20210611,4113,ch,basel_landschaft,218,0,True
@@ -41829,7 +41836,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210610,4106,ch,obwalden,39,0,True
 20210610,4107,ch,nidwalden,23,0,True
 20210610,4108,ch,glarus,78,0,True
-20210610,4109,ch,zug,121,0,True
+20210610,4109,ch,zug,122,0,True
 20210610,4110,ch,fribourg,486,0,True
 20210610,4112,ch,basel_stadt,205,0,True
 20210610,4113,ch,basel_landschaft,218,0,True
@@ -41918,7 +41925,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210609,4106,ch,obwalden,39,0,True
 20210609,4107,ch,nidwalden,23,0,True
 20210609,4108,ch,glarus,78,0,True
-20210609,4109,ch,zug,121,0,True
+20210609,4109,ch,zug,122,0,True
 20210609,4110,ch,fribourg,486,0,True
 20210609,4112,ch,basel_stadt,205,0,True
 20210609,4113,ch,basel_landschaft,218,0,True
@@ -42007,7 +42014,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210608,4106,ch,obwalden,39,0,True
 20210608,4107,ch,nidwalden,23,0,True
 20210608,4108,ch,glarus,78,0,True
-20210608,4109,ch,zug,121,0,True
+20210608,4109,ch,zug,122,0,True
 20210608,4110,ch,fribourg,486,0,True
 20210608,4112,ch,basel_stadt,205,1,True
 20210608,4113,ch,basel_landschaft,218,0,True
@@ -42096,7 +42103,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210607,4106,ch,obwalden,39,0,True
 20210607,4107,ch,nidwalden,23,0,True
 20210607,4108,ch,glarus,78,2,True
-20210607,4109,ch,zug,121,0,True
+20210607,4109,ch,zug,122,0,True
 20210607,4110,ch,fribourg,486,0,True
 20210607,4112,ch,basel_stadt,204,0,True
 20210607,4113,ch,basel_landschaft,218,0,True
@@ -42182,7 +42189,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210606,4102,ch,bern,1099,1,True
 20210606,4105,ch,schwyz,235,0,True
 20210606,4107,ch,nidwalden,23,0,True
-20210606,4109,ch,zug,121,0,True
+20210606,4109,ch,zug,122,0,True
 20210606,4110,ch,fribourg,486,0,True
 20210606,4112,ch,basel_stadt,204,0,True
 20210606,4113,ch,basel_landschaft,218,0,True
@@ -42267,7 +42274,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210605,4102,ch,bern,1098,0,True
 20210605,4105,ch,schwyz,235,1,True
 20210605,4107,ch,nidwalden,23,0,True
-20210605,4109,ch,zug,121,0,True
+20210605,4109,ch,zug,122,0,True
 20210605,4110,ch,fribourg,486,0,True
 20210605,4112,ch,basel_stadt,204,0,True
 20210605,4113,ch,basel_landschaft,218,0,True
@@ -42352,7 +42359,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210604,4105,ch,schwyz,234,0,True
 20210604,4107,ch,nidwalden,23,0,True
 20210604,4108,ch,glarus,76,0,True
-20210604,4109,ch,zug,121,0,True
+20210604,4109,ch,zug,122,0,True
 20210604,4110,ch,fribourg,486,0,True
 20210604,4112,ch,basel_stadt,204,0,True
 20210604,4113,ch,basel_landschaft,218,0,True
@@ -42437,7 +42444,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210603,4105,ch,schwyz,234,2,True
 20210603,4107,ch,nidwalden,23,0,True
 20210603,4108,ch,glarus,76,0,True
-20210603,4109,ch,zug,121,0,True
+20210603,4109,ch,zug,122,0,True
 20210603,4110,ch,fribourg,486,0,True
 20210603,4112,ch,basel_stadt,204,0,True
 20210603,4113,ch,basel_landschaft,218,0,True
@@ -42524,7 +42531,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210602,4106,ch,obwalden,39,0,True
 20210602,4107,ch,nidwalden,23,0,True
 20210602,4108,ch,glarus,76,0,True
-20210602,4109,ch,zug,121,0,True
+20210602,4109,ch,zug,122,0,True
 20210602,4110,ch,fribourg,486,0,True
 20210602,4112,ch,basel_stadt,204,0,True
 20210602,4113,ch,basel_landschaft,218,0,True
@@ -42613,7 +42620,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210601,4106,ch,obwalden,39,0,True
 20210601,4107,ch,nidwalden,23,0,True
 20210601,4108,ch,glarus,76,0,True
-20210601,4109,ch,zug,121,0,True
+20210601,4109,ch,zug,122,0,True
 20210601,4110,ch,fribourg,486,0,True
 20210601,4112,ch,basel_stadt,204,0,True
 20210601,4113,ch,basel_landschaft,218,0,True
@@ -42702,7 +42709,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210531,4106,ch,obwalden,39,0,True
 20210531,4107,ch,nidwalden,23,0,True
 20210531,4108,ch,glarus,76,0,True
-20210531,4109,ch,zug,121,0,True
+20210531,4109,ch,zug,122,0,True
 20210531,4110,ch,fribourg,486,0,True
 20210531,4112,ch,basel_stadt,204,0,True
 20210531,4113,ch,basel_landschaft,218,0,True
@@ -42788,7 +42795,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210530,4102,ch,bern,1093,0,True
 20210530,4105,ch,schwyz,232,0,True
 20210530,4107,ch,nidwalden,23,0,True
-20210530,4109,ch,zug,121,0,True
+20210530,4109,ch,zug,122,0,True
 20210530,4110,ch,fribourg,486,0,True
 20210530,4112,ch,basel_stadt,204,0,True
 20210530,4113,ch,basel_landschaft,218,0,True
@@ -42874,7 +42881,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210529,4103,ch,luzern,333,1,True
 20210529,4105,ch,schwyz,232,0,True
 20210529,4107,ch,nidwalden,23,0,True
-20210529,4109,ch,zug,121,0,True
+20210529,4109,ch,zug,122,0,True
 20210529,4110,ch,fribourg,486,0,True
 20210529,4112,ch,basel_stadt,204,1,True
 20210529,4113,ch,basel_landschaft,218,0,True
@@ -42960,7 +42967,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210528,4106,ch,obwalden,39,0,True
 20210528,4107,ch,nidwalden,23,0,True
 20210528,4108,ch,glarus,76,0,True
-20210528,4109,ch,zug,121,0,True
+20210528,4109,ch,zug,122,0,True
 20210528,4110,ch,fribourg,486,0,True
 20210528,4112,ch,basel_stadt,203,0,True
 20210528,4113,ch,basel_landschaft,218,0,True
@@ -43048,7 +43055,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210527,4106,ch,obwalden,39,0,True
 20210527,4107,ch,nidwalden,23,0,True
 20210527,4108,ch,glarus,76,0,True
-20210527,4109,ch,zug,121,0,True
+20210527,4109,ch,zug,122,0,True
 20210527,4110,ch,fribourg,486,1,True
 20210527,4111,ch,solothurn,271,0,True
 20210527,4112,ch,basel_stadt,203,0,True
@@ -43139,7 +43146,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210526,4106,ch,obwalden,39,0,True
 20210526,4107,ch,nidwalden,23,0,True
 20210526,4108,ch,glarus,76,0,True
-20210526,4109,ch,zug,121,0,True
+20210526,4109,ch,zug,122,0,True
 20210526,4110,ch,fribourg,485,0,True
 20210526,4111,ch,solothurn,271,0,True
 20210526,4112,ch,basel_stadt,203,0,True
@@ -43230,7 +43237,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210525,4106,ch,obwalden,39,0,True
 20210525,4107,ch,nidwalden,23,0,True
 20210525,4108,ch,glarus,76,1,True
-20210525,4109,ch,zug,121,0,True
+20210525,4109,ch,zug,122,0,True
 20210525,4110,ch,fribourg,485,0,True
 20210525,4111,ch,solothurn,271,0,True
 20210525,4112,ch,basel_stadt,203,0,True
@@ -43317,7 +43324,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210524,4102,ch,bern,1090,0,True
 20210524,4105,ch,schwyz,231,0,True
 20210524,4107,ch,nidwalden,23,0,True
-20210524,4109,ch,zug,121,0,True
+20210524,4109,ch,zug,122,1,True
 20210524,4110,ch,fribourg,485,0,True
 20210524,4112,ch,basel_stadt,203,0,True
 20210524,4113,ch,basel_landschaft,218,0,True
@@ -44188,7 +44195,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210514,4105,ch,schwyz,225,0,True
 20210514,4107,ch,nidwalden,23,0,True
 20210514,4108,ch,glarus,74,0,True
-20210514,4109,ch,zug,121,1,True
+20210514,4109,ch,zug,121,0,True
 20210514,4110,ch,fribourg,483,0,True
 20210514,4111,ch,solothurn,270,0,True
 20210514,4112,ch,basel_stadt,201,0,True
@@ -44272,7 +44279,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210513,4102,ch,bern,1082,0,True
 20210513,4105,ch,schwyz,225,0,True
 20210513,4107,ch,nidwalden,23,0,True
-20210513,4109,ch,zug,120,0,True
+20210513,4109,ch,zug,121,0,True
 20210513,4110,ch,fribourg,483,0,True
 20210513,4112,ch,basel_stadt,201,0,True
 20210513,4113,ch,basel_landschaft,218,0,True
@@ -44360,7 +44367,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210512,4106,ch,obwalden,39,0,True
 20210512,4107,ch,nidwalden,23,0,True
 20210512,4108,ch,glarus,74,0,True
-20210512,4109,ch,zug,120,1,True
+20210512,4109,ch,zug,121,1,True
 20210512,4110,ch,fribourg,483,0,True
 20210512,4111,ch,solothurn,270,0,True
 20210512,4112,ch,basel_stadt,201,1,True
@@ -44449,7 +44456,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210511,4106,ch,obwalden,39,0,True
 20210511,4107,ch,nidwalden,23,0,True
 20210511,4108,ch,glarus,74,1,True
-20210511,4109,ch,zug,119,0,True
+20210511,4109,ch,zug,120,1,True
 20210511,4110,ch,fribourg,483,1,True
 20210511,4111,ch,solothurn,270,0,True
 20210511,4112,ch,basel_stadt,200,0,True
@@ -46038,7 +46045,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210423,4106,ch,obwalden,39,0,True
 20210423,4107,ch,nidwalden,21,1,True
 20210423,4108,ch,glarus,71,0,True
-20210423,4109,ch,zug,116,2,True
+20210423,4109,ch,zug,116,1,True
 20210423,4110,ch,fribourg,476,0,True
 20210423,4111,ch,solothurn,264,0,True
 20210423,4112,ch,basel_stadt,198,0,True
@@ -46127,7 +46134,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210422,4106,ch,obwalden,39,0,True
 20210422,4107,ch,nidwalden,20,0,True
 20210422,4108,ch,glarus,71,0,True
-20210422,4109,ch,zug,114,0,True
+20210422,4109,ch,zug,115,1,True
 20210422,4110,ch,fribourg,476,0,True
 20210422,4111,ch,solothurn,264,0,True
 20210422,4112,ch,basel_stadt,198,0,True
@@ -51057,7 +51064,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210225,4106,ch,obwalden,39,2,True
 20210225,4107,ch,nidwalden,19,0,True
 20210225,4108,ch,glarus,68,0,True
-20210225,4109,ch,zug,113,1,True
+20210225,4109,ch,zug,113,0,True
 20210225,4110,ch,fribourg,463,1,True
 20210225,4111,ch,solothurn,252,0,True
 20210225,4112,ch,basel_stadt,192,1,True
@@ -51147,7 +51154,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210224,4106,ch,obwalden,37,0,True
 20210224,4107,ch,nidwalden,19,0,True
 20210224,4108,ch,glarus,68,0,True
-20210224,4109,ch,zug,112,0,True
+20210224,4109,ch,zug,113,0,True
 20210224,4110,ch,fribourg,462,1,True
 20210224,4111,ch,solothurn,252,2,True
 20210224,4112,ch,basel_stadt,191,0,True
@@ -51237,7 +51244,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210223,4106,ch,obwalden,37,0,True
 20210223,4107,ch,nidwalden,19,0,True
 20210223,4108,ch,glarus,68,1,True
-20210223,4109,ch,zug,112,0,True
+20210223,4109,ch,zug,113,1,True
 20210223,4110,ch,fribourg,461,0,True
 20210223,4111,ch,solothurn,250,1,True
 20210223,4112,ch,basel_stadt,191,1,True
@@ -52475,7 +52482,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210209,4106,ch,obwalden,37,0,True
 20210209,4107,ch,nidwalden,17,1,True
 20210209,4108,ch,glarus,66,0,True
-20210209,4109,ch,zug,112,1,True
+20210209,4109,ch,zug,112,0,True
 20210209,4110,ch,fribourg,457,2,True
 20210209,4111,ch,solothurn,245,0,True
 20210209,4112,ch,basel_stadt,188,1,True
@@ -52566,7 +52573,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210208,4106,ch,obwalden,37,1,True
 20210208,4107,ch,nidwalden,16,0,True
 20210208,4108,ch,glarus,66,0,True
-20210208,4109,ch,zug,111,0,True
+20210208,4109,ch,zug,112,1,True
 20210208,4110,ch,fribourg,455,0,True
 20210208,4111,ch,solothurn,245,0,True
 20210208,4112,ch,basel_stadt,187,0,True
@@ -53536,7 +53543,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210128,4106,ch,obwalden,36,1,True
 20210128,4107,ch,nidwalden,16,0,True
 20210128,4108,ch,glarus,62,4,True
-20210128,4109,ch,zug,108,1,True
+20210128,4109,ch,zug,108,0,True
 20210128,4110,ch,fribourg,446,2,True
 20210128,4111,ch,solothurn,244,0,True
 20210128,4112,ch,basel_stadt,177,1,True
@@ -53626,7 +53633,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20210127,4106,ch,obwalden,35,0,True
 20210127,4107,ch,nidwalden,16,0,True
 20210127,4108,ch,glarus,58,2,True
-20210127,4109,ch,zug,107,0,True
+20210127,4109,ch,zug,108,1,True
 20210127,4110,ch,fribourg,444,0,True
 20210127,4111,ch,solothurn,244,1,True
 20210127,4112,ch,basel_stadt,176,0,True
