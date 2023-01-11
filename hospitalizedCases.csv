@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
+20230111,4121,ch,ticino,80,True
 20230110,386011,si,pomurska,2,True
 20230110,386012,si,podravska,27,True
 20230110,386013,si,koroska,1,True
@@ -10,6 +11,8 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230110,4101,ch,zurich,72,True
 20230110,4107,ch,nidwalden,0,True
 20230110,4112,ch,basel_stadt,36,True
+20230110,4121,ch,ticino,82,True
+20230110,423,li,liechtenstein,0,True
 20230110,43,at,austria,976,False
 20230110,4301,at,wien,269,True
 20230110,4302,at,niederosterreich,247,True
@@ -32,6 +35,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230109,4107,ch,nidwalden,0,True
 20230109,4112,ch,basel_stadt,35,True
 20230109,4120,ch,thurgau,17,True
+20230109,4121,ch,ticino,99,True
 20230109,4124,ch,neuchatel,19,True
 20230109,423,li,liechtenstein,0,True
 20230109,43,at,austria,1026,False
@@ -147,6 +151,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230105,4107,ch,nidwalden,5,True
 20230105,4112,ch,basel_stadt,52,True
 20230105,4120,ch,thurgau,19,True
+20230105,4121,ch,ticino,102,True
 20230105,4124,ch,neuchatel,26,True
 20230105,423,li,liechtenstein,0,True
 20230105,43,at,austria,1108,False
