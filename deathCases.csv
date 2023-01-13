@@ -35,6 +35,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230112,3946,it,calabria,3257,3,True
 20230112,3951,it,sicilia,12511,5,True
 20230112,3952,it,sardegna,2879,2,True
+20230112,4111,ch,solothurn,381,2,True
 20230112,4112,ch,basel_stadt,314,0,True
 20230112,423,li,liechtenstein,88,0,True
 20230112,43,at,austria,21558,0,False
@@ -183,6 +184,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230109,4101,ch,zurich,1890,0,True
 20230109,4107,ch,nidwalden,41,0,True
 20230109,4112,ch,basel_stadt,314,1,True
+20230109,4113,ch,basel_landschaft,323,0,True
+20230109,4117,ch,st_gallen,875,0,True
 20230109,4120,ch,thurgau,729,0,True
 20230109,4121,ch,ticino,1318,5,True
 20230109,4124,ch,neuchatel,493,0,True
@@ -233,6 +236,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230108,3951,it,sicilia,12491,3,True
 20230108,3952,it,sardegna,2876,0,True
 20230108,4101,ch,zurich,1890,0,True
+20230108,4110,ch,fribourg,616,1,True
+20230108,4113,ch,basel_landschaft,323,0,True
 20230108,4114,ch,schaffhausen,137,0,True
 20230108,4120,ch,thurgau,729,0,True
 20230108,4124,ch,neuchatel,493,0,True
@@ -283,6 +288,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230107,3951,it,sicilia,12488,2,True
 20230107,3952,it,sardegna,2876,1,True
 20230107,4101,ch,zurich,1890,0,True
+20230107,4110,ch,fribourg,615,0,True
+20230107,4113,ch,basel_landschaft,323,0,True
 20230107,4114,ch,schaffhausen,137,0,True
 20230107,4120,ch,thurgau,729,0,True
 20230107,4124,ch,neuchatel,493,0,True
@@ -334,7 +341,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230106,3952,it,sardegna,2875,1,True
 20230106,4101,ch,zurich,1890,0,True
 20230106,4107,ch,nidwalden,41,0,True
+20230106,4110,ch,fribourg,615,0,True
 20230106,4112,ch,basel_stadt,313,0,True
+20230106,4113,ch,basel_landschaft,323,0,True
 20230106,4114,ch,schaffhausen,137,0,True
 20230106,4120,ch,thurgau,729,0,True
 20230106,4124,ch,neuchatel,493,0,True
@@ -386,7 +395,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230105,3952,it,sardegna,2874,1,True
 20230105,4101,ch,zurich,1890,0,True
 20230105,4107,ch,nidwalden,41,0,True
+20230105,4110,ch,fribourg,615,0,True
 20230105,4112,ch,basel_stadt,313,0,True
+20230105,4113,ch,basel_landschaft,323,0,True
 20230105,4114,ch,schaffhausen,137,0,True
 20230105,4120,ch,thurgau,729,0,True
 20230105,4121,ch,ticino,1313,1,True
@@ -440,7 +451,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230104,4101,ch,zurich,1890,0,True
 20230104,4107,ch,nidwalden,41,0,True
 20230104,4109,ch,zug,170,0,True
+20230104,4110,ch,fribourg,615,4,True
 20230104,4112,ch,basel_stadt,313,2,True
+20230104,4113,ch,basel_landschaft,323,0,True
 20230104,4114,ch,schaffhausen,137,0,True
 20230104,4120,ch,thurgau,729,0,True
 20230104,4121,ch,ticino,1312,3,True
@@ -494,7 +507,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230103,4101,ch,zurich,1890,0,True
 20230103,4107,ch,nidwalden,41,0,True
 20230103,4109,ch,zug,170,0,True
+20230103,4110,ch,fribourg,611,9,True
 20230103,4112,ch,basel_stadt,311,0,True
+20230103,4113,ch,basel_landschaft,323,0,True
 20230103,4114,ch,schaffhausen,137,0,True
 20230103,4120,ch,thurgau,729,0,True
 20230103,4121,ch,ticino,1309,1,True
@@ -547,7 +562,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230102,3952,it,sardegna,2871,0,True
 20230102,4101,ch,zurich,1890,0,True
 20230102,4109,ch,zug,170,0,True
+20230102,4110,ch,fribourg,602,10,True
 20230102,4112,ch,basel_stadt,311,0,True
+20230102,4113,ch,basel_landschaft,323,0,True
 20230102,4114,ch,schaffhausen,137,0,True
 20230102,4120,ch,thurgau,729,1,True
 20230102,4121,ch,ticino,1308,0,True
@@ -600,6 +617,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230101,3952,it,sardegna,2871,1,True
 20230101,4101,ch,zurich,1890,0,True
 20230101,4109,ch,zug,170,0,True
+20230101,4110,ch,fribourg,592,0,True
+20230101,4113,ch,basel_landschaft,323,0,True
 20230101,4114,ch,schaffhausen,137,0,True
 20230101,4120,ch,thurgau,728,0,True
 20230101,4124,ch,neuchatel,493,0,True
@@ -651,6 +670,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221231,3952,it,sardegna,2870,0,True
 20221231,4101,ch,zurich,1890,0,True
 20221231,4109,ch,zug,170,0,True
+20221231,4110,ch,fribourg,592,0,True
+20221231,4113,ch,basel_landschaft,323,1,True
 20221231,4114,ch,schaffhausen,137,0,True
 20221231,4120,ch,thurgau,728,0,True
 20221231,4124,ch,neuchatel,493,0,True
@@ -702,7 +723,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221230,3952,it,sardegna,2870,4,True
 20221230,4101,ch,zurich,1890,0,True
 20221230,4109,ch,zug,170,0,True
+20221230,4110,ch,fribourg,592,5,True
 20221230,4112,ch,basel_stadt,311,0,True
+20221230,4113,ch,basel_landschaft,322,1,True
 20221230,4114,ch,schaffhausen,137,0,True
 20221230,4120,ch,thurgau,728,0,True
 20221230,4121,ch,ticino,1308,0,True
@@ -756,7 +779,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221229,4101,ch,zurich,1890,0,True
 20221229,4106,ch,obwalden,64,0,True
 20221229,4109,ch,zug,170,0,True
+20221229,4110,ch,fribourg,587,0,True
 20221229,4112,ch,basel_stadt,311,0,True
+20221229,4113,ch,basel_landschaft,321,0,True
 20221229,4114,ch,schaffhausen,137,0,True
 20221229,4120,ch,thurgau,728,0,True
 20221229,4121,ch,ticino,1308,1,True
@@ -810,7 +835,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221228,4101,ch,zurich,1890,0,True
 20221228,4106,ch,obwalden,64,0,True
 20221228,4109,ch,zug,170,0,True
+20221228,4110,ch,fribourg,587,0,True
 20221228,4112,ch,basel_stadt,311,0,True
+20221228,4113,ch,basel_landschaft,321,0,True
 20221228,4114,ch,schaffhausen,137,0,True
 20221228,4120,ch,thurgau,728,0,True
 20221228,4121,ch,ticino,1307,1,True
@@ -864,6 +891,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20221227,4101,ch,zurich,1890,0,True
 20221227,4106,ch,obwalden,64,0,True
 20221227,4109,ch,zug,170,0,True
+20221227,4110,ch,fribourg,587,0,True
 20221227,4112,ch,basel_stadt,311,0,True
 20221227,4113,ch,basel_landschaft,321,0,True
 20221227,4114,ch,schaffhausen,137,0,True
