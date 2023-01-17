@@ -1,4 +1,5 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
+20230117,4101,ch,zurich,1890,0,True
 20230117,4112,ch,basel_stadt,315,1,True
 20230116,386,si,slovenia,8942,0,False
 20230116,386011,si,pomurska,733,0,True
@@ -13,8 +14,11 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230116,386022,si,gorenjska,730,0,True
 20230116,386023,si,goriska,507,0,True
 20230116,386024,si,obalno_kraska,378,0,True
+20230116,4101,ch,zurich,1890,0,True
 20230116,4111,ch,solothurn,381,0,True
 20230116,4112,ch,basel_stadt,314,0,True
+20230116,4113,ch,basel_landschaft,323,0,True
+20230116,4117,ch,st_gallen,875,0,True
 20230116,4124,ch,neuchatel,495,0,True
 20230116,423,li,liechtenstein,88,0,True
 20230116,43,at,austria,21576,0,False
@@ -40,6 +44,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230115,386022,si,gorenjska,730,0,True
 20230115,386023,si,goriska,507,0,True
 20230115,386024,si,obalno_kraska,378,0,True
+20230115,4101,ch,zurich,1890,0,True
+20230115,4113,ch,basel_landschaft,323,0,True
 20230115,4124,ch,neuchatel,495,0,True
 20230115,423,li,liechtenstein,88,0,True
 20230115,43,at,austria,21576,2,False
@@ -65,6 +71,8 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230114,386022,si,gorenjska,730,0,True
 20230114,386023,si,goriska,507,0,True
 20230114,386024,si,obalno_kraska,378,0,True
+20230114,4101,ch,zurich,1890,0,True
+20230114,4113,ch,basel_landschaft,323,0,True
 20230114,4124,ch,neuchatel,495,0,True
 20230114,423,li,liechtenstein,88,0,True
 20230114,43,at,austria,21574,4,False
@@ -90,7 +98,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230113,386022,si,gorenjska,730,0,True
 20230113,386023,si,goriska,507,0,True
 20230113,386024,si,obalno_kraska,378,0,True
+20230113,4101,ch,zurich,1890,0,True
 20230113,4112,ch,basel_stadt,314,0,True
+20230113,4113,ch,basel_landschaft,323,0,True
 20230113,4124,ch,neuchatel,495,0,True
 20230113,423,li,liechtenstein,88,0,True
 20230113,43,at,austria,21570,5,False
@@ -138,8 +148,10 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230112,3946,it,calabria,3257,3,True
 20230112,3951,it,sicilia,12511,5,True
 20230112,3952,it,sardegna,2879,2,True
+20230112,4101,ch,zurich,1890,0,True
 20230112,4111,ch,solothurn,381,2,True
 20230112,4112,ch,basel_stadt,314,0,True
+20230112,4113,ch,basel_landschaft,323,0,True
 20230112,4124,ch,neuchatel,495,0,True
 20230112,423,li,liechtenstein,88,0,True
 20230112,43,at,austria,21565,7,False
@@ -187,7 +199,9 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230111,3946,it,calabria,3254,7,True
 20230111,3951,it,sicilia,12506,5,True
 20230111,3952,it,sardegna,2877,1,True
+20230111,4101,ch,zurich,1890,0,True
 20230111,4112,ch,basel_stadt,314,0,True
+20230111,4113,ch,basel_landschaft,323,0,True
 20230111,4121,ch,ticino,1320,1,True
 20230111,4124,ch,neuchatel,495,0,True
 20230111,423,li,liechtenstein,88,0,True
@@ -239,6 +253,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230110,4101,ch,zurich,1890,0,True
 20230110,4107,ch,nidwalden,41,0,True
 20230110,4112,ch,basel_stadt,314,0,True
+20230110,4113,ch,basel_landschaft,323,0,True
 20230110,4121,ch,ticino,1319,1,True
 20230110,4124,ch,neuchatel,495,0,True
 20230110,423,li,liechtenstein,88,0,True
