@@ -1,4 +1,6 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
+20230118,4111,ch,solothurn,4,True
+20230118,4121,ch,ticino,58,True
 20230117,386011,si,pomurska,2,True
 20230117,386012,si,podravska,14,True
 20230117,386013,si,koroska,0,True
@@ -11,6 +13,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230117,4101,ch,zurich,56,True
 20230117,4112,ch,basel_stadt,14,True
 20230117,4117,ch,st_gallen,8,True
+20230117,4121,ch,ticino,59,True
 20230117,43,at,austria,808,False
 20230117,4301,at,wien,199,True
 20230117,4302,at,niederosterreich,208,True
@@ -33,6 +36,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230116,4111,ch,solothurn,5,True
 20230116,4112,ch,basel_stadt,18,True
 20230116,4117,ch,st_gallen,8,True
+20230116,4121,ch,ticino,67,True
 20230116,4124,ch,neuchatel,21,True
 20230116,423,li,liechtenstein,0,True
 20230116,43,at,austria,815,False
@@ -102,6 +106,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230113,4101,ch,zurich,60,True
 20230113,4112,ch,basel_stadt,25,True
 20230113,4117,ch,st_gallen,11,True
+20230113,4121,ch,ticino,59,True
 20230113,4124,ch,neuchatel,19,True
 20230113,423,li,liechtenstein,0,True
 20230113,43,at,austria,871,False
@@ -150,6 +155,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230112,4112,ch,basel_stadt,35,True
 20230112,4114,ch,schaffhausen,7,True
 20230112,4117,ch,st_gallen,8,True
+20230112,4121,ch,ticino,72,True
 20230112,4124,ch,neuchatel,21,True
 20230112,423,li,liechtenstein,0,True
 20230112,43,at,austria,905,False
