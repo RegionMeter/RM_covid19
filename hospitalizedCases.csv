@@ -1,4 +1,6 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
+20230214,4101,ch,zurich,41,True
+20230214,4117,ch,st_gallen,11,True
 20230214,4125,ch,geneve,43,True
 20230214,43,at,austria,914,False
 20230214,4301,at,wien,187,True
@@ -17,7 +19,9 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230213,386017,si,jugovzhodna_slovenija,3,True
 20230213,386021,si,osrednjeslovenska,15,True
 20230213,386022,si,gorenjska,0,True
+20230213,4101,ch,zurich,43,True
 20230213,4111,ch,solothurn,4,True
+20230213,4117,ch,st_gallen,9,True
 20230213,4124,ch,neuchatel,8,True
 20230213,4125,ch,geneve,44,True
 20230213,423,li,liechtenstein,0,True
@@ -38,6 +42,8 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230212,386017,si,jugovzhodna_slovenija,3,True
 20230212,386021,si,osrednjeslovenska,13,True
 20230212,386022,si,gorenjska,0,True
+20230212,4101,ch,zurich,45,True
+20230212,4117,ch,st_gallen,7,True
 20230212,4124,ch,neuchatel,8,True
 20230212,4125,ch,geneve,42,True
 20230212,423,li,liechtenstein,0,True
@@ -58,6 +64,8 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230211,386017,si,jugovzhodna_slovenija,3,True
 20230211,386021,si,osrednjeslovenska,13,True
 20230211,386022,si,gorenjska,0,True
+20230211,4101,ch,zurich,41,True
+20230211,4117,ch,st_gallen,7,True
 20230211,4124,ch,neuchatel,8,True
 20230211,4125,ch,geneve,40,True
 20230211,423,li,liechtenstein,0,True
@@ -78,9 +86,11 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230210,386017,si,jugovzhodna_slovenija,3,True
 20230210,386021,si,osrednjeslovenska,17,True
 20230210,386022,si,gorenjska,0,True
+20230210,4101,ch,zurich,42,True
 20230210,4107,ch,nidwalden,0,True
 20230210,4111,ch,solothurn,5,True
 20230210,4112,ch,basel_stadt,19,True
+20230210,4117,ch,st_gallen,7,True
 20230210,4124,ch,neuchatel,8,True
 20230210,4125,ch,geneve,42,True
 20230210,423,li,liechtenstein,0,True
@@ -123,7 +133,9 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230209,3946,it,calabria,122,True
 20230209,3951,it,sicilia,357,True
 20230209,3952,it,sardegna,156,True
+20230209,4101,ch,zurich,39,True
 20230209,4111,ch,solothurn,4,True
+20230209,4117,ch,st_gallen,11,True
 20230209,4124,ch,neuchatel,12,True
 20230209,4125,ch,geneve,44,True
 20230209,423,li,liechtenstein,1,True
@@ -166,7 +178,9 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230208,3946,it,calabria,129,True
 20230208,3951,it,sicilia,365,True
 20230208,3952,it,sardegna,156,True
+20230208,4101,ch,zurich,46,True
 20230208,4111,ch,solothurn,3,True
+20230208,4117,ch,st_gallen,9,True
 20230208,4124,ch,neuchatel,10,True
 20230208,4125,ch,geneve,45,True
 20230208,423,li,liechtenstein,1,True
