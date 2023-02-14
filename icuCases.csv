@@ -6,6 +6,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230214,386022,si,gorenjska,0,True
 20230214,386023,si,goriska,0,True
 20230214,4101,ch,zurich,2,True
+20230214,4112,ch,basel_stadt,1,True
+20230214,4113,ch,basel_landschaft,0,True
 20230214,4117,ch,st_gallen,2,True
 20230214,4125,ch,geneve,1,True
 20230214,43,at,austria,42,False
@@ -26,6 +28,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230213,386023,si,goriska,0,True
 20230213,4101,ch,zurich,5,True
 20230213,4111,ch,solothurn,1,True
+20230213,4113,ch,basel_landschaft,0,True
 20230213,4117,ch,st_gallen,2,True
 20230213,4124,ch,neuchatel,0,True
 20230213,4125,ch,geneve,1,True
@@ -46,6 +49,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230212,386022,si,gorenjska,0,True
 20230212,386023,si,goriska,0,True
 20230212,4101,ch,zurich,6,True
+20230212,4113,ch,basel_landschaft,1,True
 20230212,4117,ch,st_gallen,2,True
 20230212,4124,ch,neuchatel,0,True
 20230212,4125,ch,geneve,1,True
@@ -66,6 +70,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230211,386022,si,gorenjska,0,True
 20230211,386023,si,goriska,0,True
 20230211,4101,ch,zurich,6,True
+20230211,4113,ch,basel_landschaft,1,True
 20230211,4117,ch,st_gallen,2,True
 20230211,4124,ch,neuchatel,0,True
 20230211,4125,ch,geneve,0,True
@@ -89,6 +94,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230210,4107,ch,nidwalden,0,True
 20230210,4111,ch,solothurn,1,True
 20230210,4112,ch,basel_stadt,0,True
+20230210,4113,ch,basel_landschaft,0,True
 20230210,4117,ch,st_gallen,2,True
 20230210,4124,ch,neuchatel,0,True
 20230210,4125,ch,geneve,0,True
@@ -132,6 +138,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230209,3952,it,sardegna,2,True
 20230209,4101,ch,zurich,6,True
 20230209,4111,ch,solothurn,1,True
+20230209,4113,ch,basel_landschaft,0,True
 20230209,4117,ch,st_gallen,3,True
 20230209,4124,ch,neuchatel,0,True
 20230209,4125,ch,geneve,0,True
@@ -175,6 +182,7 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230208,3952,it,sardegna,2,True
 20230208,4101,ch,zurich,4,True
 20230208,4111,ch,solothurn,1,True
+20230208,4113,ch,basel_landschaft,0,True
 20230208,4117,ch,st_gallen,2,True
 20230208,4124,ch,neuchatel,0,True
 20230208,4125,ch,geneve,1,True
