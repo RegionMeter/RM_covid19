@@ -17,6 +17,16 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230214,4101,ch,zurich,1890,0,True
 20230214,4112,ch,basel_stadt,315,0,True
 20230214,4125,ch,geneve,953,0,True
+20230214,43,at,austria,21796,0,False
+20230214,4301,at,wien,4618,0,True
+20230214,4302,at,niederosterreich,4365,0,True
+20230214,4303,at,oberosterreich,3513,0,True
+20230214,4304,at,steiermark,3566,0,True
+20230214,4305,at,tirol,1463,0,True
+20230214,4306,at,karnten,1720,0,True
+20230214,4307,at,salzburg,1234,0,True
+20230214,4308,at,vorarlberg,682,0,True
+20230214,4309,at,burgenland,635,0,True
 20230213,386,si,slovenia,9088,0,False
 20230213,386011,si,pomurska,750,0,True
 20230213,386012,si,podravska,1841,0,True
@@ -36,7 +46,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230213,4124,ch,neuchatel,495,0,True
 20230213,4125,ch,geneve,953,0,True
 20230213,423,li,liechtenstein,89,0,True
-20230213,43,at,austria,21795,0,False
+20230213,43,at,austria,21796,0,False
 20230213,4301,at,wien,4618,0,True
 20230213,4302,at,niederosterreich,4365,0,True
 20230213,4303,at,oberosterreich,3513,0,True
@@ -45,7 +55,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230213,4306,at,karnten,1720,0,True
 20230213,4307,at,salzburg,1234,0,True
 20230213,4308,at,vorarlberg,682,0,True
-20230213,4309,at,burgenland,634,0,True
+20230213,4309,at,burgenland,635,0,True
 20230212,386,si,slovenia,9088,0,False
 20230212,386011,si,pomurska,750,0,True
 20230212,386012,si,podravska,1841,0,True
@@ -63,7 +73,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230212,4124,ch,neuchatel,495,0,True
 20230212,4125,ch,geneve,953,0,True
 20230212,423,li,liechtenstein,89,0,True
-20230212,43,at,austria,21795,2,False
+20230212,43,at,austria,21796,3,False
 20230212,4301,at,wien,4618,1,True
 20230212,4302,at,niederosterreich,4365,0,True
 20230212,4303,at,oberosterreich,3513,1,True
@@ -72,7 +82,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230212,4306,at,karnten,1720,0,True
 20230212,4307,at,salzburg,1234,0,True
 20230212,4308,at,vorarlberg,682,0,True
-20230212,4309,at,burgenland,634,0,True
+20230212,4309,at,burgenland,635,1,True
 20230211,386,si,slovenia,9088,0,False
 20230211,386011,si,pomurska,750,0,True
 20230211,386012,si,podravska,1841,0,True
