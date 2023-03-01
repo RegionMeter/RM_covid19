@@ -1,4 +1,6 @@
 dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
+20230301,4121,ch,ticino,64,True
+20230301,4125,ch,geneve,45,True
 20230228,386011,si,pomurska,1,True
 20230228,386012,si,podravska,6,True
 20230228,386013,si,koroska,0,True
@@ -11,6 +13,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230228,4112,ch,basel_stadt,28,True
 20230228,4113,ch,basel_landschaft,14,True
 20230228,4117,ch,st_gallen,12,True
+20230228,4121,ch,ticino,59,True
 20230228,4125,ch,geneve,47,True
 20230228,43,at,austria,1496,False
 20230228,4301,at,wien,260,True
@@ -33,6 +36,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230227,4111,ch,solothurn,15,True
 20230227,4113,ch,basel_landschaft,14,True
 20230227,4117,ch,st_gallen,12,True
+20230227,4121,ch,ticino,58,True
 20230227,4125,ch,geneve,55,True
 20230227,423,li,liechtenstein,3,True
 20230227,43,at,austria,1485,False
@@ -101,6 +105,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230224,4112,ch,basel_stadt,16,True
 20230224,4113,ch,basel_landschaft,14,True
 20230224,4117,ch,st_gallen,12,True
+20230224,4121,ch,ticino,39,True
 20230224,4125,ch,geneve,50,True
 20230224,423,li,liechtenstein,1,True
 20230224,43,at,austria,1342,False
@@ -145,6 +150,7 @@ dateId,areaCode,country,areaName,hospitalizedCases,isLeaf
 20230223,4101,ch,zurich,46,True
 20230223,4113,ch,basel_landschaft,16,True
 20230223,4117,ch,st_gallen,11,True
+20230223,4121,ch,ticino,36,True
 20230223,4125,ch,geneve,49,True
 20230223,423,li,liechtenstein,1,True
 20230223,43,at,austria,1362,False
