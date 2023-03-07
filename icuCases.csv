@@ -6,6 +6,9 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230307,386022,si,gorenjska,0,True
 20230307,4101,ch,zurich,4,True
 20230307,4111,ch,solothurn,1,True
+20230307,4112,ch,basel_stadt,2,True
+20230307,4113,ch,basel_landschaft,1,True
+20230307,4117,ch,st_gallen,0,True
 20230307,4125,ch,geneve,1,True
 20230307,43,at,austria,88,False
 20230307,4301,at,wien,15,True
@@ -24,6 +27,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230306,386022,si,gorenjska,0,True
 20230306,4101,ch,zurich,3,True
 20230306,4111,ch,solothurn,1,True
+20230306,4113,ch,basel_landschaft,1,True
+20230306,4117,ch,st_gallen,0,True
 20230306,4124,ch,neuchatel,0,True
 20230306,4125,ch,geneve,1,True
 20230306,43,at,austria,88,False
@@ -42,6 +47,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230305,386021,si,osrednjeslovenska,2,True
 20230305,386022,si,gorenjska,0,True
 20230305,4101,ch,zurich,3,True
+20230305,4113,ch,basel_landschaft,1,True
+20230305,4117,ch,st_gallen,0,True
 20230305,4124,ch,neuchatel,0,True
 20230305,4125,ch,geneve,1,True
 20230305,43,at,austria,72,False
@@ -60,6 +67,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230304,386021,si,osrednjeslovenska,2,True
 20230304,386022,si,gorenjska,0,True
 20230304,4101,ch,zurich,3,True
+20230304,4113,ch,basel_landschaft,2,True
+20230304,4117,ch,st_gallen,0,True
 20230304,4124,ch,neuchatel,0,True
 20230304,4125,ch,geneve,1,True
 20230304,43,at,austria,72,False
@@ -79,6 +88,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230303,386022,si,gorenjska,0,True
 20230303,4101,ch,zurich,3,True
 20230303,4111,ch,solothurn,2,True
+20230303,4113,ch,basel_landschaft,1,True
+20230303,4117,ch,st_gallen,0,True
 20230303,4124,ch,neuchatel,0,True
 20230303,4125,ch,geneve,1,True
 20230303,43,at,austria,72,False
@@ -121,6 +132,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230302,4101,ch,zurich,1,True
 20230302,4111,ch,solothurn,2,True
 20230302,4112,ch,basel_stadt,0,True
+20230302,4113,ch,basel_landschaft,2,True
+20230302,4117,ch,st_gallen,0,True
 20230302,4124,ch,neuchatel,0,True
 20230302,4125,ch,geneve,1,True
 20230302,43,at,austria,81,False
@@ -162,6 +175,8 @@ dateId,areaCode,country,areaName,icuCases,isLeaf
 20230301,3952,it,sardegna,9,True
 20230301,4101,ch,zurich,2,True
 20230301,4111,ch,solothurn,2,True
+20230301,4113,ch,basel_landschaft,1,True
+20230301,4117,ch,st_gallen,0,True
 20230301,4121,ch,ticino,3,True
 20230301,4124,ch,neuchatel,0,True
 20230301,4125,ch,geneve,1,True
