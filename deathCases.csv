@@ -1,5 +1,6 @@
 dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230306,4111,ch,solothurn,381,0,True
+20230306,4124,ch,neuchatel,495,0,True
 20230306,4125,ch,geneve,953,0,True
 20230305,386,si,slovenia,9125,0,False
 20230305,386011,si,pomurska,754,0,True
@@ -14,6 +15,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230305,386022,si,gorenjska,747,0,True
 20230305,386023,si,goriska,516,0,True
 20230305,386024,si,obalno_kraska,386,0,True
+20230305,4124,ch,neuchatel,495,0,True
 20230305,4125,ch,geneve,953,0,True
 20230305,43,at,austria,21923,0,False
 20230305,4301,at,wien,4651,0,True
@@ -38,6 +40,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230304,386022,si,gorenjska,747,0,True
 20230304,386023,si,goriska,516,0,True
 20230304,386024,si,obalno_kraska,386,0,True
+20230304,4124,ch,neuchatel,495,0,True
 20230304,4125,ch,geneve,953,0,True
 20230304,43,at,austria,21923,1,False
 20230304,4301,at,wien,4651,0,True
@@ -63,6 +66,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230303,386023,si,goriska,516,0,True
 20230303,386024,si,obalno_kraska,386,0,True
 20230303,4111,ch,solothurn,381,0,True
+20230303,4124,ch,neuchatel,495,0,True
 20230303,4125,ch,geneve,953,0,True
 20230303,43,at,austria,21922,2,False
 20230303,4301,at,wien,4651,0,True
@@ -111,6 +115,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230302,3952,it,sardegna,2923,1,True
 20230302,4111,ch,solothurn,381,0,True
 20230302,4112,ch,basel_stadt,315,0,True
+20230302,4124,ch,neuchatel,495,0,True
 20230302,4125,ch,geneve,953,0,True
 20230302,423,li,liechtenstein,89,0,True
 20230302,43,at,austria,21920,3,False
@@ -160,6 +165,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230301,3952,it,sardegna,2922,0,True
 20230301,4111,ch,solothurn,381,0,True
 20230301,4121,ch,ticino,1332,1,True
+20230301,4124,ch,neuchatel,495,0,True
 20230301,4125,ch,geneve,953,0,True
 20230301,423,li,liechtenstein,89,0,True
 20230301,43,at,austria,21917,9,False
@@ -211,6 +217,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230228,4111,ch,solothurn,381,0,True
 20230228,4112,ch,basel_stadt,315,0,True
 20230228,4121,ch,ticino,1331,0,True
+20230228,4124,ch,neuchatel,495,0,True
 20230228,4125,ch,geneve,953,0,True
 20230228,423,li,liechtenstein,89,0,True
 20230228,43,at,austria,21908,3,False
@@ -262,6 +269,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230227,4111,ch,solothurn,381,0,True
 20230227,4117,ch,st_gallen,875,0,True
 20230227,4121,ch,ticino,1331,2,True
+20230227,4124,ch,neuchatel,495,0,True
 20230227,4125,ch,geneve,953,0,True
 20230227,423,li,liechtenstein,89,0,True
 20230227,43,at,austria,21905,5,False
@@ -310,6 +318,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230226,3951,it,sicilia,12684,3,True
 20230226,3952,it,sardegna,2922,0,True
 20230226,4101,ch,zurich,1890,0,True
+20230226,4124,ch,neuchatel,495,0,True
 20230226,4125,ch,geneve,953,0,True
 20230226,423,li,liechtenstein,89,0,True
 20230226,43,at,austria,21900,6,False
@@ -358,6 +367,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230225,3951,it,sicilia,12681,4,True
 20230225,3952,it,sardegna,2922,0,True
 20230225,4101,ch,zurich,1890,0,True
+20230225,4124,ch,neuchatel,495,0,True
 20230225,4125,ch,geneve,953,0,True
 20230225,423,li,liechtenstein,89,0,True
 20230225,43,at,austria,21894,4,False
@@ -409,6 +419,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230224,4111,ch,solothurn,381,0,True
 20230224,4112,ch,basel_stadt,315,0,True
 20230224,4121,ch,ticino,1329,1,True
+20230224,4124,ch,neuchatel,495,0,True
 20230224,4125,ch,geneve,953,0,True
 20230224,423,li,liechtenstein,89,0,True
 20230224,43,at,austria,21890,7,False
@@ -458,6 +469,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230223,3952,it,sardegna,2922,0,True
 20230223,4101,ch,zurich,1890,0,True
 20230223,4121,ch,ticino,1328,0,True
+20230223,4124,ch,neuchatel,495,0,True
 20230223,4125,ch,geneve,953,0,True
 20230223,423,li,liechtenstein,89,0,True
 20230223,43,at,austria,21883,11,False
@@ -508,6 +520,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230222,4101,ch,zurich,1890,0,True
 20230222,4111,ch,solothurn,381,0,True
 20230222,4121,ch,ticino,1328,0,True
+20230222,4124,ch,neuchatel,495,0,True
 20230222,4125,ch,geneve,953,0,True
 20230222,423,li,liechtenstein,89,0,True
 20230222,43,at,austria,21872,8,False
@@ -559,6 +572,7 @@ dateId,areaCode,country,areaName,deathCases,deathDailyCases,isLeaf
 20230221,4111,ch,solothurn,381,0,True
 20230221,4112,ch,basel_stadt,315,0,True
 20230221,4121,ch,ticino,1328,0,True
+20230221,4124,ch,neuchatel,495,0,True
 20230221,4125,ch,geneve,953,0,True
 20230221,423,li,liechtenstein,89,0,True
 20230221,43,at,austria,21864,5,False
